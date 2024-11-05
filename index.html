@@ -17,7 +17,20 @@
             <div class="input-group">
                 <input type="text" id="courseCode" placeholder="Enter course code (e.g., AHIS-101)" required>
                 <button id="searchBtn">Search</button>
+        <div class="checkbox-group">
+            <h3>Term</h3>
+            <label><input type="checkbox" class="term-checkbox" value="Summer"> Summer</label>
+            <label><input type="checkbox" class="term-checkbox" value="Winter"> Winter</label>
+            <label><input type="checkbox" class="term-checkbox" value="Fall"> Fall</label>
+            <label><input type="checkbox" class="term-checkbox" value="Spring"> Spring</label>
+
+            <h3>Year</h3>
+            <label><input type="checkbox" class="year-checkbox" value="2022"> 2022</label>
+            <label><input type="checkbox" class="year-checkbox" value="2023"> 2023</label>
+            <label><input type="checkbox" class="year-checkbox" value="2024"> 2024</label>
+        </div>
             </div>
+
             <div class="suggestions" id="suggestions"></div>
             <pre id="output" class="output"></pre>
         </main>

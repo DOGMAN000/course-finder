@@ -43,23 +43,9 @@ function showSuggestions(suggestions) {
                 <span>${suggestion}</span>
                 <span class="percentage-a" style="background-color: ${color};">${percentageA}%</span>
             `; // Append percentage of A's with dynamic color
-            div.onclick = () => selectSuggestion(suggestion); // Select suggestion on click
             suggestionsContainer.appendChild(div);
         });
     } else {
         suggestionsContainer.style.display = 'none'; // Hide if no suggestions
     }
 }
-
-function selectSuggestion(suggestion) {
-    courseInput.value = suggestion; // Populate input with selected suggestion
-    suggestionsContainer.style.display = 'none'; // Hide suggestions
-}
-
-document.getElementById('searchBtn').addEventListener('click', function() {
-    const courseCode = courseInput.value.trim().toUpperCase(); // Convert course code to uppercase
-    const filteredResults = data.filter(line => line.startsWith(courseCode));
-    const output = filteredResults.length > 0 ? filteredResults.join('\n') : 'No results found.';
-    document.getElementById('output').textContent = output;
-    suggestionsContainer.style.display = 'none'; // Hide suggestions after search
-});

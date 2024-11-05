@@ -3,41 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Easy Class Finder</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Course Finder</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1>Easy Class Finder</h1>
-            <p>Enter your course name to find the easiest classes!</p>
-            <p>The colored percentage is the amount of people who got an A</p>
-        </header>
-        <main>
-            <div class="input-group">
-                <input type="text" id="courseCode" placeholder="Enter course code (e.g., AHIS-101)" required>
-                <button id="searchBtn">Search</button>
+        <h1>Course Finder</h1>
+        <input type="text" id="courseCode" placeholder="Enter course name">
+        <button id="searchBtn">Search</button>
+
+        <!-- Term and Year Checkboxes Container -->
         <div class="checkbox-group">
-            <h3>Term</h3>
-            <label><input type="checkbox" class="term-checkbox" value="Summer"> Summer</label>
-            <label><input type="checkbox" class="term-checkbox" value="Winter"> Winter</label>
-            <label><input type="checkbox" class="term-checkbox" value="Fall"> Fall</label>
-            <label><input type="checkbox" class="term-checkbox" value="Spring"> Spring</label>
-
-            <h3>Year</h3>
-            <label><input type="checkbox" class="year-checkbox" value="2022"> 2021-2022</label>
-            <label><input type="checkbox" class="year-checkbox" value="2023"> 2022-2023</label>
-            <label><input type="checkbox" class="year-checkbox" value="2024"> 2023-2024</label>
-        </div>
+            <div class="term-group">
+                <h3>Term</h3>
+                <label><input type="checkbox" class="term-checkbox" value="summer"> Summer</label>
+                <label><input type="checkbox" class="term-checkbox" value="winter"> Winter</label>
+                <label><input type="checkbox" class="term-checkbox" value="fall"> Fall</label>
+                <label><input type="checkbox" class="term-checkbox" value="spring"> Spring</label>
             </div>
+            <div class="year-group">
+                <h3>Year</h3>
+                <label><input type="checkbox" class="year-checkbox" value="2022"> 2022</label>
+                <label><input type="checkbox" class="year-checkbox" value="2023"> 2023</label>
+                <label><input type="checkbox" class="year-checkbox" value="2024"> 2024</label>
+            </div>
+        </div>
 
-            <div class="suggestions" id="suggestions"></div>
-            <pre id="output" class="output"></pre>
-        </main>
-        <footer>
-            <p>&copy; 2024 Easy Class Finder. All rights reserved.</p>
-        </footer>
+        <div id="suggestions"></div>
+        <pre id="output"></pre>
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>

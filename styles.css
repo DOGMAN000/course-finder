@@ -7,6 +7,11 @@ body {
     background-color: #f4f4f9;
 }
 
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
 
 header {
     text-align: center;
@@ -78,53 +83,16 @@ footer {
     margin-top: 20px;
     color: #777;
 }
+/* styles.css */
 
+/* styles.css */
 
 /* Style for the percentage of A's box */
 .percentage-a {
+    background-color: #5cb85c; /* Green background */
     color: white;
     padding: 5px 10px;
     border-radius: 5px;
     margin-left: 10px; /* Space between the class name and the percentage */
-    font-weight: bold;
-}
-
-
-.container {
-    width: 50%;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-}
-
-.checkbox-group {
-    display: flex;
-    flex-direction: column;
-    margin-top: 10px;
-}
-
-.checkbox-group h3 {
-    margin: 10px 0 5px;
-}
-
-.checkbox-group label {
-    display: inline-block;
-    margin-right: 10px;
-    font-size: 14px;
-}
-
-.suggestion-item {
-    margin-top: 10px;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.percentage-a {
-    padding: 5px 10px;
-    border-radius: 5px;
     font-weight: bold;
 }

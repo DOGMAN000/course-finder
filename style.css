@@ -83,3 +83,13 @@ footer {
     margin-top: 20px;
     color: #777;
 }
+/* styles.css */
+
+.num-as {
+    background-color: #5cb85c; /* Green background */
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 10px; /* Space between the class name and the number of A's */
+    font-weight: bold;
+}

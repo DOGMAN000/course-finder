@@ -17,7 +17,7 @@ const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
 
 courseInput.addEventListener('input', function() {
-    const input = courseInput.value.trim();
+    const input = courseInput.value.trim().toUpperCase(); // Convert input to uppercase
     filteredData = data.filter(line => line.startsWith(input));
     showSuggestions(filteredData);
 });
@@ -28,8 +28,12 @@ function showSuggestions(suggestions) {
         suggestionsContainer.style.display = 'block'; // Show suggestions
         suggestions.forEach(suggestion => {
             const div = document.createElement('div');
-            div.textContent = suggestion;
+            const numAs = suggestion.split(' ')[suggestion.split(' ').length - 9]; // Get the number of A's (8th last element)
             div.className = 'suggestion-item';
+            div.innerHTML = `
+                <span class="num-as">${numAs}</span>
+                <span>${suggestion}</span>
+            `; // Append number of A's
             div.onclick = () => selectSuggestion(suggestion); // Select suggestion on click
             suggestionsContainer.appendChild(div);
         });
@@ -44,43 +48,9 @@ function selectSuggestion(suggestion) {
 }
 
 document.getElementById('searchBtn').addEventListener('click', function() {
-    const courseCode = courseInput.value.trim();
+    const courseCode = courseInput.value.trim().toUpperCase(); // Convert course code to uppercase
     const filteredResults = data.filter(line => line.startsWith(courseCode));
     const output = filteredResults.length > 0 ? filteredResults.join('\n') : 'No results found.';
     document.getElementById('output').textContent = output;
     suggestionsContainer.style.display = 'none'; // Hide suggestions after search
-});
-/*
-  This is your site JavaScript code - you can add interactivity!
-*/
-
-// Print a message in the browser's dev tools console each time the page loads
-// Use your menus or right-click / control-click and choose "Inspect" > "Console"
-console.log("Hello 🌎");
-
-/* 
-Make the "Click me!" button move when the visitor clicks it:
-- First add the button to the page by following the steps in the TODO 🚧
-*/
-const btn = document.querySelector("button"); // Get the button from the page
-if (btn) { // Detect clicks on the button
-  btn.onclick = function () {
-    // The 'dipped' class in style.css changes the appearance on click
-    btn.classList.toggle("dipped");
-  };
-}
-
-
-// ----- GLITCH STARTER PROJECT HELPER CODE -----
-
-// Open file when the link in the preview is clicked
-let goto = (file, line) => {
-  window.parent.postMessage(
-    { type: "glitch/go-to-line", payload: { filePath: file, line: line } }, "*"
-  );
-};
-// Get the file opening button from its class name
-const filer = document.querySelectorAll(".fileopener");
-filer.forEach((f) => {
-  f.onclick = () => { goto(f.dataset.file, f.dataset.line); };
 });

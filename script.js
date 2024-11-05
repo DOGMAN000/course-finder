@@ -22,18 +22,27 @@ courseInput.addEventListener('input', function() {
     showSuggestions(filteredData);
 });
 
+function getColorForPercentage(percentage) {
+    // Calculate the RGB values based on the percentage
+    const red = Math.round((100 - percentage) * 2.55); // Red increases as percentage decreases
+    const green = Math.round(percentage * 2.55); // Green increases as percentage increases
+    return `rgb(${red}, ${green}, 0)`; // Return the RGB color
+}
+
 function showSuggestions(suggestions) {
     suggestionsContainer.innerHTML = ''; // Clear previous suggestions
     if (suggestions.length > 0) {
         suggestionsContainer.style.display = 'block'; // Show suggestions
         suggestions.forEach(suggestion => {
+            const parts = suggestion.split(' ');
+            const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2); // Calculate percentage of A's
+            const color = getColorForPercentage(percentageA); // Get color for the percentage
             const div = document.createElement('div');
-            const numAs = suggestion.split(' ')[suggestion.split(' ').length - 9]; // Get the number of A's (8th last element)
             div.className = 'suggestion-item';
             div.innerHTML = `
-                <span class="num-as">${numAs}</span>
                 <span>${suggestion}</span>
-            `; // Append number of A's
+                <span class="percentage-a" style="background-color: ${color};">${percentageA}%</span>
+            `; // Append percentage of A's with dynamic color
             div.onclick = () => selectSuggestion(suggestion); // Select suggestion on click
             suggestionsContainer.appendChild(div);
         });

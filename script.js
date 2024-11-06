@@ -40,8 +40,6 @@ function updateSuggestions() {
         for (let j =0; j<years.length; j++){
           for (let k=0; k<terms.length; k++){
             if (urls[i].includes(years[j])&&urls[i].includes(terms[k])){
-              console.log(years[j])
-              console.log(terms[j])
               filteredData[index] = data[index].filter(line => line.startsWith(input));
               index++
               }

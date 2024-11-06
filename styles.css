@@ -92,8 +92,12 @@ footer {
 .percentage-a {
     background-color: #5cb85c; /* Green background */
     color: white;
-    padding: 5px 10px;
+    padding: 2px 2px;
     border-radius: 5px;
     margin-left: 10px; /* Space between the class name and the percentage */
     font-weight: bold;
+}
+.checkbox-group{
+    display: flex;
+    gap: 4rem;
 }

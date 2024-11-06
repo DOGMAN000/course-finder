@@ -11,7 +11,7 @@
         <h1>Course Finder</h1>
         <input type="text" id="courseCode" placeholder="Enter course name ex:AHIS-101">
         <button id="searchBtn">Search</button>
-
+  
         <!-- Term and Year Checkboxes Container -->
         <div class="checkbox-group">
             <div class="term-group" id="terms">
@@ -27,6 +27,7 @@
                 <label><input type="checkbox" class="year-checkbox" value="2023"> 2023</label>
                 <label><input type="checkbox" class="year-checkbox" value="2024"> 2024</label>
             </div>
+            <input type="range" id="volume" name="volume" min="0" max="100" value="50">
         </div>
 
         <div id="suggestions"></div>

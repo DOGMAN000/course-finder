@@ -36,7 +36,6 @@ function getColorForPercentage(percentage) {
 
 function showSuggestions(suggestions) {
     suggestionsContainer.innerHTML = ''; // Clear previous suggestions
-  console.log(suggestions);
   for(let x=0; x<suggestions.length; x++){
     if (suggestions[x].length > 0) {
         suggestionsContainer.style.display = 'block'; // Show suggestions

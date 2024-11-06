@@ -21,7 +21,7 @@ const suggestionsContainer = document.getElementById('suggestions');
 courseInput.addEventListener('input', function() {
     const input = courseInput.value.trim().toUpperCase();
     
-    filteredData = data.filter(line => line.startsWith(input));
+    filteredData = data[0].filter(line => line.startsWith(input));
     showSuggestions(filteredData);
 });
 

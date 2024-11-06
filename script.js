@@ -21,8 +21,8 @@ const suggestionsContainer = document.getElementById('suggestions');
 
 courseInput.addEventListener('input', function() {
     const input = courseInput.value.trim().toUpperCase();
-    for (let i=0; i<urls.length; i++){
-      filteredData.push(data[i].filter(line => line.startsWith(input)));
+    for (let i = 0; i < urls.length; i++) {
+        filteredData[i] = data[i].filter(line => line.startsWith(input));
     }
     showSuggestions(filteredData);
 });

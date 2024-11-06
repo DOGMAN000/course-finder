@@ -5,15 +5,16 @@ let filteredData = []; // Store filtered results for suggestions
 let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt']
 // Fetch the data from data.txt
 
-fetch('data/summer2024.txt')
+for (let i = 0; i<urls.length(); i++){
+  fetch('data/summer2024.txt')
     .then(response => response.text())
     .then(text => {
-        data = text.split(/\r?\n/); // Split into lines
+        data[i] = text.split(/\r?\n/); // Split into lines
     })
     .catch(error => {
         console.error('Error fetching data:', error);
     });
-
+}
 const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
 

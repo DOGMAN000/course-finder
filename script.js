@@ -25,15 +25,15 @@ function updateSuggestions() {
     let terms = [];
     const input = courseInput.value.trim().toUpperCase();
     for (const child of termsList.children) {
-      const input = child.querySelector('input[type="checkbox"]');
-      if (input && input.checked){
-        terms.push(input.value)
+      const checkbox = child.querySelector('input[type="checkbox"]');
+      if (checkbox && checkbox.checked){
+        terms.push(checkbox.value)
       }
     }
     for (const child of yearsList.children) {
-      const input = child.querySelector('input[type="checkbox"]');
-      if (input && input.checked){
-        years.push(input.value)
+      const checkbox = child.querySelector('input[type="checkbox"]');
+      if (checkbox && checkbox.checked){
+        years.push(checkbox.value)
       }
     }
     for (let i = 0; i < urls.length; i++) {
@@ -52,11 +52,13 @@ function updateSuggestions() {
 courseInput.addEventListener('input', updateSuggestions);
 for (const child of termsList.children) {
       const input = child.querySelector('input[type="checkbox"]');
-      
-    }
+      if (input)
+      input.addEventListener('change', updateSuggestions);
+}
 for (const child of yearsList.children) {
       const input = child.querySelector('input[type="checkbox"]');
-      
+      if (input)
+      input.addEventListener('change', updateSuggestions);
 }
 function getColorForPercentage(percentage) {
     // Calculate the RGB values based on the percentage
@@ -66,7 +68,8 @@ function getColorForPercentage(percentage) {
 }
 
 function showSuggestions(suggestions) {
-    suggestionsContainer.innerHTML = ''; // Clear previous suggestions
+  suggestionsContainer.innerHTML = ''; // Clear previous suggestions
+  console.log(suggestions)
   for(let x=0; x<suggestions.length; x++){
     if (suggestions[x].length > 0) {
         suggestionsContainer.style.display = 'block'; // Show suggestions

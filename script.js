@@ -2,7 +2,7 @@
 
 let data = [];
 let filteredData = []; // Store filtered results for suggestions
-
+let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt']
 // Fetch the data from data.txt
 
 fetch('data/summer2024.txt')

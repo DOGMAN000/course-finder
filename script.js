@@ -20,34 +20,44 @@ const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
 const yearsList = document.getElementById("years");
-
-courseInput.addEventListener('input', function() {
+function updateSuggestions() {
     let years = [];
     let terms = [];
     const input = courseInput.value.trim().toUpperCase();
     for (const child of termsList.children) {
-      if (child.checked){
-        terms.push(child.value)
+      const input = child.querySelector('input[type="checkbox"]');
+      if (input && input.checked){
+        terms.push(input.value)
       }
     }
     for (const child of yearsList.children) {
-      if (child.checked){
-        years.push(child.value)
+      const input = child.querySelector('input[type="checkbox"]');
+      if (input && input.checked){
+        years.push(input.value)
       }
     }
     for (let i = 0; i < urls.length; i++) {
         for (let j =0; j<years.length; j++){
           for (let k=0; k<terms.length; k++){
-            if (urls[i].includes(years[j])&&urls[i].includes(terms[k]))
+            if (urls[i].includes(years[j])&&urls[i].includes(terms[k])){
               console.log(years[j])
               console.log(terms[j])
               filteredData[i] = data[i].filter(line => line.startsWith(input));
+              }
           }
         }
     }
     showSuggestions(filteredData);
-});
-
+}
+courseInput.addEventListener('input', updateSuggestions);
+for (const child of termsList.children) {
+      const input = child.querySelector('input[type="checkbox"]');
+      
+    }
+for (const child of yearsList.children) {
+      const input = child.querySelector('input[type="checkbox"]');
+      
+}
 function getColorForPercentage(percentage) {
     // Calculate the RGB values based on the percentage
     const red = Math.round((100 - percentage) * 2.55); // Red increases as percentage decreases

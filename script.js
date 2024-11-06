@@ -1,15 +1,13 @@
 // script.js
 
 let data = [];
-let filteredData = []; // Store filtered results for suggestions
 let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt']
-// Fetch the data from data.txt
 
 for (let i = 0; i<urls.length; i++){
   fetch(urls[i])
     .then(response => response.text())
     .then(text => {
-        data[i] = text.split(/\r?\n/); // Split into lines
+        data[i] = text.split(/\r?\n/); 
     })
     .catch(error => {
         console.error('Error fetching data:', error);
@@ -21,7 +19,7 @@ const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
 const yearsList = document.getElementById("years");
 function updateSuggestions() {
-    filteredData = [];
+    let filteredData = [];
     let years = [];
     let terms = [];
     const input = courseInput.value.trim().toUpperCase();
@@ -71,25 +69,25 @@ function getColorForPercentage(percentage) {
 }
 
 function showSuggestions(suggestions) {
-  suggestionsContainer.innerHTML = ''; // Clear previous suggestions
+  suggestionsContainer.innerHTML = '';
   console.log(suggestions)
   for(let x=0; x<suggestions.length; x++){
     if (suggestions[x].length > 0) {
-        suggestionsContainer.style.display = 'block'; // Show suggestions
+        suggestionsContainer.style.display = 'block';
         suggestions[x].forEach(suggestion => {
             const parts = suggestion.split(' ');
             const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2); // Calculate percentage of A's
-            const color = getColorForPercentage(percentageA); // Get color for the percentage
+            const color = getColorForPercentage(percentageA);
             const div = document.createElement('div');
             div.className = 'suggestion-item';
             div.innerHTML = `
                 <span>${suggestion}</span>
                 <span class="percentage-a" style="background-color: ${color};">${percentageA}%</span>
-            `; // Append percentage of A's with dynamic color
+            `;
             suggestionsContainer.appendChild(div);
         });
     } else {
-        suggestionsContainer.style.display = 'none'; // Hide if no suggestions
+        suggestionsContainer.style.display = 'none';
     }
   }
 }

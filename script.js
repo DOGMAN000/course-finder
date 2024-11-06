@@ -4,7 +4,8 @@ let data = [];
 let filteredData = []; // Store filtered results for suggestions
 
 // Fetch the data from data.txt
-fetch('data.txt')
+
+fetch('data/summer2024.txt')
     .then(response => response.text())
     .then(text => {
         data = text.split(/\r?\n/); // Split into lines

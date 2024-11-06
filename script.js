@@ -5,7 +5,7 @@ let filteredData = []; // Store filtered results for suggestions
 let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt']
 // Fetch the data from data.txt
 
-for (let i = 0; i<urls.length(); i++){
+for (let i = 0; i<urls.length; i++){
   fetch(urls[i])
     .then(response => response.text())
     .then(text => {
@@ -21,6 +21,9 @@ const suggestionsContainer = document.getElementById('suggestions');
 courseInput.addEventListener('input', function() {
     const input = courseInput.value.trim().toUpperCase();
     
+    for (let i=0; i<urls.length; i++){
+      
+    }
     filteredData = data[0].filter(line => line.startsWith(input));
     showSuggestions(filteredData);
 });

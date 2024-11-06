@@ -35,6 +35,7 @@ input[type="text"] {
     border-radius: 5px;
     flex: 1;
     margin-right: 10px;
+    width:40%;
 }
 
 button {

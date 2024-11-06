@@ -6,7 +6,7 @@ let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','dat
 // Fetch the data from data.txt
 
 for (let i = 0; i<urls.length(); i++){
-  fetch('data/summer2024.txt')
+  fetch(urls[i])
     .then(response => response.text())
     .then(text => {
         data[i] = text.split(/\r?\n/); // Split into lines
@@ -19,7 +19,8 @@ const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
 
 courseInput.addEventListener('input', function() {
-    const input = courseInput.value.trim().toUpperCase(); // Convert input to uppercase
+    const input = courseInput.value.trim().toUpperCase();
+    
     filteredData = data.filter(line => line.startsWith(input));
     showSuggestions(filteredData);
 });

@@ -15,13 +15,14 @@ for (let i = 0; i<urls.length; i++){
         console.error('Error fetching data:', error);
     });
 }
+console.log(data)
 const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
 
 courseInput.addEventListener('input', function() {
     const input = courseInput.value.trim().toUpperCase();
     for (let i=0; i<urls.length; i++){
-        filteredData += data[i].filter(line => line.startsWith(input));
+      filteredData.push(data[i].filter(line => line.startsWith(input)));
     }
     showSuggestions(filteredData);
 });
@@ -35,9 +36,11 @@ function getColorForPercentage(percentage) {
 
 function showSuggestions(suggestions) {
     suggestionsContainer.innerHTML = ''; // Clear previous suggestions
-    if (suggestions.length > 0) {
+  console.log(suggestions);
+  for(let x=0; x<suggestions.length; x++){
+    if (suggestions[x].length > 0) {
         suggestionsContainer.style.display = 'block'; // Show suggestions
-        suggestions.forEach(suggestion => {
+        suggestions[x].forEach(suggestion => {
             const parts = suggestion.split(' ');
             const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2); // Calculate percentage of A's
             const color = getColorForPercentage(percentageA); // Get color for the percentage
@@ -52,4 +55,5 @@ function showSuggestions(suggestions) {
     } else {
         suggestionsContainer.style.display = 'none'; // Hide if no suggestions
     }
+  }
 }

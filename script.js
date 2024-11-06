@@ -21,6 +21,7 @@ const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
 const yearsList = document.getElementById("years");
 function updateSuggestions() {
+    filteredData = [];
     let years = [];
     let terms = [];
     const input = courseInput.value.trim().toUpperCase();
@@ -36,13 +37,15 @@ function updateSuggestions() {
         years.push(checkbox.value)
       }
     }
+    let index = 0;
     for (let i = 0; i < urls.length; i++) {
         for (let j =0; j<years.length; j++){
           for (let k=0; k<terms.length; k++){
             if (urls[i].includes(years[j])&&urls[i].includes(terms[k])){
               console.log(years[j])
               console.log(terms[j])
-              filteredData[i] = data[i].filter(line => line.startsWith(input));
+              filteredData[index] = data[index].filter(line => line.startsWith(input));
+              index++
               }
           }
         }

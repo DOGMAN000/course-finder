@@ -18,9 +18,13 @@ for (let i = 0; i<urls.length; i++){
 console.log(data)
 const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
+const termsList = document.getElementById("terms");
 
 courseInput.addEventListener('input', function() {
     const input = courseInput.value.trim().toUpperCase();
+    for (const child of termsList.children) {
+      termsList.
+    }
     for (let i = 0; i < urls.length; i++) {
         filteredData[i] = data[i].filter(line => line.startsWith(input));
     }

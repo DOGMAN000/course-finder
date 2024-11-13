@@ -101,3 +101,8 @@ footer {
     display: flex;
     gap: 4rem;
 }
+
+#percentage{
+  width:20px;
+  height:1px;
+}

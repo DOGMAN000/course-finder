@@ -18,6 +18,7 @@ const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
 const yearsList = document.getElementById("years");
+const percentageFilter = document.getElementById("percentage");
 function updateSuggestions() {
     let filteredData = [];
     let years = [];
@@ -49,6 +50,7 @@ function updateSuggestions() {
     showSuggestions(filteredData);
 }
 courseInput.addEventListener('input', updateSuggestions);
+percentageFilter.addEventListener('input', updateSuggestions);
 for (const child of termsList.children) {
       const input = child.querySelector('input[type="checkbox"]');
       if (input)
@@ -74,7 +76,8 @@ function showSuggestions(suggestions) {
         suggestionsContainer.style.display = 'block';
         suggestions[x].forEach(suggestion => {
             const parts = suggestion.split(' ');
-            const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2); // Calculate percentage of A's
+            const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2);
+            if (!percentageFilter.value || percentageA)
             const color = getColorForPercentage(percentageA);
             const div = document.createElement('div');
             div.className = 'suggestion-item';

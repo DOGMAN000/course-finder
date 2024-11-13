@@ -77,7 +77,8 @@ function showSuggestions(suggestions) {
         suggestions[x].forEach(suggestion => {
             const parts = suggestion.split(' ');
             const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2);
-            if (!percentageFilter.value || percentageA > )
+            if (!percentageFilter.value || percentageA > percentageFilter.value) {
+              console.log(percentageA)
             const color = getColorForPercentage(percentageA);
             const div = document.createElement('div');
             div.className = 'suggestion-item';
@@ -86,6 +87,8 @@ function showSuggestions(suggestions) {
                 <span class="percentage-a" style="background-color: ${color};">${percentageA}%</span>
             `;
             suggestionsContainer.appendChild(div);
+            }
+
         });
     } else {
         suggestionsContainer.style.display = 'none';

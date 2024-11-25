@@ -41,6 +41,7 @@ function updateSuggestions() {
         for (let j =0; j<years.length; j++){
           for (let k=0; k<terms.length; k++){
             if (urls[i].includes(years[j])&&urls[i].includes(terms[k])){
+              console.log(urls[i])
               filteredData[index] = data[index].filter(line => line.startsWith(input));
               index++
               }
@@ -77,9 +78,7 @@ function showSuggestions(suggestions) {
         suggestions[x].forEach(suggestion => {
             const parts = suggestion.split(' ');
             const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2);
-            if (!percentageFilter.value || percentageA > (percentageFilter.value)) {
-              console.log(percentageA, percentageFilter.value)
-              console.log(percentageFilter.value)
+            if (!percentageFilter.value || percentageA > Number(percentageFilter.value)) {
             const color = getColorForPercentage(percentageA);
             const div = document.createElement('div');
             div.className = 'suggestion-item';

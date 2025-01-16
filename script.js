@@ -19,6 +19,8 @@ const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
 const yearsList = document.getElementById("years");
 const percentageFilter = document.getElementById("percentage");
+const honorsFilter = document.getElementById("honors");
+
 function updateSuggestions() {
     let filteredData = [];
     let years = [];

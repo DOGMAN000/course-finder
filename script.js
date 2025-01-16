@@ -90,7 +90,6 @@ function showSuggestions(suggestions) {
             `;
             suggestionsContainer.appendChild(div);
             }
-
         });
     } else {
         suggestionsContainer.style.display = 'none';

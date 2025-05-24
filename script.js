@@ -38,6 +38,8 @@ function updateSuggestions() {
         years.push(checkbox.value)
       }
     }
+    console.log(years);
+    console.log(terms);
     let index = 0;
     for (let i = 0; i < urls.length; i++) {
         for (let j =0; j<years.length; j++){
@@ -45,6 +47,7 @@ function updateSuggestions() {
             if (urls[i].includes(years[j])&&urls[i].includes(terms[k])){
               console.log(urls[i])
               filteredData[index] = data[index].filter(line => line.startsWith(input));
+              console.log(filteredData);
               index++
               }
           }

@@ -1,7 +1,7 @@
 // script.js
 
 let data = [];
-let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt']
+let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt','data/fall2025.txt']
 
 for (let i = 0; i<urls.length; i++){
   fetch(urls[i])

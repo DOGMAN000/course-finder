@@ -111,9 +111,13 @@ function showSuggestions(suggestions) {
                 if (!percentageFilter.value || percentageA > Number(percentageFilter.value)) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
+                    let name = parts[1] + " " + parts[2]
+                    if (parts.length==15){
+                      name = parts[1] + " " + parts[2] + " " + parts[3]
+                    }
                     row.innerHTML = `
                         <td>${parts[0]}</td>
-                        <td>${parts[1] + " " + parts[2]}</td>
+                        <td>${name}</td>
                         <td>${parts[parts.length - 12]}</td>
                         <td>${parts[parts.length - 11]}</td>
                         <td>${parts[parts.length - 10]}</td>  

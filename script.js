@@ -96,7 +96,7 @@ function showSuggestions(suggestions) {
         <th>F</th>
         <th>INP</th>
         <th>W</th>
-        <th>total</th>
+        <th>Total</th>
         <th>A%</th>
     </tr>`;
     table.appendChild(thead);
@@ -112,7 +112,7 @@ function showSuggestions(suggestions) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
                     let name = parts[1] + " " + parts[2]
-                    if (parts.length==15){
+                    if (parts.length==16){
                       name = parts[1] + " " + parts[2] + " " + parts[3]
                     }
                     row.innerHTML = `

@@ -83,8 +83,21 @@ function showSuggestions(suggestions) {
 
     let thead = document.createElement('thead');
     thead.innerHTML = `<tr>
-        <th>Course Info</th>
-        <th>% A</th>
+        <th>Course</th>
+        <th>Name</th>
+        <th>Meth</th>
+        <th>Succ%</th>
+        <th>Compl%</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>IPP</th>
+        <th>D</th>
+        <th>F</th>
+        <th>INP</th>
+        <th>W</th>
+        <th>total</th>
+        <th>A%</th>
     </tr>`;
     table.appendChild(thead);
 
@@ -99,7 +112,20 @@ function showSuggestions(suggestions) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
                     row.innerHTML = `
-                        <td>${suggestion}</td>
+                        <td>${parts[0]}</td>
+                        <td>${parts[1] + " " + parts[2]}</td>
+                        <td>${parts[parts.length - 12]}</td>
+                        <td>${parts[parts.length - 11]}</td>
+                        <td>${parts[parts.length - 10]}</td>  
+                        <td>${parts[parts.length - 9]}</td>                        
+                        <td>${parts[parts.length - 8]}</td>
+                        <td>${parts[parts.length - 7]}</td>
+                        <td>${parts[parts.length - 6]}</td>
+                        <td>${parts[parts.length - 5]}</td>
+                        <td>${parts[parts.length - 4]}</td>
+                        <td>${parts[parts.length - 3]}</td>
+                        <td>${parts[parts.length - 2]}</td>
+                        <td>${parts[parts.length - 1]}</td>
                         <td style="color: ${color}; font-weight: bold;">${percentageA}%</td>
                     `;
                     tbody.appendChild(row);

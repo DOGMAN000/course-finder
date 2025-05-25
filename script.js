@@ -115,7 +115,9 @@ function showSuggestions(suggestions) {
                     if (parts.length>=16){
                       name = parts[1] + " " + parts[2] + " " + parts[3]
                     }
-                    if (parts[1])
+                    if (!parts[1]){
+                    }
+                    else{
                     row.innerHTML = `
                         <td>${parts[0]}</td>
                         <td>${name}</td>
@@ -134,6 +136,7 @@ function showSuggestions(suggestions) {
                         <td style="color: ${color}; font-weight: bold;">${percentageA}%</td>
                     `;
                     tbody.appendChild(row);
+                  }
                 }
             });
         }

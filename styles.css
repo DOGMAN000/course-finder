@@ -1,108 +1,138 @@
-/* styles.css */
-
+/* Dark background and neon aesthetic */
 body {
-    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #0d0b1e;
+    color: #e0e0ff;
 }
 
+/* Container with soft glass + glow */
 .container {
     max-width: 800px;
-    margin: auto;
-    padding: 20px;
+    margin: 50px auto;
+    padding: 30px;
+    background: rgba(25, 20, 45, 0.6);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 30px #8e44ff60;
+    border: 1px solid #8e44ff33;
 }
 
-header {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
+/* Heading glow */
 h1 {
-    color: #333;
+    color: #d6b2ff;
+    text-shadow: 0 0 10px #8e44ff, 0 0 20px #8e44ff70;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
-.input-group {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-}
-
-input[type="text"] {
-    padding: 10px;
+/* Input and button styling */
+input[type="text"],
+input[type="number"] {
+    padding: 12px;
     font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    flex: 1;
-    margin-right: 10px;
-    width:40%;
+    border-radius: 8px;
+    border: 1px solid #8e44ff60;
+    background-color: #1a142f;
+    color: #fff;
+    outline: none;
+    box-shadow: 0 0 5px #8e44ff50;
+    margin-bottom: 10px;
+}
+
+input[type="text"]::placeholder {
+    color: #aaaaaa;
 }
 
 button {
-    padding: 10px 15px;
-    font-size: 16px;
-    background-color: #5cb85c;
+    padding: 12px 20px;
+    background-color: #8e44ff;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 0 10px #8e44ff80, 0 0 20px #8e44ff40;
+    transition: transform 0.2s ease;
 }
 
 button:hover {
-    background-color: #4cae4c;
+    transform: scale(1.05);
+    box-shadow: 0 0 15px #9b59b6cc, 0 0 30px #9b59b688;
 }
 
-.suggestions {
-    position: relative;
-    margin-top: -10px;
-}
-
-.suggestion-item {
-    padding: 8px;
-    background-color: white;
-    border: 1px solid #ccc;
-    cursor: pointer;
-    margin: 0;
-}
-
-.suggestion-item:hover {
-    background-color: #f0f0f0;
-}
-
-.output {
-    background-color: #fff;
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 5px;
-    white-space: pre-wrap; /* Preserve line breaks */
-    max-height: 200px;
-    overflow-y: auto;
-}
-
-footer {
-    text-align: center;
+/* Output box */
+pre#output {
+    background: #1f1a3a;
+    color: #e0e0ff;
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px solid #8e44ff50;
     margin-top: 20px;
-    color: #777;
+    box-shadow: 0 0 10px #8e44ff40;
 }
-/* styles.css */
 
-/* styles.css */
-
-/* Style for the percentage of A's box */
-.percentage-a {
-    background-color: #5cb85c; /* Green background */
-    color: white;
-    padding: 2px 2px;
-    border-radius: 5px;
-    margin-left: 10px; /* Space between the class name and the percentage */
-    font-weight: bold;
-}
-.checkbox-group{
+/* Checkbox group layout */
+.checkbox-group {
     display: flex;
-    gap: 4rem;
+    gap: 3rem;
+    flex-wrap: wrap;
+    margin-top: 20px;
 }
 
-#percentage{
-  width:40px;
-  height:20px;
+.checkbox-group h3 {
+    color: #d6b2ff;
+    margin-bottom: 10px;
 }
+
+label {
+    display: block;
+    margin-bottom: 6px;
+    cursor: pointer;
+}
+
+/* Checkbox glow */
+input[type="checkbox"] {
+    accent-color: #8e44ff;
+    transform: scale(1.2);
+}
+
+/* Percentage input */
+#percentage {
+    width: 60px;
+    margin-top: 6px;
+}
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: rgba(30, 20, 60, 0.7);
+    backdrop-filter: blur(5px);
+    border-radius: 12px;
+    overflow-x: auto;
+    box-shadow: 0 0 15px #8e44ff55;
+}
+
+.results-table th,
+.results-table td {
+    padding: 10px;
+    border-bottom: 1px solid #8e44ff22;
+    color: #e0e0ff;
+    font-size: 14px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.results-table th {
+    background: rgba(70, 30, 110, 0.6);
+    color: #f3d9ff;
+    text-shadow: 0 0 5px #8e44ffcc;
+}
+
+.results-table tr:hover {
+    background: rgba(100, 50, 150, 0.2);
+}
+
+
+

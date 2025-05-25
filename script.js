@@ -75,27 +75,39 @@ function getColorForPercentage(percentage) {
 }
 
 function showSuggestions(suggestions) {
-  suggestionsContainer.innerHTML = '';
-  console.log(suggestions)
-  for(let x=0; x<suggestions.length; x++){
-    if (suggestions[x].length > 0) {
-        suggestionsContainer.style.display = 'block';
-        suggestions[x].forEach(suggestion => {
-            const parts = suggestion.split(' ');
-            const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2);
-            if (!percentageFilter.value || percentageA > Number(percentageFilter.value)) {
-            const color = getColorForPercentage(percentageA);
-            const div = document.createElement('div');
-            div.className = 'suggestion-item';
-            div.innerHTML = `
-                <span>${suggestion}</span>
-                <span class="percentage-a" style="background-color: ${color};">${percentageA}%</span>
-            `;
-            suggestionsContainer.appendChild(div);
-            }
-        });
-    } else {
-        suggestionsContainer.style.display = 'none';
+    suggestionsContainer.innerHTML = '';
+
+    // Build table structure
+    let table = document.createElement('table');
+    table.className = 'results-table';
+
+    let thead = document.createElement('thead');
+    thead.innerHTML = `<tr>
+        <th>Course Info</th>
+        <th>% A</th>
+    </tr>`;
+    table.appendChild(thead);
+
+    let tbody = document.createElement('tbody');
+
+    for (let x = 0; x < suggestions.length; x++) {
+        if (suggestions[x].length > 0) {
+            suggestions[x].forEach(suggestion => {
+                const parts = suggestion.split(' ');
+                const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2);
+                if (!percentageFilter.value || percentageA > Number(percentageFilter.value)) {
+                    const row = document.createElement('tr');
+                    const color = getColorForPercentage(percentageA);
+                    row.innerHTML = `
+                        <td>${suggestion}</td>
+                        <td style="color: ${color}; font-weight: bold;">${percentageA}%</td>
+                    `;
+                    tbody.appendChild(row);
+                }
+            });
+        }
     }
-  }
+
+    table.appendChild(tbody);
+    suggestionsContainer.appendChild(table);
 }

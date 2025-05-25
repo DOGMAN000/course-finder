@@ -1,47 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Course Finder</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Course Finder</title>
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <div class="container">
-        <h1>Course Finder</h1>
-        <input type="text" id="courseCode" placeholder="Enter course name ex:AHIS-101">
-        <button id="searchBtn">Search</button>
-  
-        <!-- Term and Year Checkboxes Container -->
-        <div class="checkbox-group">
-            <div class="term-group" id="terms">
-                <h3>Term</h3>
-                <label><input type="checkbox" class="term-checkbox" value="summer" id="summer" checked> Summer</label>
-                <label><input type="checkbox" class="term-checkbox" value="winter" id = "winter" checked> Winter</label>
-                <label><input type="checkbox" class="term-checkbox" value="fall" id = "fall" checked> Fall</label>
-                <label><input type="checkbox" class="term-checkbox" value="spring" id = "spring" checked> Spring</label>
-            </div>
-            <div class="year-group" id="years">
-                <h3>Year</h3>
-                <label><input type="checkbox" class="year-checkbox" value="2022"> 2022</label>
-                <label><input type="checkbox" class="year-checkbox" value="2023"> 2023</label>
-                <label><input type="checkbox" class="year-checkbox" value="2024"> 2024</label>
-                <label><input type="checkbox" class="year-checkbox" value="2025" checked> 2025</label>
-            </div>
-            <div class="year-group" id="Honors">
-                <h3>Honors</h3>
-                <label><input type="checkbox" class="year-group" value="honors" id ="honors"></label>
-            </div>
-            <div class ="percentage-group" id="percents">
-              <h3>Percentage</h3>
-            <input type="number" min="0" max="99" step="1" id="percentage">
-          </div>
-        </div>
-        
-        <div id="suggestions"></div>
-        <pre id="output"></pre>
+<body class="bg-base-200 min-h-screen p-6">
+  <div class="max-w-2xl mx-auto bg-base-100 p-6 rounded-2xl shadow-md">
+    <h1 class="text-3xl font-bold mb-4 text-center">Course Finder</h1>
+
+    <div class="form-control mb-4">
+      <label class="label">
+        <span class="label-text">Course Code</span>
+      </label>
+      <input type="text" id="courseCode" placeholder="Ex: AHIS-101" class="input input-bordered w-full" />
     </div>
 
-    <script src="script.js"></script>
+    <div class="mb-6 text-center">
+      <button id="searchBtn" class="btn btn-primary w-full">Search</button>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+      <!-- Term Checkboxes -->
+      <div>
+        <h3 class="font-semibold mb-2">Term</h3>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox term-checkbox" value="summer" id="summer" checked /> <span class="label-text ml-2">Summer</span></label></div>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox term-checkbox" value="winter" id="winter" checked /> <span class="label-text ml-2">Winter</span></label></div>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox term-checkbox" value="fall" id="fall" checked /> <span class="label-text ml-2">Fall</span></label></div>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox term-checkbox" value="spring" id="spring" checked /> <span class="label-text ml-2">Spring</span></label></div>
+      </div>
+
+      <!-- Year Checkboxes -->
+      <div>
+        <h3 class="font-semibold mb-2">Year</h3>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox year-checkbox" value="2022" /> <span class="label-text ml-2">2022</span></label></div>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox year-checkbox" value="2023" /> <span class="label-text ml-2">2023</span></label></div>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox year-checkbox" value="2024" /> <span class="label-text ml-2">2024</span></label></div>
+        <div class="form-control"><label class="label cursor-pointer"><input type="checkbox" class="checkbox year-checkbox" value="2025" checked /> <span class="label-text ml-2">2025</span></label></div>
+      </div>
+    </div>
+
+    <!-- Honors & Percentage -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+      <div>
+        <h3 class="font-semibold mb-2">Honors</h3>
+        <label class="label cursor-pointer">
+          <input type="checkbox" id="honors" value="honors" class="checkbox" />
+          <span class="label-text ml-2">Only show honors courses</span>
+        </label>
+      </div>
+
+      <div>
+        <h3 class="font-semibold mb-2">Minimum Percentage</h3>
+        <input type="number" min="0" max="99" step="1" id="percentage" class="input input-bordered w-full" placeholder="Ex: 75" />
+      </div>
+    </div>
+
+    <!-- Output -->
+    <div id="suggestions" class="mb-4"></div>
+    <pre id="output" class="bg-gray-100 p-4 rounded-md overflow-x-auto text-sm"></pre>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>

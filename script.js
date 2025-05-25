@@ -112,9 +112,10 @@ function showSuggestions(suggestions) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
                     let name = parts[1] + " " + parts[2]
-                    if (parts.length==16){
+                    if (parts.length>=16){
                       name = parts[1] + " " + parts[2] + " " + parts[3]
                     }
+                    if (parts[1])
                     row.innerHTML = `
                         <td>${parts[0]}</td>
                         <td>${name}</td>

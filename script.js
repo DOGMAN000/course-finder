@@ -135,5 +135,9 @@ function showSuggestions(suggestions) {
     }
 
     table.appendChild(tbody);
-    suggestionsContainer.appendChild(table);
+    const wrapper = document.createElement('div');
+    wrapper.className = 'table-wrapper';
+    wrapper.appendChild(table);
+    suggestionsContainer.appendChild(wrapper);
+
 }

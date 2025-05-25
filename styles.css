@@ -9,9 +9,9 @@ body {
 
 /* Container with soft glass + glow */
 .container {
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 30px;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px 30px;
     background: rgba(25, 20, 45, 0.6);
     border-radius: 16px;
     backdrop-filter: blur(10px);
@@ -21,16 +21,17 @@ body {
 
 /* Heading glow */
 h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
     color: #d6b2ff;
-    text-shadow: 0 0 10px #8e44ff, 0 0 20px #8e44ff70;
     text-align: center;
-    margin-bottom: 30px;
+    text-shadow: 0 0 10px #8e44ff, 0 0 20px #8e44ff70;
 }
 
 /* Input and button styling */
 input[type="text"],
 input[type="number"] {
-    padding: 12px;
+    padding: 10px;
     font-size: 16px;
     border-radius: 8px;
     border: 1px solid #8e44ff60;
@@ -46,7 +47,8 @@ input[type="text"]::placeholder {
 }
 
 button {
-    padding: 12px 20px;
+    padding: 10px 16px;
+    font-size: 16px;
     background-color: #8e44ff;
     color: white;
     border: none;
@@ -76,9 +78,9 @@ pre#output {
 /* Checkbox group layout */
 .checkbox-group {
     display: flex;
-    gap: 3rem;
+    gap: 2rem;
     flex-wrap: wrap;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .checkbox-group h3 {
@@ -103,36 +105,42 @@ input[type="checkbox"] {
     width: 60px;
     margin-top: 6px;
 }
+
+/* Table wrapper */
+.table-wrapper {
+    overflow-x: auto;
+    margin-top: 20px;
+    border-radius: 12px;
+    background: rgba(30, 20, 60, 0.6);
+    padding: 10px;
+    box-shadow: 0 0 15px #8e44ff66;
+}
+
+/* Compact table layout */
 .results-table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px;
-    background: rgba(30, 20, 60, 0.7);
-    backdrop-filter: blur(5px);
-    border-radius: 12px;
-    overflow-x: auto;
-    box-shadow: 0 0 15px #8e44ff55;
+    background: transparent;
 }
 
 .results-table th,
 .results-table td {
-    padding: 10px;
-    border-bottom: 1px solid #8e44ff22;
+    padding: 4px 6px; /* tighter column spacing */
     color: #e0e0ff;
-    font-size: 14px;
     text-align: center;
     white-space: nowrap;
+    border-bottom: 1px solid #8e44ff30;
+    font-size: 13px;
 }
 
 .results-table th {
-    background: rgba(70, 30, 110, 0.6);
+    background: rgba(70, 30, 110, 0.4);
     color: #f3d9ff;
     text-shadow: 0 0 5px #8e44ffcc;
+    position: sticky;
+    top: 0;
 }
 
 .results-table tr:hover {
-    background: rgba(100, 50, 150, 0.2);
+    background: rgba(255, 255, 255, 0.05);
 }
-
-
-

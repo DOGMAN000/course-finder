@@ -111,10 +111,13 @@ function showSuggestions(suggestions) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
                     let name = parts[1] + " " + parts[2]
-                    if (parts.length>=16){
+                    if (parts.length>=18){
                       name = parts[1] + " " + parts[2] + " " + parts[3]
                     }
                     if (!parts[1]){
+                    }
+                    else if (onlineFilter.checked && parts[parts.length - 14] != "ONLIN"){
+                      
                     }
                     else{
                     row.innerHTML =

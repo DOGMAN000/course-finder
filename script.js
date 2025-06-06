@@ -46,7 +46,7 @@ function updateSuggestions() {
           for (let k=0; k<terms.length; k++){
             if (urls[i].includes(years[j])&&urls[i].includes(terms[k])){
               console.log(urls[i])
-              filteredData[index] = data[urls[i]].filter(line => line.startsWith(input))
+              filteredData[index] = data[urls[i]].filter(line => line.startsWith(input));
               console.log(filteredData);
               index++
               }
@@ -114,15 +114,14 @@ function showSuggestions(suggestions) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
                     let name = parts[1] + " " + parts[2]
-                    if (parts.length>=18){
-                      name = parts[3] + " " + parts[4] + " " + parts[5]
+                    if (parts.length>=16){
+                      name = parts[1] + " " + parts[2] + " " + parts[3]
                     }
                     if (!parts[1]){
                     }
                     else{
                     row.innerHTML = `
-                        <td>${parts[0] + parts[1]}</td>
-                        <td>${parts[2]}</td>
+                        <td>${parts[0]}</td>
                         <td>${name}</td>
                         <td>${parts[parts.length - 12]}</td>
                         <td>${parts[parts.length - 11]}</td>

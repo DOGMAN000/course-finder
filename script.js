@@ -19,6 +19,7 @@ const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
 const yearsList = document.getElementById("years");
 const percentageFilter = document.getElementById("percentage");
+const honorsFilter = document.getElementById("honors");
 const onlineFilter = document.getElementById("online");
 
 function updateSuggestions() {
@@ -53,7 +54,9 @@ function updateSuggestions() {
 }
 courseInput.addEventListener('input', updateSuggestions);
 percentageFilter.addEventListener('input', updateSuggestions);
-percentageFilter.addEventListener('input', updateSuggestions);
+onlineFilter.addEventListener('input', updateSuggestions);
+honorsFilter.addEventListener('input', updateSuggestions);
+
 
 for (const child of termsList.children) {
       const input = child.querySelector('input[type="checkbox"]');
@@ -117,6 +120,9 @@ function showSuggestions(suggestions) {
                     if (!parts[1]){
                     }
                     else if (onlineFilter.checked && parts[parts.length - 14] != "ONLIN"){
+                      
+                    }
+                    else if (honorsFilter.checked && parts[0][parts[0].length-1] != "H"){
                       
                     }
                     else{

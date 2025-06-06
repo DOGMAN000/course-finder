@@ -3,16 +3,20 @@
 let data = {}
 let urls = ['data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt','data/fall2025.txt','data/summer2025.txt']
 
-for (let i = 0; i<urls.length; i++){
-  fetch(urls[i])
+Promise.all(urls.map(url =>
+  fetch(url)
     .then(response => response.text())
     .then(text => {
-        data[urls[i]] = text.split(/\r?\n/); 
+      data[url] = text.split(/\r?\n/);
     })
     .catch(error => {
-        console.error('Error fetching data:', error);
-    });
-}
+      console.error('Error fetching data:', error);
+    })
+)).then(() => {
+  console.log('All data loaded');
+  // You could optionally trigger updateSuggestions here if needed
+});
+
 console.log(data)
 const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');

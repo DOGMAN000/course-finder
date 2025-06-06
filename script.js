@@ -12,9 +12,7 @@ Promise.all(urls.map(url =>
     .catch(error => {
       console.error('Error fetching data:', error);
     })
-)).then(() => {
-  // You could optionally trigger updateSuggestions here if needed
-});
+))
 
 const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
@@ -83,6 +81,7 @@ function showSuggestions(suggestions) {
 
     let thead = document.createElement('thead');
     thead.innerHTML = `<tr>
+        <th>Term</th>
         <th>Course</th>
         <th>Name</th>
         <th>Meth</th>
@@ -107,7 +106,7 @@ function showSuggestions(suggestions) {
         if (suggestions[x].length > 0) {
             suggestions[x].forEach(suggestion => {
                 const parts = suggestion.split(' ');
-                const percentageA = ((parseInt(parts[parts.length - 9]) / parseInt(parts[parts.length - 1])) * 100).toFixed(2);
+                const percentageA = ((parseInt(parts[parts.length - 11]) / parseInt(parts[parts.length - 3])) * 100).toFixed(2);
                 if (!percentageFilter.value || percentageA > Number(percentageFilter.value)) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
@@ -118,21 +117,22 @@ function showSuggestions(suggestions) {
                     if (!parts[1]){
                     }
                     else{
-                    row.innerHTML = `
+                    row.innerHTML =
+                        `<td>${parts[parts.length - 2]+ " " + parts[parts.length - 1]}</td>
                         <td>${parts[0]}</td>
                         <td>${name}</td>
-                        <td>${parts[parts.length - 12]}</td>
-                        <td>${parts[parts.length - 11]}</td>
-                        <td>${parts[parts.length - 10]}</td>  
-                        <td>${parts[parts.length - 9]}</td>                        
+                        <td>${parts[parts.length - 14]}</td>
+                        <td>${parts[parts.length - 13]}</td>
+                        <td>${parts[parts.length - 12]}</td>  
+                        <td>${parts[parts.length - 11]}</td>                        
+                        <td>${parts[parts.length - 10]}</td>
+                        <td>${parts[parts.length - 9]}</td>
                         <td>${parts[parts.length - 8]}</td>
                         <td>${parts[parts.length - 7]}</td>
                         <td>${parts[parts.length - 6]}</td>
                         <td>${parts[parts.length - 5]}</td>
                         <td>${parts[parts.length - 4]}</td>
                         <td>${parts[parts.length - 3]}</td>
-                        <td>${parts[parts.length - 2]}</td>
-                        <td>${parts[parts.length - 1]}</td>
                         <td style="color: ${color}; font-weight: bold;">${percentageA}%</td>
                     `;
                     tbody.appendChild(row);

@@ -1,1382 +1,1382 @@
-AHIS-101 Ahmadpour, Alireza HYBRD 52% 90% 11 3 8 - - 10 6 4 42
-AHIS-101 Alamillo, Lucy HYBRD 49% 68% 15 5 3 - 1 8 - 15 47
-AHIS-101 Bronte, Andrea ONLIN 27% 94% 4 2 3 - 1 21 - 2 33
-AHIS-101 Majstorovic, Mina ONLIN 76% 96% 39 8 4 - 1 12 - 3 67
-AHIS-101 Potts, Gretchen ONLIN 61% 100% 10 6 1 - - 11 - - 28
-AHIS-102A Alamillo, Lucy HYBRD 85% 88% 11 7 4 - - 1 - 3 26
-AHIS-102B Beckstead Whitney, Karen HYBRD 51% 82% 9 6 4 1 3 9 - 7 39
-AHIS-102B Russell, Elizabeth ONLIN 82% 95% 24 6 1 - 1 4 - 2 38
-AHIS-102C Ahmadpour, Alireza ONLIN 91% 100% 19 11 2 - - 3 - - 35
-AHIS-207 Ahmadpour, Alireza HYBRD 68% 94% 17 10 5 - 2 5 5 3 47
-AHIS-208H Beckstead Whitney, Karen HYBRD 97% 100% 27 3 - - - - 1 - 31
-AHIS-209 Meyer, Walter ONLIN 49% 98% 18 1 1 - 2 18 - 1 41
-ANTH-1 Desetto, Vincent ONLIN 80% 100% 20 9 3 - 2 6 - - 40
-ANTH-1 Olson, Kirsten ONLIN 100% 100% 29 8 3 - - - - - 40
-ANTH-1 Otero, Rodolfo HYBRD 83% 90% 15 15 3 - 1 2 - 4 40
-ANTH-1 Vigil, Alberto ECC 89% 94% 19 17 11 - - 3 - 3 53
-ANTH-1 Waters, Marianne ONLIN 77% 84% 26 27 20 - 3 4 - 15 95
-ANTH-1 Wong, Billy ONLIN 80% 96% 12 5 3 - 1 3 - 1 25
-ANTH-11 Mannen, Angela HYBRD 53% 78% 6 5 8 - 5 4 - 8 36
-ANTH-11 Otero, Rodolfo ONLIN 65% 78% 14 7 3 - 2 3 - 8 37
-ANTH-1H Waters, Marianne ONLIN 97% 97% 24 4 2 - - - - 1 31
-ANTH-2 Mannen, Angela HYBRD 89% 96% 19 22 8 - 3 1 - 2 55
-ANTH-2 Otero, Rodolfo ECC 95% 98% 41 9 4 - 1 1 - 1 57
-ANTH-2 Vigil, Alberto ONLIN 83% 95% 54 7 8 - - 10 - 4 83
-ANTH-3 Olson, Kirsten ONLIN 80% 100% 8 - - - 1 1 - - 10
-ANTH-3 Stifter, Dianna ECC 89% 100% 15 2 - - - 2 - - 19
-ANTH-4 Waters, Marianne HYBRD 93% 96% 17 7 2 - 1 - - 1 28
-ANTH-5 Waters, Marianne HYBRD 96% 96% 19 5 1 - - - - 1 26
-ANTH-5 White, Kathleen ONLIN 75% 98% 20 13 9 - - 13 - 1 56
-ANTH-5 Wong, Billy ONLIN 95% 100% 12 8 1 - - 1 - - 22
-ANTH-6 Mannen, Angela ONLIN 71% 79% 4 4 2 - - 1 - 3 14
-ASTU-7 Jaaska, Arne ONLIN 47% 95% 22 13 2 - 2 35 - 4 78
-CDEV-103 Jefferis, Janice ONLIN 70% 90% 11 13 4 - 2 6 - 4 40
-CDEV-103 Marano, Mark ONLIN 27% 91% 10 5 6 - 3 47 - 7 78
-CDEV-103 Marquez, Valerie ECC 91% 96% 16 5 - - - 1 - 1 23
-CDEV-103 Moen, Michelle ECC 65% 89% 41 13 10 1 4 20 - 11 100
-CDEV-103 Moutra, Reshon ECC 67% 91% 54 11 6 - 14 11 - 10 106
-CDEV-103 Simon, Monica ONLIN 56% 93% 11 10 3 - 3 13 - 3 43
-CDEV-103 Tatsumi, Carol HSDUL 88% 92% 10 5 8 - 1 - - 2 26
-CDEV-104 Baxter, Susan ONLIN 40% 70% 1 1 2 - 1 2 - 3 10
-CDEV-104 Moutra, Reshon ECC 70% 79% 21 8 1 - 2 2 - 9 43
-CDEV-104 Tharuvai, Shanthi ONLIN 41% 65% 8 3 3 - 3 5 - 12 34
-CDEV-104 Wilson, Brittany ONLIN 75% 87% 36 9 12 - 1 7 1 10 76
-CDEV-106 Jefferis, Janice ONLIN 76% 92% 26 2 1 - 2 4 - 3 38
-CDEV-106 Marquez, Valerie ONLIN 70% 85% 15 5 3 - 2 3 - 5 33
-CDEV-107 Jefferis, Janice ONLIN 84% 96% 25 9 7 - - 6 - 2 49
-CDEV-107 Marquez, Valerie ONLIN 73% 88% 11 4 4 - 1 3 - 3 26
-CDEV-108 Cervantes, Cynthia HYBRD 66% 93% 11 5 2 1 - 6 2 2 29
-CDEV-108 Marano, Mark ONLIN 53% 95% 9 7 5 - 1 14 2 2 40
-CDEV-108 Moen, Michelle ECC 85% 89% 13 5 5 - - 1 - 3 27
-CDEV-110 Moen, Michelle ECC 83% 89% 13 6 10 - - 2 - 4 35
-CDEV-110 Tharuvai, Shanthi ONLIN 44% 63% 3 3 1 - 2 1 - 6 16
-CDEV-112 Cervantes, Cynthia HSDUL 82% 82% 7 2 - - - - - 2 11
-CDEV-114 Cervantes, Cynthia ONLIN 77% 96% 18 10 9 - - 6 3 2 48
-CDEV-114 Moutra, Reshon ECC 90% 93% 19 4 3 - - 1 - 2 29
-CDEV-115 Baxter, Susan ONLIN 79% 81% 35 10 10 - 2 - - 13 70
-CDEV-115 Moutra, Reshon ECC 67% 79% 11 - 5 - 1 2 - 5 24
-CDEV-116 Colchico, Alecsandria ONLIN 85% 96% 46 21 2 - 1 8 - 3 81
-CDEV-119 Moen, Michelle ECC 64% 91% 5 2 - - 1 2 - 1 11
-CDEV-125 Jefferis, Janice ECC 95% 100% 15 4 - - - 1 - - 20
-CDEV-130 Simon, Monica ONLIN 82% 91% 9 6 3 - 1 1 - 2 22
-CDEV-150 Tharuvai, Shanthi ONLIN 57% 62% 8 1 3 - - 1 - 8 21
-CDEV-150 Young, Janet ONLIN 84% 97% 18 7 1 - 1 2 1 1 31
-CDEV-165 Toyoda-Smart, Kumi ONLIN 54% 73% 28 11 3 - 1 12 2 21 78
-COMS-100 Alonso, Lizette ONLIN 56% 100% 4 2 4 - 2 6 - - 18
-COMS-100 Anderson, Julia ECC 70% 81% 38 20 10 - 6 5 - 18 97
-COMS-100 Brodaksilva, Trisha ONLIN 30% 98% 11 2 3 - 3 33 - 1 53
-COMS-100 Crossman, Diana ECC 87% 97% 21 3 2 - 1 2 - 1 30
-COMS-100 Crossman, Mark ONLIN 74% 80% 76 34 12 - 2 8 - 32 164
-COMS-100 Evans, Joseph ONLIN 76% 92% 62 3 6 - 1 14 - 7 93
-COMS-100 Hubble, Brittany ONLIN 48% 78% 12 1 - - 1 7 - 6 27
-COMS-100 Johnson, Lilly ONLIN 13% 51% 5 2 2 - - 27 - 34 70
-COMS-100 Jones, Casey ECC 59% 92% 7 10 5 - 5 7 - 3 37
-COMS-100 Lopez, Rodolfo ECC 61% 84% 3 9 7 - 1 6 - 5 31
-COMS-100 Matos, Julie ONLIN 60% 85% 20 5 3 - 2 10 - 7 47
-COMS-100 Ortega, Valerie HSDUL 94% 97% 25 3 2 - 1 - - 1 32
-COMS-100 Peterson, Elyse ONLIN 48% 85% 2 16 7 - 3 16 - 8 52
-COMS-100 Solomon, Chantel ONLIN 29% 76% 5 9 6 - 1 31 - 16 68
-COMS-100 Taylor, Warren ECC 47% 93% 9 3 2 - 5 9 - 2 30
-COMS-100 Udeorji, Chizoba ONLIN 15% 97% 4 - 2 - 1 31 - 1 39
-COMS-100 Wagner, Helene ONLIN 19% 69% 1 1 1 - - 8 - 5 16
-COMS-100 Wells, Rex ECC 81% 87% 75 58 28 - 2 7 3 27 200
-COMS-120 Bishop, Francesca ECC 67% 87% 10 5 5 - 2 4 - 4 30
-COMS-120 Crossman, Mark ECC 80% 80% 18 4 2 - - - - 6 30
-COMS-120 Evans, Joseph ECC 83% 90% 25 - - - - 2 - 3 30
-COMS-120 Hubble, Brittany ECC 86% 97% 6 16 9 - 1 3 - 1 36
-COMS-130 Crossman, Diana ONLIN 78% 91% 17 16 9 - 4 3 - 5 54
-COMS-130 Davidson, Jason ECC 77% 91% 88 41 15 - 3 23 2 16 188
-COMS-130 Leach, Larry ECC 67% 93% 31 13 4 - 5 14 - 5 72
-COMS-130 Nagano, Daryle ONLIN 73% 77% 8 6 2 - 1 - - 5 22
-COMS-140 Janke, Kelly ECC 100% 100% 46 8 6 - - - - - 60
-COMS-140 Matthews, Julia ONLIN 64% 75% 2 11 5 - 2 1 - 7 28
-COMS-140 Nagano, Daryle ONLIN 83% 89% 22 12 4 - 1 2 - 5 46
-COMS-140 Wagner, Helene ECC 92% 92% 10 10 3 - - - - 2 25
-COMS-250 Crossman, Diana ONLIN 85% 90% 8 5 4 - - 1 - 2 20
-COMS-260 Sadeghi-Tabrizi, Fariba ONLIN 29% 54% 4 8 - - - 10 - 19 41
-COMS-265 Bishop, Francesca ONLIN 68% 92% 20 9 7 - 4 9 - 4 53
-COMS-265 Leach, Larry ECC 72% 89% 8 1 4 - - 3 - 2 18
-COMS-270 Matthews, Julia ONLIN 26% 39% 1 4 1 - 1 2 - 14 23
-COMS-292ABCD Bishop, Francesca ECC 100% 100% 15 - - - - - - - 15
-COMS-293ABCD Evans, Joseph ECC 100% 100% 10 - - - - - - - 10
-COMS-294ABCD Hubble, Brittany ECC 100% 100% 13 - - - - - - - 13
-ECON-1 Nebbia, Gerardo ECC 62% 94% 18 9 2 - - 15 - 3 47
-ECON-1 Carter, Tanja HYBRD 91% 98% 48 27 8 - 4 2 - 2 91
-ECON-1 Fradkin, Michael ONLIN 41% 70% 3 4 4 - 2 6 - 8 27
-ECON-1 Inouye, Minehiro ECC 60% 88% 7 9 10 - 5 7 - 5 43
-ECON-1 Keskinel, Meric ONLIN 79% 92% 16 18 4 - - 6 - 4 48
-ECON-1 Marschall, Brett ONLIN 93% 98% 23 10 5 - 1 1 - 1 41
-ECON-1 Nebbia, Gerardo ECC 76% 96% 18 15 3 1 5 5 - 2 49
-ECON-1 Tahernia, Farshid ECC 52% 89% 6 8 9 - 4 8 4 5 44
-ECON-101H Fradkin, Michael ONLIN 80% 87% 15 5 4 - 2 - - 4 30
-ECON-102 Fradkin, Michael ONLIN 61% 71% 6 4 7 - - 3 - 8 28
-ECON-102 Inouye, Minehiro ECC 68% 92% 5 3 9 - 2 4 - 2 25
-ECON-102 Keskinel, Meric ONLIN 92% 94% 42 39 5 - - 1 - 6 93
-ECON-102 Marschall, Brett ONLIN 94% 96% 54 20 11 - - 1 - 4 90
-EDUC-101 Garvin, Jamie ONLIN 74% 89% 24 7 4 - - 7 - 5 47
-ESTU-1 Arrieta, Jose ONLIN 96% 96% 31 9 5 - - - - 2 47
-ESTU-1 De La O, Ismael HSDUL 70% 78% 11 4 1 - 2 - - 5 23
-ESTU-1 Fraga, Michael ECC 64% 90% 17 6 4 - 1 10 - 4 42
-ESTU-1 Gonzalez, Omar ECC 77% 98% 74 4 1 - - 21 - 2 102
-ESTU-1 Herrera, Raul ONLIN 82% 90% 74 12 3 - 1 8 - 11 109
-ESTU-1 Humphrey, Amina ECC 68% 84% 28 23 10 - 4 11 - 14 90
-ESTU-1 Lopez, Nathan ONLIN 74% 85% 6 14 5 - 4 - - 5 34
-ESTU-1 Munguia, Ricardo ECC 89% 96% 36 4 1 - - 3 - 2 46
-ESTU-1 Rodriguez, Jessica ONLIN 88% 98% 100 4 - - - 12 - 2 118
-ESTU-1 Tanaka, Takahito ECC 91% 97% 32 - - - - 2 - 1 35
-ESTU-3 Herrera, Xocoyotzin ONLIN 83% 98% 36 4 2 1 - 8 - 1 52
-ESTU-5 Herrera, Xocoyotzin HYBRD 80% 95% 29 4 2 - 1 6 - 2 44
-HDEV-1 Aguiar, Emmanuel ONLIN 93% 100% 11 1 1 - - 1 - - 14
-HDEV-1 Castro, Griselda ECC 75% 96% 17 15 11 - 5 7 - 2 57
-HDEV-1 Colbeck, Amanda ONLIN 40% 53% 5 - 1 - - 2 - 7 15
-HDEV-1 Herrschaft, Amy ECC 92% 100% 7 2 2 - 1 - - - 12
-HDEV-1 La Coe, Amy ONLIN 59% 65% 7 - 3 - 1 - - 6 17
-HDEV-1 Liggins, Alanah HSDUL 100% 100% 25 1 - - - - - - 26
-HDEV-1 Lozano, Wendy ECC 81% 100% 13 4 - - 3 1 - - 21
-HDEV-1 La Coe, Amy ONLIN 67% 67% 8 - - - - - - 4 12
-HDEV-1 Liggins, Alanah ECC 72% 97% 15 6 - - 1 6 - 1 29
-HDEV-1 Takahashi, Lauren ONLIN 77% 100% 4 5 1 - - 3 - - 13
-HDEV-1 Wami, Chanae' ONLIN 54% 92% 11 1 2 - 3 7 - 2 26
-HDEV-107 Giourdjian, Paitzar ECC 62% 85% 7 1 - - - 3 - 2 13
-HDEV-1 Barber, Nikki ONLIN 35% 100% 2 5 1 - 4 11 - - 23
-HDEV-1 La Coe, Amy ECC 83% 89% 9 13 8 - 2 - - 4 36
-HDEV-1 Leinen, Sarah ONLIN 63% 63% 2 2 1 - - - - 3 8
-HDEV-1 Miles, Jasmine ECC 65% 88% 10 4 3 - - 6 - 3 26
-HDEV-1 Nguyen, Hatien ONLIN 57% 76% 4 5 3 - - 4 - 5 21
-HDEV-1 Soden, Juli ECC 88% 100% 19 5 4 - 1 3 - - 32
-HDEV-1 Takahashi, Lauren HSDUL 78% 100% 12 4 2 - 1 4 - - 23
-HDEV-1 Torres, Selene ECC 65% 100% 15 4 3 - 5 7 - - 34
-HDEV-1 Wami, Chanae' ONLIN 17% 100% 2 2 1 - 1 24 - - 30
-HDEV-110H Soden, Juli ONLIN 100% 100% 28 1 - - - - - - 29
-HDEV-115 Aguiar, Emmanuel HYBRD 90% 94% 21 5 2 - - 1 - 2 31
-HDEV-115 Colbeck, Amanda ONLIN 58% 77% 13 10 5 - 1 8 - 11 48
-HDEV-115 Nguyen, Hatien ONLIN 72% 85% 24 9 5 - 1 6 - 8 53
-HDEV-115 Shedeed, Viviane ECC 71% 97% 11 7 4 - 3 5 - 1 31
-HDEV-115 Torres, Selene ONLIN 23% 45% 2 2 1 - 1 4 - 12 22
-HIST-101 Chavez, Michelle ECC 56% 95% 14 27 11 - 5 31 - 5 93
-HIST-101 Fraga, Michael ONLIN 64% 64% 3 3 1 - - - - 4 11
-HIST-101 Herrera Thomas, Hong ECC 89% 100% 34 4 3 - 1 4 - - 46
-HIST-101 Jaaska, Arne HSDUL 100% 100% 14 3 4 - - - - - 21
-HIST-101 Pacas, Edgar ONLIN 31% 96% 7 9 1 - 4 32 - 2 55
-HIST-101 Panski, Saul ONLIN 57% 70% 20 7 5 - 2 5 - 17 56
-HIST-101 Resnick, Kirsten ONLIN 44% 61% 16 11 12 - 2 13 - 35 89
-HIST-101 Uribe, Sandra ECC 51% 82% 6 6 11 - 2 12 - 8 45
-HIST-101H Herrera Thomas, Hong ONLIN 97% 100% 30 - - - 1 - - - 31
-HIST-102 Baranski, John HYBRD 54% 91% 12 16 9 - 6 20 - 6 69
-HIST-102 Black, Dustin ONLIN 37% 47% 25 9 15 - 1 12 - 69 131
-HIST-102 Melton, Jamahl ONLIN 38% 49% 7 7 3 - 1 4 - 23 45
-HIST-102 Swendson, Paul ONLIN 57% 93% 11 18 10 - 5 19 - 5 68
-HIST-102 Teal, Orion HYBRD 53% 85% 14 8 3 - 3 12 - 7 47
-HIST-102 Verge, Arthur ECC 94% 98% 59 42 29 - 1 5 - 3 139
-HIST-102 Wishon, Mark ONLIN 46% 92% 7 2 2 - 2 9 - 2 24
-HIST-102H Verge, Arthur ECC 97% 97% 21 5 2 - - - - 1 29
-HIST-105 Uribe, Sandra ECC 54% 90% 9 6 6 - 3 11 - 4 39
-HIST-108 Fraga, Michael ONLIN 85% 100% 9 2 - - - 2 - - 13
-HIST-110 Melton, Jamahl ONLIN 41% 49% 17 10 8 - 2 5 - 43 85
-HIST-110 Sankofa, Jub ECC 88% 97% 23 5 1 - - 3 - 1 33
-HIST-111 Rafi, Muhammad ONLIN 60% 91% 32 13 4 - 1 25 - 7 82
-HIST-111 Sankofa, Jub ECC 67% 90% 18 2 - - - 7 - 3 30
-HIST-112 Arrieta, Jose ONLIN 90% 98% 29 9 - - - 3 - 1 42
-HIST-112 Lopez, Nathan ONLIN 46% 78% 6 10 5 - 2 13 - 10 46
-HIST-114 Herrera Thomas, Hong ONLIN 92% 97% 25 3 6 - - 2 - 1 37
-HIST-122 Arrieta, Jose ONLIN 86% 100% 18 10 3 - - 5 - - 36
-HIST-128 Verge, Arthur ECC 93% 96% 12 8 5 - - 1 - 1 27
-HIST-129 Baranski, John HYBRD 86% 100% 13 10 2 - 1 3 - - 29
-HIST-140 Suarez, Jason ONLIN 87% 97% 14 9 3 - - 3 - 1 30
-HIST-140 Wishon, Mark ONLIN 75% 91% 16 3 5 - - 5 - 3 32
-HIST-141 Teal, Orion ONLIN 69% 90% 22 10 1 - 2 8 - 5 48
-HIST-141 Wishon, Mark ONLIN 27% 100% 2 1 3 - 1 15 - - 22
-HIST-154 Suarez, Jason ONLIN 67% 83% 18 5 1 - 1 5 - 6 36
-HIST-154 Firestone, Randall ECC 68% 82% 3 7 13 - 3 2 - 6 34
-HIST-154 Garcia, Roberto ONLIN 80% 98% 54 20 4 - 2 15 - 2 97
-HIST-154 Leon, Felipe ECC 80% 91% 30 5 2 - - 4 1 4 46
-HIST-154 Ramirez, Melissa ONLIN 40% 98% 12 2 3 - 6 19 - 1 43
-HIST-154 Shever, David ONLIN 56% 96% 16 6 5 - 2 17 - 2 48
-PHIL-101H Firestone, Randall ECC 83% 86% 18 9 2 - 1 - - 5 35
-PHIL-103 Garcia, Roberto ONLIN 78% 93% 4 13 4 - 1 3 - 2 27
-PHIL-103 Leon, Felipe ECC 67% 92% 18 4 2 - - 5 4 3 36
-PHIL-105 Firestone, Randall ECC 64% 79% 3 10 4 1 1 3 - 6 28
-PHIL-105 Ramirez, Melissa ONLIN 83% 96% 19 - 1 - - 3 - 1 24
-PHIL-106 Garcia, Roberto ECC 58% 81% 11 6 4 - 4 4 - 7 36
-PHIL-107 Firestone, Randall ONLIN 27% 35% 4 2 1 - - 2 - 17 26
-PHIL-107 Leon, Felipe ONLIN 15% 81% 2 2 - - 1 12 5 5 27
-PHIL-111 Struble, Luca ONLIN 59% 95% 8 2 1 2 - 7 1 1 22
-PHIL-112 Leon, Felipe ONLIN 72% 93% 18 2 1 - - 4 2 2 29
-PHIL-115 Firestone, Randall ECC 54% 65% 2 11 7 - 1 3 - 13 37
-POLI-1 Casper, Joshua ECC 92% 97% 21 24 9 - 2 1 - 2 59
-POLI-1 Coleman, Ellen ONLIN 44% 53% 8 4 4 - 3 - - 17 36
-POLI-1 Flor, Paul ONLIN 40% 53% 7 4 1 - 1 3 - 14 30
-POLI-1 Gonzales, Steven HSDUL 100% 100% 13 10 - - - - - - 23
-POLI-1 Houske, Laurie ECC 71% 95% 23 21 22 - 8 14 - 5 93
-POLI-1 Jun, Christine ECC 55% 95% 6 8 10 - 3 15 - 2 44
-POLI-1 Klein, Thomas ECC 94% 100% 39 5 3 - 1 2 - - 50
-POLI-1 Munoz, Eduardo ECC 64% 90% 9 22 15 - 3 15 1 7 72
-POLI-1 Muratsuchi, Albert ECC 75% 84% 4 16 4 - 2 1 - 5 32
-POLI-1 Reed, David HYBRD 73% 91% 5 19 8 - 5 3 - 4 44
-POLI-10 Chaney, Van ONLIN 59% 68% 14 5 5 - - 4 - 13 41
-POLI-10 Striepe, Karl ONLIN 30% 96% 12 1 1 - 2 28 - 2 46
-POLI-10H Striepe, Karl ONLIN 81% 92% 22 6 1 - 1 3 - 3 36
-POLI-1H Munoz, Eduardo ONLIN 97% 100% 23 5 - - 1 - - - 29
-POLI-2 Casper, Joshua ECC 93% 93% 10 13 3 - - - - 2 28
-POLI-3 Houske, Laurie ONLIN 90% 92% 25 8 2 - - 1 - 3 39
-POLI-5 Chaney, Van ONLIN 31% 77% 4 3 1 - - 12 - 6 26
-POLI-7 Gonzales, Steven ONLIN 83% 95% 29 1 3 - - 5 - 2 40
-POLI-7 Reed, David HYBRD 55% 74% 9 6 2 - 2 4 - 8 31
-PSYC-101 Atkins, Sharona ONLIN 78% 89% 13 8 8 - - 4 - 4 37
-PSYC-101 Dooley, Kevin ONLIN 66% 87% 27 3 1 - 1 9 - 6 47
-PSYC-101 Duarte, Jennifer ECC 77% 94% 35 2 3 - 5 4 - 3 52
-PSYC-101 Farah, Yara ECC 81% 91% 15 13 15 - 1 4 - 5 53
-PSYC-101 Farias, Julio ECC 83% 98% 36 48 11 - 4 14 - 2 115
-PSYC-101 Foley, Stephanie ECC 85% 92% 20 15 10 - 3 1 - 4 53
-PSYC-101 Galbavy, Renee ONLIN 79% 88% 38 16 14 - 5 3 - 10 86
-PSYC-101 Galvan, Eddie ONLIN 53% 93% 11 7 5 - 4 13 - 3 43
-PSYC-101 Gordon, LaFaune ONLIN 38% 100% 2 3 1 - 1 9 - - 16
-PSYC-101 Green, Donte ECC 87% 97% 17 9 - - 1 2 - 1 30
-PSYC-101 Hall, Angel ECC 72% 89% 51 21 10 - 7 12 - 13 114
-PSYC-101 Huft, Justin ONLIN 10% 82% 2 2 1 - - 36 - 9 50
-PSYC-101 Kato, Lorrie ONLIN 73% 89% 53 34 14 - 4 16 2 15 138
-PSYC-101 Montes, Roberto ONLIN 41% 96% 11 6 2 - 5 19 1 2 46
-PSYC-101 Moshrefi, Farshid ONLIN 68% 98% 52 43 22 - - 51 - 4 172
-PSYC-101 Nguyen, Kim-Lien ONLIN 34% 64% 10 5 1 - - 14 - 17 47
-PSYC-101 Robinson, Jennifer HSDUL 91% 97% 21 5 5 - - 2 - 1 34
-PSYC-101 Sauer, Craig ECC 76% 88% 22 9 8 - 3 3 - 6 51
-PSYC-101 Yates, Arianna ECC 70% 88% 16 13 6 - 3 6 - 6 50
-PSYC-101H Himsel, Amy ECC 76% 94% 11 8 6 - - 4 2 2 33
-PSYC-102 Farias, Julio ECC 79% 100% 30 5 7 - 2 9 - - 53
-PSYC-103 Abdelhamid, Mohammed ONLIN 79% 96% 9 7 6 - 3 2 - 1 28
-PSYC-103 Foley, Stephanie ECC 90% 100% 14 12 1 - 2 1 - - 30
-PSYC-103 Huemer, Sabine ONLIN 87% 91% 13 7 - - - 1 - 2 23
-PSYC-103 Huft, Justin ONLIN 38% 87% 5 7 6 - 1 22 - 6 47
-PSYC-103 Stelter, Mary ONLIN 67% 100% 24 - - - - 12 - - 36
-PSYC-103 Yates, Arianna ECC 90% 94% 10 14 4 - - 1 - 2 31
-PSYC-103H Himsel, Amy ECC 72% 96% 14 2 2 - 1 3 2 1 25
-PSYC-107 Chu, Yun ONLIN 97% 100% 30 5 3 - 1 - - - 39
-PSYC-107 Nguyen, Kim-Lien ONLIN 84% 96% 51 20 15 - 4 8 - 4 102
-PSYC-108 Duarte, Jennifer ONLIN 82% 93% 20 12 5 - 2 3 - 3 45
-PSYC-108 Farias, Julio ECC 81% 97% 3 23 3 - 1 5 - 1 36
-PSYC-109A Abdelhamid, Mohammed ONLIN 48% 91% 7 4 - - 6 4 - 2 23
-PSYC-109A Atkins, Sharona ONLIN 69% 88% 5 10 3 - 1 4 - 3 26
-PSYC-109A Galvan, Eddie ONLIN 55% 91% 3 5 4 - 3 5 - 2 22
-PSYC-109A Sauer, Craig ECC 76% 92% 11 6 2 - 2 2 - 2 25
-PSYC-109B Chu, Yun ONLIN 88% 88% 16 5 2 - - - - 3 26
-PSYC-109B Dooley, Kevin ECC 77% 87% 7 7 9 - 2 1 - 4 30
-PSYC-109B Huemer, Sabine ONLIN 91% 97% 18 8 4 - - 2 - 1 33
-PSYC-109B Huff, Micheal ONLIN 82% 86% 16 4 3 - - 1 - 4 28
-PSYC-109B Montes, Roberto ONLIN 47% 93% 6 5 3 - 3 11 - 2 30
-PSYC-110 Green, Donte ONLIN 46% 62% 5 3 4 - - 4 - 10 26
-PSYC-112 Stelter, Mary ONLIN 76% 96% 52 16 3 - 4 15 - 4 94
-PSYC-115 Galbavy, Renee ECC 93% 95% 27 12 1 - - 1 - 2 43
-PSYC-116 Conn, Bradfield ECC 85% 98% 15 18 6 - 3 3 - 1 46
-PSYC-116 Himsel, Amy ECC 90% 100% 15 15 6 1 1 3 - - 41
-PSYC-116 Huff, Micheal ONLIN 73% 93% 10 9 10 - 2 6 - 3 40
-PSYC-117 Green, Donte ONLIN 85% 95% 27 3 4 - 1 3 - 2 40
-PSYC-119 Sauer, Craig ONLIN 33% 38% 4 2 1 - - 1 - 13 21
-SOCI-101 Allen, Stacey HYBRD 97% 100% 23 3 2 - - 1 - - 29
-SOCI-101 Diaz, Corina ONLIN 44% 78% 4 1 7 - 3 6 - 6 27
-SOCI-101 Din, Mediha ONLIN 65% 69% 18 7 7 - 1 1 - 15 49
-SOCI-101 Dowden, Frieda ONLIN 58% 97% 10 4 4 - 1 11 - 1 31
-SOCI-101 Eaves, Stephanie ECC 85% 100% 38 6 6 - 5 4 - - 59
-SOCI-101 Fujiwara, Melissa HYBRD 81% 91% 25 7 3 - 1 3 - 4 43
-SOCI-101 Leyva, Juan ECC 83% 93% 51 18 10 - 4 5 - 7 95
-SOCI-101 Thing, James ONLIN 34% 97% 8 2 1 - - 20 - 1 32
-SOCI-101H Wosick, Kassia ONLIN 97% 97% 30 2 - - - - - 1 33
-SOCI-102 Diaz, Corina ONLIN 59% 97% 6 8 5 - 2 10 - 1 32
-SOCI-102 Stone, Akello ONLIN 91% 97% 25 5 2 - - 2 - 1 35
-SOCI-104 Bell-Blossom, Michelle ONLIN 61% 77% 12 7 - - 1 4 - 7 31
-SOCI-104 Leyva, Juan ECC 88% 100% 12 1 1 - - 2 - - 16
-SOCI-104 Stone, Akello ONLIN 87% 97% 24 7 2 - 3 1 - 1 38
-SOCI-107 Fujiwara, Melissa ONLIN 70% 85% 17 2 4 - 2 3 - 5 33
-SOCI-109A Aguilera, Peter ONLIN 58% 77% 6 6 3 - - 5 - 6 26
-SOCI-112 Inada, Jeffrey ONLIN 76% 100% 6 9 1 - - 5 - - 21
-SOCI-112 Leyva, Juan ECC 83% 97% 19 6 4 - - 5 - 1 35
-SOCI-113 Wosick, Kassia ONLIN 76% 88% 15 3 1 - 2 1 - 3 25
-SOCI-118 Wosick, Kassia ECC 74% 91% 10 4 3 - 4 - - 2 23
-SSCI-101 Leon, Felipe ONLIN 37% 83% 6 3 4 - 2 14 - 6 35
-SSCI-101 Uribe, Sandra ONLIN 50% 88% 1 2 1 - 1 2 - 1 8
-SSCI-103 Humphrey, Amina ECC 51% 74% 9 6 3 - 2 6 - 9 35
-WSTU-1 Allen, Stacey HYBRD 69% 78% 9 6 7 - - 3 - 7 32
-WSTU-1 Baker, Allison ONLIN 55% 98% 34 12 8 - 2 40 - 2 98
-WSTU-1 Fujiwara, Melissa ONLIN 84% 97% 21 5 1 - 3 1 - 1 32
-BUS-101 Chau, Yuen HYBRD 73% 91% 17 9 7 - 1 6 1 4 45
-BUS-101 De Ruyter, Emily ECC 73% 85% 19 12 7 - 3 3 - 8 52
-BUS-101 Escalante Troesh, Joshua HYBRD 57% 86% 12 5 3 - 3 7 - 5 35
-BUS-101 Miranda, Xavier HSDUL 59% 62% 7 7 3 - 1 - - 11 29
-BUS-101 Mufich, John HYBRD 77% 93% 53 14 8 - 2 13 - 7 97
-BUS-101 Som de Cerff, Melissa HYBRD 89% 94% 29 15 11 - 1 2 - 4 62
-BUS-107 Alford, Lovell ONLIN 47% 59% 6 5 4 - - 4 - 13 32
-BUS-108 Pahl, David HYBRD 77% 95% 16 10 4 - 1 5 1 2 39
-BUS-108 Som de Cerff, Melissa ONLIN 90% 94% 11 14 3 - 1 - - 2 31
-BUS-109 Alford, Lovell ONLIN 59% 93% 6 5 5 - 1 6 2 2 27
-BUS-109 Pahl, David HYBRD 66% 90% 6 11 2 - 2 4 1 3 29
-BUS-110 Chau, Yuen HYBRD 63% 77% 16 5 6 - 1 5 - 10 43
-BUS-111 Escalante Troesh, Joshua HYBRD 41% 78% 8 4 5 - 2 13 - 9 41
-BUS-115 Green, Karen ONLIN 77% 89% 8 14 5 - 2 2 - 4 35
-BUS-117 Escalante Troesh, Joshua HYBRD 37% 74% 17 13 10 - 8 32 1 28 109
-BUS-117 Forrester, Melissa HSDUL 93% 100% 13 6 7 - - 2 - - 28
-BUS-117 Senko, Erik ONLIN 84% 98% 53 17 3 - 1 10 1 2 87
-BUS-118 Senko, Erik HYBRD 79% 92% 8 10 1 - - 3 - 2 24
-BUS-120 Mufich, John ONLIN 68% 78% 38 11 5 - 3 4 1 17 79
-BUS-121 Chau, Yuen ONLIN 90% 100% 24 10 3 - 2 2 - - 41
-BUS-122 Miranda, Xavier HYBRD 65% 73% 4 13 7 - - 3 - 10 37
-BUS-122 Mufich, John HYBRD 88% 91% 20 8 1 - - 1 - 3 33
-BUS-124 Dawson, Stephanie HYBRD 62% 97% 13 1 4 - - 10 - 1 29
-BUS-124 Som de Cerff, Melissa ONLIN 62% 73% 14 5 4 - 2 1 1 10 37
-BUS-126 Pahl, David HYBRD 31% 94% 5 4 2 - 3 18 1 2 35
-BUS-150 Giles, Brizset ECC 67% 72% 11 17 23 - 2 2 - 21 76
-BUS-150 Hull, Kurt HYBRD 56% 71% 24 14 10 - 6 6 - 25 85
-BUS-150 Kim, Julie ECC 77% 88% 22 6 5 - 4 1 - 5 43
-BUS-150 Knight, Ridgway ONLIN 58% 61% 3 9 6 - - 1 - 12 31
-BUS-150 Lau, Philip ECC 48% 65% 11 10 13 - 3 9 - 25 71
-BUS-150 Margiotta, Adam ECC 59% 91% 11 5 10 - 4 10 - 4 44
-BUS-150 Porter, Sidney HYBRD 71% 95% 10 12 5 - 2 7 - 2 38
-BUS-151 Giles, Brizset HYBRD 91% 96% 12 7 2 - - 1 - 1 23
-BUS-151 Hull, Kurt ONLIN 70% 84% 15 18 14 - 3 6 - 11 67
-BUS-151 Kim, Julie HYBRD 95% 95% 21 7 7 - - - - 2 37
-BUS-151 Lau, Philip ECC 58% 75% 3 1 3 - - 2 - 3 12
-BUS-151 Margiotta, Adam ECC 88% 96% 11 6 5 - - 2 - 1 25
-BUS-151 Milosevic Nguyen, Ana ECC 92% 92% 15 7 2 - - - - 2 26
-BUS-152 Porter, Sidney ECC 91% 94% 11 10 8 - - 1 - 2 32
-BUS-159 Hull, Kurt ONLIN 52% 78% 4 5 3 - 4 2 - 5 23
-BUS-160 Giles, Brizset ONLIN 73% 88% 13 8 3 - - 5 - 4 33
-BUS-165A Porter, Sidney ECC 64% 72% 16 - - - 1 1 - 7 25
-BUS-169 Kim, Julie ONLIN 95% 95% 13 5 3 - - - - 1 22
-CIS-11 Siddiqui, Junaid ONLIN 56% 72% 5 3 2 - 1 1 1 5 18
-CIS-119 Dellaca, Roger ONLIN 67% 71% 7 6 1 - - 1 - 6 21
-CIS-119 Perkins, Richard HYBRD 83% 91% 7 4 8 - - 2 - 2 23
-CIS-122 Perkins, Richard HYBRD 91% 91% 11 7 2 - - - - 2 22
-CIS-122 Seno, Vicky ONLIN 89% 100% 9 4 3 - - 2 - - 18
-CIS-13 Anaya, Martin HYBRD 54% 85% 13 4 5 - 1 12 - 6 41
-CIS-13 Davis, Kimberly ONLIN 85% 100% 24 5 4 - - 6 - - 39
-CIS-13 Dellaca, Roger HYBRD 80% 97% 10 8 10 - 2 4 - 1 35
-CIS-13 Le, Hac HYBRD 55% 89% 8 5 11 - 2 13 - 5 44
-CIS-13 Lu, Khai HYBRD 73% 91% 42 11 11 - 1 15 - 8 88
-CIS-13 Palmer, Patrick HYBRD 70% 87% 13 10 10 - 3 5 - 6 47
-CIS-13 Perkins, Richard HYBRD 81% 88% 19 16 4 - - 3 - 6 48
-CIS-13 Siddiqui, Junaid HYBRD 73% 91% 12 15 4 1 2 6 - 4 44
-CIS-13 Tang, Joanna HYBRD 67% 89% 21 6 3 - 2 8 - 5 45
-CIS-132 Allen, Roni ONLIN 63% 84% 7 3 2 - 1 3 - 3 19
-CIS-133 Anaya, Martin ONLIN 80% 100% 6 1 1 - - 2 - - 10
-CIS-136 Rubio, Jesus HYBRD 50% 67% 5 1 - - - 2 - 4 12
-CIS-137 Le, Hac HYBRD 89% 95% 12 3 2 - - 1 - 1 19
-CIS-137 Lu, Khai HYBRD 85% 85% 2 7 2 - - - - 2 13
-CIS-141 Rubio, Jesus HYBRD 69% 88% 6 4 1 - 1 2 - 2 16
-CIS-142 Corbin, Steven ONLIN 71% 100% 4 1 - - - 2 - - 7
-CIS-143 Corbin, Steven ONLIN 80% 100% 3 - 1 - - 1 - - 5
-CIS-150 Kol, Koda HYBRD 56% 83% 6 2 2 - 2 3 - 3 18
-CIS-150 Seno, Vicky ONLIN 39% 89% 3 3 1 - 2 7 - 2 18
-CIS-152 Anaya, Martin ONLIN 75% 75% 3 3 - - - - - 2 8
-CIS-2 Kane, Dennis ECC 56% 72% 9 1 - - 1 2 - 5 18
-CIS-26 Siddiqui, Junaid HYBRD 96% 96% 15 5 3 - - - - 1 24
-CIS-28 Dellaca, Roger HYBRD 82% 86% 8 9 1 - - 1 - 3 22
-CIS-40 Le, Hac HYBRD 86% 100% 5 10 4 - 2 1 - - 22
-CIS-40 Lu, Khai HYBRD 84% 96% 14 5 2 - - 3 - 1 25
-CIS-80 Dellaca, Roger HYBRD 71% 82% 9 3 - - 1 1 - 3 17
-LAW-11 Pham, Vi ECC 55% 85% 7 3 1 - - 6 - 3 20
-LAW-11 White, Jennifer HYBRD 74% 86% 23 2 1 - 1 3 - 5 35
-LAW-12 Thomas, Kimberly HYBRD 90% 97% 20 6 1 - 1 1 - 1 30
-LAW-13 Gastelum, Tracy ECC 100% 100% 14 10 1 - - - - - 25
-LAW-14 White, Jennifer ONLIN 83% 95% 22 7 6 - 1 4 - 2 42
-LAW-17 Alexander, Steven ECC 92% 100% 19 11 4 - 3 - - - 37
-LAW-19 Pham, Vi ONLIN 82% 89% 19 3 1 - - 1 1 3 28
-LAW-4 McGrue, Nicholas ECC 60% 79% 6 16 4 - 2 6 - 9 43
-LAW-5 Gastelum, Tracy HYBRD 62% 95% 9 7 10 - 1 13 - 2 42
-LAW-5 Pham, Vi HYBRD 78% 98% 22 10 3 - 3 6 - 1 45
-LAW-5 White, Jennifer ECC 84% 97% 34 28 13 - 4 7 - 3 89
-LAW-95 White, Jennifer ECC 100% 100% 4 - - - - - - - 4
-PARA-1 McGrue, Nicholas HYBRD 42% 48% 6 5 2 - - 1 1 16 31
-PARA-1 White, Jennifer HYBRD 78% 95% 18 8 3 - 1 5 - 2 37
-RE-11 DeLuca, Vincent ONLIN 64% 73% 15 12 1 - - 4 - 12 44
-RE-11 Yeressian, John HYBRD 97% 97% 56 19 12 - - - - 3 90
-RE-12A McGrue, Nicholas ONLIN 75% 95% 8 16 6 - 2 6 - 2 40
-RE-13 DeLuca, Vincent ONLIN 57% 97% 10 8 3 - 2 13 - 1 37
-RE-13 Tomblin, David ECC 37% 98% 15 - - - 25 - - 1 41
-RE-13 Yeressian, John HYBRD 98% 98% 28 5 17 - - - - 1 51
-RE-19 Yeressian, John ONLIN 97% 97% 53 3 5 - - - - 2 63
-RE-26 DeLuca, Vincent ONLIN 31% 100% 3 5 1 - 1 19 - - 29
-RE-31 Yeressian, John ONLIN 100% 100% 37 3 16 - - - - - 56
-RE-40 Yeressian, John ONLIN 98% 98% 41 8 12 - - - - 1 62
-SUPV-109 Alford, Lovell ONLIN 50% 100% 1 3 1 1 - 5 1 - 12
-SUPV-109 Pahl, David HYBRD 56% 89% 1 1 3 - 1 2 - 1 9
-ART-110 Bronte, Andrea ECC 26% 70% 3 - 3 - 2 8 - 7 23
-ART-110 Ceravolo, Talia ECC 65% 90% 9 7 4 - 1 7 - 3 31
-ART-110 Hardesty, Joseph ECC 70% 85% 11 2 6 - 1 2 1 4 27
-ART-110 Kabriel, Joseph ECC 62% 90% 20 10 2 - 3 12 - 5 52
-ART-110 Ngo, Binh ECC 48% 60% 6 4 2 - 3 - - 10 25
-ART-110 Phelps, Jennifer ECC 68% 89% 19 11 6 - 3 6 2 6 53
-ART-129 Ewing, Richard ECC 55% 86% 3 7 6 - 3 6 - 4 29
-ART-130 Micallef, Andrea ECC 71% 80% 24 4 7 - - 3 1 10 49
-ART-131 Bella, Nicole ECC 77% 95% 14 3 - - 2 2 - 1 22
-ART-131 Speth, Mary ONLIN 67% 72% 4 5 3 - - 1 - 5 18
-ART-133 Holman, Eric ECC 72% 90% 16 5 - - - 5 - 3 29
-ART-141 Curtis Urlik, Joy ONLIN 64% 77% 7 7 - - - 2 1 5 22
-ART-141 Holman, Eric ECC 83% 97% 16 6 3 - 1 3 - 1 30
-ART-141 Lacki, Robert ECC 70% 96% 4 8 4 - - 6 - 1 23
-ART-141 Zinoveva, Anna ONLIN 52% 87% 20 3 4 - - 9 9 7 52
-ART-142 Curtis Urlik, Joy ONLIN 54% 62% 9 4 1 - - 2 - 10 26
-ART-144 Martin, Arnold ECC 86% 90% 13 4 1 - - 1 - 2 21
-ART-145 Martin, Arnold ECC 85% 85% 11 - - - - - - 2 13
-ART-147 Holman, Eric ECC 77% 85% 7 3 - - 1 - - 2 13
-ART-152 Ewing, Richard ECC 62% 67% 4 6 3 - - 1 - 7 21
-ART-160 Flores, Luis ECC 97% 97% 17 6 5 - - - - 1 29
-ART-160 McMillin, Russell ONLIN 83% 87% 27 16 2 - 1 1 - 7 54
-ART-161 Palacios, Vince ECC 96% 98% 40 10 - - 1 - - 1 52
-ART-173 Nguyen, Tony ECC 81% 88% 8 4 1 - 1 - - 2 16
-ART-173 Nickles, Monica ECC 44% 78% 3 1 - - - 3 - 2 9
-ART-173 Thompson, Jillian ECC 80% 93% 11 1 - - 1 1 - 1 15
-ART-181 McMillin, Russell ECC 85% 95% 13 4 - - 1 1 - 1 20
-ART-217 Bloomberg, Randall ECC 94% 94% 24 7 2 - - - - 2 35
-ART-218 Bloomberg, Randall ECC 89% 89% 12 3 1 - - - - 2 18
-ART-218B Bloomberg, Randall ECC 67% 67% 2 - - - - - - 1 3
-ART-219 Hardesty, Joseph ECC 81% 94% 11 1 1 - - 2 - 1 16
-ART-220 Hardesty, Joseph ECC 100% 100% 2 - - - - - - - 2
-ART-222 Bloomberg, Randall ONLIN 53% 76% 6 2 1 - 1 3 - 4 17
-ART-222 Kidd, Thomas ECC 95% 95% 17 1 - - - - - 1 19
-ART-223A Bloomberg, Randall ONLIN 100% 100% 3 1 - - - - - - 4
-ART-223A Kidd, Thomas ECC 100% 100% 3 - - - - - - - 3
-ART-223B Bloomberg, Randall ONLIN 100% 100% 1 - - - - - - - 1
-ART-223B Kidd, Thomas ECC 100% 100% 3 - - - - - - - 3
-ART-223B Speth, Mary ONLIN 67% 67% 2 - - - - - - 1 3
-ART-233 Holman, Eric ECC 100% 100% 2 - 1 - - - - - 3
-ART-247A Holman, Eric ECC 100% 100% 2 - - - - - - - 2
-ART-262 Palacios, Vince ECC 91% 91% 21 - - - - - - 2 23
-ART-263 Palacios, Vince ECC 100% 100% 6 1 - - - - - - 7
-ART-275 Nguyen, Tony ECC 100% 100% 6 1 - - - - - - 7
-ART-275 Nickles, Monica ECC 71% 93% 8 2 - - - 3 - 1 14
-ART-275 Thompson, Jillian ECC 86% 86% 6 - - - - - - 1 7
-ART-96 Holman, Eric EOC 100% 100% 1 - - - - - - - 1
-ART-99 Holman, Eric EOC 100% 100% 1 - - - - - - - 1
-DANC-101 Adamis, Elizabeth ONLIN 82% 82% 43 7 3 22 - - - 17 92
-DANC-101 Berney, Daniel ECC 93% 97% 17 7 3 - - 1 - 1 29
-DANC-101 Bryant, Jonathan ONLIN 50% 94% 29 3 3 - 5 26 - 4 70
-DANC-103 Berney, Daniel ONLIN 38% 48% 9 3 4 - - 4 - 22 42
-DANC-110 Bryant, Jonathan ECC 77% 77% 7 2 1 - - - - 3 13
-DANC-120A Berney, Daniel ECC 76% 76% 9 3 3 1 - - - 5 21
-DANC-120B Berney, Daniel ECC 100% 100% 3 1 2 1 - - - - 7
-DANC-130A Bryant, Jonathan ECC 91% 91% 10 - - - - - - 1 11
-DANC-130B Bryant, Jonathan ECC 90% 90% 8 1 - - - - - 1 10
-DANC-140 Borgaro, Kim ECC 89% 89% 15 - 1 - - - - 2 18
-DANC-161 Zee, Steven ECC 100% 100% 7 - - - - - - - 7
-DANC-162 Cabag, Valerie ECC 89% 89% 9 7 1 - - - - 2 19
-DANC-168 Andrade, Argelia ECC 82% 100% 18 - - - - 4 - - 22
-DANC-170 Adamis, Elizabeth ECC 88% 88% 13 1 - - - - - 2 16
-DANC-171A Adamis, Elizabeth ECC 89% 89% 8 - - - - - - 1 9
-DANC-171B Bryant, Jonathan ECC 100% 100% 3 - - - - - - - 3
-DANC-220A Berney, Daniel ECC 100% 100% 2 - 1 - - - - - 3
-DANC-220B Berney, Daniel ECC 100% 100% 3 - 1 - - - - - 4
-DANC-230B Bryant, Jonathan ECC 100% 100% 1 - - - - - - - 1
-DANC-240 Borgaro, Kim ECC 100% 100% 5 - - - - - - - 5
-DANC-250 Jensen, Karin ECC 70% 95% 8 1 2 3 1 3 1 1 20
-DANC-250 Klass, Sofia ECC 75% 85% 12 3 - - - 2 - 3 20
-DANC-261 Zee, Steven ECC 100% 100% 3 - - - - - - - 3
-DANC-268 Andrade, Argelia ECC 100% 100% 8 - - - - - - - 8
-DANC-271A Bryant, Jonathan ECC 100% 100% 4 1 - - - - - - 5
-DANC-271B Bryant, Jonathan ECC 100% 100% 1 - - - - - - - 1
-DANC-289AB Bryant, Jonathan ECC 100% 100% 9 - - - - - - - 9
-FILM-100 Vafaeisefat, Elyusha ONLIN 82% 94% 32 3 6 - 1 5 - 3 50
-FILM-105 Vafaeisefat, Elyusha ONLIN 86% 96% 62 13 8 - - 9 - 4 96
-FILM-109 O'Brien, Kevin ONLIN 80% 87% 15 8 1 - - 2 - 4 30
-FILM-110 Agan, Alicia ECC 91% 98% 24 15 3 - - 3 - 1 46
-FILM-110 Beery, Brian ONLIN 83% 95% 29 5 1 - - 5 - 2 42
-FILM-110 Bogdanski, James ONLIN 47% 87% 10 7 8 - 4 17 - 7 53
-FILM-110 Keller, Max ECC 57% 91% 5 5 10 - - 12 - 3 35
-FILM-110 Lau, Linus ECC 74% 100% 27 3 2 - - 11 - - 43
-FILM-110 Lewis, Tracie ECC 74% 93% 21 27 16 - 6 10 - 6 86
-FILM-113 O'Brien, Kevin ONLIN 69% 91% 12 12 6 1 4 6 - 4 45
-FILM-121 Almo, Laura ONLIN 87% 91% 15 2 3 - - 1 - 2 23
-FILM-121 Beery, Brian ECC 86% 90% 12 4 2 - - 1 - 2 21
-FILM-122 O'Brien, Kevin ECC 96% 96% 24 3 - - - - - 1 28
-FILM-124 Almo, Laura ONLIN 57% 70% 10 2 1 - - 3 - 7 23
-FILM-153 Almo, Laura ECC 59% 88% 5 13 6 - 6 5 1 5 41
-FILM-232 Corbin, Neil ECC 94% 94% 12 3 - - - - - 1 16
-FILM-236 Almo, Laura ECC 96% 100% 16 5 2 - 1 - - - 24
-FILM-236 O'Brien, Kevin ONLIN 73% 73% 9 5 2 - - - - 6 22
-MUSI-101 Chambers-Salazar, Polli ONLIN 36% 60% 18 8 6 - 3 18 1 36 90
-MUSI-101 Wood, Erin ECC 57% 86% 7 5 4 - 1 7 - 4 28
-MUSI-102A Nachef, Joanna ECC 85% 85% 7 4 - - - - - 2 13
-MUSI-103A Schulz, Patrick HYBRD 58% 91% 6 8 5 - 2 8 1 3 33
-MUSI-103B Schulz, Patrick HYBRD 82% 95% 6 8 4 - 1 2 - 1 22
-MUSI-105 Moyer, David HYBRD 67% 87% 6 1 3 - - 3 - 2 15
-MUSI-111 Chan, Alan ECC 53% 78% 12 3 9 - 5 6 - 10 45
-MUSI-111 Doyle, William ONLIN 49% 55% 20 17 16 - 4 3 - 49 109
-MUSI-111 Martin, Margot ONLIN 77% 95% 16 14 4 - 1 7 - 2 44
-MUSI-111 Schulz, Patrick ONLIN 47% 100% 7 5 2 - 2 14 - - 30
-MUSI-112H Doyle, William HYBRD 93% 97% 15 12 1 - - 1 - 1 30
-MUSI-113 Moyer, David ONLIN 68% 95% 18 7 2 - 5 6 - 2 40
-MUSI-116 Chan, Alan ONLIN 70% 86% 21 6 4 - 1 6 - 6 44
-MUSI-116 Minei, Ryota ONLIN 58% 96% 49 11 3 - 1 41 - 4 109
-MUSI-116 Moyer, David ONLIN 66% 86% 19 4 6 - 2 7 - 6 44
-MUSI-117 Doyle, William ONLIN 57% 67% 23 27 9 - 1 9 - 34 103
-MUSI-120 Blickfeldt, Kevin ECC 70% 81% 15 1 3 - - 3 - 5 27
-MUSI-120 Wood, Erin ECC 46% 85% 3 2 1 - 1 4 - 2 13
-MUSI-131A Chambers-Salazar, Polli ONLIN 52% 61% 9 1 2 - - 2 - 9 23
-MUSI-131A Liebich, Rafael ECC 67% 79% 21 7 4 - 4 1 1 10 48
-MUSI-131A Stern, Valerie ECC 81% 86% 13 3 1 - - 1 - 3 21
-MUSI-131B Chambers-Salazar, Polli ONLIN 65% 94% 8 - 3 - - 2 3 1 17
-MUSI-147A Minei, Ryota ECC 88% 88% 41 2 3 - - - - 6 52
-MUSI-152ABCD Nachef, Joanna ECC 92% 92% 12 - - - - - - 1 13
-MUSI-181A Kleinhans, Jonathan ECC 58% 84% 6 4 1 - 1 4 - 3 19
-MUSI-190A Blickfeldt, Kevin ECC 100% 100% 3 1 - - - - - - 4
-MUSI-190A Minei, Ryota ECC 69% 77% 9 - - - 1 - - 3 13
-MUSI-190A Moyer, David ECC 100% 100% 7 2 1 - - - - - 10
-MUSI-190B Blickfeldt, Kevin ECC 100% 100% 3 2 1 - - - - - 6
-MUSI-190B Minei, Ryota ECC 80% 80% 4 - - - - - - 1 5
-MUSI-190B Moyer, David ECC 70% 90% 6 1 - - - 2 - 1 10
-MUSI-190C Blickfeldt, Kevin ECC 100% 100% 3 1 2 - - - - - 6
-MUSI-190C Minei, Ryota ECC 86% 86% 6 - - - - - - 1 7
-MUSI-190C Moyer, David ECC 100% 100% 3 1 - - - - - - 4
-MUSI-190D Blickfeldt, Kevin ECC 100% 100% 1 1 - - - - - - 2
-MUSI-190D Minei, Ryota ECC 100% 100% 2 - - - - - - - 2
-MUSI-190D Moyer, David ECC 100% 100% 1 2 - - - - - - 3
-MUSI-203 Schulz, Patrick HYBRD 57% 71% 3 - 1 - - 1 - 2 7
-MUSI-215A Doyle, William ECC 94% 94% 8 8 14 - - - - 2 32
-MUSI-220 Blickfeldt, Kevin ECC 100% 100% 5 - - - - - - - 5
-MUSI-222ABCD Blickfeldt, Kevin ECC 100% 100% 17 - - - - - - - 17
-MUSI-231A Chambers-Salazar, Polli ECC 78% 100% 6 - 1 - - - 2 - 9
-MUSI-231B Chambers-Salazar, Polli ECC 50% 100% 2 - - - - - 2 - 4
-MUSI-232 Chambers-Salazar, Polli ECC 80% 100% 4 - - - 1 - - - 5
-MUSI-253ABCD Nachef, Joanna ECC 100% 100% 17 - - - - - - - 17
-MUSI-257ABCD Kang, Soyun ECC 83% 83% 5 - - - - - - 1 6
-MUSI-258ABCD Spadini, Natalia ECC 85% 92% 6 5 - - - 1 - 1 13
-MUSI-265ABCD Vizcarra, Raymundo ECC 95% 95% 19 - - - - - - 1 20
-MUSI-266ABCD Sills, David ECC 100% 100% 7 - 1 - - - - - 8
-MUSI-267ABCD Moyer, David ECC 100% 100% 20 - 1 - - - - - 21
-MUSI-268ABCD Nachef, Joanna ECC 100% 100% 6 - - - - - - - 6
-MUSI-269ABCD Minei, Ryota ECC 93% 93% 14 - - - - - - 1 15
-MUSI-290 Minei, Ryota ECC 100% 100% 1 - - - - - - - 1
-MUSI-565 Vizcarra, Raymundo ECC 96% 96% 25 - - - - - - 1 26
-MUSI-567 Moyer, David ECC 100% 100% 6 - - - - - - - 6
-MUSI-567 Sills, David ECC 67% 67% 2 - - - - - - 1 3
-MUSI-567 Sit, Weng San ECC 91% 91% 17 4 8 - - - - 3 32
-MUSI-567 Trine, Evan ONLIN 61% 88% 15 7 3 - 3 8 - 5 41
-PHOT-102 Sit, Weng San ECC 92% 96% 12 8 2 - - - 1 1 24
-PHOT-106 Thomas, Quang ECC 83% 83% 4 - 1 - - - - 1 6
-PHOT-1 Montana, Star ECC 66% 73% 21 3 3 - 3 - - 11 41
-PHOT-1 Naumann, Sonya ONLIN 75% 93% 78 14 8 - 5 19 - 10 134
-PHOT-1 Nelson, Mark ECC 77% 97% 37 23 6 - 1 16 - 3 86
-PHOT-1 Simonson, Kurt ECC 86% 100% 18 10 2 - - 5 - - 35
-PHOT-202 Cho, Joshua ECC 78% 89% 3 3 1 - - 1 - 1 9
-PHOT-203 Cho, Joshua ECC 88% 100% 3 2 2 - 1 - - - 8
-PHOT-223A Sit, Weng San ECC 100% 100% 12 4 - - - - - - 16
-PHOT-223B Sit, Weng San ECC 100% 100% 2 - 1 - - - - - 3
-PHOT-254 Cho, Joshua ECC 67% 100% 1 1 - - - 1 - - 3
-THEA-103 Harrison, Ayla ONLIN 61% 79% 16 11 10 - 2 9 - 13 61
-THEA-104 Harrison, Ayla ONLIN 88% 88% 9 4 2 - - - - 2 17
-THEA-113 Francois, Sarahjeen ECC 59% 81% 12 4 - - 2 4 - 5 27
-THEA-114 Garayua, Gloria ECC 77% 96% 11 6 3 - 3 2 - 1 26
-THEA-175ABCD Singh, Nathan ECC 100% 100% 24 - - - - - - - 24
-THEA-185 Sherman, Kira ECC 84% 89% 6 5 5 - - 1 - 2 19
-THEA-189 Wilkinson, Kimberly ECC 86% 93% 8 3 1 - 1 - - 1 14
-THEA-197ABCD Sherman, Kira ECC 82% 88% 25 1 1 - - 2 - 4 33
-THEA-214A Singh, Nathan ECC 93% 93% 12 1 1 - - - - 1 15
-THEA-215 Caeti, Frank ECC 80% 85% 15 1 - - - 1 - 3 20
-THEA-270ABCD Herman, Kelly ECC 95% 95% 19 - - - - - - 1 20
-THEA-297AB Sherman, Kira ECC 100% 100% 3 - - - - - - - 3
-AJ-10 Gulcher, Andrew ECC 68% 97% 8 1 14 - - 10 - 1 34
-AJ-100 Acquarelli, James HSDUL 68% 74% 20 3 3 - - 2 - 10 38
-AJ-100 Causey, Roberto LIVEO 77% 88% 3 15 2 - 1 2 - 3 26
-AJ-100 Clansy, Andre ECC 86% 89% 19 10 3 - - 1 - 4 37
-AJ-100 Mason, Donald ECC 85% 97% 15 10 4 - 3 1 - 1 34
-AJ-100 Mauger, Dina ONLIN 84% 94% 25 8 10 - 2 3 - 3 51
-AJ-103 Fields, Mark ONLIN 71% 83% 9 8 - - 1 2 - 4 24
-AJ-103 Flosi, Edward ECC 70% 93% 12 3 6 - 2 5 - 2 30
-AJ-103 Rosales, Jose ONLIN 59% 97% 6 10 1 - 1 10 - 1 29
-AJ-106 Serrano, Oscar ONLIN 50% 100% 3 2 1 - 1 5 - - 12
-AJ-107 Plair, Vincent ONLIN 43% 87% 8 2 3 - - 13 - 4 30
-AJ-109 Martinez, Alfred ONLIN 14% 100% 2 - 1 - 1 17 - - 21
-AJ-109 Serrano, Oscar ONLIN 11% 100% 3 - - - - 25 - - 28
-AJ-11 Branley, Timothy ONLIN 92% 92% 9 2 1 - - - - 1 13
-AJ-111 Fields, Mark ONLIN 74% 93% 13 7 - - 1 3 1 2 27
-AJ-111 Mauger, Dina ECC 44% 85% 1 4 7 - - 11 - 4 27
-AJ-115 Fields, Mark ONLIN 71% 79% 8 1 1 - 1 - - 3 14
-AJ-115 Meredith, Donald ECC 70% 100% 14 - - - - 6 - - 20
-AJ-12 Gulcher, Andrew ONLIN 24% 100% 9 - - - - 29 - - 38
-AJ-126 Acquarelli, James ECC 85% 100% 11 - - - 1 1 - - 13
-AJ-130 Fogel, Seth ECC 64% 93% 4 4 1 - 3 1 - 1 14
-AJ-130 Roberson, Andrea ONLIN 44% 93% 7 2 3 - - 13 - 2 27
-AJ-130 Mason, Donald ONLIN 49% 100% 12 4 1 - - 18 - - 35
-AJ-130 Roberson, Andrea ONLIN 30% 96% 3 4 - - - 15 - 1 23
-AJ-132 Roth, Matthew LIVEO 77% 90% 18 3 2 - 1 3 - 3 30
-AJ-133 Beckman, Hoda ECC 31% 94% 9 2 - - - 22 - 2 35
-AJ-135 Belthius, Darrell ONLIN 45% 97% 14 1 - - 1 16 - 1 33
-AJ-142 Gulcher, Andrew ECC 97% 97% 29 5 - - - - - 1 35
-AJ-150 Beckman, Hoda ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-150 Belthius, Darrell ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-150 Brock, David ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-150 Castellon, Eduardo ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-150 Kim, Sterling ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-150 Mason, Donald ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-150 Rosales, Jose ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-150 Serrano, Oscar ECC 62% 85% 4 4 - - - 3 - 2 13
-AJ-170 Roth, Matthew ONLIN 22% 89% 4 - - - - 12 - 2 18
-AJ-170 Serrano, Oscar ONLIN 53% 100% 4 3 2 - - 8 - - 17
-AJ-190 Juckett, Brian ECC 95% 95% 21 - - - - - - 1 22
-AJ-21 Branley, Timothy ONLIN 100% 100% 1 1 - - - - - - 2
-AJ-26 Juckett, Brian ONLIN 100% 100% 2 1 - - - - - - 3
-AJ-49 Serrano, Oscar ECC 67% 67% 2 3 - 1 - - - 3 9
-CH-1 Alvillar, Andrew ONLIN 56% 98% 23 7 1 - 2 21 - 1 55
-CH-1 Calderon, Karla ONLIN 47% 93% 6 4 4 - - 14 - 2 30
-CH-1 Green, Kirsten ECC 67% 83% 20 8 - - 2 5 - 7 42
-CH-1 Hall, John ECC 76% 98% 23 4 4 - - 9 - 1 41
-CH-1 Hazell, Thomas ONLIN 68% 97% 17 5 1 - - 10 - 1 34
-CH-1 Lindheim, Gifford ONLIN 51% 78% 29 6 5 - - 21 1 17 79
-CH-1 Lofgren, Dean ECC 86% 94% 13 9 9 - - 3 - 2 36
-CH-1 Mintz, Stan ECC 85% 97% 16 11 6 - - 5 - 1 39
-CH-1 Palmer, Grant ECC 100% 100% 7 14 8 - - - - - 29
-CH-1 Pattison, Levalley ONLIN 50% 82% 11 2 1 - - 9 - 5 28
-FAID-1 Calderon, Karla HYBRD 82% 94% 22 4 1 - - 4 - 2 33
-FAID-1 Diaz, Juan HSDUL 94% 94% 28 - 1 - - - - 2 31
-FAID-1 Jacobson, Michael HYBRD 100% 100% 57 6 2 - - - - - 65
-FAID-1 Komai, Stacy HSDUL 79% 93% 5 3 3 - 1 1 - 1 14
-FAID-1 Peters, Kurt ECC 97% 97% 21 8 - - - - - 1 30
-FTEC-1 Conroy, Daniel ONLIN 75% 94% 6 3 3 - 1 2 - 1 16
-FTEC-1 Fisher, Timothy ECC 81% 92% 11 10 - - - 3 - 2 26
-FTEC-1 Hallock, Matthew ECC 78% 100% 14 7 4 - - 7 - - 32
-FTEC-1 Valdez, Edward ONLIN 64% 100% 13 2 3 - 10 - - - 28
-FTEC-1 Valle, Felix ECC 72% 95% 13 10 5 - 2 7 - 2 39
-FTEC-1 Wingfield, Aarin ECC 81% 92% 11 10 - - - 3 - 2 26
-FTEC-10 Murphy, William ECC 34% 97% 9 4 - - 1 23 - 1 38
-FTEC-10 Rickman, Tracy ONLIN 79% 82% 13 10 4 - 1 - - 6 34
-FTEC-11 Coffelt, Kevin ECC 71% 86% 1 2 2 - 1 - - 1 7
-FTEC-113B Brakebill, James ECC 35% 35% 7 - - - - - - 13 20
-FTEC-120 Fisher, Timothy HSDUL 100% 100% 24 - - - - - - - 24
-FTEC-120 Garcia, Leonard ONLIN 76% 100% 12 4 - - - 5 - - 21
-FTEC-120 Iqueda, Angel ONLIN 36% 95% 4 3 1 - - 13 - 1 22
-FTEC-120 Kreiswirth, Ethan HSDUL 91% 100% 21 5 6 - - 3 - - 35
-FTEC-120 Rodrigues, Alex ECC 40% 93% 2 4 - - 3 5 - 1 15
-FTEC-120 Wingfield, Aarin HSDUL 100% 100% 24 - - - - - - - 24
-FTEC-130 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21
-FTEC-131 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21
-FTEC-132 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21
-FTEC-133 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21
-FTEC-134 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21
-FTEC-135 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21
-FTEC-136 Huben, Kevin OFFST 90% 90% 2 13 4 - - - - 2 21
-FTEC-137 Huben, Kevin OFFST 90% 90% 2 13 4 - - - - 2 21
-FTEC-144 Carey, Ryan ECC 55% 66% 46 - 10 - - 11 - 35 102
-FTEC-144 Chang, Marvin ECC 59% 77% 20 21 - - - 12 1 16 70
-FTEC-144 Garcia, Leonard ECC 59% 77% 20 21 - - - 12 1 16 70
-FTEC-144 Malonzo, Mark ECC 70% 70% 14 5 1 1 - - - 9 30
-FTEC-144 Marquez, Joshua ECC 51% 63% 29 - 3 - - 8 - 23 63
-FTEC-144 Rodrigues, Alex ECC 62% 78% 7 13 3 - 1 5 - 8 37
-FTEC-15 Boies, Joshua ECC 65% 78% 24 - - - - 5 - 8 37
-FTEC-19 Buffington, Brett ONLIN 22% 100% 4 - - - - 14 - - 18
-FTEC-2 Coffelt, Kevin ONLIN 66% 85% 16 8 3 - 2 6 - 6 41
-FTEC-2 Rickman, Tracy ONLIN 25% 28% 4 4 1 - - 1 - 26 36
-FTEC-20 Murphy, William ECC 79% 100% 19 7 1 - - 7 - - 34
-FTEC-3 Coffelt, Kevin ONLIN 40% 100% 7 1 - - - 12 - - 20
-FTEC-3 McCracken, Mark ECC 70% 89% 10 10 6 - 3 4 - 4 37
-FTEC-3 Suen, Chen ONLIN 94% 100% 23 7 4 - - 2 - - 36
-FTEC-4 Hallock, Matthew ONLIN 43% 100% 4 4 4 - - 16 - - 28
-FTEC-5 McCracken, Mark ONLIN 84% 94% 14 11 2 - 1 2 - 2 32
-FTEC-5 Suen, Chen ECC 89% 100% 20 9 2 - - 4 - - 35
-FTEC-6 Tuzzolino, Terry ONLIN 76% 85% 14 7 5 - 1 2 - 5 34
-FTEC-6 Valdez, Edward ECC 95% 100% 20 10 5 - - 2 - - 37
-FTEC-9 Brown, Adam ONLIN 31% 100% 4 3 3 - 1 21 - - 32
-MEDT-1 Green, Michele ONLIN 66% 80% 24 18 7 - 3 7 - 15 74
-MEDT-1 Jenkins, Ian ONLIN 78% 89% 39 24 15 - 3 8 - 11 100
-MEDT-1 Moore, Josephine ECC 76% 84% 29 5 - - 2 2 - 7 45
-MEDT-1 Rivera-Mitu, Eliza ECC 73% 93% 15 9 5 - 3 5 - 3 40
-MEDT-1 Wade, Randy ONLIN 86% 92% 94 15 5 - 2 5 - 11 132
-NURS-143 Calib, Farah ECC 93% 95% 31 7 - - - 1 - 2 41
-NURS-143 Kidwell Udin, Margaret ECC 87% 89% 20 11 2 - - 1 - 4 38
-NURS-144 Goodwin, Monica ECC 90% 100% 11 6 2 - 2 - - - 21
-NURS-144 Ryan, Sanja ECC 77% 90% 22 6 2 - 2 3 - 4 39
-NURS-144 White, Maria ECC 87% 93% 7 5 1 - - 1 - 1 15
-NURS-149 Johnson, Shiny ECC 80% 100% 1 1 2 - - 1 - - 5
-NURS-222 Minutella, Tammy ECC 94% 94% 7 23 - - - - - 2 32
-NURS-224 Nunez, Raymond ECC 78% 85% 2 16 13 - 3 - - 6 40
-NURS-226 Goodwin, Monica ECC 92% 92% 22 - - - - - - 2 24
-NURS-226 Linson, Morgan ECC 100% 100% 8 - - - - - - - 8
-NURS-230 Lundy-Jackson, Lashonna ECC 98% 100% 23 16 - - - 1 - - 40
-NURS-232 Rivera-Mitu, Eliza ECC 100% 100% 12 17 4 - - - - - 33
-NURS-234 Johnson, Shiny ECC 100% 100% 9 19 5 - - - - - 33
-NURS-238 Goodwin, Monica ECC 100% 100% 8 2 - - - - - - 10
-NURS-238 Johnson, Shiny ECC 97% 97% 28 - - - - - - 1 29
-NURS-240 Ryan, Samantha ECC 97% 100% 11 22 - - 1 - - - 34
-NURS-242 Wilson, Rashida ECC 93% 100% 2 29 9 - 3 - - - 43
-NURS-244 Goodwin, Monica ECC 100% 100% 26 - - - - - - - 26
-NURS-244 Nunez, Raymond ECC 100% 100% 17 - - - - - - - 17
-NURS-248 Guta, Michelle OFFST 100% 100% 8 - - - - - - - 8
-NURS-248 Minutella, Tammy OFFST 100% 100% 7 - - - - - - - 7
-NURS-248 White, Maria OFFST 88% 100% 7 - - - - - 1 - 8
-PE-105ABC Hartwill, Janina ECC 82% 82% 14 - - - - - - 3 17
-PE-105ABC Shaw, Carla ECC 82% 82% 14 - - - - - - 3 17
-PE-105ABC Shaw, Stephen ECC 82% 82% 14 - - - - - - 3 17
-PE-10A Barragan, Rolando ECC 91% 91% 39 1 - - - - - 4 44
-PE-10A Hall, John ECC 95% 95% 21 - - - - - - 1 22
-PE-10A Hazell, Elizabeth ONLIN 50% 50% 10 3 - - - - - 13 26
-PE-10A Hazell, Thomas ECC 75% 81% 36 - - - - 3 - 9 48
-PE-10A Kirk, Matthew ECC 89% 89% 16 - - - - - - 2 18
-PE-10A Lindheim, Gifford ECC 80% 84% 17 3 - - 1 - - 4 25
-PE-10A Uphoff, Robert ECC 84% 84% 21 - - - - - - 4 25
-PE-10B Barragan, Rolando ECC 100% 100% 7 - - - - - - - 7
-PE-10B Hazell, Elizabeth ONLIN 88% 88% 6 1 - - - - - 1 8
-PE-10B Hazell, Thomas ECC 100% 100% 5 - - - - - - - 5
-PE-10B Kirk, Matthew ECC 100% 100% 4 - - - - - - - 4
-PE-10B Lindheim, Gifford ECC 100% 100% 2 1 - - - - - - 3
-PE-10B Uphoff, Robert ECC 67% 67% 2 - - - - - - 1 3
-PE-110ABC Hazell, Elizabeth ECC 100% 100% 18 - - - - - - - 18
-PE-116ABC Boerica, Sergiu ECC 89% 89% 15 2 - - - - - 2 19
-PE-121ABC Rapoza, Jessica ECC 100% 100% 25 - - - - - - - 25
-PE-133ABC Levin, David ECC 100% 100% 8 - - - - - - - 8
-PE-135ABCD Calderon, Karla ECC 100% 100% 25 - - - - - - - 25
-PE-135ABCD Haroldson, Shelby ECC 96% 96% 23 - - - - - - 1 24
-PE-135ABCD Hughley, Kevin ECC 95% 95% 17 1 2 - - - - 1 21
-PE-135ABCD Mayeaux, Grant ECC 100% 100% 19 - - - - - - - 19
-PE-135ABCD Palmer, Grant ECC 100% 100% 31 - - - - - - - 31
-PE-135ABCD Rapoza, Jessica ECC 100% 100% 25 - - - - - - - 25
-PE-135ABCD Wood, Casey ECC 100% 100% 13 - - - - - - - 13
-PE-15ABC Uphoff, Robert ECC 96% 96% 22 - - - - - - 1 23
-PE-18A Pittock, Rachel ECC 83% 87% 48 11 5 - 2 1 - 10 77
-PE-18A Rosario, Krysti ECC 35% 77% 4 3 2 - 1 10 - 6 26
-PE-18B Pittock, Rachel ECC 88% 88% 16 4 2 - - - - 3 25
-PE-201 Lim, Jae HYBRD 92% 95% 19 15 2 - - 1 - 2 39
-PE-204 Levin, David ECC 100% 100% 20 - - - - - - - 20
-PE-20ABC Lofgren, Dean ECC 90% 90% 18 - - - - - - 2 20
-PE-212 Pattison, Levalley ONLIN 56% 86% 27 14 15 - 8 22 - 14 100
-PE-217 Jacobson, Michael ONLIN 54% 97% 20 - - - - 16 - 1 37
-PE-221 Hazell, Thomas ONLIN 64% 100% 14 - - - 1 7 - - 22
-PE-221 Hood, William ECC 81% 88% 24 4 6 - 3 - - 5 42
-PE-224 Green, Kirsten ECC 82% 95% 17 - 1 - - 3 - 1 22
-PE-240A Lizarraga, Monica ECC 92% 92% 14 4 - 5 - - - 2 25
-PE-240A Pattison, Levalley ECC 59% 81% 12 3 1 - 1 5 - 5 27
-PE-240A Wyatt, Karen ECC 63% 63% 15 - - - - - - 9 24
-PE-240B Peters, Kurt ECC 90% 90% 19 - - - - - - 2 21
-PE-240C Peters, Kurt ECC 50% 50% 2 - - - - - - 2 4
-PE-245 Wyatt, Karen ECC 95% 95% 14 6 1 - - - - 1 22
-PE-247 Delzeit-Mcintrye, Linda HYBRD 86% 86% 6 - - - - - - 1 7
-PE-250 Peters, Kurt ECC 100% 100% 12 - - - - - - - 12
-PE-251A Lindheim, Gifford ECC 86% 91% 11 6 2 - 1 - - 2 22
-PE-251B Lindheim, Gifford ECC 86% 100% 5 - 1 - - 1 - - 7
-PE-255 Pattison, Levalley ECC 80% 92% 14 3 3 - - 3 - 2 25
-PE-257 Cass, Kathryn ONLIN 81% 89% 22 - - - - 2 - 3 27
-PE-257 Galias, Diana ONLIN 72% 97% 21 - - - - 7 - 1 29
-PE-257 Zartman, Charleen ECC 86% 86% 19 4 2 - - - - 4 29
-PE-258 Alcocer, Brandon ONLIN 83% 83% 12 3 - - - - - 3 18
-PE-259 Rapoza, Jessica ECC 89% 89% 31 - - - - - - 4 35
-PE-266 Alvillar, Andrew ONLIN 56% 91% 13 3 3 - 1 11 - 3 34
-PE-266 Lindheim, Gifford ONLIN 54% 100% 20 4 4 - 1 22 1 - 52
-PE-266 Roman, Danielle ONLIN 76% 97% 31 13 4 - 2 11 - 2 63
-PE-270 Hazell, Thomas ONLIN 41% 94% 7 3 3 - - 17 - 2 32
-PE-270 Lofgren, Dean ONLIN 64% 68% 13 3 2 - - 1 - 9 28
-PE-272 Kreiswirth, Ethan ECC 92% 100% 8 3 1 - 1 - - - 13
-PE-273 Pattison, Levalley ONLIN 52% 81% 13 2 1 - - 9 - 6 31
-PE-275 Alvillar, Andrew ONLIN 59% 100% 11 2 - - 1 8 - - 22
-PE-275 Rapoza, Jessica ONLIN 52% 93% 41 11 4 - 3 40 - 8 107
-PE-275 Uphoff, Robert ONLIN 74% 100% 8 4 1 1 - 4 1 - 19
-PE-277 Calderon, Karla ONLIN 70% 95% 16 6 6 - 4 6 - 2 40
-PE-277 Jacobson, Michael ONLIN 89% 100% 28 3 1 - - 4 - - 36
-PE-277 Mayeaux, Grant ECC 80% 98% 16 10 7 - 4 3 - 1 41
-PE-277 Rapoza, Jessica ONLIN 63% 97% 16 4 2 - 1 11 - 1 35
-PE-280 Roman, Danielle HYBRD 80% 97% 15 11 2 - 2 4 - 1 35
-PE-290 Roman, Danielle ONLIN 75% 80% 5 3 7 - - 1 - 4 20
-PE-2A Green, Kirsten ECC 65% 71% 5 5 1 - - 1 - 5 17
-PE-2A Pattison, Levalley ONLIN 88% 91% 20 5 3 - - 1 - 3 32
-PE-2A Pattison, Levalley ONLIN 73% 91% 6 2 - - 1 1 - 1 11
-PE-3 Wood, Casey ECC 93% 93% 25 - - - - - - 2 27
-PE-35ABC Kaub, Timothy ECC 93% 93% 26 - - - - - - 2 28
-PE-35ABC Kirk, Matthew ECC 94% 94% 30 - - - - - - 2 32
-PE-35ABC Lindheim, Gifford ECC 100% 100% 35 - - - - - - - 35
-PE-35ABC Rodriguez, John ECC 81% 81% 21 - - - - - - 5 26
-PE-400 Guzman, Ubaldo ECC 95% 95% 16 2 - 1 - - - 1 20
-PE-400 Mintz, Stan ECC 100% 100% 17 2 - 1 - - - - 20
-PE-401 Lim, Jae ECC 100% 100% 29 4 - 4 - - - - 37
-PE-402 Guzman, Ubaldo ECC 100% 100% 24 1 - 2 - - - - 27
-PE-402 Lim, Jae ECC 95% 95% 15 3 - 1 - - - 1 20
-PE-404 Barba, Stephen ECC 100% 100% 13 - 1 2 - - - - 16
-PE-409 Cass, Kathryn ECC 61% 61% 8 - 2 1 - - - 7 18
-PE-46ABC Komai, Stacy ECC 85% 92% 11 - - - - 1 - 1 13
-PE-4A Jimmerson, Charles ECC 100% 100% 16 2 - - - - - - 18
-PE-54A Alvillar, Andrew ECC 69% 91% 17 4 1 - 1 6 - 3 32
-PE-54A Arrache, Antonio ECC 100% 100% 12 - - - - - - - 12
-PE-54A Hall, John ECC 89% 89% 17 - - - - - - 2 19
-PE-54A Mayeaux, Grant ECC 93% 93% 13 - - - - - - 1 14
-PE-54A Palmer, Grant ECC 95% 95% 21 - - - - - - 1 22
-PE-54A Roman, Danielle ECC 100% 100% 30 1 - - - - - - 31
-PE-54A Shaw, Stephen ECC 62% 62% 13 - - - - - - 8 21
-PE-54B Alvillar, Andrew ECC 90% 100% 5 4 - - - 1 - - 10
-PE-54B Arrache, Antonio ECC 100% 100% 5 - - - - - - - 5
-PE-54B Hall, John ECC 100% 100% 5 - - - - - - - 5
-PE-54B Mayeaux, Grant ECC 100% 100% 4 - 1 - - - - - 5
-PE-54B Palmer, Grant ECC 100% 100% 4 - - - - - - - 4
-PE-54B Roman, Danielle ECC 100% 100% 1 - - - - - - - 1
-PE-54B Shaw, Stephen ECC 71% 71% 5 - - - - - - 2 7
-PE-54C Alvillar, Andrew ECC 100% 100% 1 - - - - - - - 1
-PE-54C Arrache, Antonio ECC 100% 100% 1 - - - - - - - 1
-PE-54C Mayeaux, Grant ECC 100% 100% 4 - - - - - - - 4
-PE-54C Palmer, Grant ECC 100% 100% 3 - - - - - - - 3
-PE-54C Roman, Danielle ECC 100% 100% 11 - - - - - - - 11
-PE-54C Shaw, Stephen ECC 100% 100% 2 - - - - - - - 2
-PE-58ABC Rubke, Noah ECC 81% 81% 13 - - - - - - 3 16
-PE-60ABC Arrache, Antonio ECC 100% 100% 22 - - - - - - - 22
-PE-6ABC Palmer, Grant ECC 97% 97% 35 - - - - - - 1 36
-PE-70ABC Jacobson, Michael ECC 100% 100% 31 - - - - - - - 31
-PE-74A Barrera, Steven ECC 93% 100% 21 5 2 - 2 - - - 30
-PE-74A Jacobson, Michael ECC 93% 93% 24 2 1 - - - - 2 29
-PE-74B Barrera, Steven ECC 100% 100% 4 - - - - - - - 4
-PE-74B Jacobson, Michael ECC 75% 75% 2 - 1 - - - - 1 4
-PE-76ABC Hughley, Kevin ECC 96% 96% 22 1 1 - - - - 1 25
-PE-79 Dunn, Darin ECC 95% 95% 13 5 - - - - - 1 19
-PE-81ABC Wood, Casey ECC 96% 96% 22 - - - - - - 1 23
-PE-85ABC Rubke, Noah ECC 100% 100% 18 - - - - - - - 18
-PE-87ABC Haroldson, Shelby ECC 92% 92% 11 - - - - - - 1 12
-RC-170 Parker, Taryn ECC 74% 96% 5 8 7 - 2 4 - 1 27
-RC-172 De Sisto, Michael ECC 38% 96% 1 1 7 - 7 7 - 1 24
-RC-172 Parker, Taryn ECC 38% 96% 1 1 7 - 7 7 - 1 24
-RC-174 De Sisto, Michael ECC 57% 91% 1 9 3 - 4 4 - 2 23
-RC-178 Mekaru, Roy ECC 47% 94% 1 2 5 - 3 5 - 1 17
-RC-282 Parker, Taryn ECC 71% 94% 1 4 7 - 3 1 - 1 17
-RC-288 Adoc, Raymund ECC 94% 94% 1 14 1 - - - - 1 17
-RC-288 Mekaru, Roy ECC 94% 94% 1 14 1 - - - - 1 17
-RC-289 Parker, Taryn ECC 100% 100% 12 - - - - - - - 12
-RC-296 Mekaru, Roy ECC 100% 100% 3 9 - - - - - - 12
-RC-297 Mekaru, Roy ECC 92% 100% 3 9 - - - 1 - - 13
-RC-298 De Sisto, Michael ECC 100% 100% 1 11 - - - - - - 12
-RTEC-107 Banks-Carson, Sivi ECC 100% 100% 10 - - 1 - - - - 11
-RTEC-107 Bradshaw, Jeffrey ECC 100% 100% 10 - - 1 - - - - 11
-RTEC-107 Butao, Lesley ECC 100% 100% 8 1 - 1 - - - - 10
-RTEC-107 Felix, Alex ECC 100% 100% 8 1 - 1 - - - - 10
-RTEC-107 Lopez, Kathleen ECC 100% 100% 8 1 - 1 - - - - 10
-RTEC-107 Luna, Rosa ECC 100% 100% 10 - - 1 - - - - 11
-RTEC-107 Perez, Michele ECC 100% 100% 18 1 - 2 - - - - 21
-RTEC-107 Rodriguez, Ruth ECC 100% 100% 10 - - 1 - - - - 11
-RTEC-107 Shrestha, Sheetal ECC 100% 100% 8 1 - 1 - - - - 10
-RTEC-107 Villa, Eric ECC 100% 100% 18 1 - 2 - - - - 21
-RTEC-124 Luna, Rosa ECC 100% 100% 13 8 - - - - - - 21
-RTEC-218 Butao, Lesley ECC 100% 100% 20 1 - 1 - - - - 22
-RTEC-218 Hussain, Naveed ECC 100% 100% 20 1 - 1 - - - - 22
-RTEC-218 Lopez, Rosa ECC 100% 100% 20 1 - 1 - - - - 22
-RTEC-218 Pascua, Mark ECC 100% 100% 20 1 - 1 - - - - 22
-RTEC-218 Perez, Michele ECC 100% 100% 20 1 - 1 - - - - 22
-RTEC-218 Villa, Eric ECC 100% 100% 20 1 - 1 - - - - 22
-RTEC-255 Villa, Eric ECC 100% 100% 21 1 - - - - - - 22
-RTEC-91 Perez, Michele ECC 100% 100% 19 3 - - - - - - 22
-RTEC-93 Villa, Eric ECC 100% 100% 16 5 - - - - - - 21
-RTEC-A Luna, Rosa ECC 65% 78% 15 6 3 - 1 4 - 8 37
-RTEC-A Perez, Michele ECC 67% 85% 7 8 7 - 3 3 - 5 33
-RTEC-A Villa, Eric ONLIN 45% 74% 3 6 5 - 5 4 - 8 31
-CHIN-1 Wu, Xiaowen HYBRD 81% 81% 14 3 4 - - - - 5 26
-CHIN-1 Zhao, Hailiang HSDUL 92% 92% 23 8 3 - - - - 3 37
-ENGL-15A Henson, Chelsea ECC 74% 89% 7 9 4 - - 4 - 3 27
-ENGL-1A Acosta, Joaquin ECC 62% 90% 4 5 9 - 3 5 - 3 29
-ENGL-1A Ali, Jawad ONLIN 63% 95% 20 13 5 - - 19 - 3 60
-ENGL-1A Annick, Jennifer HYBRD 96% 96% 38 10 7 - - - - 2 57
-ENGL-1A Arehart, Robin ECC 66% 76% 19 12 10 - 1 5 - 15 62
-ENGL-1A Bostick, Jason ECC 32% 68% 5 4 11 - 21 - 1 20 62
-ENGL-1A Brenes, Erica ECC 44% 89% 7 3 2 - 1 11 - 3 27
-ENGL-1A Campbell, Lauren ONLIN 50% 93% 6 5 4 - - 13 - 2 30
-ENGL-1A Castillo, Judith ONLIN 28% 76% 2 2 3 - 3 9 - 6 25
-ENGL-1A Cerofeci, Rose ECC 80% 97% 11 30 6 - 5 5 - 2 59
-ENGL-1A Checa, Yesenia ECC 54% 77% 2 10 7 - - 8 - 8 35
-ENGL-1A Cheung, Matthew HYBRD 57% 73% 10 14 8 - 2 7 - 15 56
-ENGL-1A Cliett, Victoria ONLIN 50% 79% 3 3 5 1 - 7 - 5 24
-ENGL-1A Cody, Thomas ECC 52% 71% 7 2 7 - 2 4 - 9 31
-ENGL-1A Crotwell, Dana HYBRD 86% 88% 30 10 10 - 1 - - 7 58
-ENGL-1A Degnan, Kevin ECC 66% 86% 9 7 3 - 2 4 - 4 29
-ENGL-1A Diaz, David ONLIN 46% 88% 4 5 1 2 - 11 - 3 26
-ENGL-1A Donnell, Sean ECC 62% 93% 10 6 2 - - 5 4 2 29
-ENGL-1A Douglas, Jeffrey ONLIN 41% 96% 4 4 3 - 1 14 - 1 27
-ENGL-1A Findlay, Alexa ECC 55% 91% 9 6 3 - 1 11 - 3 33
-ENGL-1A Gallagher, Jennifer ECC 93% 97% 15 9 3 - 1 - - 1 29
-ENGL-1A Gates, Suzanne HYBRD 59% 97% 25 7 4 - 4 19 - 2 61
-ENGL-1A Gray, Sarah ONLIN 35% 74% 2 5 1 - - 9 - 6 23
-ENGL-1A Greuel, Jamie ONLIN 37% 73% 2 4 5 - 2 9 - 8 30
-ENGL-1A Grimshaw, Tucker ONLIN 37% 100% 4 3 - - 1 11 - - 19
-ENGL-1A Hall, Joanne ONLIN 64% 96% 15 1 2 - - 9 - 1 28
-ENGL-1A Harmon, Alika ECC 63% 85% 8 7 2 - - 6 - 4 27
-ENGL-1A Harrison, Mickey ONLIN 88% 100% 14 - 7 - - 3 - - 24
-ENGL-1A Hector, Jeremy HYBRD 18% 75% 5 - - - 1 15 - 7 28
-ENGL-1A Hennessee, Elice ONLIN 37% 70% 2 3 5 - 2 7 - 8 27
-ENGL-1A Henson, Chelsea HYBRD 54% 88% 5 12 15 - 5 15 - 7 59
-ENGL-1A Herdzina, Susan ONLIN 41% 73% 5 2 2 - 1 6 - 6 22
-ENGL-1A Hertweck, Nathan ONLIN 48% 100% 3 3 8 - - 14 1 - 29
-ENGL-1A Hong, Lyman ECC 63% 81% 19 20 17 - 3 12 1 17 89
-ENGL-1A Husain, Nida ONLIN 39% 57% 2 3 6 - 2 3 - 12 28
-ENGL-1A Huynh, Tiffany ONLIN 71% 83% 2 9 6 - 2 1 - 4 24
-ENGL-1A Isaacs, Brent ONLIN 28% 68% 3 4 8 - 3 18 - 17 53
-ENGL-1A Jalloh, Katrina ONLIN 54% 82% 3 5 7 - 3 5 - 5 28
-ENGL-1A Jensen, Zachary ONLIN 17% 79% 4 - - - - 15 - 5 24
-ENGL-1A Kelley, Elayne HYBRD 93% 100% 25 2 - - - 2 - - 29
-ENGL-1A Kirk, Angie ONLIN 35% 65% 4 7 3 - 2 10 - 14 40
-ENGL-1A Krizan, Kim ECC 75% 75% 7 4 10 - - - - 7 28
-ENGL-1A Leiby, Mary ONLIN 43% 82% 8 7 11 - - 20 3 11 60
-ENGL-1A Leinen, Sarah ONLIN 46% 54% 6 3 2 - - 2 - 11 24
-ENGL-1A Ludvigsen, Lindsay ONLIN 48% 94% 5 7 3 - 2 12 - 2 31
-ENGL-1A Magnesi, Miles HSDUL 93% 97% 15 7 5 - 1 - - 1 29
-ENGL-1A Marcoux, Peter ECC 89% 96% 29 14 6 - 3 1 - 2 55
-ENGL-1A Margrave, Clinton ONLIN 78% 95% 22 20 7 - 5 6 - 3 63
-ENGL-1A Mattern, Mora ECC 85% 96% 20 2 - - - 3 - 1 26
-ENGL-1A McMahon, Jeffrey HYBRD 76% 92% 27 12 6 - - 9 - 5 59
-ENGL-1A Merz, Stephanie HYBRD 65% 86% 6 13 18 - 5 7 - 8 57
-ENGL-1A Millea, John ONLIN 67% 85% 19 10 8 - 1 9 - 8 55
-ENGL-1A Moulton, Renee ECC 43% 63% 7 4 2 - - 6 - 11 30
-ENGL-1A Nagao, Christina ECC 83% 90% 16 7 2 - - 2 - 3 30
-ENGL-1A Ochoa, Shane HYBRD 66% 89% 26 13 1 - 3 11 - 7 61
-ENGL-1A Otsuji, Sumino HYBRD 54% 86% 1 7 7 - 1 8 - 4 28
-ENGL-1A Page, Christopher ECC 58% 88% 12 4 3 - 3 6 1 4 33
-ENGL-1A Panto, Danielle ONLIN 29% 52% 4 4 6 - 5 6 - 23 48
-ENGL-1A Passman, Alan ONLIN 31% 94% 2 2 1 - 2 8 - 1 16
-ENGL-1A Patel, Aachal ECC 45% 94% 1 5 8 - 2 13 - 2 31
-ENGL-1A Patton, Katherine ONLIN 40% 67% 2 6 4 - 3 5 - 10 30
-ENGL-1A Peluso, Stephen ECC 43% 70% 2 8 3 - 1 7 - 9 30
-ENGL-1A Peppard, Bruce ECC 86% 90% 7 11 7 - 1 - - 3 29
-ENGL-1A Phillips, Claire ONLIN 57% 86% 13 3 - - - 8 - 4 28
-ENGL-1A Phillips, Lana ONLIN 66% 78% 16 10 7 - - 6 - 11 50
-ENGL-1A Reyes, Michael ONLIN 90% 100% 18 5 3 - 2 1 - - 29
-ENGL-1A Ritchie, Ryan ONLIN 50% 77% 4 6 1 - - 6 - 5 22
-ENGL-1A Russo, Salvatore ONLIN 67% 100% 6 3 1 - 1 4 - - 15
-ENGL-1A Sandor, Jane HYBRD 77% 96% 24 13 6 - - 11 - 2 56
-ENGL-1A Sandowicz, Ryan ECC 14% 71% 1 - 2 - 4 7 1 6 21
-ENGL-1A Sharifi, Amir ECC 63% 94% 13 7 2 - - 11 - 2 35
-ENGL-1A Sharp, Adrienne ONLIN 83% 87% 32 24 13 1 2 1 - 11 84
-ENGL-1A Shaw, Jocelyn HYBRD 79% 97% 5 7 11 - 4 1 - 1 29
-ENGL-1A Sullivan, Kamisha ONLIN 48% 64% 6 5 1 - - 4 - 9 25
-ENGL-1A Takamine, Eric ECC 66% 81% 3 14 4 - - 2 3 6 32
-ENGL-1A Thompson, Darrell ECC 71% 96% 5 8 7 - 1 6 - 1 28
-ENGL-1A Walker, Elizabeth ONLIN 59% 73% 14 7 3 - - 6 - 11 41
-ENGL-1A Wright, Terry ECC 83% 87% 13 5 7 - - 1 - 4 30
-ENGL-1AH Burnham, Stephanie ONLIN 92% 96% 20 3 - - - 1 - 1 25
-ENGL-1AH Davies, Agnes ECC 86% 91% 10 6 3 - - 1 - 2 22
-ENGL-1AH Lamborn, Sanam ECC 100% 100% 13 7 1 - - - - - 21
-ENGL-1AH Mattern, Mora ONLIN 92% 96% 23 1 - - - 1 - 1 26
-ENGL-1AH Williams, Rachel HYBRD 89% 93% 8 14 2 - - 1 - 2 27
-ENGL-1B Crotwell, Dana HYBRD 56% 59% 8 5 2 - - 1 - 11 27
-ENGL-1B Gallagher, Jennifer ONLIN 74% 74% 12 4 1 - - - - 6 23
-ENGL-1B Page, Christopher ONLIN 68% 84% 9 7 1 - 1 3 - 4 25
-ENGL-1B Shaw, Jocelyn HYBRD 65% 90% 9 6 5 - 3 5 - 3 31
-ENGL-1B Williams, Rachel ONLIN 58% 88% 7 7 1 - 1 7 - 3 26
-ENGL-1BH Leiby, Mary HYBRD 88% 92% 14 7 - - - - 1 2 24
-ENGL-1C Annick, Jennifer ONLIN 56% 73% 11 11 7 - 4 5 - 14 52
-ENGL-1C Cerofeci, Rose ONLIN 58% 76% 12 6 14 - 1 9 - 13 55
-ENGL-1C Cheung, Matthew ECC 71% 83% 10 16 19 - - 7 - 11 63
-ENGL-1C Cody, Thomas HYBRD 47% 60% 5 7 2 - 3 1 - 12 30
-ENGL-1C Donnell, Sean ECC 66% 91% 25 14 4 - 1 9 6 6 65
-ENGL-1C Gates, Suzanne ONLIN 63% 90% 16 8 1 - 2 9 - 4 40
-ENGL-1C Hall, Joanne ONLIN 71% 90% 18 2 2 - - 6 - 3 31
-ENGL-1C Henson, Chelsea ECC 69% 93% 2 8 10 - 1 6 - 2 29
-ENGL-1C Husain, Nida ECC 65% 81% 5 3 9 - 2 2 - 5 26
-ENGL-1C Imbarus, Aura ONLIN 71% 90% 17 14 5 - 1 9 - 5 51
-ENGL-1C Kelley, Elayne HYBRD 60% 90% 16 1 1 - - 9 - 3 30
-ENGL-1C Marcoux, Peter ONLIN 52% 66% 8 13 8 - 1 7 - 19 56
-ENGL-1C McMahon, Jeffrey ONLIN 90% 90% 42 7 8 - - - - 6 63
-ENGL-1C Ochoa, Shane ONLIN 64% 84% 33 3 1 - 1 11 - 9 58
-ENGL-1C Peppard, Bruce HYBRD 97% 100% 8 14 7 - - 1 - - 30
-ENGL-1C Phillips, Claire ONLIN 77% 87% 16 5 2 - - 2 1 4 30
-ENGL-1C Reyes, Michael HYBRD 83% 93% 15 7 2 - - 3 - 2 29
-ENGL-1C Runkle, Kim ONLIN 54% 83% 7 14 7 - 6 9 - 9 52
-ENGL-1C Sandor, Jane ONLIN 71% 88% 20 18 4 - - 8 2 7 59
-ENGL-1CH Burnham, Stephanie HYBRD 96% 96% 21 2 2 - - - - 1 26
-ENGL-1CH Cody, Thomas HYBRD 88% 88% 9 10 4 - - - - 3 26
-ENGL-23A McDermit, Michael ONLIN 67% 74% 15 1 2 - - 2 - 7 27
-ENGL-24A Crotwell, Dana HYBRD 62% 77% 9 4 3 - 1 3 - 6 26
-ENGL-25A Gallagher, Jennifer ONLIN 81% 85% 19 2 - - 1 - - 4 26
-ENGL-31 Peppard, Bruce ONLIN 67% 77% 7 12 7 - 3 1 - 9 39
-ENGL-35 Isaacs, Brent ONLIN 56% 66% 5 8 5 - 2 1 - 11 32
-ENGL-40A Cody, Thomas HYBRD 77% 80% 5 12 10 - - 1 - 7 35
-ENGL-43 Shaw, Jocelyn HYBRD 56% 90% 15 4 3 - 6 5 2 4 39
-ENGL-78 Krizan, Kim ECC 91% 91% 17 2 1 - - - - 2 22
-ESL-51A Mochidome, Debra HYBRD 58% 67% 4 2 1 - - 1 - 4 12
-ESL-51B Mochidome, Debra HYBRD 82% 82% 4 3 2 - - - - 2 11
-ESL-51C Geraghty, Elise HYBRD 82% 82% 10 3 1 - - - - 3 17
-ESL-52A Loya, Rebecca ECC 67% 86% 8 4 2 - 3 1 - 3 21
-ESL-52B Carr, Allison ECC 75% 81% 6 3 3 - 1 - - 3 16
-ESL-52B Simon, Jenny HYBRD 78% 91% 8 6 4 - 1 2 - 2 23
-ESL-52C Simon, Jenny HYBRD 67% 87% 5 3 2 - 1 2 - 2 15
-ESL-53A Loya, Rebecca ECC 88% 94% 6 5 3 - 1 - - 1 16
-ESL-53B Geraghty, Elise HYBRD 77% 86% 10 6 1 - 2 - - 3 22
-ESL-53C Carr, Allison HYBRD 57% 86% 5 2 1 - 3 1 - 2 14
-ESL-53C Geraghty, Elise ECC 71% 86% 5 4 6 - 3 - - 3 21
-ESL-53C Simon, Jenny HYBRD 87% 93% 5 6 2 - - 1 - 1 15
-FREN-1 Class, Alicia ONLIN 41% 50% 2 6 - 1 1 1 - 11 22
-FREN-1 Gard, Andrew HYBRD 68% 79% 13 6 7 - 1 3 - 8 38
-FREN-2 Gard, Andrew ONLIN 85% 93% 18 4 1 - - 2 - 2 27
-FREN-3 Gard, Andrew ONLIN 88% 88% 12 2 - - - - - 2 16
-GERM-1 Hooper, Lawrence ONLIN 61% 87% 21 2 - - - 10 - 5 38
-HUMA-1 Lewitzki, Rhea ONLIN 84% 89% 43 13 12 - 1 3 - 9 81
-HUMA-1 Thompson, Darrell HYBRD 72% 93% 9 6 6 - 1 5 - 2 29
-ITAL-1 Kemitch, Francesca ONLIN 50% 65% 13 8 2 - - 7 - 16 46
-ITAL-1 Pescatori, Rossella ONLIN 44% 53% 10 4 - - - 3 - 15 32
-ITAL-24 Pescatori, Rossella ONLIN 56% 59% 13 1 1 - 1 - - 11 27
-JAPA-1 Kitazono, Yuka ONLIN 56% 73% 23 9 3 - 3 7 - 17 62
-JAPA-1 Sato, Aiko ECC 54% 89% 13 1 5 - 3 9 - 4 35
-JAPA-1 Takemori, Kanzo HYBRD 55% 73% 14 3 1 - - 6 - 9 33
-JAPA-1 Yoshida, Nina ECC 55% 60% 12 6 4 - 2 - - 16 40
-JAPA-2 Lopez, Mari ONLIN 59% 69% 11 3 5 - 1 2 - 10 32
-JAPA-2 Yoshida, Nina ECC 84% 88% 15 3 3 - - - 1 3 25
-JAPA-21 Ahn, Rebecca ECC 77% 85% 8 2 - - - 1 - 2 13
-JAPA-22 Ahn, Rebecca ECC 100% 100% 2 1 - 1 - - - - 4
-JAPA-3 Yoshida, Nina ECC 87% 91% 13 7 - - - - 1 2 23
-JOUR-1 McLaughlin, Kate ECC 41% 81% 10 1 4 - 1 14 - 7 37
-JOUR-12 McLaughlin, Kate ONLIN 55% 83% 12 10 4 - 7 6 - 8 47
-JOUR-6 Thomas, Quang ECC 73% 82% 5 2 1 - - 1 - 2 11
-JOUR-7AB Thomas, Quang ECC 100% 100% 1 - - - - - - - 1
-JOUR-8 Frith, Stefanie ONLIN 67% 83% 1 2 1 - - 1 - 1 6
-JOUR-9ABCD Frith, Stefanie ECC 91% 100% 3 5 2 - - 1 - - 11
-NESL-53A Loya, Rebecca ECC 50% 100% 1 1 - - 2 - - - 4
-NESL-53C Carr, Allison HYBRD 92% 100% 7 3 1 - - 1 - - 12
-SLAN-111 Friedman, Rachel ECC 79% 93% 9 7 6 - 1 3 - 2 28
-SLAN-111 Gough, Timothy HYBRD 67% 93% 7 7 6 - 1 7 - 2 30
-SLAN-111 Teh, Poh-Gaik ECC 64% 88% 4 8 4 - 1 5 - 3 25
-SLAN-112 Gough, Timothy ECC 59% 82% 6 4 - - 1 3 - 3 17
-SLAN-113 Gough, Timothy ECC 60% 80% 5 5 2 - - 4 - 4 20
-SLAN-113 Khorsandi, Shmuel ECC 86% 93% 8 4 - - - 1 - 1 14
-SLAN-234 Bartiromo, Sandra ECC 100% 100% 6 1 2 - - - - - 9
-SPAN-1 Barrio de ONLIN 55% 65% 21 13 7 - 3 4 - 26 74
-SPAN-1 Class, Alicia HYBRD 71% 76% 9 11 4 - 1 1 - 8 34
-SPAN-1 Moina, Andres ECC 39% 52% 10 11 6 - 1 8 - 33 69
-SPAN-1 Prada, Claudia ONLIN 72% 86% 19 1 1 - - 4 - 4 29
-SPAN-1 36% 92% 4 1 4 - 1 13 - 2 25
-SPAN-10 Andrade, Argelia ONLIN 74% 95% 8 1 5 - 1 3 - 1 19
-SPAN-2 Andrade, Argelia HYBRD 79% 86% 15 1 6 - - 2 - 4 28
-SPAN-2 Prada, Claudia ONLIN 92% 97% 18 16 2 - - 2 - 1 39
-SPAN-21 Barrio de ECC 91% 91% 9 1 - - - - - 1 11
-SPAN-22 Barrio de ECC 100% 100% 1 - - - - - - - 1
-SPAN-3 Andrade, Argelia ONLIN 74% 91% 21 4 - - - 6 - 3 34
-SPAN-52A Andrade, Argelia HYBRD 68% 80% 17 5 5 - 1 4 - 8 40
-ACR-21 Shute, Stephen ECC 67% 91% 12 4 6 - 1 7 - 3 33
-ACR-23 Bethel, Vincent ECC 71% 100% 2 3 - - - 2 - - 7
-ACR-25 Robinson, Kenneth ECC 83% 92% 2 8 - - - 1 - 1 12
-ACR-27 Der-Antonian, Henry HYBRD 100% 100% 5 5 2 - - - - - 12
-ACR-5 Der-Antonian, Henry HYBRD 69% 97% 3 16 6 - - 10 - 1 36
-ACR-6 Der-Antonian, Henry HYBRD 89% 89% 9 19 3 - - - - 4 35
-ACR-61 Bethel, Vincent ECC 73% 94% 13 9 2 - - 7 - 2 33
-ACRP-3A Paguyo, Rodney ECC 90% 95% 14 2 2 - - 1 - 1 20
-ACRP-3B Paguyo, Rodney ECC 100% 100% 17 - - - - - - - 17
-ACRP-4A Kooiman, Brent ECC 92% 92% 21 1 2 - - - - 2 26
-ACRP-4C Fairchild, Patricia ECC 81% 100% 9 3 5 - 1 3 - - 21
-ACRP-5B Magana, German ECC 86% 90% 24 11 1 - - 2 - 4 42
-ACRP-5C Fairchild, Patricia ECC 39% 100% 6 1 2 - 1 13 - - 23
-ACRP-5D Alcaraz Munoz, Saul ECC 96% 100% 19 3 - - 1 - - - 23
-ACRP-99 Fairchild, Patricia ECC 100% 100% 1 - - - - - - - 1
-ARCH-100 Greas, Mina ONLIN 85% 89% 30 7 2 - - 2 - 5 46
-ARCH-104 Johnson, Margaret ECC 95% 95% 14 4 - - - - - 1 19
-ARCH-107 Song, Richard ECC 80% 84% 11 23 15 - 2 - - 10 61
-ARCH-119 Jacobs, Reuben ECC 58% 74% 9 5 4 - 2 3 - 8 31
-ARCH-121 Mera, Henry ECC 89% 93% 18 3 1 2 1 - - 2 27
-ARCH-149 Garcia, Gary ECC 68% 82% 2 9 8 - - 4 - 5 28
-ARCH-149 Yeber, Marc ECC 93% 93% 4 14 7 - - - - 2 27
-ARCH-170 Echerri, Olga HSDUL 86% 100% 25 6 1 - - 5 - - 37
-ARCH-170 Johnson, Margaret ECC 86% 86% 19 3 2 - - - - 4 28
-ARCH-170 Richardson, Daniel ECC 67% 77% 16 3 1 - 1 2 - 7 30
-ARCH-171 Echerri, Olga ECC 68% 89% 6 4 3 - 1 3 - 2 19
-ARCH-251 Richardson, Daniel ECC 73% 82% 12 4 - - 2 - - 4 22
-ARCH-252 Richardson, Daniel ECC 100% 100% 5 3 1 - - - - - 9
-ARCH-258 Segovia, Felipe ECC 69% 85% 5 2 2 - 2 - - 2 13
-ATEC-1 Duque, Jeremy ECC 50% 77% 1 6 6 - 1 6 - 6 26
-ATEC-1 Wong, David ECC 52% 90% 8 5 2 - 4 7 - 3 29
-ATEC-14 Duque, Jeremy ECC 96% 100% 11 11 3 - 1 - - - 26
-ATEC-16 Wong, David ECC 84% 100% 16 8 3 - 1 4 - - 32
-ATEC-22B Anderson, Michael ECC 88% 94% 6 6 3 - - 1 - 1 17
-ATEC-23 Duque, Jeremy ECC 85% 88% 5 9 8 - - 1 - 3 26
-ATEC-25 Wong, David ECC 81% 92% 4 11 6 - 1 2 - 2 26
-ATEC-27 Anderson, Michael ECC 71% 79% 2 6 2 - - 1 - 3 14
-ATEC-34 Matykiewicz, Edward ECC 74% 94% 4 11 8 - 5 1 - 2 31
-ATEC-35 Matykiewicz, Edward ECC 93% 100% 6 15 7 - 2 - - - 30
-ATEC-43 Jackson, Robert ECC 86% 96% 15 5 4 - 1 2 - 1 28
-CADD-45 Bakalyar, Allen ECC 57% 83% 5 4 4 - - 6 - 4 23
-CADD-5 Phamdo, Dangvinh ECC 94% 100% 26 3 1 - - 2 - - 32
-CADD-7 Bakalyar, Allen ONLIN 78% 91% 14 2 2 - 2 1 - 2 23
-COSM-10 Tran, Bruce HYBRD 88% 94% 5 6 3 - - 1 - 1 16
-COSM-11 Tran, Bruce HYBRD 89% 100% 3 3 2 - - 1 - - 9
-COSM-20 Baskin-Cornelius, Donne HYBRD 94% 94% 8 5 2 - - - - 1 16
-COSM-20 Nguyen, Trinity HYBRD 95% 95% 6 8 5 - - - - 1 20
-COSM-2A Brewer Smith, Charlene HYBRD 93% 100% 9 3 2 - 1 - - - 15
-COSM-2A Cooper, Michelle HYBRD 93% 100% 9 3 2 - 1 - - - 15
-COSM-2A Finn Valentine, Linda HYBRD 93% 100% 9 3 2 - 1 - - - 15
-COSM-2A Lucero, Jeannette HYBRD 90% 100% 5 3 1 - 1 - - - 10
-COSM-2A Nishihira, Linda HYBRD 71% 86% 2 2 1 - 1 - - 1 7
-COSM-2A Youn, Yumi HYBRD 71% 86% 2 2 1 - 1 - - 1 7
-COSM-2B Brewer Smith, Charlene HYBRD 100% 100% 6 2 6 - - - - - 14
-COSM-2B Cooper, Michelle HYBRD 100% 100% 6 2 6 - - - - - 14
-COSM-2B Finn Valentine, Linda HYBRD 100% 100% 6 2 6 - - - - - 14
-COSM-2B Lucero, Jeannette HYBRD 100% 100% 6 2 6 - - - - - 14
-COSM-2B Youn, Yumi HYBRD 91% 100% 6 3 1 - - 1 - - 11
-COSM-2C Brewer Smith, Charlene HYBRD 91% 100% 9 6 6 - 1 1 - - 23
-COSM-2C Cooper, Michelle HYBRD 91% 100% 9 6 6 - 1 1 - - 23
-COSM-2C Finn Valentine, Linda HYBRD 91% 100% 9 6 6 - 1 1 - - 23
-COSM-2C Lucero, Jeannette HYBRD 93% 100% 7 3 3 - - 1 - - 14
-COSM-2C Youn, Yumi HYBRD 100% 100% 4 1 3 - - - - - 8
-COSM-2D Brewer Smith, Charlene HYBRD 78% 89% 3 3 1 - - 1 - 1 9
-COSM-2D Cooper, Michelle HYBRD 78% 89% 3 3 1 - - 1 - 1 9
-COSM-2D Finn Valentine, Linda HYBRD 78% 89% 3 3 1 - - 1 - 1 9
-COSM-2D Lucero, Jeannette HYBRD 78% 89% 3 3 1 - - 1 - 1 9
-COSM-2D Youn, Yumi HYBRD 67% 100% 1 1 - - - 1 - - 3
-COSM-99 Brewer Smith, Charlene ECC 100% 100% 2 - - - - - - - 2
-CTEC-100 Durand, Ross ECC 100% 100% 17 4 - - - - - - 21
-CTEC-100 Galt, Douglas HSDUL 83% 91% 11 4 4 - - - 2 2 23
-CTEC-131 Pena, Maximino ECC 67% 100% 1 7 2 - 2 3 - - 15
-CTEC-142 Ortiz, Oscar ECC 68% 92% 3 7 7 - 6 - - 2 25
-CTEC-172 Durand, Ross ECC 95% 100% 14 3 4 - - 1 - - 22
-CTEC-180 Durand, Ross ECC 100% 100% 12 7 6 - - - - - 25
-CTEC-200 Selph, Jack ECC 91% 91% 14 4 3 - - - - 2 23
-CTEC-201 Selph, Jack ECC 74% 74% 10 4 3 - - - - 6 23
-CTEC-202 Selph, Jack ECC 70% 74% 13 1 2 - - 1 - 6 23
-CTEC-203 Selph, Jack ECC 87% 91% 9 5 6 - 1 - - 2 23
-CTEC-210 Selph, Jack ECC 91% 91% 19 1 - - - - - 2 22
-ECHT-11 Bhargave, Supriya ECC 79% 96% 7 10 2 - 2 2 - 1 24
-ECHT-11 Runas, Arnulfo ECC 69% 96% 11 4 3 - 1 6 - 1 26
-ECHT-110 Runas, Arnulfo ECC 88% 94% 11 3 - - 1 - - 1 16
-ECHT-120 Runas, Arnulfo ECC 88% 96% 17 3 1 - 1 1 - 1 24
-ECHT-124 Bhargave, Supriya ECC 88% 96% 7 13 3 - 2 - - 1 26
-ECHT-130 Bhargave, Supriya ECC 83% 100% 5 4 1 - 2 - - - 12
-ECHT-140 Akhigbe, Paul ECC 90% 100% 18 1 - - 1 1 - - 21
-ECHT-146 Akhigbe, Paul ECC 73% 73% 8 - - - - - - 3 11
-ETEC-10 Carlson, Eric ECC 47% 58% 5 3 1 - - 2 - 8 19
-ETEC-12 Valladares, Daniel ECC 58% 92% 12 2 - - - 8 - 2 24
-ETEC-15 Al Sheyab, Ahmed ECC 88% 88% 5 2 - - - - - 1 8
-FASH-1 Griffin, Christopher ECC 50% 79% 9 5 - - 1 7 - 6 28
-FASH-10 Ashley, Vera ECC 33% 67% 5 6 4 1 2 10 5 16 49
-FASH-10 Ratcliff, Priscilla HSDUL 97% 100% 20 10 1 - 1 - - - 32
-FASH-15 Baizer, Gayle ECC 78% 96% 17 1 - - - 4 - 1 23
-FASH-18 Baizer, Gayle ECC 88% 88% 7 - - - - - - 1 8
-FASH-20 Kim, Hyo ECC 85% 96% 11 9 2 - 1 2 - 1 26
-FASH-23 Ratcliff, Priscilla ECC 75% 75% 5 1 - - - - - 2 8
-FASH-26A Hoover, William ECC 90% 95% 14 3 1 - - 1 - 1 20
-FASH-27 Warren, Shirley ECC 67% 95% 7 5 2 - - 6 - 1 21
-FASH-31 Goodwin, Belinda ONLIN 62% 69% 4 7 5 - 1 1 - 8 26
-FASH-35 Ashley, Vera LIVEO 32% 48% 2 2 3 1 - 1 3 13 25
-FASH-4 Owens, Annette ECC 67% 94% 6 3 3 - - - 5 1 18
-FASH-41 Ashley, Vera LIVEO 56% 67% 7 6 2 - - 1 2 9 27
-FASH-95 Ashley, Vera ECC 100% 100% 1 - - 1 - - - - 2
-MTT-101 Carlson, Eric ECC 87% 93% 4 6 3 - - 1 - 1 15
-MTT-101 Salcedo, Luis ECC 73% 91% 4 3 1 - 1 1 - 1 11
-MTT-105 Carlson, Eric ECC 88% 100% 2 5 - - 1 - - - 8
-MTT-107 VanOverbeck, Michael ECC 78% 96% 12 3 3 - 1 3 - 1 23
-MTT-10A DeLaTorre, Victor ECC 91% 100% 17 1 3 - - 2 - - 23
-MTT-10K DeLaTorre, Victor ECC 90% 100% 7 2 - - - 1 - - 10
-MTT-16 Hofmann, Harold ECC 79% 89% 7 5 3 - - 2 - 2 19
-MTT-2 Monzello, Timothy ECC 74% 100% 6 6 2 - 1 4 - - 19
-NUTR-110 Bremen, Myra ONLIN 72% 80% 48 22 11 - 4 5 - 23 113
-NUTR-110 Dekofsky, Brooke ONLIN 81% 85% 22 9 7 - - 2 - 7 47
-NUTR-110 Gray, Jill ONLIN 71% 84% 67 34 17 - 12 9 - 27 166
-NUTR-110 Lyons, Mary ONLIN 94% 94% 74 9 5 - - - - 6 94
-NUTR-110 Warren, Sue ONLIN 62% 85% 19 4 1 - 2 7 - 6 39
-WELD-10A Grcevic, Sydney ECC 74% 89% 13 6 1 - - 4 - 3 27
-WELD-10A Meek, Dylan ECC 100% 100% 14 5 2 1 - - - - 22
-WELD-10B Meek, Dylan ECC 92% 100% 9 9 5 - 1 1 - - 25
-WELD-15 Grcevic, Sydney ECC 95% 95% 13 4 3 - - - - 1 21
-WELD-20A Meek, Dylan ECC 85% 100% 8 7 7 - 3 1 - - 26
-WELD-23 Grcevic, Sydney ECC 100% 100% 27 - 3 - - - - - 30
-WELD-29 Meek, Dylan ECC 73% 90% 14 8 - - - 5 - 3 30
-WELD-40A Colin, Nicholas ECC 85% 92% 22 - - - - 2 - 2 26
-WELD-40C Colin, Nicholas ECC 100% 100% 12 - - - - - - - 12
-WELD-45 Sandoval Jaimes, Albert ECC 88% 96% 11 5 5 - - 2 - 1 24
-WELD-45 Meek, Dylan ECC 100% 100% 4 - - - - - - - 4
-LIBR-100 Bueno, Catherine HSDUL 85% 95% 23 9 3 - 2 2 - 2 41
-LIBR-100 Cooks, Linda ECC 80% 100% 15 8 9 - 2 6 - - 40
-LIBR-100 Jenkin, Camila ONLIN 44% 100% 4 - - - - 5 - - 9
-LIBR-110 Bueno, Catherine ECC 79% 100% 7 3 1 - - 3 - - 14
-CSCI-1 Diaz Valdovinos, Mathematical ECC 71% 75% 6 7 7 - 1 - - 7 28
-CSCI-1 Janani, Saeid ECC 85% 90% 30 3 - - 1 1 - 4 39
-CSCI-1 Matos, Victor ECC 50% 73% 10 5 5 - 1 8 - 11 40
-CSCI-1 Middler, Mitchell ECC 60% 76% 10 5 - - - 4 - 6 25
-CSCI-1 Nikjeh, Esmaail ECC 75% 83% 10 4 4 - - 2 - 4 24
-CSCI-1 Peiravi, Mehdi ONLIN 70% 91% 15 1 - - - 5 - 2 23
-CSCI-1 Tran, Vincent ECC 41% 79% 7 6 3 - 4 11 - 8 39
-CSCI-12 Ambrosio, Edwin ONLIN 69% 100% 3 5 1 - 1 3 - - 13
-CSCI-14 Tran, Vincent ECC 73% 95% 6 5 5 - 3 2 - 1 22
-CSCI-16 Ambrosio, Edwin ONLIN 73% 88% 20 18 5 - 1 8 - 7 59
-CSCI-17 Lackpour, Matin ECC 90% 90% 19 - - - - - - 2 21
-CSCI-2 Rattanasook, Hathairat ONLIN 97% 100% 20 8 2 - - 1 - - 31
-CSCI-2 Russell, Solomon ECC 31% 54% 11 8 8 1 1 17 2 41 89
-CSCI-3 Kalisch, Nicolai ONLIN 93% 93% 13 10 5 - - - - 2 30
-CSCI-3 Skorka, Evan ECC 87% 87% 6 3 4 - - - - 2 15
-CSCI-30 Ambrosio, Edwin ECC 80% 96% 9 7 4 - - 4 - 1 25
-CSCI-7 Wood, Julie ONLIN 36% 68% 5 3 1 - - 8 - 8 25
-CSCI-8 Niu, Kun HYFLX 65% 78% 12 1 2 - 1 2 - 5 23
-CSCI-99 Russell, Solomon ONLIN 100% 100% 1 - - - - - - - 1
-ENGR-1 Lackpour, Matin ECC 91% 91% 27 - 2 - - - - 3 32
-ENGR-1 Nagpal, Pavan ECC 66% 92% 36 24 13 - - 29 - 9 111
-ENGR-11 Nagpal, Pavan ECC 100% 100% 8 3 - - - - - - 11
-ENGR-12 Nagpal, Pavan ECC 100% 100% 11 - - - - - - - 11
-ENGR-9 Nagpal, Pavan ECC 86% 90% 12 7 6 - - 1 - 3 29
-MATH-110 Bucher, Susanne ECC 29% 62% 4 8 14 - 11 18 - 34 89
-MATH-116 Tummers Stocum, Susan ECC 86% 86% 2 3 1 - - - - 1 7
-MATH-120 Bucher, Susanne ECC 37% 74% 1 5 7 - 2 11 - 9 35
-MATH-120 Forbes, Junko ECC 73% 91% 8 12 4 - - 6 - 3 33
-MATH-120 Malouf, Terri ONLIN 53% 72% 8 6 3 - 2 4 - 9 32
-MATH-120 Mata, Matthew ECC 47% 73% 5 5 4 - 1 7 - 8 30
-MATH-120 Villalobos, Jose ECC 65% 68% 17 5 - - 1 - - 11 34
-MATH-120 Xu, May ECC 64% 79% 5 8 8 - 2 3 - 7 33
-MATH-140 Manikandan, Gayathri ONLIN 63% 70% 9 8 2 - 1 1 - 9 30
-MATH-140 Minasian, Ashod ONLIN 79% 90% 7 11 5 - 1 2 - 3 29
-MATH-150 Acuna-Acosta, Susana ONLIN 39% 88% 8 9 20 - 13 34 - 12 96
-MATH-150 Avila, Adalinda ECC 32% 47% 3 3 5 - 1 4 - 18 34
-MATH-150 Bayssa, Beyene ECC 38% 65% 5 3 5 - 1 8 - 12 34
-MATH-150 Dean, Christopher ECC 71% 82% 6 14 4 - - 4 - 6 34
-MATH-150 Eldanaf, Diaa ONLIN 55% 71% 9 18 31 - 15 2 - 31 106
-MATH-150 Forbes, Junko ONLIN 32% 59% 6 8 10 - 6 15 - 31 76
-MATH-150 Gui, Le ONLIN 54% 82% 13 22 14 - 8 17 - 16 90
-MATH-150 Huang, Carrie ECC 85% 97% 13 8 7 - 1 3 - 1 33
-MATH-150 Kjeseth, Lars ECC 70% 96% 6 4 30 - 13 2 - 2 57
-MATH-150 Martinez, Alice ECC 16% 26% 4 1 - - - 3 - 23 31
-MATH-150 Martinez, Arturo ECC 50% 69% 30 21 21 - 7 20 - 45 144
-MATH-150 Martinez, Ronald ONLIN 74% 81% 5 12 6 - 1 1 - 6 31
-MATH-150 Mitchell, Benjamin ONLIN 88% 94% 53 16 22 - 2 5 - 6 104
-MATH-150 Morales, Eduardo ONLIN 61% 84% 10 13 24 - 6 12 - 12 77
-MATH-150 Moreno, Kaysa ONLIN 34% 52% 8 8 6 - 3 8 1 31 65
-MATH-150 Nagpal, Pavan ECC 69% 92% 10 7 8 - 1 7 - 3 36
-MATH-150 Nguyen, Hang ECC 30% 64% 3 2 5 - 3 8 - 12 33
-MATH-150 Nguyen, Hoang ECC 57% 89% 7 6 7 - 5 6 - 4 35
-MATH-150 Numrich, Kristine HYBRD 45% 48% 5 6 4 - 1 - - 17 33
-MATH-150 Roeun, Malinni ECC 60% 77% 10 6 5 - 2 4 - 8 35
-MATH-150 Roque, Tatiana ECC 35% 82% 6 11 8 - 11 22 - 13 71
-MATH-150 Schult Roman, Catherine HYBRD 68% 74% 10 7 4 - - 2 - 8 31
-MATH-150 Song, Guoqiang ECC 64% 94% 9 8 4 - - 10 - 2 33
-MATH-150 Tucker, Mark ECC 54% 82% 9 18 11 - 2 18 - 13 71
-MATH-150H Marks, Zachary ECC 77% 80% 22 1 4 - - - 1 7 35
-MATH-165 Acuna-Acosta, Susana ECC 46% 57% 3 4 9 - - 4 - 15 35
-MATH-165 Mata, Matthew ECC 50% 63% 17 7 4 - 4 3 - 21 56
-MATH-165 Nguyen, Hang ECC 54% 88% 4 3 6 - 2 6 - 3 24
-MATH-170 Bateman, Michael ECC 30% 45% 2 3 5 - 1 4 - 18 33
-MATH-170 Hamza, Hamza ECC 48% 64% 2 7 7 - - 5 - 12 33
-MATH-170 Martinez, Jose HYBRD 57% 74% 19 11 10 - 3 9 - 18 70
-MATH-170 Martinez, Ronald ONLIN 57% 67% 8 8 1 - - 3 - 10 30
-MATH-170 Moreno, Kaysa ONLIN 44% 64% 5 6 5 - - 7 - 13 36
-MATH-170 Numrich, Kristine ONLIN 76% 90% 5 7 4 - - 3 - 2 21
-MATH-170 Pham, Ann ECC 15% 50% 4 4 2 - 1 21 1 33 66
-MATH-170 Tummers Stocum, Susan ECC 35% 62% 6 1 5 - 5 4 - 13 34
-MATH-170 Watson, Christina ECC 38% 51% 9 - 5 - 2 3 - 18 37
-MATH-180 Ho, Linda ECC 54% 69% 10 4 5 - - 5 - 11 35
-MATH-180 Martinez, Jose ECC 42% 64% 9 5 1 - 2 6 - 13 36
-MATH-180 Martinez, Ronald ECC 50% 74% 4 5 8 - 2 6 - 9 34
-MATH-180 Numrich, Kristine HYBRD 43% 71% 7 6 2 - 7 3 - 10 35
-MATH-180 Sims, Jacquelyn ECC 63% 74% 21 21 25 - 5 7 - 28 107
-MATH-180 Wang, Lijun ONLIN 72% 94% 19 18 9 - 2 12 - 4 64
-MATH-180 Watson, Christina ECC 57% 71% 6 7 7 - 2 3 - 10 35
-MATH-190 Barajas, Eduardo ECC 50% 64% 28 12 14 - 4 11 - 38 107
-MATH-190 Bateman, Michael ECC 34% 59% 3 5 3 - 1 7 - 13 32
-MATH-190 Cortez, Marilyn ECC 53% 77% 4 4 8 - 3 4 - 7 30
-MATH-190 Eleuteri, Robert ECC 36% 47% 8 5 8 - 2 5 - 31 59
-MATH-190 Gui, Le HYBRD 55% 85% 5 7 6 - 2 8 - 5 33
-MATH-190 Hamza, Hamza HYBRD 38% 56% 1 6 5 - - 6 - 14 32
-MATH-190 Ho, Linda ECC 63% 82% 4 12 8 - 3 4 - 7 38
-MATH-190 Kondo, Kathleen HSDUL 100% 100% 38 25 4 - - - - - 67
-MATH-190 Mata, Matthew ONLIN 42% 53% 1 6 1 - - 2 - 9 19
-MATH-190 Moreno, Kaysa ECC 74% 85% 6 9 5 - 1 2 - 4 27
-MATH-190 Ng, Jasmine HYBRD 19% 50% 4 1 1 - 1 9 - 16 32
-MATH-190 Song, Guoqiang ONLIN 72% 86% 13 3 8 2 - 5 - 5 36
-MATH-190 Tummers Stocum, Susan ECC 34% 52% 7 9 8 - 5 8 - 34 71
-MATH-190 Villalobos, Jose HYBRD 70% 81% 13 8 5 - 4 - - 7 37
-MATH-190 Villareal, Oscar ECC 83% 100% 5 7 7 - 2 2 - - 23
-MATH-190 Wang, Lijun ECC 73% 88% 15 7 2 - 2 3 - 4 33
-MATH-191 Eleuteri, Robert ECC 32% 41% 4 7 7 - 1 4 - 33 56
-MATH-191 Fry, Gregory HYBRD 37% 50% 2 1 8 - 2 2 - 15 30
-MATH-191 Ho, Linda ECC 57% 89% 9 7 5 - 6 6 - 4 37
-MATH-191 Marks, Zachary ECC 85% 94% 12 12 5 - - 3 - 2 34
-MATH-191 Morales, Eduardo ECC 73% 87% 10 7 5 - - 4 - 4 30
-MATH-191 Ng, Jasmine ONLIN 71% 94% 10 20 17 - 8 7 - 4 66
-MATH-191 Villareal, Oscar ONLIN 79% 91% 8 14 5 - 3 1 - 3 34
-MATH-191 Yun, Paul ECC 41% 65% 3 8 4 - 4 5 - 13 37
-MATH-210 Eldanaf, Diaa ECC 56% 72% 4 4 2 - 3 - - 5 18
-MATH-210 Fry, Gregory ONLIN 50% 70% 5 4 6 - 2 4 - 9 30
-MATH-210 Yun, Paul ECC 73% 86% 12 8 7 - 4 1 - 5 37
-MATH-220 Fry, Gregory ECC 44% 74% 6 2 4 - 6 2 - 7 27
-MATH-220 Marks, Zachary ECC 83% 94% 10 12 7 - - 3 1 2 35
-MATH-220 Minasian, Ashod ECC 61% 82% 9 5 6 - - 7 - 6 33
-MATH-220 Yun, Paul ECC 72% 90% 11 9 8 - 2 5 - 4 39
-MATH-270 Kjeseth, Lars ECC 86% 90% 19 3 3 - 1 - - 3 29
-MATH-270 Minasian, Ashod ONLIN 90% 95% 33 21 3 - - 3 - 3 63
-MATH-270 Mitchell, Benjamin ECC 90% 93% 19 9 8 - 1 - - 3 40
-ANAT-30 Dobbs, Mia ONLIN 92% 100% 21 8 4 - - 3 - - 36
-ANAT-30 Janicki, Julie ECC 69% 87% 14 4 9 - 2 5 - 5 39
-ANAT-30 Mubarak, Merium ONLIN 57% 87% 3 7 3 - 4 3 - 3 23
-ANAT-30 Oswald, Sanda ONLIN 89% 97% 32 1 1 - - 3 - 1 38
-ANAT-30 Pasala, Sumana ONLIN 67% 87% 6 12 2 - - 6 - 4 30
-ANAT-32 Abbani, Cheryl ECC 86% 90% 9 9 7 - 1 - - 3 29
-ANAT-32 Bui, Thanh-Thuy ECC 36% 51% 11 5 8 - 3 7 - 33 67
-ANAT-32 Le, Octavian HYBRD 50% 56% 8 7 1 - 1 1 - 14 32
-ANAT-32 Majewski, Adam ECC 59% 68% 5 8 9 - 2 1 - 12 37
-ANAT-32 Nagaya, Marie HYBRD 82% 91% 10 16 10 - 4 - - 4 44
-ANAT-32 Ramp, Travis ECC 59% 89% 6 7 9 - 2 9 - 4 37
-ANAT-32 Reonisto, Peter ECC 95% 100% 24 10 2 - 2 - - - 38
-ANAT-32 Valle, Anne ECC 56% 64% 7 7 8 - - 3 - 14 39
-APHY-34A Huynhle, Marvin ECC 74% 87% 12 12 5 - 2 3 - 5 39
-APHY-34A Ramp, Travis ECC 73% 85% 7 8 9 - 2 2 - 5 33
-APHY-34B Dobbs, Mia ECC 84% 90% 38 15 6 - 4 - - 7 70
-ASTR-12 Rodriguez, Azul ECC 54% 86% 10 4 17 - 17 1 - 8 57
-ASTR-15 Coroneus, John ECC 57% 81% 4 4 4 - - 5 - 4 21
-ASTR-20 Rodriguez, Azul ECC 56% 84% 9 17 24 - 5 21 - 14 90
-ASTR-20 Vanden Heuvel, Andrew ONLIN 83% 99% 80 23 5 - 2 19 - 1 130
-ASTR-25 Duitsman, Brooke ONLIN 81% 95% 33 7 10 - - 9 - 3 62
-ASTR-25 Stolovy, Susan ECC 83% 90% 7 13 13 - 2 1 - 4 40
-BIOL-10 Ahad, Sally HYBRD 48% 58% 4 7 4 - 2 1 - 13 31
-BIOL-10 Ayala, Eduardo HYBRD 87% 90% 7 11 9 - - 1 - 3 31
-BIOL-10 Kwok, Ernest ECC 97% 100% 20 11 4 - 1 - - - 36
-BIOL-10 Lee, Samuel ECC 70% 91% 1 4 11 - - 5 - 2 23
-BIOL-10 Len, Laurie ECC 90% 100% 8 13 7 - - 3 - - 31
-BIOL-10 McClelland, Darcie HYBRD 92% 92% 26 4 3 - - - - 3 36
-BIOL-10 McEachin, Shawn HYBRD 74% 90% 20 23 11 - 1 11 - 7 73
-BIOL-10 Padilla, Jessica ONLIN 61% 71% 14 20 17 - 3 6 - 24 84
-BIOL-10 Parks, Polly HYBRD 97% 100% 22 9 4 - - 1 - - 36
-BIOL-10 Sharar, Erica ONLIN 66% 77% 14 4 5 - 4 - - 8 35
-BIOL-10 Yi, Michael ECC 83% 91% 15 12 2 - 2 1 - 3 35
-BIOL-10H McEachin, Shawn HYBRD 93% 93% 23 4 1 - - - - 2 30
-BIOL-11 Amaya Munoz, Max ECC 66% 100% 7 6 8 - 2 9 - - 32
-BIOL-110 McClelland, Darcie ECC 96% 96% 33 32 9 - - - - 3 77
-BIOL-110H Palos, Teresa ECC 71% 76% 6 3 3 - 1 - - 4 17
-BIOL-12 Carey, Bryan HYBRD 31% 69% 2 1 2 - - 6 - 5 16
-BIOL-120 Carey, Bryan ECC 97% 97% 16 13 8 - - - - 1 38
-BIOL-120 Villatoro, Karla ECC 79% 97% 11 7 9 - 3 3 - 1 34
-BIOL-120H Villatoro, Karla ECC 94% 100% 9 5 3 - 1 - - - 18
-BIOL-15 Carey, Bryan ONLIN 44% 67% 4 5 3 - - 6 - 9 27
-BIOL-15 Villatoro, Karla ONLIN 41% 52% 6 3 3 - 1 2 - 14 29
-CHEM-1A Hillman, Wesley ECC 63% 81% 8 3 6 - 1 4 - 5 27
-CHEM-1A Shibao, Robert ECC 66% 81% 14 13 12 - 6 2 1 11 59
-CHEM-1A Turner, Ryan ECC 55% 73% 6 9 13 - 2 7 - 14 51
-CHEM-1A Wang, Chencai ECC 93% 93% 12 10 5 - - - - 2 29
-CHEM-1B Altermatt, Robert ECC 97% 97% 12 14 8 - - - - 1 35
-CHEM-1B Han, Steven ECC 76% 82% 3 5 5 - 1 - - 3 17
-CHEM-1B Saldarriaga, Laura ECC 75% 87% 14 17 8 - 3 3 - 7 52
-CHEM-20 Brown, Sandra ECC 63% 77% 7 6 6 - 2 2 - 7 30
-CHEM-20 Jimenez, Miguel HYBRD 52% 72% 16 10 11 - 8 6 - 20 71
-CHEM-20 Matar, Majeda ECC 33% 78% 3 1 5 - 6 6 - 6 27
-CHEM-20 Sachdev, Vineeta ECC 63% 77% 5 7 7 - 2 2 - 7 30
-CHEM-20 Sanchez, Daniel ECC 57% 75% 2 5 9 - 2 3 - 7 28
-CHEM-20 Tontcheva, Ana HYBRD 36% 56% 2 2 5 - 4 1 - 11 25
-CHEM-20 Vargas, Mario HYBRD 46% 75% 5 3 3 - 3 4 - 6 24
-CHEM-21A Tontcheva, Ana ECC 48% 68% 3 3 6 - 3 2 - 8 25
-CHEM-4 Abbani, Mohamad ECC 69% 88% 4 6 8 - 4 1 - 3 26
-CHEM-4 Anguiano, Jaime ECC 76% 92% 6 10 3 - 3 1 - 2 25
-CHEM-4 Ebrahimi, Hossein HYBRD 70% 85% 11 3 5 - 3 1 - 4 27
-CHEM-4 Potter, Soshanna ECC 69% 81% 12 11 14 - 2 5 - 10 54
-CHEM-4 Sasayama, Alissa ECC 54% 83% 10 8 7 - 9 4 - 8 46
-CHEM-4H Abbani, Mohamad HYBRD 63% 78% 8 3 6 - 4 - - 6 27
-CHEM-7A Moore, Troy ECC 69% 79% 14 14 5 - 2 3 - 10 48
-CHEM-7B Doucette, Peter ECC 84% 89% 5 4 7 - - 1 - 2 19
-GEOG-1 Diminutto, Jose ONLIN 79% 97% 16 26 10 - 2 10 - 2 66
-GEOG-1 Gard, Julienne ECC 84% 98% 26 21 21 - 8 3 - 2 81
-GEOG-5 Scott, Jason ONLIN 70% 100% 28 12 5 - 3 16 - - 64
-GEOG-6 Gard, Julienne ONLIN 75% 83% 6 21 20 - 3 2 - 11 63
-GEOG-9 Gard, Julienne ONLIN 71% 84% 10 8 9 - - 5 - 6 38
-GEOL-1 Di Fiori, Sara ONLIN 84% 98% 47 15 6 - - 11 - 2 81
-GEOL-1 Herzig, Charles ECC 78% 84% 8 13 14 - 2 1 - 7 45
-GEOL-1 Wageman, Jwan ECC 80% 92% 15 21 16 - 4 4 - 5 65
-GEOL-2 Herzig, Charles ECC 62% 85% 4 - 4 - 1 2 - 2 13
-GEOL-3 Di Fiori, Sara ECC 97% 97% 25 25 11 - - - - 2 63
-GEOL-7 Noyes, Thomas ONLIN 59% 76% 4 3 3 - - 3 - 4 17
-MICR-33 Bui, Thanh-Thuy ECC 67% 70% 3 11 4 - - 1 - 8 27
-MICR-33 Palos, Teresa ECC 35% 54% 4 4 5 - 2 5 - 17 37
-MICR-33 Parks, Polly HYBRD 95% 95% 15 17 3 - - - - 2 37
-OCEA-10 Herzig, Charles ECC 71% 88% 8 8 8 - 1 5 - 4 34
-OCEA-10 Noyes, Thomas HYBRD 48% 79% 2 2 10 - 1 8 - 6 29
-OCEA-10 Sedki, Ziad ONLIN 71% 86% 3 12 5 - 4 - - 4 28
-OCEA-10 Wageman, Jwan ECC 91% 97% 11 16 5 - - 2 - 1 35
-PHYO-31 Mubarak, Merium ECC 73% 89% 18 18 9 - 2 8 - 7 62
-PHYO-31 Oswald, Sanda ECC 80% 82% 22 14 3 - 1 - - 9 49
-PHYO-31 Reonisto, Timothy ECC 98% 100% 21 14 6 - - 1 - - 42
-PHYO-31 Sanwo, Olusola ECC 65% 69% 7 6 4 - - 1 - 8 26
-PHYS-11 Scott, Christopher ONLIN 76% 82% 32 11 8 - 3 1 - 12 67
-PHYS-1A Haitkin, Paul ECC 53% 68% 13 8 10 1 2 7 - 19 60
-PHYS-1A Shirvanian, Razmic ECC 38% 62% 1 3 7 - 1 6 - 11 29
-PHYS-1A Stolovy, Susan ECC 72% 78% 16 15 12 - 3 1 - 13 60
-PHYS-1B Goldmann, Eyal ECC 53% 63% 2 5 9 - 3 - - 11 30
-PHYS-1B Murdock, Adam ECC 86% 94% 12 7 11 - - 3 - 2 35
-PHYS-1C Coroneus, John ECC 50% 63% 5 7 3 - 2 2 - 11 30
-PHYS-1C Murdock, Adam ECC 75% 82% 24 19 7 - - 5 - 12 67
-PHYS-1D Coroneus, John ECC 62% 71% 6 4 3 - 2 - - 6 21
-PHYS-2A Demir, Firuz ECC 62% 69% 10 6 8 - - 3 - 12 39
-PHYS-2A Goldmann, Eyal HYBRD 67% 76% 6 11 5 - 1 2 - 8 33
-PHYS-2A Haitkin, Paul ECC 56% 72% 6 8 6 - 1 5 - 10 36
-PHYS-3A Van Biezen, Michel ECC 82% 92% 11 8 13 - 3 1 - 3 39
-PSCI-25 Vargas, Alejandro ECC 84% 88% 4 13 4 - - 1 - 3 25
+AHIS-101 Ahmadpour, Alireza HYBRD 52% 90% 11 3 8 - - 10 6 4 42 Fall 2025
+AHIS-101 Alamillo, Lucy HYBRD 49% 68% 15 5 3 - 1 8 - 15 47 Fall 2025
+AHIS-101 Bronte, Andrea ONLIN 27% 94% 4 2 3 - 1 21 - 2 33 Fall 2025
+AHIS-101 Majstorovic, Mina ONLIN 76% 96% 39 8 4 - 1 12 - 3 67 Fall 2025
+AHIS-101 Potts, Gretchen ONLIN 61% 100% 10 6 1 - - 11 - - 28 Fall 2025
+AHIS-102A Alamillo, Lucy HYBRD 85% 88% 11 7 4 - - 1 - 3 26 Fall 2025
+AHIS-102B Beckstead Whitney, Karen HYBRD 51% 82% 9 6 4 1 3 9 - 7 39 Fall 2025
+AHIS-102B Russell, Elizabeth ONLIN 82% 95% 24 6 1 - 1 4 - 2 38 Fall 2025
+AHIS-102C Ahmadpour, Alireza ONLIN 91% 100% 19 11 2 - - 3 - - 35 Fall 2025
+AHIS-207 Ahmadpour, Alireza HYBRD 68% 94% 17 10 5 - 2 5 5 3 47 Fall 2025
+AHIS-208H Beckstead Whitney, Karen HYBRD 97% 100% 27 3 - - - - 1 - 31 Fall 2025
+AHIS-209 Meyer, Walter ONLIN 49% 98% 18 1 1 - 2 18 - 1 41 Fall 2025
+ANTH-1 Desetto, Vincent ONLIN 80% 100% 20 9 3 - 2 6 - - 40 Fall 2025
+ANTH-1 Olson, Kirsten ONLIN 100% 100% 29 8 3 - - - - - 40 Fall 2025
+ANTH-1 Otero, Rodolfo HYBRD 83% 90% 15 15 3 - 1 2 - 4 40 Fall 2025
+ANTH-1 Vigil, Alberto ECC 89% 94% 19 17 11 - - 3 - 3 53 Fall 2025
+ANTH-1 Waters, Marianne ONLIN 77% 84% 26 27 20 - 3 4 - 15 95 Fall 2025
+ANTH-1 Wong, Billy ONLIN 80% 96% 12 5 3 - 1 3 - 1 25 Fall 2025
+ANTH-11 Mannen, Angela HYBRD 53% 78% 6 5 8 - 5 4 - 8 36 Fall 2025
+ANTH-11 Otero, Rodolfo ONLIN 65% 78% 14 7 3 - 2 3 - 8 37 Fall 2025
+ANTH-1H Waters, Marianne ONLIN 97% 97% 24 4 2 - - - - 1 31 Fall 2025
+ANTH-2 Mannen, Angela HYBRD 89% 96% 19 22 8 - 3 1 - 2 55 Fall 2025
+ANTH-2 Otero, Rodolfo ECC 95% 98% 41 9 4 - 1 1 - 1 57 Fall 2025
+ANTH-2 Vigil, Alberto ONLIN 83% 95% 54 7 8 - - 10 - 4 83 Fall 2025
+ANTH-3 Olson, Kirsten ONLIN 80% 100% 8 - - - 1 1 - - 10 Fall 2025
+ANTH-3 Stifter, Dianna ECC 89% 100% 15 2 - - - 2 - - 19 Fall 2025
+ANTH-4 Waters, Marianne HYBRD 93% 96% 17 7 2 - 1 - - 1 28 Fall 2025
+ANTH-5 Waters, Marianne HYBRD 96% 96% 19 5 1 - - - - 1 26 Fall 2025
+ANTH-5 White, Kathleen ONLIN 75% 98% 20 13 9 - - 13 - 1 56 Fall 2025
+ANTH-5 Wong, Billy ONLIN 95% 100% 12 8 1 - - 1 - - 22 Fall 2025
+ANTH-6 Mannen, Angela ONLIN 71% 79% 4 4 2 - - 1 - 3 14 Fall 2025
+ASTU-7 Jaaska, Arne ONLIN 47% 95% 22 13 2 - 2 35 - 4 78 Fall 2025
+CDEV-103 Jefferis, Janice ONLIN 70% 90% 11 13 4 - 2 6 - 4 40 Fall 2025
+CDEV-103 Marano, Mark ONLIN 27% 91% 10 5 6 - 3 47 - 7 78 Fall 2025
+CDEV-103 Marquez, Valerie ECC 91% 96% 16 5 - - - 1 - 1 23 Fall 2025
+CDEV-103 Moen, Michelle ECC 65% 89% 41 13 10 1 4 20 - 11 100 Fall 2025
+CDEV-103 Moutra, Reshon ECC 67% 91% 54 11 6 - 14 11 - 10 106 Fall 2025
+CDEV-103 Simon, Monica ONLIN 56% 93% 11 10 3 - 3 13 - 3 43 Fall 2025
+CDEV-103 Tatsumi, Carol HSDUL 88% 92% 10 5 8 - 1 - - 2 26 Fall 2025
+CDEV-104 Baxter, Susan ONLIN 40% 70% 1 1 2 - 1 2 - 3 10 Fall 2025
+CDEV-104 Moutra, Reshon ECC 70% 79% 21 8 1 - 2 2 - 9 43 Fall 2025
+CDEV-104 Tharuvai, Shanthi ONLIN 41% 65% 8 3 3 - 3 5 - 12 34 Fall 2025
+CDEV-104 Wilson, Brittany ONLIN 75% 87% 36 9 12 - 1 7 1 10 76 Fall 2025
+CDEV-106 Jefferis, Janice ONLIN 76% 92% 26 2 1 - 2 4 - 3 38 Fall 2025
+CDEV-106 Marquez, Valerie ONLIN 70% 85% 15 5 3 - 2 3 - 5 33 Fall 2025
+CDEV-107 Jefferis, Janice ONLIN 84% 96% 25 9 7 - - 6 - 2 49 Fall 2025
+CDEV-107 Marquez, Valerie ONLIN 73% 88% 11 4 4 - 1 3 - 3 26 Fall 2025
+CDEV-108 Cervantes, Cynthia HYBRD 66% 93% 11 5 2 1 - 6 2 2 29 Fall 2025
+CDEV-108 Marano, Mark ONLIN 53% 95% 9 7 5 - 1 14 2 2 40 Fall 2025
+CDEV-108 Moen, Michelle ECC 85% 89% 13 5 5 - - 1 - 3 27 Fall 2025
+CDEV-110 Moen, Michelle ECC 83% 89% 13 6 10 - - 2 - 4 35 Fall 2025
+CDEV-110 Tharuvai, Shanthi ONLIN 44% 63% 3 3 1 - 2 1 - 6 16 Fall 2025
+CDEV-112 Cervantes, Cynthia HSDUL 82% 82% 7 2 - - - - - 2 11 Fall 2025
+CDEV-114 Cervantes, Cynthia ONLIN 77% 96% 18 10 9 - - 6 3 2 48 Fall 2025
+CDEV-114 Moutra, Reshon ECC 90% 93% 19 4 3 - - 1 - 2 29 Fall 2025
+CDEV-115 Baxter, Susan ONLIN 79% 81% 35 10 10 - 2 - - 13 70 Fall 2025
+CDEV-115 Moutra, Reshon ECC 67% 79% 11 - 5 - 1 2 - 5 24 Fall 2025
+CDEV-116 Colchico, Alecsandria ONLIN 85% 96% 46 21 2 - 1 8 - 3 81 Fall 2025
+CDEV-119 Moen, Michelle ECC 64% 91% 5 2 - - 1 2 - 1 11 Fall 2025
+CDEV-125 Jefferis, Janice ECC 95% 100% 15 4 - - - 1 - - 20 Fall 2025
+CDEV-130 Simon, Monica ONLIN 82% 91% 9 6 3 - 1 1 - 2 22 Fall 2025
+CDEV-150 Tharuvai, Shanthi ONLIN 57% 62% 8 1 3 - - 1 - 8 21 Fall 2025
+CDEV-150 Young, Janet ONLIN 84% 97% 18 7 1 - 1 2 1 1 31 Fall 2025
+CDEV-165 Toyoda-Smart, Kumi ONLIN 54% 73% 28 11 3 - 1 12 2 21 78 Fall 2025
+COMS-100 Alonso, Lizette ONLIN 56% 100% 4 2 4 - 2 6 - - 18 Fall 2025
+COMS-100 Anderson, Julia ECC 70% 81% 38 20 10 - 6 5 - 18 97 Fall 2025
+COMS-100 Brodaksilva, Trisha ONLIN 30% 98% 11 2 3 - 3 33 - 1 53 Fall 2025
+COMS-100 Crossman, Diana ECC 87% 97% 21 3 2 - 1 2 - 1 30 Fall 2025
+COMS-100 Crossman, Mark ONLIN 74% 80% 76 34 12 - 2 8 - 32 164 Fall 2025
+COMS-100 Evans, Joseph ONLIN 76% 92% 62 3 6 - 1 14 - 7 93 Fall 2025
+COMS-100 Hubble, Brittany ONLIN 48% 78% 12 1 - - 1 7 - 6 27 Fall 2025
+COMS-100 Johnson, Lilly ONLIN 13% 51% 5 2 2 - - 27 - 34 70 Fall 2025
+COMS-100 Jones, Casey ECC 59% 92% 7 10 5 - 5 7 - 3 37 Fall 2025
+COMS-100 Lopez, Rodolfo ECC 61% 84% 3 9 7 - 1 6 - 5 31 Fall 2025
+COMS-100 Matos, Julie ONLIN 60% 85% 20 5 3 - 2 10 - 7 47 Fall 2025
+COMS-100 Ortega, Valerie HSDUL 94% 97% 25 3 2 - 1 - - 1 32 Fall 2025
+COMS-100 Peterson, Elyse ONLIN 48% 85% 2 16 7 - 3 16 - 8 52 Fall 2025
+COMS-100 Solomon, Chantel ONLIN 29% 76% 5 9 6 - 1 31 - 16 68 Fall 2025
+COMS-100 Taylor, Warren ECC 47% 93% 9 3 2 - 5 9 - 2 30 Fall 2025
+COMS-100 Udeorji, Chizoba ONLIN 15% 97% 4 - 2 - 1 31 - 1 39 Fall 2025
+COMS-100 Wagner, Helene ONLIN 19% 69% 1 1 1 - - 8 - 5 16 Fall 2025
+COMS-100 Wells, Rex ECC 81% 87% 75 58 28 - 2 7 3 27 200 Fall 2025
+COMS-120 Bishop, Francesca ECC 67% 87% 10 5 5 - 2 4 - 4 30 Fall 2025
+COMS-120 Crossman, Mark ECC 80% 80% 18 4 2 - - - - 6 30 Fall 2025
+COMS-120 Evans, Joseph ECC 83% 90% 25 - - - - 2 - 3 30 Fall 2025
+COMS-120 Hubble, Brittany ECC 86% 97% 6 16 9 - 1 3 - 1 36 Fall 2025
+COMS-130 Crossman, Diana ONLIN 78% 91% 17 16 9 - 4 3 - 5 54 Fall 2025
+COMS-130 Davidson, Jason ECC 77% 91% 88 41 15 - 3 23 2 16 188 Fall 2025
+COMS-130 Leach, Larry ECC 67% 93% 31 13 4 - 5 14 - 5 72 Fall 2025
+COMS-130 Nagano, Daryle ONLIN 73% 77% 8 6 2 - 1 - - 5 22 Fall 2025
+COMS-140 Janke, Kelly ECC 100% 100% 46 8 6 - - - - - 60 Fall 2025
+COMS-140 Matthews, Julia ONLIN 64% 75% 2 11 5 - 2 1 - 7 28 Fall 2025
+COMS-140 Nagano, Daryle ONLIN 83% 89% 22 12 4 - 1 2 - 5 46 Fall 2025
+COMS-140 Wagner, Helene ECC 92% 92% 10 10 3 - - - - 2 25 Fall 2025
+COMS-250 Crossman, Diana ONLIN 85% 90% 8 5 4 - - 1 - 2 20 Fall 2025
+COMS-260 Sadeghi-Tabrizi, Fariba ONLIN 29% 54% 4 8 - - - 10 - 19 41 Fall 2025
+COMS-265 Bishop, Francesca ONLIN 68% 92% 20 9 7 - 4 9 - 4 53 Fall 2025
+COMS-265 Leach, Larry ECC 72% 89% 8 1 4 - - 3 - 2 18 Fall 2025
+COMS-270 Matthews, Julia ONLIN 26% 39% 1 4 1 - 1 2 - 14 23 Fall 2025
+COMS-292ABCD Bishop, Francesca ECC 100% 100% 15 - - - - - - - 15 Fall 2025
+COMS-293ABCD Evans, Joseph ECC 100% 100% 10 - - - - - - - 10 Fall 2025
+COMS-294ABCD Hubble, Brittany ECC 100% 100% 13 - - - - - - - 13 Fall 2025
+ECON-1 Nebbia, Gerardo ECC 62% 94% 18 9 2 - - 15 - 3 47 Fall 2025
+ECON-1 Carter, Tanja HYBRD 91% 98% 48 27 8 - 4 2 - 2 91 Fall 2025
+ECON-1 Fradkin, Michael ONLIN 41% 70% 3 4 4 - 2 6 - 8 27 Fall 2025
+ECON-1 Inouye, Minehiro ECC 60% 88% 7 9 10 - 5 7 - 5 43 Fall 2025
+ECON-1 Keskinel, Meric ONLIN 79% 92% 16 18 4 - - 6 - 4 48 Fall 2025
+ECON-1 Marschall, Brett ONLIN 93% 98% 23 10 5 - 1 1 - 1 41 Fall 2025
+ECON-1 Nebbia, Gerardo ECC 76% 96% 18 15 3 1 5 5 - 2 49 Fall 2025
+ECON-1 Tahernia, Farshid ECC 52% 89% 6 8 9 - 4 8 4 5 44 Fall 2025
+ECON-101H Fradkin, Michael ONLIN 80% 87% 15 5 4 - 2 - - 4 30 Fall 2025
+ECON-102 Fradkin, Michael ONLIN 61% 71% 6 4 7 - - 3 - 8 28 Fall 2025
+ECON-102 Inouye, Minehiro ECC 68% 92% 5 3 9 - 2 4 - 2 25 Fall 2025
+ECON-102 Keskinel, Meric ONLIN 92% 94% 42 39 5 - - 1 - 6 93 Fall 2025
+ECON-102 Marschall, Brett ONLIN 94% 96% 54 20 11 - - 1 - 4 90 Fall 2025
+EDUC-101 Garvin, Jamie ONLIN 74% 89% 24 7 4 - - 7 - 5 47 Fall 2025
+ESTU-1 Arrieta, Jose ONLIN 96% 96% 31 9 5 - - - - 2 47 Fall 2025
+ESTU-1 De La O, Ismael HSDUL 70% 78% 11 4 1 - 2 - - 5 23 Fall 2025
+ESTU-1 Fraga, Michael ECC 64% 90% 17 6 4 - 1 10 - 4 42 Fall 2025
+ESTU-1 Gonzalez, Omar ECC 77% 98% 74 4 1 - - 21 - 2 102 Fall 2025
+ESTU-1 Herrera, Raul ONLIN 82% 90% 74 12 3 - 1 8 - 11 109 Fall 2025
+ESTU-1 Humphrey, Amina ECC 68% 84% 28 23 10 - 4 11 - 14 90 Fall 2025
+ESTU-1 Lopez, Nathan ONLIN 74% 85% 6 14 5 - 4 - - 5 34 Fall 2025
+ESTU-1 Munguia, Ricardo ECC 89% 96% 36 4 1 - - 3 - 2 46 Fall 2025
+ESTU-1 Rodriguez, Jessica ONLIN 88% 98% 100 4 - - - 12 - 2 118 Fall 2025
+ESTU-1 Tanaka, Takahito ECC 91% 97% 32 - - - - 2 - 1 35 Fall 2025
+ESTU-3 Herrera, Xocoyotzin ONLIN 83% 98% 36 4 2 1 - 8 - 1 52 Fall 2025
+ESTU-5 Herrera, Xocoyotzin HYBRD 80% 95% 29 4 2 - 1 6 - 2 44 Fall 2025
+HDEV-1 Aguiar, Emmanuel ONLIN 93% 100% 11 1 1 - - 1 - - 14 Fall 2025
+HDEV-1 Castro, Griselda ECC 75% 96% 17 15 11 - 5 7 - 2 57 Fall 2025
+HDEV-1 Colbeck, Amanda ONLIN 40% 53% 5 - 1 - - 2 - 7 15 Fall 2025
+HDEV-1 Herrschaft, Amy ECC 92% 100% 7 2 2 - 1 - - - 12 Fall 2025
+HDEV-1 La Coe, Amy ONLIN 59% 65% 7 - 3 - 1 - - 6 17 Fall 2025
+HDEV-1 Liggins, Alanah HSDUL 100% 100% 25 1 - - - - - - 26 Fall 2025
+HDEV-1 Lozano, Wendy ECC 81% 100% 13 4 - - 3 1 - - 21 Fall 2025
+HDEV-1 La Coe, Amy ONLIN 67% 67% 8 - - - - - - 4 12 Fall 2025
+HDEV-1 Liggins, Alanah ECC 72% 97% 15 6 - - 1 6 - 1 29 Fall 2025
+HDEV-1 Takahashi, Lauren ONLIN 77% 100% 4 5 1 - - 3 - - 13 Fall 2025
+HDEV-1 Wami, Chanae' ONLIN 54% 92% 11 1 2 - 3 7 - 2 26 Fall 2025
+HDEV-107 Giourdjian, Paitzar ECC 62% 85% 7 1 - - - 3 - 2 13 Fall 2025
+HDEV-1 Barber, Nikki ONLIN 35% 100% 2 5 1 - 4 11 - - 23 Fall 2025
+HDEV-1 La Coe, Amy ECC 83% 89% 9 13 8 - 2 - - 4 36 Fall 2025
+HDEV-1 Leinen, Sarah ONLIN 63% 63% 2 2 1 - - - - 3 8 Fall 2025
+HDEV-1 Miles, Jasmine ECC 65% 88% 10 4 3 - - 6 - 3 26 Fall 2025
+HDEV-1 Nguyen, Hatien ONLIN 57% 76% 4 5 3 - - 4 - 5 21 Fall 2025
+HDEV-1 Soden, Juli ECC 88% 100% 19 5 4 - 1 3 - - 32 Fall 2025
+HDEV-1 Takahashi, Lauren HSDUL 78% 100% 12 4 2 - 1 4 - - 23 Fall 2025
+HDEV-1 Torres, Selene ECC 65% 100% 15 4 3 - 5 7 - - 34 Fall 2025
+HDEV-1 Wami, Chanae' ONLIN 17% 100% 2 2 1 - 1 24 - - 30 Fall 2025
+HDEV-110H Soden, Juli ONLIN 100% 100% 28 1 - - - - - - 29 Fall 2025
+HDEV-115 Aguiar, Emmanuel HYBRD 90% 94% 21 5 2 - - 1 - 2 31 Fall 2025
+HDEV-115 Colbeck, Amanda ONLIN 58% 77% 13 10 5 - 1 8 - 11 48 Fall 2025
+HDEV-115 Nguyen, Hatien ONLIN 72% 85% 24 9 5 - 1 6 - 8 53 Fall 2025
+HDEV-115 Shedeed, Viviane ECC 71% 97% 11 7 4 - 3 5 - 1 31 Fall 2025
+HDEV-115 Torres, Selene ONLIN 23% 45% 2 2 1 - 1 4 - 12 22 Fall 2025
+HIST-101 Chavez, Michelle ECC 56% 95% 14 27 11 - 5 31 - 5 93 Fall 2025
+HIST-101 Fraga, Michael ONLIN 64% 64% 3 3 1 - - - - 4 11 Fall 2025
+HIST-101 Herrera Thomas, Hong ECC 89% 100% 34 4 3 - 1 4 - - 46 Fall 2025
+HIST-101 Jaaska, Arne HSDUL 100% 100% 14 3 4 - - - - - 21 Fall 2025
+HIST-101 Pacas, Edgar ONLIN 31% 96% 7 9 1 - 4 32 - 2 55 Fall 2025
+HIST-101 Panski, Saul ONLIN 57% 70% 20 7 5 - 2 5 - 17 56 Fall 2025
+HIST-101 Resnick, Kirsten ONLIN 44% 61% 16 11 12 - 2 13 - 35 89 Fall 2025
+HIST-101 Uribe, Sandra ECC 51% 82% 6 6 11 - 2 12 - 8 45 Fall 2025
+HIST-101H Herrera Thomas, Hong ONLIN 97% 100% 30 - - - 1 - - - 31 Fall 2025
+HIST-102 Baranski, John HYBRD 54% 91% 12 16 9 - 6 20 - 6 69 Fall 2025
+HIST-102 Black, Dustin ONLIN 37% 47% 25 9 15 - 1 12 - 69 131 Fall 2025
+HIST-102 Melton, Jamahl ONLIN 38% 49% 7 7 3 - 1 4 - 23 45 Fall 2025
+HIST-102 Swendson, Paul ONLIN 57% 93% 11 18 10 - 5 19 - 5 68 Fall 2025
+HIST-102 Teal, Orion HYBRD 53% 85% 14 8 3 - 3 12 - 7 47 Fall 2025
+HIST-102 Verge, Arthur ECC 94% 98% 59 42 29 - 1 5 - 3 139 Fall 2025
+HIST-102 Wishon, Mark ONLIN 46% 92% 7 2 2 - 2 9 - 2 24 Fall 2025
+HIST-102H Verge, Arthur ECC 97% 97% 21 5 2 - - - - 1 29 Fall 2025
+HIST-105 Uribe, Sandra ECC 54% 90% 9 6 6 - 3 11 - 4 39 Fall 2025
+HIST-108 Fraga, Michael ONLIN 85% 100% 9 2 - - - 2 - - 13 Fall 2025
+HIST-110 Melton, Jamahl ONLIN 41% 49% 17 10 8 - 2 5 - 43 85 Fall 2025
+HIST-110 Sankofa, Jub ECC 88% 97% 23 5 1 - - 3 - 1 33 Fall 2025
+HIST-111 Rafi, Muhammad ONLIN 60% 91% 32 13 4 - 1 25 - 7 82 Fall 2025
+HIST-111 Sankofa, Jub ECC 67% 90% 18 2 - - - 7 - 3 30 Fall 2025
+HIST-112 Arrieta, Jose ONLIN 90% 98% 29 9 - - - 3 - 1 42 Fall 2025
+HIST-112 Lopez, Nathan ONLIN 46% 78% 6 10 5 - 2 13 - 10 46 Fall 2025
+HIST-114 Herrera Thomas, Hong ONLIN 92% 97% 25 3 6 - - 2 - 1 37 Fall 2025
+HIST-122 Arrieta, Jose ONLIN 86% 100% 18 10 3 - - 5 - - 36 Fall 2025
+HIST-128 Verge, Arthur ECC 93% 96% 12 8 5 - - 1 - 1 27 Fall 2025
+HIST-129 Baranski, John HYBRD 86% 100% 13 10 2 - 1 3 - - 29 Fall 2025
+HIST-140 Suarez, Jason ONLIN 87% 97% 14 9 3 - - 3 - 1 30 Fall 2025
+HIST-140 Wishon, Mark ONLIN 75% 91% 16 3 5 - - 5 - 3 32 Fall 2025
+HIST-141 Teal, Orion ONLIN 69% 90% 22 10 1 - 2 8 - 5 48 Fall 2025
+HIST-141 Wishon, Mark ONLIN 27% 100% 2 1 3 - 1 15 - - 22 Fall 2025
+HIST-154 Suarez, Jason ONLIN 67% 83% 18 5 1 - 1 5 - 6 36 Fall 2025
+HIST-154 Firestone, Randall ECC 68% 82% 3 7 13 - 3 2 - 6 34 Fall 2025
+HIST-154 Garcia, Roberto ONLIN 80% 98% 54 20 4 - 2 15 - 2 97 Fall 2025
+HIST-154 Leon, Felipe ECC 80% 91% 30 5 2 - - 4 1 4 46 Fall 2025
+HIST-154 Ramirez, Melissa ONLIN 40% 98% 12 2 3 - 6 19 - 1 43 Fall 2025
+HIST-154 Shever, David ONLIN 56% 96% 16 6 5 - 2 17 - 2 48 Fall 2025
+PHIL-101H Firestone, Randall ECC 83% 86% 18 9 2 - 1 - - 5 35 Fall 2025
+PHIL-103 Garcia, Roberto ONLIN 78% 93% 4 13 4 - 1 3 - 2 27 Fall 2025
+PHIL-103 Leon, Felipe ECC 67% 92% 18 4 2 - - 5 4 3 36 Fall 2025
+PHIL-105 Firestone, Randall ECC 64% 79% 3 10 4 1 1 3 - 6 28 Fall 2025
+PHIL-105 Ramirez, Melissa ONLIN 83% 96% 19 - 1 - - 3 - 1 24 Fall 2025
+PHIL-106 Garcia, Roberto ECC 58% 81% 11 6 4 - 4 4 - 7 36 Fall 2025
+PHIL-107 Firestone, Randall ONLIN 27% 35% 4 2 1 - - 2 - 17 26 Fall 2025
+PHIL-107 Leon, Felipe ONLIN 15% 81% 2 2 - - 1 12 5 5 27 Fall 2025
+PHIL-111 Struble, Luca ONLIN 59% 95% 8 2 1 2 - 7 1 1 22 Fall 2025
+PHIL-112 Leon, Felipe ONLIN 72% 93% 18 2 1 - - 4 2 2 29 Fall 2025
+PHIL-115 Firestone, Randall ECC 54% 65% 2 11 7 - 1 3 - 13 37 Fall 2025
+POLI-1 Casper, Joshua ECC 92% 97% 21 24 9 - 2 1 - 2 59 Fall 2025
+POLI-1 Coleman, Ellen ONLIN 44% 53% 8 4 4 - 3 - - 17 36 Fall 2025
+POLI-1 Flor, Paul ONLIN 40% 53% 7 4 1 - 1 3 - 14 30 Fall 2025
+POLI-1 Gonzales, Steven HSDUL 100% 100% 13 10 - - - - - - 23 Fall 2025
+POLI-1 Houske, Laurie ECC 71% 95% 23 21 22 - 8 14 - 5 93 Fall 2025
+POLI-1 Jun, Christine ECC 55% 95% 6 8 10 - 3 15 - 2 44 Fall 2025
+POLI-1 Klein, Thomas ECC 94% 100% 39 5 3 - 1 2 - - 50 Fall 2025
+POLI-1 Munoz, Eduardo ECC 64% 90% 9 22 15 - 3 15 1 7 72 Fall 2025
+POLI-1 Muratsuchi, Albert ECC 75% 84% 4 16 4 - 2 1 - 5 32 Fall 2025
+POLI-1 Reed, David HYBRD 73% 91% 5 19 8 - 5 3 - 4 44 Fall 2025
+POLI-10 Chaney, Van ONLIN 59% 68% 14 5 5 - - 4 - 13 41 Fall 2025
+POLI-10 Striepe, Karl ONLIN 30% 96% 12 1 1 - 2 28 - 2 46 Fall 2025
+POLI-10H Striepe, Karl ONLIN 81% 92% 22 6 1 - 1 3 - 3 36 Fall 2025
+POLI-1H Munoz, Eduardo ONLIN 97% 100% 23 5 - - 1 - - - 29 Fall 2025
+POLI-2 Casper, Joshua ECC 93% 93% 10 13 3 - - - - 2 28 Fall 2025
+POLI-3 Houske, Laurie ONLIN 90% 92% 25 8 2 - - 1 - 3 39 Fall 2025
+POLI-5 Chaney, Van ONLIN 31% 77% 4 3 1 - - 12 - 6 26 Fall 2025
+POLI-7 Gonzales, Steven ONLIN 83% 95% 29 1 3 - - 5 - 2 40 Fall 2025
+POLI-7 Reed, David HYBRD 55% 74% 9 6 2 - 2 4 - 8 31 Fall 2025
+PSYC-101 Atkins, Sharona ONLIN 78% 89% 13 8 8 - - 4 - 4 37 Fall 2025
+PSYC-101 Dooley, Kevin ONLIN 66% 87% 27 3 1 - 1 9 - 6 47 Fall 2025
+PSYC-101 Duarte, Jennifer ECC 77% 94% 35 2 3 - 5 4 - 3 52 Fall 2025
+PSYC-101 Farah, Yara ECC 81% 91% 15 13 15 - 1 4 - 5 53 Fall 2025
+PSYC-101 Farias, Julio ECC 83% 98% 36 48 11 - 4 14 - 2 115 Fall 2025
+PSYC-101 Foley, Stephanie ECC 85% 92% 20 15 10 - 3 1 - 4 53 Fall 2025
+PSYC-101 Galbavy, Renee ONLIN 79% 88% 38 16 14 - 5 3 - 10 86 Fall 2025
+PSYC-101 Galvan, Eddie ONLIN 53% 93% 11 7 5 - 4 13 - 3 43 Fall 2025
+PSYC-101 Gordon, LaFaune ONLIN 38% 100% 2 3 1 - 1 9 - - 16 Fall 2025
+PSYC-101 Green, Donte ECC 87% 97% 17 9 - - 1 2 - 1 30 Fall 2025
+PSYC-101 Hall, Angel ECC 72% 89% 51 21 10 - 7 12 - 13 114 Fall 2025
+PSYC-101 Huft, Justin ONLIN 10% 82% 2 2 1 - - 36 - 9 50 Fall 2025
+PSYC-101 Kato, Lorrie ONLIN 73% 89% 53 34 14 - 4 16 2 15 138 Fall 2025
+PSYC-101 Montes, Roberto ONLIN 41% 96% 11 6 2 - 5 19 1 2 46 Fall 2025
+PSYC-101 Moshrefi, Farshid ONLIN 68% 98% 52 43 22 - - 51 - 4 172 Fall 2025
+PSYC-101 Nguyen, Kim-Lien ONLIN 34% 64% 10 5 1 - - 14 - 17 47 Fall 2025
+PSYC-101 Robinson, Jennifer HSDUL 91% 97% 21 5 5 - - 2 - 1 34 Fall 2025
+PSYC-101 Sauer, Craig ECC 76% 88% 22 9 8 - 3 3 - 6 51 Fall 2025
+PSYC-101 Yates, Arianna ECC 70% 88% 16 13 6 - 3 6 - 6 50 Fall 2025
+PSYC-101H Himsel, Amy ECC 76% 94% 11 8 6 - - 4 2 2 33 Fall 2025
+PSYC-102 Farias, Julio ECC 79% 100% 30 5 7 - 2 9 - - 53 Fall 2025
+PSYC-103 Abdelhamid, Mohammed ONLIN 79% 96% 9 7 6 - 3 2 - 1 28 Fall 2025
+PSYC-103 Foley, Stephanie ECC 90% 100% 14 12 1 - 2 1 - - 30 Fall 2025
+PSYC-103 Huemer, Sabine ONLIN 87% 91% 13 7 - - - 1 - 2 23 Fall 2025
+PSYC-103 Huft, Justin ONLIN 38% 87% 5 7 6 - 1 22 - 6 47 Fall 2025
+PSYC-103 Stelter, Mary ONLIN 67% 100% 24 - - - - 12 - - 36 Fall 2025
+PSYC-103 Yates, Arianna ECC 90% 94% 10 14 4 - - 1 - 2 31 Fall 2025
+PSYC-103H Himsel, Amy ECC 72% 96% 14 2 2 - 1 3 2 1 25 Fall 2025
+PSYC-107 Chu, Yun ONLIN 97% 100% 30 5 3 - 1 - - - 39 Fall 2025
+PSYC-107 Nguyen, Kim-Lien ONLIN 84% 96% 51 20 15 - 4 8 - 4 102 Fall 2025
+PSYC-108 Duarte, Jennifer ONLIN 82% 93% 20 12 5 - 2 3 - 3 45 Fall 2025
+PSYC-108 Farias, Julio ECC 81% 97% 3 23 3 - 1 5 - 1 36 Fall 2025
+PSYC-109A Abdelhamid, Mohammed ONLIN 48% 91% 7 4 - - 6 4 - 2 23 Fall 2025
+PSYC-109A Atkins, Sharona ONLIN 69% 88% 5 10 3 - 1 4 - 3 26 Fall 2025
+PSYC-109A Galvan, Eddie ONLIN 55% 91% 3 5 4 - 3 5 - 2 22 Fall 2025
+PSYC-109A Sauer, Craig ECC 76% 92% 11 6 2 - 2 2 - 2 25 Fall 2025
+PSYC-109B Chu, Yun ONLIN 88% 88% 16 5 2 - - - - 3 26 Fall 2025
+PSYC-109B Dooley, Kevin ECC 77% 87% 7 7 9 - 2 1 - 4 30 Fall 2025
+PSYC-109B Huemer, Sabine ONLIN 91% 97% 18 8 4 - - 2 - 1 33 Fall 2025
+PSYC-109B Huff, Micheal ONLIN 82% 86% 16 4 3 - - 1 - 4 28 Fall 2025
+PSYC-109B Montes, Roberto ONLIN 47% 93% 6 5 3 - 3 11 - 2 30 Fall 2025
+PSYC-110 Green, Donte ONLIN 46% 62% 5 3 4 - - 4 - 10 26 Fall 2025
+PSYC-112 Stelter, Mary ONLIN 76% 96% 52 16 3 - 4 15 - 4 94 Fall 2025
+PSYC-115 Galbavy, Renee ECC 93% 95% 27 12 1 - - 1 - 2 43 Fall 2025
+PSYC-116 Conn, Bradfield ECC 85% 98% 15 18 6 - 3 3 - 1 46 Fall 2025
+PSYC-116 Himsel, Amy ECC 90% 100% 15 15 6 1 1 3 - - 41 Fall 2025
+PSYC-116 Huff, Micheal ONLIN 73% 93% 10 9 10 - 2 6 - 3 40 Fall 2025
+PSYC-117 Green, Donte ONLIN 85% 95% 27 3 4 - 1 3 - 2 40 Fall 2025
+PSYC-119 Sauer, Craig ONLIN 33% 38% 4 2 1 - - 1 - 13 21 Fall 2025
+SOCI-101 Allen, Stacey HYBRD 97% 100% 23 3 2 - - 1 - - 29 Fall 2025
+SOCI-101 Diaz, Corina ONLIN 44% 78% 4 1 7 - 3 6 - 6 27 Fall 2025
+SOCI-101 Din, Mediha ONLIN 65% 69% 18 7 7 - 1 1 - 15 49 Fall 2025
+SOCI-101 Dowden, Frieda ONLIN 58% 97% 10 4 4 - 1 11 - 1 31 Fall 2025
+SOCI-101 Eaves, Stephanie ECC 85% 100% 38 6 6 - 5 4 - - 59 Fall 2025
+SOCI-101 Fujiwara, Melissa HYBRD 81% 91% 25 7 3 - 1 3 - 4 43 Fall 2025
+SOCI-101 Leyva, Juan ECC 83% 93% 51 18 10 - 4 5 - 7 95 Fall 2025
+SOCI-101 Thing, James ONLIN 34% 97% 8 2 1 - - 20 - 1 32 Fall 2025
+SOCI-101H Wosick, Kassia ONLIN 97% 97% 30 2 - - - - - 1 33 Fall 2025
+SOCI-102 Diaz, Corina ONLIN 59% 97% 6 8 5 - 2 10 - 1 32 Fall 2025
+SOCI-102 Stone, Akello ONLIN 91% 97% 25 5 2 - - 2 - 1 35 Fall 2025
+SOCI-104 Bell-Blossom, Michelle ONLIN 61% 77% 12 7 - - 1 4 - 7 31 Fall 2025
+SOCI-104 Leyva, Juan ECC 88% 100% 12 1 1 - - 2 - - 16 Fall 2025
+SOCI-104 Stone, Akello ONLIN 87% 97% 24 7 2 - 3 1 - 1 38 Fall 2025
+SOCI-107 Fujiwara, Melissa ONLIN 70% 85% 17 2 4 - 2 3 - 5 33 Fall 2025
+SOCI-109A Aguilera, Peter ONLIN 58% 77% 6 6 3 - - 5 - 6 26 Fall 2025
+SOCI-112 Inada, Jeffrey ONLIN 76% 100% 6 9 1 - - 5 - - 21 Fall 2025
+SOCI-112 Leyva, Juan ECC 83% 97% 19 6 4 - - 5 - 1 35 Fall 2025
+SOCI-113 Wosick, Kassia ONLIN 76% 88% 15 3 1 - 2 1 - 3 25 Fall 2025
+SOCI-118 Wosick, Kassia ECC 74% 91% 10 4 3 - 4 - - 2 23 Fall 2025
+SSCI-101 Leon, Felipe ONLIN 37% 83% 6 3 4 - 2 14 - 6 35 Fall 2025
+SSCI-101 Uribe, Sandra ONLIN 50% 88% 1 2 1 - 1 2 - 1 8 Fall 2025
+SSCI-103 Humphrey, Amina ECC 51% 74% 9 6 3 - 2 6 - 9 35 Fall 2025
+WSTU-1 Allen, Stacey HYBRD 69% 78% 9 6 7 - - 3 - 7 32 Fall 2025
+WSTU-1 Baker, Allison ONLIN 55% 98% 34 12 8 - 2 40 - 2 98 Fall 2025
+WSTU-1 Fujiwara, Melissa ONLIN 84% 97% 21 5 1 - 3 1 - 1 32 Fall 2025
+BUS-101 Chau, Yuen HYBRD 73% 91% 17 9 7 - 1 6 1 4 45 Fall 2025
+BUS-101 De Ruyter, Emily ECC 73% 85% 19 12 7 - 3 3 - 8 52 Fall 2025
+BUS-101 Escalante Troesh, Joshua HYBRD 57% 86% 12 5 3 - 3 7 - 5 35 Fall 2025
+BUS-101 Miranda, Xavier HSDUL 59% 62% 7 7 3 - 1 - - 11 29 Fall 2025
+BUS-101 Mufich, John HYBRD 77% 93% 53 14 8 - 2 13 - 7 97 Fall 2025
+BUS-101 Som de Cerff, Melissa HYBRD 89% 94% 29 15 11 - 1 2 - 4 62 Fall 2025
+BUS-107 Alford, Lovell ONLIN 47% 59% 6 5 4 - - 4 - 13 32 Fall 2025
+BUS-108 Pahl, David HYBRD 77% 95% 16 10 4 - 1 5 1 2 39 Fall 2025
+BUS-108 Som de Cerff, Melissa ONLIN 90% 94% 11 14 3 - 1 - - 2 31 Fall 2025
+BUS-109 Alford, Lovell ONLIN 59% 93% 6 5 5 - 1 6 2 2 27 Fall 2025
+BUS-109 Pahl, David HYBRD 66% 90% 6 11 2 - 2 4 1 3 29 Fall 2025
+BUS-110 Chau, Yuen HYBRD 63% 77% 16 5 6 - 1 5 - 10 43 Fall 2025
+BUS-111 Escalante Troesh, Joshua HYBRD 41% 78% 8 4 5 - 2 13 - 9 41 Fall 2025
+BUS-115 Green, Karen ONLIN 77% 89% 8 14 5 - 2 2 - 4 35 Fall 2025
+BUS-117 Escalante Troesh, Joshua HYBRD 37% 74% 17 13 10 - 8 32 1 28 109 Fall 2025
+BUS-117 Forrester, Melissa HSDUL 93% 100% 13 6 7 - - 2 - - 28 Fall 2025
+BUS-117 Senko, Erik ONLIN 84% 98% 53 17 3 - 1 10 1 2 87 Fall 2025
+BUS-118 Senko, Erik HYBRD 79% 92% 8 10 1 - - 3 - 2 24 Fall 2025
+BUS-120 Mufich, John ONLIN 68% 78% 38 11 5 - 3 4 1 17 79 Fall 2025
+BUS-121 Chau, Yuen ONLIN 90% 100% 24 10 3 - 2 2 - - 41 Fall 2025
+BUS-122 Miranda, Xavier HYBRD 65% 73% 4 13 7 - - 3 - 10 37 Fall 2025
+BUS-122 Mufich, John HYBRD 88% 91% 20 8 1 - - 1 - 3 33 Fall 2025
+BUS-124 Dawson, Stephanie HYBRD 62% 97% 13 1 4 - - 10 - 1 29 Fall 2025
+BUS-124 Som de Cerff, Melissa ONLIN 62% 73% 14 5 4 - 2 1 1 10 37 Fall 2025
+BUS-126 Pahl, David HYBRD 31% 94% 5 4 2 - 3 18 1 2 35 Fall 2025
+BUS-150 Giles, Brizset ECC 67% 72% 11 17 23 - 2 2 - 21 76 Fall 2025
+BUS-150 Hull, Kurt HYBRD 56% 71% 24 14 10 - 6 6 - 25 85 Fall 2025
+BUS-150 Kim, Julie ECC 77% 88% 22 6 5 - 4 1 - 5 43 Fall 2025
+BUS-150 Knight, Ridgway ONLIN 58% 61% 3 9 6 - - 1 - 12 31 Fall 2025
+BUS-150 Lau, Philip ECC 48% 65% 11 10 13 - 3 9 - 25 71 Fall 2025
+BUS-150 Margiotta, Adam ECC 59% 91% 11 5 10 - 4 10 - 4 44 Fall 2025
+BUS-150 Porter, Sidney HYBRD 71% 95% 10 12 5 - 2 7 - 2 38 Fall 2025
+BUS-151 Giles, Brizset HYBRD 91% 96% 12 7 2 - - 1 - 1 23 Fall 2025
+BUS-151 Hull, Kurt ONLIN 70% 84% 15 18 14 - 3 6 - 11 67 Fall 2025
+BUS-151 Kim, Julie HYBRD 95% 95% 21 7 7 - - - - 2 37 Fall 2025
+BUS-151 Lau, Philip ECC 58% 75% 3 1 3 - - 2 - 3 12 Fall 2025
+BUS-151 Margiotta, Adam ECC 88% 96% 11 6 5 - - 2 - 1 25 Fall 2025
+BUS-151 Milosevic Nguyen, Ana ECC 92% 92% 15 7 2 - - - - 2 26 Fall 2025
+BUS-152 Porter, Sidney ECC 91% 94% 11 10 8 - - 1 - 2 32 Fall 2025
+BUS-159 Hull, Kurt ONLIN 52% 78% 4 5 3 - 4 2 - 5 23 Fall 2025
+BUS-160 Giles, Brizset ONLIN 73% 88% 13 8 3 - - 5 - 4 33 Fall 2025
+BUS-165A Porter, Sidney ECC 64% 72% 16 - - - 1 1 - 7 25 Fall 2025
+BUS-169 Kim, Julie ONLIN 95% 95% 13 5 3 - - - - 1 22 Fall 2025
+CIS-11 Siddiqui, Junaid ONLIN 56% 72% 5 3 2 - 1 1 1 5 18 Fall 2025
+CIS-119 Dellaca, Roger ONLIN 67% 71% 7 6 1 - - 1 - 6 21 Fall 2025
+CIS-119 Perkins, Richard HYBRD 83% 91% 7 4 8 - - 2 - 2 23 Fall 2025
+CIS-122 Perkins, Richard HYBRD 91% 91% 11 7 2 - - - - 2 22 Fall 2025
+CIS-122 Seno, Vicky ONLIN 89% 100% 9 4 3 - - 2 - - 18 Fall 2025
+CIS-13 Anaya, Martin HYBRD 54% 85% 13 4 5 - 1 12 - 6 41 Fall 2025
+CIS-13 Davis, Kimberly ONLIN 85% 100% 24 5 4 - - 6 - - 39 Fall 2025
+CIS-13 Dellaca, Roger HYBRD 80% 97% 10 8 10 - 2 4 - 1 35 Fall 2025
+CIS-13 Le, Hac HYBRD 55% 89% 8 5 11 - 2 13 - 5 44 Fall 2025
+CIS-13 Lu, Khai HYBRD 73% 91% 42 11 11 - 1 15 - 8 88 Fall 2025
+CIS-13 Palmer, Patrick HYBRD 70% 87% 13 10 10 - 3 5 - 6 47 Fall 2025
+CIS-13 Perkins, Richard HYBRD 81% 88% 19 16 4 - - 3 - 6 48 Fall 2025
+CIS-13 Siddiqui, Junaid HYBRD 73% 91% 12 15 4 1 2 6 - 4 44 Fall 2025
+CIS-13 Tang, Joanna HYBRD 67% 89% 21 6 3 - 2 8 - 5 45 Fall 2025
+CIS-132 Allen, Roni ONLIN 63% 84% 7 3 2 - 1 3 - 3 19 Fall 2025
+CIS-133 Anaya, Martin ONLIN 80% 100% 6 1 1 - - 2 - - 10 Fall 2025
+CIS-136 Rubio, Jesus HYBRD 50% 67% 5 1 - - - 2 - 4 12 Fall 2025
+CIS-137 Le, Hac HYBRD 89% 95% 12 3 2 - - 1 - 1 19 Fall 2025
+CIS-137 Lu, Khai HYBRD 85% 85% 2 7 2 - - - - 2 13 Fall 2025
+CIS-141 Rubio, Jesus HYBRD 69% 88% 6 4 1 - 1 2 - 2 16 Fall 2025
+CIS-142 Corbin, Steven ONLIN 71% 100% 4 1 - - - 2 - - 7 Fall 2025
+CIS-143 Corbin, Steven ONLIN 80% 100% 3 - 1 - - 1 - - 5 Fall 2025
+CIS-150 Kol, Koda HYBRD 56% 83% 6 2 2 - 2 3 - 3 18 Fall 2025
+CIS-150 Seno, Vicky ONLIN 39% 89% 3 3 1 - 2 7 - 2 18 Fall 2025
+CIS-152 Anaya, Martin ONLIN 75% 75% 3 3 - - - - - 2 8 Fall 2025
+CIS-2 Kane, Dennis ECC 56% 72% 9 1 - - 1 2 - 5 18 Fall 2025
+CIS-26 Siddiqui, Junaid HYBRD 96% 96% 15 5 3 - - - - 1 24 Fall 2025
+CIS-28 Dellaca, Roger HYBRD 82% 86% 8 9 1 - - 1 - 3 22 Fall 2025
+CIS-40 Le, Hac HYBRD 86% 100% 5 10 4 - 2 1 - - 22 Fall 2025
+CIS-40 Lu, Khai HYBRD 84% 96% 14 5 2 - - 3 - 1 25 Fall 2025
+CIS-80 Dellaca, Roger HYBRD 71% 82% 9 3 - - 1 1 - 3 17 Fall 2025
+LAW-11 Pham, Vi ECC 55% 85% 7 3 1 - - 6 - 3 20 Fall 2025
+LAW-11 White, Jennifer HYBRD 74% 86% 23 2 1 - 1 3 - 5 35 Fall 2025
+LAW-12 Thomas, Kimberly HYBRD 90% 97% 20 6 1 - 1 1 - 1 30 Fall 2025
+LAW-13 Gastelum, Tracy ECC 100% 100% 14 10 1 - - - - - 25 Fall 2025
+LAW-14 White, Jennifer ONLIN 83% 95% 22 7 6 - 1 4 - 2 42 Fall 2025
+LAW-17 Alexander, Steven ECC 92% 100% 19 11 4 - 3 - - - 37 Fall 2025
+LAW-19 Pham, Vi ONLIN 82% 89% 19 3 1 - - 1 1 3 28 Fall 2025
+LAW-4 McGrue, Nicholas ECC 60% 79% 6 16 4 - 2 6 - 9 43 Fall 2025
+LAW-5 Gastelum, Tracy HYBRD 62% 95% 9 7 10 - 1 13 - 2 42 Fall 2025
+LAW-5 Pham, Vi HYBRD 78% 98% 22 10 3 - 3 6 - 1 45 Fall 2025
+LAW-5 White, Jennifer ECC 84% 97% 34 28 13 - 4 7 - 3 89 Fall 2025
+LAW-95 White, Jennifer ECC 100% 100% 4 - - - - - - - 4 Fall 2025
+PARA-1 McGrue, Nicholas HYBRD 42% 48% 6 5 2 - - 1 1 16 31 Fall 2025
+PARA-1 White, Jennifer HYBRD 78% 95% 18 8 3 - 1 5 - 2 37 Fall 2025
+RE-11 DeLuca, Vincent ONLIN 64% 73% 15 12 1 - - 4 - 12 44 Fall 2025
+RE-11 Yeressian, John HYBRD 97% 97% 56 19 12 - - - - 3 90 Fall 2025
+RE-12A McGrue, Nicholas ONLIN 75% 95% 8 16 6 - 2 6 - 2 40 Fall 2025
+RE-13 DeLuca, Vincent ONLIN 57% 97% 10 8 3 - 2 13 - 1 37 Fall 2025
+RE-13 Tomblin, David ECC 37% 98% 15 - - - 25 - - 1 41 Fall 2025
+RE-13 Yeressian, John HYBRD 98% 98% 28 5 17 - - - - 1 51 Fall 2025
+RE-19 Yeressian, John ONLIN 97% 97% 53 3 5 - - - - 2 63 Fall 2025
+RE-26 DeLuca, Vincent ONLIN 31% 100% 3 5 1 - 1 19 - - 29 Fall 2025
+RE-31 Yeressian, John ONLIN 100% 100% 37 3 16 - - - - - 56 Fall 2025
+RE-40 Yeressian, John ONLIN 98% 98% 41 8 12 - - - - 1 62 Fall 2025
+SUPV-109 Alford, Lovell ONLIN 50% 100% 1 3 1 1 - 5 1 - 12 Fall 2025
+SUPV-109 Pahl, David HYBRD 56% 89% 1 1 3 - 1 2 - 1 9 Fall 2025
+ART-110 Bronte, Andrea ECC 26% 70% 3 - 3 - 2 8 - 7 23 Fall 2025
+ART-110 Ceravolo, Talia ECC 65% 90% 9 7 4 - 1 7 - 3 31 Fall 2025
+ART-110 Hardesty, Joseph ECC 70% 85% 11 2 6 - 1 2 1 4 27 Fall 2025
+ART-110 Kabriel, Joseph ECC 62% 90% 20 10 2 - 3 12 - 5 52 Fall 2025
+ART-110 Ngo, Binh ECC 48% 60% 6 4 2 - 3 - - 10 25 Fall 2025
+ART-110 Phelps, Jennifer ECC 68% 89% 19 11 6 - 3 6 2 6 53 Fall 2025
+ART-129 Ewing, Richard ECC 55% 86% 3 7 6 - 3 6 - 4 29 Fall 2025
+ART-130 Micallef, Andrea ECC 71% 80% 24 4 7 - - 3 1 10 49 Fall 2025
+ART-131 Bella, Nicole ECC 77% 95% 14 3 - - 2 2 - 1 22 Fall 2025
+ART-131 Speth, Mary ONLIN 67% 72% 4 5 3 - - 1 - 5 18 Fall 2025
+ART-133 Holman, Eric ECC 72% 90% 16 5 - - - 5 - 3 29 Fall 2025
+ART-141 Curtis Urlik, Joy ONLIN 64% 77% 7 7 - - - 2 1 5 22 Fall 2025
+ART-141 Holman, Eric ECC 83% 97% 16 6 3 - 1 3 - 1 30 Fall 2025
+ART-141 Lacki, Robert ECC 70% 96% 4 8 4 - - 6 - 1 23 Fall 2025
+ART-141 Zinoveva, Anna ONLIN 52% 87% 20 3 4 - - 9 9 7 52 Fall 2025
+ART-142 Curtis Urlik, Joy ONLIN 54% 62% 9 4 1 - - 2 - 10 26 Fall 2025
+ART-144 Martin, Arnold ECC 86% 90% 13 4 1 - - 1 - 2 21 Fall 2025
+ART-145 Martin, Arnold ECC 85% 85% 11 - - - - - - 2 13 Fall 2025
+ART-147 Holman, Eric ECC 77% 85% 7 3 - - 1 - - 2 13 Fall 2025
+ART-152 Ewing, Richard ECC 62% 67% 4 6 3 - - 1 - 7 21 Fall 2025
+ART-160 Flores, Luis ECC 97% 97% 17 6 5 - - - - 1 29 Fall 2025
+ART-160 McMillin, Russell ONLIN 83% 87% 27 16 2 - 1 1 - 7 54 Fall 2025
+ART-161 Palacios, Vince ECC 96% 98% 40 10 - - 1 - - 1 52 Fall 2025
+ART-173 Nguyen, Tony ECC 81% 88% 8 4 1 - 1 - - 2 16 Fall 2025
+ART-173 Nickles, Monica ECC 44% 78% 3 1 - - - 3 - 2 9 Fall 2025
+ART-173 Thompson, Jillian ECC 80% 93% 11 1 - - 1 1 - 1 15 Fall 2025
+ART-181 McMillin, Russell ECC 85% 95% 13 4 - - 1 1 - 1 20 Fall 2025
+ART-217 Bloomberg, Randall ECC 94% 94% 24 7 2 - - - - 2 35 Fall 2025
+ART-218 Bloomberg, Randall ECC 89% 89% 12 3 1 - - - - 2 18 Fall 2025
+ART-218B Bloomberg, Randall ECC 67% 67% 2 - - - - - - 1 3 Fall 2025
+ART-219 Hardesty, Joseph ECC 81% 94% 11 1 1 - - 2 - 1 16 Fall 2025
+ART-220 Hardesty, Joseph ECC 100% 100% 2 - - - - - - - 2 Fall 2025
+ART-222 Bloomberg, Randall ONLIN 53% 76% 6 2 1 - 1 3 - 4 17 Fall 2025
+ART-222 Kidd, Thomas ECC 95% 95% 17 1 - - - - - 1 19 Fall 2025
+ART-223A Bloomberg, Randall ONLIN 100% 100% 3 1 - - - - - - 4 Fall 2025
+ART-223A Kidd, Thomas ECC 100% 100% 3 - - - - - - - 3 Fall 2025
+ART-223B Bloomberg, Randall ONLIN 100% 100% 1 - - - - - - - 1 Fall 2025
+ART-223B Kidd, Thomas ECC 100% 100% 3 - - - - - - - 3 Fall 2025
+ART-223B Speth, Mary ONLIN 67% 67% 2 - - - - - - 1 3 Fall 2025
+ART-233 Holman, Eric ECC 100% 100% 2 - 1 - - - - - 3 Fall 2025
+ART-247A Holman, Eric ECC 100% 100% 2 - - - - - - - 2 Fall 2025
+ART-262 Palacios, Vince ECC 91% 91% 21 - - - - - - 2 23 Fall 2025
+ART-263 Palacios, Vince ECC 100% 100% 6 1 - - - - - - 7 Fall 2025
+ART-275 Nguyen, Tony ECC 100% 100% 6 1 - - - - - - 7 Fall 2025
+ART-275 Nickles, Monica ECC 71% 93% 8 2 - - - 3 - 1 14 Fall 2025
+ART-275 Thompson, Jillian ECC 86% 86% 6 - - - - - - 1 7 Fall 2025
+ART-96 Holman, Eric EOC 100% 100% 1 - - - - - - - 1 Fall 2025
+ART-99 Holman, Eric EOC 100% 100% 1 - - - - - - - 1 Fall 2025
+DANC-101 Adamis, Elizabeth ONLIN 82% 82% 43 7 3 22 - - - 17 92 Fall 2025
+DANC-101 Berney, Daniel ECC 93% 97% 17 7 3 - - 1 - 1 29 Fall 2025
+DANC-101 Bryant, Jonathan ONLIN 50% 94% 29 3 3 - 5 26 - 4 70 Fall 2025
+DANC-103 Berney, Daniel ONLIN 38% 48% 9 3 4 - - 4 - 22 42 Fall 2025
+DANC-110 Bryant, Jonathan ECC 77% 77% 7 2 1 - - - - 3 13 Fall 2025
+DANC-120A Berney, Daniel ECC 76% 76% 9 3 3 1 - - - 5 21 Fall 2025
+DANC-120B Berney, Daniel ECC 100% 100% 3 1 2 1 - - - - 7 Fall 2025
+DANC-130A Bryant, Jonathan ECC 91% 91% 10 - - - - - - 1 11 Fall 2025
+DANC-130B Bryant, Jonathan ECC 90% 90% 8 1 - - - - - 1 10 Fall 2025
+DANC-140 Borgaro, Kim ECC 89% 89% 15 - 1 - - - - 2 18 Fall 2025
+DANC-161 Zee, Steven ECC 100% 100% 7 - - - - - - - 7 Fall 2025
+DANC-162 Cabag, Valerie ECC 89% 89% 9 7 1 - - - - 2 19 Fall 2025
+DANC-168 Andrade, Argelia ECC 82% 100% 18 - - - - 4 - - 22 Fall 2025
+DANC-170 Adamis, Elizabeth ECC 88% 88% 13 1 - - - - - 2 16 Fall 2025
+DANC-171A Adamis, Elizabeth ECC 89% 89% 8 - - - - - - 1 9 Fall 2025
+DANC-171B Bryant, Jonathan ECC 100% 100% 3 - - - - - - - 3 Fall 2025
+DANC-220A Berney, Daniel ECC 100% 100% 2 - 1 - - - - - 3 Fall 2025
+DANC-220B Berney, Daniel ECC 100% 100% 3 - 1 - - - - - 4 Fall 2025
+DANC-230B Bryant, Jonathan ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+DANC-240 Borgaro, Kim ECC 100% 100% 5 - - - - - - - 5 Fall 2025
+DANC-250 Jensen, Karin ECC 70% 95% 8 1 2 3 1 3 1 1 20 Fall 2025
+DANC-250 Klass, Sofia ECC 75% 85% 12 3 - - - 2 - 3 20 Fall 2025
+DANC-261 Zee, Steven ECC 100% 100% 3 - - - - - - - 3 Fall 2025
+DANC-268 Andrade, Argelia ECC 100% 100% 8 - - - - - - - 8 Fall 2025
+DANC-271A Bryant, Jonathan ECC 100% 100% 4 1 - - - - - - 5 Fall 2025
+DANC-271B Bryant, Jonathan ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+DANC-289AB Bryant, Jonathan ECC 100% 100% 9 - - - - - - - 9 Fall 2025
+FILM-100 Vafaeisefat, Elyusha ONLIN 82% 94% 32 3 6 - 1 5 - 3 50 Fall 2025
+FILM-105 Vafaeisefat, Elyusha ONLIN 86% 96% 62 13 8 - - 9 - 4 96 Fall 2025
+FILM-109 O'Brien, Kevin ONLIN 80% 87% 15 8 1 - - 2 - 4 30 Fall 2025
+FILM-110 Agan, Alicia ECC 91% 98% 24 15 3 - - 3 - 1 46 Fall 2025
+FILM-110 Beery, Brian ONLIN 83% 95% 29 5 1 - - 5 - 2 42 Fall 2025
+FILM-110 Bogdanski, James ONLIN 47% 87% 10 7 8 - 4 17 - 7 53 Fall 2025
+FILM-110 Keller, Max ECC 57% 91% 5 5 10 - - 12 - 3 35 Fall 2025
+FILM-110 Lau, Linus ECC 74% 100% 27 3 2 - - 11 - - 43 Fall 2025
+FILM-110 Lewis, Tracie ECC 74% 93% 21 27 16 - 6 10 - 6 86 Fall 2025
+FILM-113 O'Brien, Kevin ONLIN 69% 91% 12 12 6 1 4 6 - 4 45 Fall 2025
+FILM-121 Almo, Laura ONLIN 87% 91% 15 2 3 - - 1 - 2 23 Fall 2025
+FILM-121 Beery, Brian ECC 86% 90% 12 4 2 - - 1 - 2 21 Fall 2025
+FILM-122 O'Brien, Kevin ECC 96% 96% 24 3 - - - - - 1 28 Fall 2025
+FILM-124 Almo, Laura ONLIN 57% 70% 10 2 1 - - 3 - 7 23 Fall 2025
+FILM-153 Almo, Laura ECC 59% 88% 5 13 6 - 6 5 1 5 41 Fall 2025
+FILM-232 Corbin, Neil ECC 94% 94% 12 3 - - - - - 1 16 Fall 2025
+FILM-236 Almo, Laura ECC 96% 100% 16 5 2 - 1 - - - 24 Fall 2025
+FILM-236 O'Brien, Kevin ONLIN 73% 73% 9 5 2 - - - - 6 22 Fall 2025
+MUSI-101 Chambers-Salazar, Polli ONLIN 36% 60% 18 8 6 - 3 18 1 36 90 Fall 2025
+MUSI-101 Wood, Erin ECC 57% 86% 7 5 4 - 1 7 - 4 28 Fall 2025
+MUSI-102A Nachef, Joanna ECC 85% 85% 7 4 - - - - - 2 13 Fall 2025
+MUSI-103A Schulz, Patrick HYBRD 58% 91% 6 8 5 - 2 8 1 3 33 Fall 2025
+MUSI-103B Schulz, Patrick HYBRD 82% 95% 6 8 4 - 1 2 - 1 22 Fall 2025
+MUSI-105 Moyer, David HYBRD 67% 87% 6 1 3 - - 3 - 2 15 Fall 2025
+MUSI-111 Chan, Alan ECC 53% 78% 12 3 9 - 5 6 - 10 45 Fall 2025
+MUSI-111 Doyle, William ONLIN 49% 55% 20 17 16 - 4 3 - 49 109 Fall 2025
+MUSI-111 Martin, Margot ONLIN 77% 95% 16 14 4 - 1 7 - 2 44 Fall 2025
+MUSI-111 Schulz, Patrick ONLIN 47% 100% 7 5 2 - 2 14 - - 30 Fall 2025
+MUSI-112H Doyle, William HYBRD 93% 97% 15 12 1 - - 1 - 1 30 Fall 2025
+MUSI-113 Moyer, David ONLIN 68% 95% 18 7 2 - 5 6 - 2 40 Fall 2025
+MUSI-116 Chan, Alan ONLIN 70% 86% 21 6 4 - 1 6 - 6 44 Fall 2025
+MUSI-116 Minei, Ryota ONLIN 58% 96% 49 11 3 - 1 41 - 4 109 Fall 2025
+MUSI-116 Moyer, David ONLIN 66% 86% 19 4 6 - 2 7 - 6 44 Fall 2025
+MUSI-117 Doyle, William ONLIN 57% 67% 23 27 9 - 1 9 - 34 103 Fall 2025
+MUSI-120 Blickfeldt, Kevin ECC 70% 81% 15 1 3 - - 3 - 5 27 Fall 2025
+MUSI-120 Wood, Erin ECC 46% 85% 3 2 1 - 1 4 - 2 13 Fall 2025
+MUSI-131A Chambers-Salazar, Polli ONLIN 52% 61% 9 1 2 - - 2 - 9 23 Fall 2025
+MUSI-131A Liebich, Rafael ECC 67% 79% 21 7 4 - 4 1 1 10 48 Fall 2025
+MUSI-131A Stern, Valerie ECC 81% 86% 13 3 1 - - 1 - 3 21 Fall 2025
+MUSI-131B Chambers-Salazar, Polli ONLIN 65% 94% 8 - 3 - - 2 3 1 17 Fall 2025
+MUSI-147A Minei, Ryota ECC 88% 88% 41 2 3 - - - - 6 52 Fall 2025
+MUSI-152ABCD Nachef, Joanna ECC 92% 92% 12 - - - - - - 1 13 Fall 2025
+MUSI-181A Kleinhans, Jonathan ECC 58% 84% 6 4 1 - 1 4 - 3 19 Fall 2025
+MUSI-190A Blickfeldt, Kevin ECC 100% 100% 3 1 - - - - - - 4 Fall 2025
+MUSI-190A Minei, Ryota ECC 69% 77% 9 - - - 1 - - 3 13 Fall 2025
+MUSI-190A Moyer, David ECC 100% 100% 7 2 1 - - - - - 10 Fall 2025
+MUSI-190B Blickfeldt, Kevin ECC 100% 100% 3 2 1 - - - - - 6 Fall 2025
+MUSI-190B Minei, Ryota ECC 80% 80% 4 - - - - - - 1 5 Fall 2025
+MUSI-190B Moyer, David ECC 70% 90% 6 1 - - - 2 - 1 10 Fall 2025
+MUSI-190C Blickfeldt, Kevin ECC 100% 100% 3 1 2 - - - - - 6 Fall 2025
+MUSI-190C Minei, Ryota ECC 86% 86% 6 - - - - - - 1 7 Fall 2025
+MUSI-190C Moyer, David ECC 100% 100% 3 1 - - - - - - 4 Fall 2025
+MUSI-190D Blickfeldt, Kevin ECC 100% 100% 1 1 - - - - - - 2 Fall 2025
+MUSI-190D Minei, Ryota ECC 100% 100% 2 - - - - - - - 2 Fall 2025
+MUSI-190D Moyer, David ECC 100% 100% 1 2 - - - - - - 3 Fall 2025
+MUSI-203 Schulz, Patrick HYBRD 57% 71% 3 - 1 - - 1 - 2 7 Fall 2025
+MUSI-215A Doyle, William ECC 94% 94% 8 8 14 - - - - 2 32 Fall 2025
+MUSI-220 Blickfeldt, Kevin ECC 100% 100% 5 - - - - - - - 5 Fall 2025
+MUSI-222ABCD Blickfeldt, Kevin ECC 100% 100% 17 - - - - - - - 17 Fall 2025
+MUSI-231A Chambers-Salazar, Polli ECC 78% 100% 6 - 1 - - - 2 - 9 Fall 2025
+MUSI-231B Chambers-Salazar, Polli ECC 50% 100% 2 - - - - - 2 - 4 Fall 2025
+MUSI-232 Chambers-Salazar, Polli ECC 80% 100% 4 - - - 1 - - - 5 Fall 2025
+MUSI-253ABCD Nachef, Joanna ECC 100% 100% 17 - - - - - - - 17 Fall 2025
+MUSI-257ABCD Kang, Soyun ECC 83% 83% 5 - - - - - - 1 6 Fall 2025
+MUSI-258ABCD Spadini, Natalia ECC 85% 92% 6 5 - - - 1 - 1 13 Fall 2025
+MUSI-265ABCD Vizcarra, Raymundo ECC 95% 95% 19 - - - - - - 1 20 Fall 2025
+MUSI-266ABCD Sills, David ECC 100% 100% 7 - 1 - - - - - 8 Fall 2025
+MUSI-267ABCD Moyer, David ECC 100% 100% 20 - 1 - - - - - 21 Fall 2025
+MUSI-268ABCD Nachef, Joanna ECC 100% 100% 6 - - - - - - - 6 Fall 2025
+MUSI-269ABCD Minei, Ryota ECC 93% 93% 14 - - - - - - 1 15 Fall 2025
+MUSI-290 Minei, Ryota ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+MUSI-565 Vizcarra, Raymundo ECC 96% 96% 25 - - - - - - 1 26 Fall 2025
+MUSI-567 Moyer, David ECC 100% 100% 6 - - - - - - - 6 Fall 2025
+MUSI-567 Sills, David ECC 67% 67% 2 - - - - - - 1 3 Fall 2025
+MUSI-567 Sit, Weng San ECC 91% 91% 17 4 8 - - - - 3 32 Fall 2025
+MUSI-567 Trine, Evan ONLIN 61% 88% 15 7 3 - 3 8 - 5 41 Fall 2025
+PHOT-102 Sit, Weng San ECC 92% 96% 12 8 2 - - - 1 1 24 Fall 2025
+PHOT-106 Thomas, Quang ECC 83% 83% 4 - 1 - - - - 1 6 Fall 2025
+PHOT-1 Montana, Star ECC 66% 73% 21 3 3 - 3 - - 11 41 Fall 2025
+PHOT-1 Naumann, Sonya ONLIN 75% 93% 78 14 8 - 5 19 - 10 134 Fall 2025
+PHOT-1 Nelson, Mark ECC 77% 97% 37 23 6 - 1 16 - 3 86 Fall 2025
+PHOT-1 Simonson, Kurt ECC 86% 100% 18 10 2 - - 5 - - 35 Fall 2025
+PHOT-202 Cho, Joshua ECC 78% 89% 3 3 1 - - 1 - 1 9 Fall 2025
+PHOT-203 Cho, Joshua ECC 88% 100% 3 2 2 - 1 - - - 8 Fall 2025
+PHOT-223A Sit, Weng San ECC 100% 100% 12 4 - - - - - - 16 Fall 2025
+PHOT-223B Sit, Weng San ECC 100% 100% 2 - 1 - - - - - 3 Fall 2025
+PHOT-254 Cho, Joshua ECC 67% 100% 1 1 - - - 1 - - 3 Fall 2025
+THEA-103 Harrison, Ayla ONLIN 61% 79% 16 11 10 - 2 9 - 13 61 Fall 2025
+THEA-104 Harrison, Ayla ONLIN 88% 88% 9 4 2 - - - - 2 17 Fall 2025
+THEA-113 Francois, Sarahjeen ECC 59% 81% 12 4 - - 2 4 - 5 27 Fall 2025
+THEA-114 Garayua, Gloria ECC 77% 96% 11 6 3 - 3 2 - 1 26 Fall 2025
+THEA-175ABCD Singh, Nathan ECC 100% 100% 24 - - - - - - - 24 Fall 2025
+THEA-185 Sherman, Kira ECC 84% 89% 6 5 5 - - 1 - 2 19 Fall 2025
+THEA-189 Wilkinson, Kimberly ECC 86% 93% 8 3 1 - 1 - - 1 14 Fall 2025
+THEA-197ABCD Sherman, Kira ECC 82% 88% 25 1 1 - - 2 - 4 33 Fall 2025
+THEA-214A Singh, Nathan ECC 93% 93% 12 1 1 - - - - 1 15 Fall 2025
+THEA-215 Caeti, Frank ECC 80% 85% 15 1 - - - 1 - 3 20 Fall 2025
+THEA-270ABCD Herman, Kelly ECC 95% 95% 19 - - - - - - 1 20 Fall 2025
+THEA-297AB Sherman, Kira ECC 100% 100% 3 - - - - - - - 3 Fall 2025
+AJ-10 Gulcher, Andrew ECC 68% 97% 8 1 14 - - 10 - 1 34 Fall 2025
+AJ-100 Acquarelli, James HSDUL 68% 74% 20 3 3 - - 2 - 10 38 Fall 2025
+AJ-100 Causey, Roberto LIVEO 77% 88% 3 15 2 - 1 2 - 3 26 Fall 2025
+AJ-100 Clansy, Andre ECC 86% 89% 19 10 3 - - 1 - 4 37 Fall 2025
+AJ-100 Mason, Donald ECC 85% 97% 15 10 4 - 3 1 - 1 34 Fall 2025
+AJ-100 Mauger, Dina ONLIN 84% 94% 25 8 10 - 2 3 - 3 51 Fall 2025
+AJ-103 Fields, Mark ONLIN 71% 83% 9 8 - - 1 2 - 4 24 Fall 2025
+AJ-103 Flosi, Edward ECC 70% 93% 12 3 6 - 2 5 - 2 30 Fall 2025
+AJ-103 Rosales, Jose ONLIN 59% 97% 6 10 1 - 1 10 - 1 29 Fall 2025
+AJ-106 Serrano, Oscar ONLIN 50% 100% 3 2 1 - 1 5 - - 12 Fall 2025
+AJ-107 Plair, Vincent ONLIN 43% 87% 8 2 3 - - 13 - 4 30 Fall 2025
+AJ-109 Martinez, Alfred ONLIN 14% 100% 2 - 1 - 1 17 - - 21 Fall 2025
+AJ-109 Serrano, Oscar ONLIN 11% 100% 3 - - - - 25 - - 28 Fall 2025
+AJ-11 Branley, Timothy ONLIN 92% 92% 9 2 1 - - - - 1 13 Fall 2025
+AJ-111 Fields, Mark ONLIN 74% 93% 13 7 - - 1 3 1 2 27 Fall 2025
+AJ-111 Mauger, Dina ECC 44% 85% 1 4 7 - - 11 - 4 27 Fall 2025
+AJ-115 Fields, Mark ONLIN 71% 79% 8 1 1 - 1 - - 3 14 Fall 2025
+AJ-115 Meredith, Donald ECC 70% 100% 14 - - - - 6 - - 20 Fall 2025
+AJ-12 Gulcher, Andrew ONLIN 24% 100% 9 - - - - 29 - - 38 Fall 2025
+AJ-126 Acquarelli, James ECC 85% 100% 11 - - - 1 1 - - 13 Fall 2025
+AJ-130 Fogel, Seth ECC 64% 93% 4 4 1 - 3 1 - 1 14 Fall 2025
+AJ-130 Roberson, Andrea ONLIN 44% 93% 7 2 3 - - 13 - 2 27 Fall 2025
+AJ-130 Mason, Donald ONLIN 49% 100% 12 4 1 - - 18 - - 35 Fall 2025
+AJ-130 Roberson, Andrea ONLIN 30% 96% 3 4 - - - 15 - 1 23 Fall 2025
+AJ-132 Roth, Matthew LIVEO 77% 90% 18 3 2 - 1 3 - 3 30 Fall 2025
+AJ-133 Beckman, Hoda ECC 31% 94% 9 2 - - - 22 - 2 35 Fall 2025
+AJ-135 Belthius, Darrell ONLIN 45% 97% 14 1 - - 1 16 - 1 33 Fall 2025
+AJ-142 Gulcher, Andrew ECC 97% 97% 29 5 - - - - - 1 35 Fall 2025
+AJ-150 Beckman, Hoda ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-150 Belthius, Darrell ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-150 Brock, David ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-150 Castellon, Eduardo ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-150 Kim, Sterling ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-150 Mason, Donald ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-150 Rosales, Jose ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-150 Serrano, Oscar ECC 62% 85% 4 4 - - - 3 - 2 13 Fall 2025
+AJ-170 Roth, Matthew ONLIN 22% 89% 4 - - - - 12 - 2 18 Fall 2025
+AJ-170 Serrano, Oscar ONLIN 53% 100% 4 3 2 - - 8 - - 17 Fall 2025
+AJ-190 Juckett, Brian ECC 95% 95% 21 - - - - - - 1 22 Fall 2025
+AJ-21 Branley, Timothy ONLIN 100% 100% 1 1 - - - - - - 2 Fall 2025
+AJ-26 Juckett, Brian ONLIN 100% 100% 2 1 - - - - - - 3 Fall 2025
+AJ-49 Serrano, Oscar ECC 67% 67% 2 3 - 1 - - - 3 9 Fall 2025
+CH-1 Alvillar, Andrew ONLIN 56% 98% 23 7 1 - 2 21 - 1 55 Fall 2025
+CH-1 Calderon, Karla ONLIN 47% 93% 6 4 4 - - 14 - 2 30 Fall 2025
+CH-1 Green, Kirsten ECC 67% 83% 20 8 - - 2 5 - 7 42 Fall 2025
+CH-1 Hall, John ECC 76% 98% 23 4 4 - - 9 - 1 41 Fall 2025
+CH-1 Hazell, Thomas ONLIN 68% 97% 17 5 1 - - 10 - 1 34 Fall 2025
+CH-1 Lindheim, Gifford ONLIN 51% 78% 29 6 5 - - 21 1 17 79 Fall 2025
+CH-1 Lofgren, Dean ECC 86% 94% 13 9 9 - - 3 - 2 36 Fall 2025
+CH-1 Mintz, Stan ECC 85% 97% 16 11 6 - - 5 - 1 39 Fall 2025
+CH-1 Palmer, Grant ECC 100% 100% 7 14 8 - - - - - 29 Fall 2025
+CH-1 Pattison, Levalley ONLIN 50% 82% 11 2 1 - - 9 - 5 28 Fall 2025
+FAID-1 Calderon, Karla HYBRD 82% 94% 22 4 1 - - 4 - 2 33 Fall 2025
+FAID-1 Diaz, Juan HSDUL 94% 94% 28 - 1 - - - - 2 31 Fall 2025
+FAID-1 Jacobson, Michael HYBRD 100% 100% 57 6 2 - - - - - 65 Fall 2025
+FAID-1 Komai, Stacy HSDUL 79% 93% 5 3 3 - 1 1 - 1 14 Fall 2025
+FAID-1 Peters, Kurt ECC 97% 97% 21 8 - - - - - 1 30 Fall 2025
+FTEC-1 Conroy, Daniel ONLIN 75% 94% 6 3 3 - 1 2 - 1 16 Fall 2025
+FTEC-1 Fisher, Timothy ECC 81% 92% 11 10 - - - 3 - 2 26 Fall 2025
+FTEC-1 Hallock, Matthew ECC 78% 100% 14 7 4 - - 7 - - 32 Fall 2025
+FTEC-1 Valdez, Edward ONLIN 64% 100% 13 2 3 - 10 - - - 28 Fall 2025
+FTEC-1 Valle, Felix ECC 72% 95% 13 10 5 - 2 7 - 2 39 Fall 2025
+FTEC-1 Wingfield, Aarin ECC 81% 92% 11 10 - - - 3 - 2 26 Fall 2025
+FTEC-10 Murphy, William ECC 34% 97% 9 4 - - 1 23 - 1 38 Fall 2025
+FTEC-10 Rickman, Tracy ONLIN 79% 82% 13 10 4 - 1 - - 6 34 Fall 2025
+FTEC-11 Coffelt, Kevin ECC 71% 86% 1 2 2 - 1 - - 1 7 Fall 2025
+FTEC-113B Brakebill, James ECC 35% 35% 7 - - - - - - 13 20 Fall 2025
+FTEC-120 Fisher, Timothy HSDUL 100% 100% 24 - - - - - - - 24 Fall 2025
+FTEC-120 Garcia, Leonard ONLIN 76% 100% 12 4 - - - 5 - - 21 Fall 2025
+FTEC-120 Iqueda, Angel ONLIN 36% 95% 4 3 1 - - 13 - 1 22 Fall 2025
+FTEC-120 Kreiswirth, Ethan HSDUL 91% 100% 21 5 6 - - 3 - - 35 Fall 2025
+FTEC-120 Rodrigues, Alex ECC 40% 93% 2 4 - - 3 5 - 1 15 Fall 2025
+FTEC-120 Wingfield, Aarin HSDUL 100% 100% 24 - - - - - - - 24 Fall 2025
+FTEC-130 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21 Fall 2025
+FTEC-131 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21 Fall 2025
+FTEC-132 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21 Fall 2025
+FTEC-133 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21 Fall 2025
+FTEC-134 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21 Fall 2025
+FTEC-135 Huben, Kevin OFFST 90% 100% 2 13 4 - - 2 - - 21 Fall 2025
+FTEC-136 Huben, Kevin OFFST 90% 90% 2 13 4 - - - - 2 21 Fall 2025
+FTEC-137 Huben, Kevin OFFST 90% 90% 2 13 4 - - - - 2 21 Fall 2025
+FTEC-144 Carey, Ryan ECC 55% 66% 46 - 10 - - 11 - 35 102 Fall 2025
+FTEC-144 Chang, Marvin ECC 59% 77% 20 21 - - - 12 1 16 70 Fall 2025
+FTEC-144 Garcia, Leonard ECC 59% 77% 20 21 - - - 12 1 16 70 Fall 2025
+FTEC-144 Malonzo, Mark ECC 70% 70% 14 5 1 1 - - - 9 30 Fall 2025
+FTEC-144 Marquez, Joshua ECC 51% 63% 29 - 3 - - 8 - 23 63 Fall 2025
+FTEC-144 Rodrigues, Alex ECC 62% 78% 7 13 3 - 1 5 - 8 37 Fall 2025
+FTEC-15 Boies, Joshua ECC 65% 78% 24 - - - - 5 - 8 37 Fall 2025
+FTEC-19 Buffington, Brett ONLIN 22% 100% 4 - - - - 14 - - 18 Fall 2025
+FTEC-2 Coffelt, Kevin ONLIN 66% 85% 16 8 3 - 2 6 - 6 41 Fall 2025
+FTEC-2 Rickman, Tracy ONLIN 25% 28% 4 4 1 - - 1 - 26 36 Fall 2025
+FTEC-20 Murphy, William ECC 79% 100% 19 7 1 - - 7 - - 34 Fall 2025
+FTEC-3 Coffelt, Kevin ONLIN 40% 100% 7 1 - - - 12 - - 20 Fall 2025
+FTEC-3 McCracken, Mark ECC 70% 89% 10 10 6 - 3 4 - 4 37 Fall 2025
+FTEC-3 Suen, Chen ONLIN 94% 100% 23 7 4 - - 2 - - 36 Fall 2025
+FTEC-4 Hallock, Matthew ONLIN 43% 100% 4 4 4 - - 16 - - 28 Fall 2025
+FTEC-5 McCracken, Mark ONLIN 84% 94% 14 11 2 - 1 2 - 2 32 Fall 2025
+FTEC-5 Suen, Chen ECC 89% 100% 20 9 2 - - 4 - - 35 Fall 2025
+FTEC-6 Tuzzolino, Terry ONLIN 76% 85% 14 7 5 - 1 2 - 5 34 Fall 2025
+FTEC-6 Valdez, Edward ECC 95% 100% 20 10 5 - - 2 - - 37 Fall 2025
+FTEC-9 Brown, Adam ONLIN 31% 100% 4 3 3 - 1 21 - - 32 Fall 2025
+MEDT-1 Green, Michele ONLIN 66% 80% 24 18 7 - 3 7 - 15 74 Fall 2025
+MEDT-1 Jenkins, Ian ONLIN 78% 89% 39 24 15 - 3 8 - 11 100 Fall 2025
+MEDT-1 Moore, Josephine ECC 76% 84% 29 5 - - 2 2 - 7 45 Fall 2025
+MEDT-1 Rivera-Mitu, Eliza ECC 73% 93% 15 9 5 - 3 5 - 3 40 Fall 2025
+MEDT-1 Wade, Randy ONLIN 86% 92% 94 15 5 - 2 5 - 11 132 Fall 2025
+NURS-143 Calib, Farah ECC 93% 95% 31 7 - - - 1 - 2 41 Fall 2025
+NURS-143 Kidwell Udin, Margaret ECC 87% 89% 20 11 2 - - 1 - 4 38 Fall 2025
+NURS-144 Goodwin, Monica ECC 90% 100% 11 6 2 - 2 - - - 21 Fall 2025
+NURS-144 Ryan, Sanja ECC 77% 90% 22 6 2 - 2 3 - 4 39 Fall 2025
+NURS-144 White, Maria ECC 87% 93% 7 5 1 - - 1 - 1 15 Fall 2025
+NURS-149 Johnson, Shiny ECC 80% 100% 1 1 2 - - 1 - - 5 Fall 2025
+NURS-222 Minutella, Tammy ECC 94% 94% 7 23 - - - - - 2 32 Fall 2025
+NURS-224 Nunez, Raymond ECC 78% 85% 2 16 13 - 3 - - 6 40 Fall 2025
+NURS-226 Goodwin, Monica ECC 92% 92% 22 - - - - - - 2 24 Fall 2025
+NURS-226 Linson, Morgan ECC 100% 100% 8 - - - - - - - 8 Fall 2025
+NURS-230 Lundy-Jackson, Lashonna ECC 98% 100% 23 16 - - - 1 - - 40 Fall 2025
+NURS-232 Rivera-Mitu, Eliza ECC 100% 100% 12 17 4 - - - - - 33 Fall 2025
+NURS-234 Johnson, Shiny ECC 100% 100% 9 19 5 - - - - - 33 Fall 2025
+NURS-238 Goodwin, Monica ECC 100% 100% 8 2 - - - - - - 10 Fall 2025
+NURS-238 Johnson, Shiny ECC 97% 97% 28 - - - - - - 1 29 Fall 2025
+NURS-240 Ryan, Samantha ECC 97% 100% 11 22 - - 1 - - - 34 Fall 2025
+NURS-242 Wilson, Rashida ECC 93% 100% 2 29 9 - 3 - - - 43 Fall 2025
+NURS-244 Goodwin, Monica ECC 100% 100% 26 - - - - - - - 26 Fall 2025
+NURS-244 Nunez, Raymond ECC 100% 100% 17 - - - - - - - 17 Fall 2025
+NURS-248 Guta, Michelle OFFST 100% 100% 8 - - - - - - - 8 Fall 2025
+NURS-248 Minutella, Tammy OFFST 100% 100% 7 - - - - - - - 7 Fall 2025
+NURS-248 White, Maria OFFST 88% 100% 7 - - - - - 1 - 8 Fall 2025
+PE-105ABC Hartwill, Janina ECC 82% 82% 14 - - - - - - 3 17 Fall 2025
+PE-105ABC Shaw, Carla ECC 82% 82% 14 - - - - - - 3 17 Fall 2025
+PE-105ABC Shaw, Stephen ECC 82% 82% 14 - - - - - - 3 17 Fall 2025
+PE-10A Barragan, Rolando ECC 91% 91% 39 1 - - - - - 4 44 Fall 2025
+PE-10A Hall, John ECC 95% 95% 21 - - - - - - 1 22 Fall 2025
+PE-10A Hazell, Elizabeth ONLIN 50% 50% 10 3 - - - - - 13 26 Fall 2025
+PE-10A Hazell, Thomas ECC 75% 81% 36 - - - - 3 - 9 48 Fall 2025
+PE-10A Kirk, Matthew ECC 89% 89% 16 - - - - - - 2 18 Fall 2025
+PE-10A Lindheim, Gifford ECC 80% 84% 17 3 - - 1 - - 4 25 Fall 2025
+PE-10A Uphoff, Robert ECC 84% 84% 21 - - - - - - 4 25 Fall 2025
+PE-10B Barragan, Rolando ECC 100% 100% 7 - - - - - - - 7 Fall 2025
+PE-10B Hazell, Elizabeth ONLIN 88% 88% 6 1 - - - - - 1 8 Fall 2025
+PE-10B Hazell, Thomas ECC 100% 100% 5 - - - - - - - 5 Fall 2025
+PE-10B Kirk, Matthew ECC 100% 100% 4 - - - - - - - 4 Fall 2025
+PE-10B Lindheim, Gifford ECC 100% 100% 2 1 - - - - - - 3 Fall 2025
+PE-10B Uphoff, Robert ECC 67% 67% 2 - - - - - - 1 3 Fall 2025
+PE-110ABC Hazell, Elizabeth ECC 100% 100% 18 - - - - - - - 18 Fall 2025
+PE-116ABC Boerica, Sergiu ECC 89% 89% 15 2 - - - - - 2 19 Fall 2025
+PE-121ABC Rapoza, Jessica ECC 100% 100% 25 - - - - - - - 25 Fall 2025
+PE-133ABC Levin, David ECC 100% 100% 8 - - - - - - - 8 Fall 2025
+PE-135ABCD Calderon, Karla ECC 100% 100% 25 - - - - - - - 25 Fall 2025
+PE-135ABCD Haroldson, Shelby ECC 96% 96% 23 - - - - - - 1 24 Fall 2025
+PE-135ABCD Hughley, Kevin ECC 95% 95% 17 1 2 - - - - 1 21 Fall 2025
+PE-135ABCD Mayeaux, Grant ECC 100% 100% 19 - - - - - - - 19 Fall 2025
+PE-135ABCD Palmer, Grant ECC 100% 100% 31 - - - - - - - 31 Fall 2025
+PE-135ABCD Rapoza, Jessica ECC 100% 100% 25 - - - - - - - 25 Fall 2025
+PE-135ABCD Wood, Casey ECC 100% 100% 13 - - - - - - - 13 Fall 2025
+PE-15ABC Uphoff, Robert ECC 96% 96% 22 - - - - - - 1 23 Fall 2025
+PE-18A Pittock, Rachel ECC 83% 87% 48 11 5 - 2 1 - 10 77 Fall 2025
+PE-18A Rosario, Krysti ECC 35% 77% 4 3 2 - 1 10 - 6 26 Fall 2025
+PE-18B Pittock, Rachel ECC 88% 88% 16 4 2 - - - - 3 25 Fall 2025
+PE-201 Lim, Jae HYBRD 92% 95% 19 15 2 - - 1 - 2 39 Fall 2025
+PE-204 Levin, David ECC 100% 100% 20 - - - - - - - 20 Fall 2025
+PE-20ABC Lofgren, Dean ECC 90% 90% 18 - - - - - - 2 20 Fall 2025
+PE-212 Pattison, Levalley ONLIN 56% 86% 27 14 15 - 8 22 - 14 100 Fall 2025
+PE-217 Jacobson, Michael ONLIN 54% 97% 20 - - - - 16 - 1 37 Fall 2025
+PE-221 Hazell, Thomas ONLIN 64% 100% 14 - - - 1 7 - - 22 Fall 2025
+PE-221 Hood, William ECC 81% 88% 24 4 6 - 3 - - 5 42 Fall 2025
+PE-224 Green, Kirsten ECC 82% 95% 17 - 1 - - 3 - 1 22 Fall 2025
+PE-240A Lizarraga, Monica ECC 92% 92% 14 4 - 5 - - - 2 25 Fall 2025
+PE-240A Pattison, Levalley ECC 59% 81% 12 3 1 - 1 5 - 5 27 Fall 2025
+PE-240A Wyatt, Karen ECC 63% 63% 15 - - - - - - 9 24 Fall 2025
+PE-240B Peters, Kurt ECC 90% 90% 19 - - - - - - 2 21 Fall 2025
+PE-240C Peters, Kurt ECC 50% 50% 2 - - - - - - 2 4 Fall 2025
+PE-245 Wyatt, Karen ECC 95% 95% 14 6 1 - - - - 1 22 Fall 2025
+PE-247 Delzeit-Mcintrye, Linda HYBRD 86% 86% 6 - - - - - - 1 7 Fall 2025
+PE-250 Peters, Kurt ECC 100% 100% 12 - - - - - - - 12 Fall 2025
+PE-251A Lindheim, Gifford ECC 86% 91% 11 6 2 - 1 - - 2 22 Fall 2025
+PE-251B Lindheim, Gifford ECC 86% 100% 5 - 1 - - 1 - - 7 Fall 2025
+PE-255 Pattison, Levalley ECC 80% 92% 14 3 3 - - 3 - 2 25 Fall 2025
+PE-257 Cass, Kathryn ONLIN 81% 89% 22 - - - - 2 - 3 27 Fall 2025
+PE-257 Galias, Diana ONLIN 72% 97% 21 - - - - 7 - 1 29 Fall 2025
+PE-257 Zartman, Charleen ECC 86% 86% 19 4 2 - - - - 4 29 Fall 2025
+PE-258 Alcocer, Brandon ONLIN 83% 83% 12 3 - - - - - 3 18 Fall 2025
+PE-259 Rapoza, Jessica ECC 89% 89% 31 - - - - - - 4 35 Fall 2025
+PE-266 Alvillar, Andrew ONLIN 56% 91% 13 3 3 - 1 11 - 3 34 Fall 2025
+PE-266 Lindheim, Gifford ONLIN 54% 100% 20 4 4 - 1 22 1 - 52 Fall 2025
+PE-266 Roman, Danielle ONLIN 76% 97% 31 13 4 - 2 11 - 2 63 Fall 2025
+PE-270 Hazell, Thomas ONLIN 41% 94% 7 3 3 - - 17 - 2 32 Fall 2025
+PE-270 Lofgren, Dean ONLIN 64% 68% 13 3 2 - - 1 - 9 28 Fall 2025
+PE-272 Kreiswirth, Ethan ECC 92% 100% 8 3 1 - 1 - - - 13 Fall 2025
+PE-273 Pattison, Levalley ONLIN 52% 81% 13 2 1 - - 9 - 6 31 Fall 2025
+PE-275 Alvillar, Andrew ONLIN 59% 100% 11 2 - - 1 8 - - 22 Fall 2025
+PE-275 Rapoza, Jessica ONLIN 52% 93% 41 11 4 - 3 40 - 8 107 Fall 2025
+PE-275 Uphoff, Robert ONLIN 74% 100% 8 4 1 1 - 4 1 - 19 Fall 2025
+PE-277 Calderon, Karla ONLIN 70% 95% 16 6 6 - 4 6 - 2 40 Fall 2025
+PE-277 Jacobson, Michael ONLIN 89% 100% 28 3 1 - - 4 - - 36 Fall 2025
+PE-277 Mayeaux, Grant ECC 80% 98% 16 10 7 - 4 3 - 1 41 Fall 2025
+PE-277 Rapoza, Jessica ONLIN 63% 97% 16 4 2 - 1 11 - 1 35 Fall 2025
+PE-280 Roman, Danielle HYBRD 80% 97% 15 11 2 - 2 4 - 1 35 Fall 2025
+PE-290 Roman, Danielle ONLIN 75% 80% 5 3 7 - - 1 - 4 20 Fall 2025
+PE-2A Green, Kirsten ECC 65% 71% 5 5 1 - - 1 - 5 17 Fall 2025
+PE-2A Pattison, Levalley ONLIN 88% 91% 20 5 3 - - 1 - 3 32 Fall 2025
+PE-2A Pattison, Levalley ONLIN 73% 91% 6 2 - - 1 1 - 1 11 Fall 2025
+PE-3 Wood, Casey ECC 93% 93% 25 - - - - - - 2 27 Fall 2025
+PE-35ABC Kaub, Timothy ECC 93% 93% 26 - - - - - - 2 28 Fall 2025
+PE-35ABC Kirk, Matthew ECC 94% 94% 30 - - - - - - 2 32 Fall 2025
+PE-35ABC Lindheim, Gifford ECC 100% 100% 35 - - - - - - - 35 Fall 2025
+PE-35ABC Rodriguez, John ECC 81% 81% 21 - - - - - - 5 26 Fall 2025
+PE-400 Guzman, Ubaldo ECC 95% 95% 16 2 - 1 - - - 1 20 Fall 2025
+PE-400 Mintz, Stan ECC 100% 100% 17 2 - 1 - - - - 20 Fall 2025
+PE-401 Lim, Jae ECC 100% 100% 29 4 - 4 - - - - 37 Fall 2025
+PE-402 Guzman, Ubaldo ECC 100% 100% 24 1 - 2 - - - - 27 Fall 2025
+PE-402 Lim, Jae ECC 95% 95% 15 3 - 1 - - - 1 20 Fall 2025
+PE-404 Barba, Stephen ECC 100% 100% 13 - 1 2 - - - - 16 Fall 2025
+PE-409 Cass, Kathryn ECC 61% 61% 8 - 2 1 - - - 7 18 Fall 2025
+PE-46ABC Komai, Stacy ECC 85% 92% 11 - - - - 1 - 1 13 Fall 2025
+PE-4A Jimmerson, Charles ECC 100% 100% 16 2 - - - - - - 18 Fall 2025
+PE-54A Alvillar, Andrew ECC 69% 91% 17 4 1 - 1 6 - 3 32 Fall 2025
+PE-54A Arrache, Antonio ECC 100% 100% 12 - - - - - - - 12 Fall 2025
+PE-54A Hall, John ECC 89% 89% 17 - - - - - - 2 19 Fall 2025
+PE-54A Mayeaux, Grant ECC 93% 93% 13 - - - - - - 1 14 Fall 2025
+PE-54A Palmer, Grant ECC 95% 95% 21 - - - - - - 1 22 Fall 2025
+PE-54A Roman, Danielle ECC 100% 100% 30 1 - - - - - - 31 Fall 2025
+PE-54A Shaw, Stephen ECC 62% 62% 13 - - - - - - 8 21 Fall 2025
+PE-54B Alvillar, Andrew ECC 90% 100% 5 4 - - - 1 - - 10 Fall 2025
+PE-54B Arrache, Antonio ECC 100% 100% 5 - - - - - - - 5 Fall 2025
+PE-54B Hall, John ECC 100% 100% 5 - - - - - - - 5 Fall 2025
+PE-54B Mayeaux, Grant ECC 100% 100% 4 - 1 - - - - - 5 Fall 2025
+PE-54B Palmer, Grant ECC 100% 100% 4 - - - - - - - 4 Fall 2025
+PE-54B Roman, Danielle ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+PE-54B Shaw, Stephen ECC 71% 71% 5 - - - - - - 2 7 Fall 2025
+PE-54C Alvillar, Andrew ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+PE-54C Arrache, Antonio ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+PE-54C Mayeaux, Grant ECC 100% 100% 4 - - - - - - - 4 Fall 2025
+PE-54C Palmer, Grant ECC 100% 100% 3 - - - - - - - 3 Fall 2025
+PE-54C Roman, Danielle ECC 100% 100% 11 - - - - - - - 11 Fall 2025
+PE-54C Shaw, Stephen ECC 100% 100% 2 - - - - - - - 2 Fall 2025
+PE-58ABC Rubke, Noah ECC 81% 81% 13 - - - - - - 3 16 Fall 2025
+PE-60ABC Arrache, Antonio ECC 100% 100% 22 - - - - - - - 22 Fall 2025
+PE-6ABC Palmer, Grant ECC 97% 97% 35 - - - - - - 1 36 Fall 2025
+PE-70ABC Jacobson, Michael ECC 100% 100% 31 - - - - - - - 31 Fall 2025
+PE-74A Barrera, Steven ECC 93% 100% 21 5 2 - 2 - - - 30 Fall 2025
+PE-74A Jacobson, Michael ECC 93% 93% 24 2 1 - - - - 2 29 Fall 2025
+PE-74B Barrera, Steven ECC 100% 100% 4 - - - - - - - 4 Fall 2025
+PE-74B Jacobson, Michael ECC 75% 75% 2 - 1 - - - - 1 4 Fall 2025
+PE-76ABC Hughley, Kevin ECC 96% 96% 22 1 1 - - - - 1 25 Fall 2025
+PE-79 Dunn, Darin ECC 95% 95% 13 5 - - - - - 1 19 Fall 2025
+PE-81ABC Wood, Casey ECC 96% 96% 22 - - - - - - 1 23 Fall 2025
+PE-85ABC Rubke, Noah ECC 100% 100% 18 - - - - - - - 18 Fall 2025
+PE-87ABC Haroldson, Shelby ECC 92% 92% 11 - - - - - - 1 12 Fall 2025
+RC-170 Parker, Taryn ECC 74% 96% 5 8 7 - 2 4 - 1 27 Fall 2025
+RC-172 De Sisto, Michael ECC 38% 96% 1 1 7 - 7 7 - 1 24 Fall 2025
+RC-172 Parker, Taryn ECC 38% 96% 1 1 7 - 7 7 - 1 24 Fall 2025
+RC-174 De Sisto, Michael ECC 57% 91% 1 9 3 - 4 4 - 2 23 Fall 2025
+RC-178 Mekaru, Roy ECC 47% 94% 1 2 5 - 3 5 - 1 17 Fall 2025
+RC-282 Parker, Taryn ECC 71% 94% 1 4 7 - 3 1 - 1 17 Fall 2025
+RC-288 Adoc, Raymund ECC 94% 94% 1 14 1 - - - - 1 17 Fall 2025
+RC-288 Mekaru, Roy ECC 94% 94% 1 14 1 - - - - 1 17 Fall 2025
+RC-289 Parker, Taryn ECC 100% 100% 12 - - - - - - - 12 Fall 2025
+RC-296 Mekaru, Roy ECC 100% 100% 3 9 - - - - - - 12 Fall 2025
+RC-297 Mekaru, Roy ECC 92% 100% 3 9 - - - 1 - - 13 Fall 2025
+RC-298 De Sisto, Michael ECC 100% 100% 1 11 - - - - - - 12 Fall 2025
+RTEC-107 Banks-Carson, Sivi ECC 100% 100% 10 - - 1 - - - - 11 Fall 2025
+RTEC-107 Bradshaw, Jeffrey ECC 100% 100% 10 - - 1 - - - - 11 Fall 2025
+RTEC-107 Butao, Lesley ECC 100% 100% 8 1 - 1 - - - - 10 Fall 2025
+RTEC-107 Felix, Alex ECC 100% 100% 8 1 - 1 - - - - 10 Fall 2025
+RTEC-107 Lopez, Kathleen ECC 100% 100% 8 1 - 1 - - - - 10 Fall 2025
+RTEC-107 Luna, Rosa ECC 100% 100% 10 - - 1 - - - - 11 Fall 2025
+RTEC-107 Perez, Michele ECC 100% 100% 18 1 - 2 - - - - 21 Fall 2025
+RTEC-107 Rodriguez, Ruth ECC 100% 100% 10 - - 1 - - - - 11 Fall 2025
+RTEC-107 Shrestha, Sheetal ECC 100% 100% 8 1 - 1 - - - - 10 Fall 2025
+RTEC-107 Villa, Eric ECC 100% 100% 18 1 - 2 - - - - 21 Fall 2025
+RTEC-124 Luna, Rosa ECC 100% 100% 13 8 - - - - - - 21 Fall 2025
+RTEC-218 Butao, Lesley ECC 100% 100% 20 1 - 1 - - - - 22 Fall 2025
+RTEC-218 Hussain, Naveed ECC 100% 100% 20 1 - 1 - - - - 22 Fall 2025
+RTEC-218 Lopez, Rosa ECC 100% 100% 20 1 - 1 - - - - 22 Fall 2025
+RTEC-218 Pascua, Mark ECC 100% 100% 20 1 - 1 - - - - 22 Fall 2025
+RTEC-218 Perez, Michele ECC 100% 100% 20 1 - 1 - - - - 22 Fall 2025
+RTEC-218 Villa, Eric ECC 100% 100% 20 1 - 1 - - - - 22 Fall 2025
+RTEC-255 Villa, Eric ECC 100% 100% 21 1 - - - - - - 22 Fall 2025
+RTEC-91 Perez, Michele ECC 100% 100% 19 3 - - - - - - 22 Fall 2025
+RTEC-93 Villa, Eric ECC 100% 100% 16 5 - - - - - - 21 Fall 2025
+RTEC-A Luna, Rosa ECC 65% 78% 15 6 3 - 1 4 - 8 37 Fall 2025
+RTEC-A Perez, Michele ECC 67% 85% 7 8 7 - 3 3 - 5 33 Fall 2025
+RTEC-A Villa, Eric ONLIN 45% 74% 3 6 5 - 5 4 - 8 31 Fall 2025
+CHIN-1 Wu, Xiaowen HYBRD 81% 81% 14 3 4 - - - - 5 26 Fall 2025
+CHIN-1 Zhao, Hailiang HSDUL 92% 92% 23 8 3 - - - - 3 37 Fall 2025
+ENGL-15A Henson, Chelsea ECC 74% 89% 7 9 4 - - 4 - 3 27 Fall 2025
+ENGL-1A Acosta, Joaquin ECC 62% 90% 4 5 9 - 3 5 - 3 29 Fall 2025
+ENGL-1A Ali, Jawad ONLIN 63% 95% 20 13 5 - - 19 - 3 60 Fall 2025
+ENGL-1A Annick, Jennifer HYBRD 96% 96% 38 10 7 - - - - 2 57 Fall 2025
+ENGL-1A Arehart, Robin ECC 66% 76% 19 12 10 - 1 5 - 15 62 Fall 2025
+ENGL-1A Bostick, Jason ECC 32% 68% 5 4 11 - 21 - 1 20 62 Fall 2025
+ENGL-1A Brenes, Erica ECC 44% 89% 7 3 2 - 1 11 - 3 27 Fall 2025
+ENGL-1A Campbell, Lauren ONLIN 50% 93% 6 5 4 - - 13 - 2 30 Fall 2025
+ENGL-1A Castillo, Judith ONLIN 28% 76% 2 2 3 - 3 9 - 6 25 Fall 2025
+ENGL-1A Cerofeci, Rose ECC 80% 97% 11 30 6 - 5 5 - 2 59 Fall 2025
+ENGL-1A Checa, Yesenia ECC 54% 77% 2 10 7 - - 8 - 8 35 Fall 2025
+ENGL-1A Cheung, Matthew HYBRD 57% 73% 10 14 8 - 2 7 - 15 56 Fall 2025
+ENGL-1A Cliett, Victoria ONLIN 50% 79% 3 3 5 1 - 7 - 5 24 Fall 2025
+ENGL-1A Cody, Thomas ECC 52% 71% 7 2 7 - 2 4 - 9 31 Fall 2025
+ENGL-1A Crotwell, Dana HYBRD 86% 88% 30 10 10 - 1 - - 7 58 Fall 2025
+ENGL-1A Degnan, Kevin ECC 66% 86% 9 7 3 - 2 4 - 4 29 Fall 2025
+ENGL-1A Diaz, David ONLIN 46% 88% 4 5 1 2 - 11 - 3 26 Fall 2025
+ENGL-1A Donnell, Sean ECC 62% 93% 10 6 2 - - 5 4 2 29 Fall 2025
+ENGL-1A Douglas, Jeffrey ONLIN 41% 96% 4 4 3 - 1 14 - 1 27 Fall 2025
+ENGL-1A Findlay, Alexa ECC 55% 91% 9 6 3 - 1 11 - 3 33 Fall 2025
+ENGL-1A Gallagher, Jennifer ECC 93% 97% 15 9 3 - 1 - - 1 29 Fall 2025
+ENGL-1A Gates, Suzanne HYBRD 59% 97% 25 7 4 - 4 19 - 2 61 Fall 2025
+ENGL-1A Gray, Sarah ONLIN 35% 74% 2 5 1 - - 9 - 6 23 Fall 2025
+ENGL-1A Greuel, Jamie ONLIN 37% 73% 2 4 5 - 2 9 - 8 30 Fall 2025
+ENGL-1A Grimshaw, Tucker ONLIN 37% 100% 4 3 - - 1 11 - - 19 Fall 2025
+ENGL-1A Hall, Joanne ONLIN 64% 96% 15 1 2 - - 9 - 1 28 Fall 2025
+ENGL-1A Harmon, Alika ECC 63% 85% 8 7 2 - - 6 - 4 27 Fall 2025
+ENGL-1A Harrison, Mickey ONLIN 88% 100% 14 - 7 - - 3 - - 24 Fall 2025
+ENGL-1A Hector, Jeremy HYBRD 18% 75% 5 - - - 1 15 - 7 28 Fall 2025
+ENGL-1A Hennessee, Elice ONLIN 37% 70% 2 3 5 - 2 7 - 8 27 Fall 2025
+ENGL-1A Henson, Chelsea HYBRD 54% 88% 5 12 15 - 5 15 - 7 59 Fall 2025
+ENGL-1A Herdzina, Susan ONLIN 41% 73% 5 2 2 - 1 6 - 6 22 Fall 2025
+ENGL-1A Hertweck, Nathan ONLIN 48% 100% 3 3 8 - - 14 1 - 29 Fall 2025
+ENGL-1A Hong, Lyman ECC 63% 81% 19 20 17 - 3 12 1 17 89 Fall 2025
+ENGL-1A Husain, Nida ONLIN 39% 57% 2 3 6 - 2 3 - 12 28 Fall 2025
+ENGL-1A Huynh, Tiffany ONLIN 71% 83% 2 9 6 - 2 1 - 4 24 Fall 2025
+ENGL-1A Isaacs, Brent ONLIN 28% 68% 3 4 8 - 3 18 - 17 53 Fall 2025
+ENGL-1A Jalloh, Katrina ONLIN 54% 82% 3 5 7 - 3 5 - 5 28 Fall 2025
+ENGL-1A Jensen, Zachary ONLIN 17% 79% 4 - - - - 15 - 5 24 Fall 2025
+ENGL-1A Kelley, Elayne HYBRD 93% 100% 25 2 - - - 2 - - 29 Fall 2025
+ENGL-1A Kirk, Angie ONLIN 35% 65% 4 7 3 - 2 10 - 14 40 Fall 2025
+ENGL-1A Krizan, Kim ECC 75% 75% 7 4 10 - - - - 7 28 Fall 2025
+ENGL-1A Leiby, Mary ONLIN 43% 82% 8 7 11 - - 20 3 11 60 Fall 2025
+ENGL-1A Leinen, Sarah ONLIN 46% 54% 6 3 2 - - 2 - 11 24 Fall 2025
+ENGL-1A Ludvigsen, Lindsay ONLIN 48% 94% 5 7 3 - 2 12 - 2 31 Fall 2025
+ENGL-1A Magnesi, Miles HSDUL 93% 97% 15 7 5 - 1 - - 1 29 Fall 2025
+ENGL-1A Marcoux, Peter ECC 89% 96% 29 14 6 - 3 1 - 2 55 Fall 2025
+ENGL-1A Margrave, Clinton ONLIN 78% 95% 22 20 7 - 5 6 - 3 63 Fall 2025
+ENGL-1A Mattern, Mora ECC 85% 96% 20 2 - - - 3 - 1 26 Fall 2025
+ENGL-1A McMahon, Jeffrey HYBRD 76% 92% 27 12 6 - - 9 - 5 59 Fall 2025
+ENGL-1A Merz, Stephanie HYBRD 65% 86% 6 13 18 - 5 7 - 8 57 Fall 2025
+ENGL-1A Millea, John ONLIN 67% 85% 19 10 8 - 1 9 - 8 55 Fall 2025
+ENGL-1A Moulton, Renee ECC 43% 63% 7 4 2 - - 6 - 11 30 Fall 2025
+ENGL-1A Nagao, Christina ECC 83% 90% 16 7 2 - - 2 - 3 30 Fall 2025
+ENGL-1A Ochoa, Shane HYBRD 66% 89% 26 13 1 - 3 11 - 7 61 Fall 2025
+ENGL-1A Otsuji, Sumino HYBRD 54% 86% 1 7 7 - 1 8 - 4 28 Fall 2025
+ENGL-1A Page, Christopher ECC 58% 88% 12 4 3 - 3 6 1 4 33 Fall 2025
+ENGL-1A Panto, Danielle ONLIN 29% 52% 4 4 6 - 5 6 - 23 48 Fall 2025
+ENGL-1A Passman, Alan ONLIN 31% 94% 2 2 1 - 2 8 - 1 16 Fall 2025
+ENGL-1A Patel, Aachal ECC 45% 94% 1 5 8 - 2 13 - 2 31 Fall 2025
+ENGL-1A Patton, Katherine ONLIN 40% 67% 2 6 4 - 3 5 - 10 30 Fall 2025
+ENGL-1A Peluso, Stephen ECC 43% 70% 2 8 3 - 1 7 - 9 30 Fall 2025
+ENGL-1A Peppard, Bruce ECC 86% 90% 7 11 7 - 1 - - 3 29 Fall 2025
+ENGL-1A Phillips, Claire ONLIN 57% 86% 13 3 - - - 8 - 4 28 Fall 2025
+ENGL-1A Phillips, Lana ONLIN 66% 78% 16 10 7 - - 6 - 11 50 Fall 2025
+ENGL-1A Reyes, Michael ONLIN 90% 100% 18 5 3 - 2 1 - - 29 Fall 2025
+ENGL-1A Ritchie, Ryan ONLIN 50% 77% 4 6 1 - - 6 - 5 22 Fall 2025
+ENGL-1A Russo, Salvatore ONLIN 67% 100% 6 3 1 - 1 4 - - 15 Fall 2025
+ENGL-1A Sandor, Jane HYBRD 77% 96% 24 13 6 - - 11 - 2 56 Fall 2025
+ENGL-1A Sandowicz, Ryan ECC 14% 71% 1 - 2 - 4 7 1 6 21 Fall 2025
+ENGL-1A Sharifi, Amir ECC 63% 94% 13 7 2 - - 11 - 2 35 Fall 2025
+ENGL-1A Sharp, Adrienne ONLIN 83% 87% 32 24 13 1 2 1 - 11 84 Fall 2025
+ENGL-1A Shaw, Jocelyn HYBRD 79% 97% 5 7 11 - 4 1 - 1 29 Fall 2025
+ENGL-1A Sullivan, Kamisha ONLIN 48% 64% 6 5 1 - - 4 - 9 25 Fall 2025
+ENGL-1A Takamine, Eric ECC 66% 81% 3 14 4 - - 2 3 6 32 Fall 2025
+ENGL-1A Thompson, Darrell ECC 71% 96% 5 8 7 - 1 6 - 1 28 Fall 2025
+ENGL-1A Walker, Elizabeth ONLIN 59% 73% 14 7 3 - - 6 - 11 41 Fall 2025
+ENGL-1A Wright, Terry ECC 83% 87% 13 5 7 - - 1 - 4 30 Fall 2025
+ENGL-1AH Burnham, Stephanie ONLIN 92% 96% 20 3 - - - 1 - 1 25 Fall 2025
+ENGL-1AH Davies, Agnes ECC 86% 91% 10 6 3 - - 1 - 2 22 Fall 2025
+ENGL-1AH Lamborn, Sanam ECC 100% 100% 13 7 1 - - - - - 21 Fall 2025
+ENGL-1AH Mattern, Mora ONLIN 92% 96% 23 1 - - - 1 - 1 26 Fall 2025
+ENGL-1AH Williams, Rachel HYBRD 89% 93% 8 14 2 - - 1 - 2 27 Fall 2025
+ENGL-1B Crotwell, Dana HYBRD 56% 59% 8 5 2 - - 1 - 11 27 Fall 2025
+ENGL-1B Gallagher, Jennifer ONLIN 74% 74% 12 4 1 - - - - 6 23 Fall 2025
+ENGL-1B Page, Christopher ONLIN 68% 84% 9 7 1 - 1 3 - 4 25 Fall 2025
+ENGL-1B Shaw, Jocelyn HYBRD 65% 90% 9 6 5 - 3 5 - 3 31 Fall 2025
+ENGL-1B Williams, Rachel ONLIN 58% 88% 7 7 1 - 1 7 - 3 26 Fall 2025
+ENGL-1BH Leiby, Mary HYBRD 88% 92% 14 7 - - - - 1 2 24 Fall 2025
+ENGL-1C Annick, Jennifer ONLIN 56% 73% 11 11 7 - 4 5 - 14 52 Fall 2025
+ENGL-1C Cerofeci, Rose ONLIN 58% 76% 12 6 14 - 1 9 - 13 55 Fall 2025
+ENGL-1C Cheung, Matthew ECC 71% 83% 10 16 19 - - 7 - 11 63 Fall 2025
+ENGL-1C Cody, Thomas HYBRD 47% 60% 5 7 2 - 3 1 - 12 30 Fall 2025
+ENGL-1C Donnell, Sean ECC 66% 91% 25 14 4 - 1 9 6 6 65 Fall 2025
+ENGL-1C Gates, Suzanne ONLIN 63% 90% 16 8 1 - 2 9 - 4 40 Fall 2025
+ENGL-1C Hall, Joanne ONLIN 71% 90% 18 2 2 - - 6 - 3 31 Fall 2025
+ENGL-1C Henson, Chelsea ECC 69% 93% 2 8 10 - 1 6 - 2 29 Fall 2025
+ENGL-1C Husain, Nida ECC 65% 81% 5 3 9 - 2 2 - 5 26 Fall 2025
+ENGL-1C Imbarus, Aura ONLIN 71% 90% 17 14 5 - 1 9 - 5 51 Fall 2025
+ENGL-1C Kelley, Elayne HYBRD 60% 90% 16 1 1 - - 9 - 3 30 Fall 2025
+ENGL-1C Marcoux, Peter ONLIN 52% 66% 8 13 8 - 1 7 - 19 56 Fall 2025
+ENGL-1C McMahon, Jeffrey ONLIN 90% 90% 42 7 8 - - - - 6 63 Fall 2025
+ENGL-1C Ochoa, Shane ONLIN 64% 84% 33 3 1 - 1 11 - 9 58 Fall 2025
+ENGL-1C Peppard, Bruce HYBRD 97% 100% 8 14 7 - - 1 - - 30 Fall 2025
+ENGL-1C Phillips, Claire ONLIN 77% 87% 16 5 2 - - 2 1 4 30 Fall 2025
+ENGL-1C Reyes, Michael HYBRD 83% 93% 15 7 2 - - 3 - 2 29 Fall 2025
+ENGL-1C Runkle, Kim ONLIN 54% 83% 7 14 7 - 6 9 - 9 52 Fall 2025
+ENGL-1C Sandor, Jane ONLIN 71% 88% 20 18 4 - - 8 2 7 59 Fall 2025
+ENGL-1CH Burnham, Stephanie HYBRD 96% 96% 21 2 2 - - - - 1 26 Fall 2025
+ENGL-1CH Cody, Thomas HYBRD 88% 88% 9 10 4 - - - - 3 26 Fall 2025
+ENGL-23A McDermit, Michael ONLIN 67% 74% 15 1 2 - - 2 - 7 27 Fall 2025
+ENGL-24A Crotwell, Dana HYBRD 62% 77% 9 4 3 - 1 3 - 6 26 Fall 2025
+ENGL-25A Gallagher, Jennifer ONLIN 81% 85% 19 2 - - 1 - - 4 26 Fall 2025
+ENGL-31 Peppard, Bruce ONLIN 67% 77% 7 12 7 - 3 1 - 9 39 Fall 2025
+ENGL-35 Isaacs, Brent ONLIN 56% 66% 5 8 5 - 2 1 - 11 32 Fall 2025
+ENGL-40A Cody, Thomas HYBRD 77% 80% 5 12 10 - - 1 - 7 35 Fall 2025
+ENGL-43 Shaw, Jocelyn HYBRD 56% 90% 15 4 3 - 6 5 2 4 39 Fall 2025
+ENGL-78 Krizan, Kim ECC 91% 91% 17 2 1 - - - - 2 22 Fall 2025
+ESL-51A Mochidome, Debra HYBRD 58% 67% 4 2 1 - - 1 - 4 12 Fall 2025
+ESL-51B Mochidome, Debra HYBRD 82% 82% 4 3 2 - - - - 2 11 Fall 2025
+ESL-51C Geraghty, Elise HYBRD 82% 82% 10 3 1 - - - - 3 17 Fall 2025
+ESL-52A Loya, Rebecca ECC 67% 86% 8 4 2 - 3 1 - 3 21 Fall 2025
+ESL-52B Carr, Allison ECC 75% 81% 6 3 3 - 1 - - 3 16 Fall 2025
+ESL-52B Simon, Jenny HYBRD 78% 91% 8 6 4 - 1 2 - 2 23 Fall 2025
+ESL-52C Simon, Jenny HYBRD 67% 87% 5 3 2 - 1 2 - 2 15 Fall 2025
+ESL-53A Loya, Rebecca ECC 88% 94% 6 5 3 - 1 - - 1 16 Fall 2025
+ESL-53B Geraghty, Elise HYBRD 77% 86% 10 6 1 - 2 - - 3 22 Fall 2025
+ESL-53C Carr, Allison HYBRD 57% 86% 5 2 1 - 3 1 - 2 14 Fall 2025
+ESL-53C Geraghty, Elise ECC 71% 86% 5 4 6 - 3 - - 3 21 Fall 2025
+ESL-53C Simon, Jenny HYBRD 87% 93% 5 6 2 - - 1 - 1 15 Fall 2025
+FREN-1 Class, Alicia ONLIN 41% 50% 2 6 - 1 1 1 - 11 22 Fall 2025
+FREN-1 Gard, Andrew HYBRD 68% 79% 13 6 7 - 1 3 - 8 38 Fall 2025
+FREN-2 Gard, Andrew ONLIN 85% 93% 18 4 1 - - 2 - 2 27 Fall 2025
+FREN-3 Gard, Andrew ONLIN 88% 88% 12 2 - - - - - 2 16 Fall 2025
+GERM-1 Hooper, Lawrence ONLIN 61% 87% 21 2 - - - 10 - 5 38 Fall 2025
+HUMA-1 Lewitzki, Rhea ONLIN 84% 89% 43 13 12 - 1 3 - 9 81 Fall 2025
+HUMA-1 Thompson, Darrell HYBRD 72% 93% 9 6 6 - 1 5 - 2 29 Fall 2025
+ITAL-1 Kemitch, Francesca ONLIN 50% 65% 13 8 2 - - 7 - 16 46 Fall 2025
+ITAL-1 Pescatori, Rossella ONLIN 44% 53% 10 4 - - - 3 - 15 32 Fall 2025
+ITAL-24 Pescatori, Rossella ONLIN 56% 59% 13 1 1 - 1 - - 11 27 Fall 2025
+JAPA-1 Kitazono, Yuka ONLIN 56% 73% 23 9 3 - 3 7 - 17 62 Fall 2025
+JAPA-1 Sato, Aiko ECC 54% 89% 13 1 5 - 3 9 - 4 35 Fall 2025
+JAPA-1 Takemori, Kanzo HYBRD 55% 73% 14 3 1 - - 6 - 9 33 Fall 2025
+JAPA-1 Yoshida, Nina ECC 55% 60% 12 6 4 - 2 - - 16 40 Fall 2025
+JAPA-2 Lopez, Mari ONLIN 59% 69% 11 3 5 - 1 2 - 10 32 Fall 2025
+JAPA-2 Yoshida, Nina ECC 84% 88% 15 3 3 - - - 1 3 25 Fall 2025
+JAPA-21 Ahn, Rebecca ECC 77% 85% 8 2 - - - 1 - 2 13 Fall 2025
+JAPA-22 Ahn, Rebecca ECC 100% 100% 2 1 - 1 - - - - 4 Fall 2025
+JAPA-3 Yoshida, Nina ECC 87% 91% 13 7 - - - - 1 2 23 Fall 2025
+JOUR-1 McLaughlin, Kate ECC 41% 81% 10 1 4 - 1 14 - 7 37 Fall 2025
+JOUR-12 McLaughlin, Kate ONLIN 55% 83% 12 10 4 - 7 6 - 8 47 Fall 2025
+JOUR-6 Thomas, Quang ECC 73% 82% 5 2 1 - - 1 - 2 11 Fall 2025
+JOUR-7AB Thomas, Quang ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+JOUR-8 Frith, Stefanie ONLIN 67% 83% 1 2 1 - - 1 - 1 6 Fall 2025
+JOUR-9ABCD Frith, Stefanie ECC 91% 100% 3 5 2 - - 1 - - 11 Fall 2025
+NESL-53A Loya, Rebecca ECC 50% 100% 1 1 - - 2 - - - 4 Fall 2025
+NESL-53C Carr, Allison HYBRD 92% 100% 7 3 1 - - 1 - - 12 Fall 2025
+SLAN-111 Friedman, Rachel ECC 79% 93% 9 7 6 - 1 3 - 2 28 Fall 2025
+SLAN-111 Gough, Timothy HYBRD 67% 93% 7 7 6 - 1 7 - 2 30 Fall 2025
+SLAN-111 Teh, Poh-Gaik ECC 64% 88% 4 8 4 - 1 5 - 3 25 Fall 2025
+SLAN-112 Gough, Timothy ECC 59% 82% 6 4 - - 1 3 - 3 17 Fall 2025
+SLAN-113 Gough, Timothy ECC 60% 80% 5 5 2 - - 4 - 4 20 Fall 2025
+SLAN-113 Khorsandi, Shmuel ECC 86% 93% 8 4 - - - 1 - 1 14 Fall 2025
+SLAN-234 Bartiromo, Sandra ECC 100% 100% 6 1 2 - - - - - 9 Fall 2025
+SPAN-1 Barrio de ONLIN 55% 65% 21 13 7 - 3 4 - 26 74 Fall 2025
+SPAN-1 Class, Alicia HYBRD 71% 76% 9 11 4 - 1 1 - 8 34 Fall 2025
+SPAN-1 Moina, Andres ECC 39% 52% 10 11 6 - 1 8 - 33 69 Fall 2025
+SPAN-1 Prada, Claudia ONLIN 72% 86% 19 1 1 - - 4 - 4 29 Fall 2025
+SPAN-1 36% 92% 4 1 4 - 1 13 - 2 25 Fall 2025
+SPAN-10 Andrade, Argelia ONLIN 74% 95% 8 1 5 - 1 3 - 1 19 Fall 2025
+SPAN-2 Andrade, Argelia HYBRD 79% 86% 15 1 6 - - 2 - 4 28 Fall 2025
+SPAN-2 Prada, Claudia ONLIN 92% 97% 18 16 2 - - 2 - 1 39 Fall 2025
+SPAN-21 Barrio de ECC 91% 91% 9 1 - - - - - 1 11 Fall 2025
+SPAN-22 Barrio de ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+SPAN-3 Andrade, Argelia ONLIN 74% 91% 21 4 - - - 6 - 3 34 Fall 2025
+SPAN-52A Andrade, Argelia HYBRD 68% 80% 17 5 5 - 1 4 - 8 40 Fall 2025
+ACR-21 Shute, Stephen ECC 67% 91% 12 4 6 - 1 7 - 3 33 Fall 2025
+ACR-23 Bethel, Vincent ECC 71% 100% 2 3 - - - 2 - - 7 Fall 2025
+ACR-25 Robinson, Kenneth ECC 83% 92% 2 8 - - - 1 - 1 12 Fall 2025
+ACR-27 Der-Antonian, Henry HYBRD 100% 100% 5 5 2 - - - - - 12 Fall 2025
+ACR-5 Der-Antonian, Henry HYBRD 69% 97% 3 16 6 - - 10 - 1 36 Fall 2025
+ACR-6 Der-Antonian, Henry HYBRD 89% 89% 9 19 3 - - - - 4 35 Fall 2025
+ACR-61 Bethel, Vincent ECC 73% 94% 13 9 2 - - 7 - 2 33 Fall 2025
+ACRP-3A Paguyo, Rodney ECC 90% 95% 14 2 2 - - 1 - 1 20 Fall 2025
+ACRP-3B Paguyo, Rodney ECC 100% 100% 17 - - - - - - - 17 Fall 2025
+ACRP-4A Kooiman, Brent ECC 92% 92% 21 1 2 - - - - 2 26 Fall 2025
+ACRP-4C Fairchild, Patricia ECC 81% 100% 9 3 5 - 1 3 - - 21 Fall 2025
+ACRP-5B Magana, German ECC 86% 90% 24 11 1 - - 2 - 4 42 Fall 2025
+ACRP-5C Fairchild, Patricia ECC 39% 100% 6 1 2 - 1 13 - - 23 Fall 2025
+ACRP-5D Alcaraz Munoz, Saul ECC 96% 100% 19 3 - - 1 - - - 23 Fall 2025
+ACRP-99 Fairchild, Patricia ECC 100% 100% 1 - - - - - - - 1 Fall 2025
+ARCH-100 Greas, Mina ONLIN 85% 89% 30 7 2 - - 2 - 5 46 Fall 2025
+ARCH-104 Johnson, Margaret ECC 95% 95% 14 4 - - - - - 1 19 Fall 2025
+ARCH-107 Song, Richard ECC 80% 84% 11 23 15 - 2 - - 10 61 Fall 2025
+ARCH-119 Jacobs, Reuben ECC 58% 74% 9 5 4 - 2 3 - 8 31 Fall 2025
+ARCH-121 Mera, Henry ECC 89% 93% 18 3 1 2 1 - - 2 27 Fall 2025
+ARCH-149 Garcia, Gary ECC 68% 82% 2 9 8 - - 4 - 5 28 Fall 2025
+ARCH-149 Yeber, Marc ECC 93% 93% 4 14 7 - - - - 2 27 Fall 2025
+ARCH-170 Echerri, Olga HSDUL 86% 100% 25 6 1 - - 5 - - 37 Fall 2025
+ARCH-170 Johnson, Margaret ECC 86% 86% 19 3 2 - - - - 4 28 Fall 2025
+ARCH-170 Richardson, Daniel ECC 67% 77% 16 3 1 - 1 2 - 7 30 Fall 2025
+ARCH-171 Echerri, Olga ECC 68% 89% 6 4 3 - 1 3 - 2 19 Fall 2025
+ARCH-251 Richardson, Daniel ECC 73% 82% 12 4 - - 2 - - 4 22 Fall 2025
+ARCH-252 Richardson, Daniel ECC 100% 100% 5 3 1 - - - - - 9 Fall 2025
+ARCH-258 Segovia, Felipe ECC 69% 85% 5 2 2 - 2 - - 2 13 Fall 2025
+ATEC-1 Duque, Jeremy ECC 50% 77% 1 6 6 - 1 6 - 6 26 Fall 2025
+ATEC-1 Wong, David ECC 52% 90% 8 5 2 - 4 7 - 3 29 Fall 2025
+ATEC-14 Duque, Jeremy ECC 96% 100% 11 11 3 - 1 - - - 26 Fall 2025
+ATEC-16 Wong, David ECC 84% 100% 16 8 3 - 1 4 - - 32 Fall 2025
+ATEC-22B Anderson, Michael ECC 88% 94% 6 6 3 - - 1 - 1 17 Fall 2025
+ATEC-23 Duque, Jeremy ECC 85% 88% 5 9 8 - - 1 - 3 26 Fall 2025
+ATEC-25 Wong, David ECC 81% 92% 4 11 6 - 1 2 - 2 26 Fall 2025
+ATEC-27 Anderson, Michael ECC 71% 79% 2 6 2 - - 1 - 3 14 Fall 2025
+ATEC-34 Matykiewicz, Edward ECC 74% 94% 4 11 8 - 5 1 - 2 31 Fall 2025
+ATEC-35 Matykiewicz, Edward ECC 93% 100% 6 15 7 - 2 - - - 30 Fall 2025
+ATEC-43 Jackson, Robert ECC 86% 96% 15 5 4 - 1 2 - 1 28 Fall 2025
+CADD-45 Bakalyar, Allen ECC 57% 83% 5 4 4 - - 6 - 4 23 Fall 2025
+CADD-5 Phamdo, Dangvinh ECC 94% 100% 26 3 1 - - 2 - - 32 Fall 2025
+CADD-7 Bakalyar, Allen ONLIN 78% 91% 14 2 2 - 2 1 - 2 23 Fall 2025
+COSM-10 Tran, Bruce HYBRD 88% 94% 5 6 3 - - 1 - 1 16 Fall 2025
+COSM-11 Tran, Bruce HYBRD 89% 100% 3 3 2 - - 1 - - 9 Fall 2025
+COSM-20 Baskin-Cornelius, Donne HYBRD 94% 94% 8 5 2 - - - - 1 16 Fall 2025
+COSM-20 Nguyen, Trinity HYBRD 95% 95% 6 8 5 - - - - 1 20 Fall 2025
+COSM-2A Brewer Smith, Charlene HYBRD 93% 100% 9 3 2 - 1 - - - 15 Fall 2025
+COSM-2A Cooper, Michelle HYBRD 93% 100% 9 3 2 - 1 - - - 15 Fall 2025
+COSM-2A Finn Valentine, Linda HYBRD 93% 100% 9 3 2 - 1 - - - 15 Fall 2025
+COSM-2A Lucero, Jeannette HYBRD 90% 100% 5 3 1 - 1 - - - 10 Fall 2025
+COSM-2A Nishihira, Linda HYBRD 71% 86% 2 2 1 - 1 - - 1 7 Fall 2025
+COSM-2A Youn, Yumi HYBRD 71% 86% 2 2 1 - 1 - - 1 7 Fall 2025
+COSM-2B Brewer Smith, Charlene HYBRD 100% 100% 6 2 6 - - - - - 14 Fall 2025
+COSM-2B Cooper, Michelle HYBRD 100% 100% 6 2 6 - - - - - 14 Fall 2025
+COSM-2B Finn Valentine, Linda HYBRD 100% 100% 6 2 6 - - - - - 14 Fall 2025
+COSM-2B Lucero, Jeannette HYBRD 100% 100% 6 2 6 - - - - - 14 Fall 2025
+COSM-2B Youn, Yumi HYBRD 91% 100% 6 3 1 - - 1 - - 11 Fall 2025
+COSM-2C Brewer Smith, Charlene HYBRD 91% 100% 9 6 6 - 1 1 - - 23 Fall 2025
+COSM-2C Cooper, Michelle HYBRD 91% 100% 9 6 6 - 1 1 - - 23 Fall 2025
+COSM-2C Finn Valentine, Linda HYBRD 91% 100% 9 6 6 - 1 1 - - 23 Fall 2025
+COSM-2C Lucero, Jeannette HYBRD 93% 100% 7 3 3 - - 1 - - 14 Fall 2025
+COSM-2C Youn, Yumi HYBRD 100% 100% 4 1 3 - - - - - 8 Fall 2025
+COSM-2D Brewer Smith, Charlene HYBRD 78% 89% 3 3 1 - - 1 - 1 9 Fall 2025
+COSM-2D Cooper, Michelle HYBRD 78% 89% 3 3 1 - - 1 - 1 9 Fall 2025
+COSM-2D Finn Valentine, Linda HYBRD 78% 89% 3 3 1 - - 1 - 1 9 Fall 2025
+COSM-2D Lucero, Jeannette HYBRD 78% 89% 3 3 1 - - 1 - 1 9 Fall 2025
+COSM-2D Youn, Yumi HYBRD 67% 100% 1 1 - - - 1 - - 3 Fall 2025
+COSM-99 Brewer Smith, Charlene ECC 100% 100% 2 - - - - - - - 2 Fall 2025
+CTEC-100 Durand, Ross ECC 100% 100% 17 4 - - - - - - 21 Fall 2025
+CTEC-100 Galt, Douglas HSDUL 83% 91% 11 4 4 - - - 2 2 23 Fall 2025
+CTEC-131 Pena, Maximino ECC 67% 100% 1 7 2 - 2 3 - - 15 Fall 2025
+CTEC-142 Ortiz, Oscar ECC 68% 92% 3 7 7 - 6 - - 2 25 Fall 2025
+CTEC-172 Durand, Ross ECC 95% 100% 14 3 4 - - 1 - - 22 Fall 2025
+CTEC-180 Durand, Ross ECC 100% 100% 12 7 6 - - - - - 25 Fall 2025
+CTEC-200 Selph, Jack ECC 91% 91% 14 4 3 - - - - 2 23 Fall 2025
+CTEC-201 Selph, Jack ECC 74% 74% 10 4 3 - - - - 6 23 Fall 2025
+CTEC-202 Selph, Jack ECC 70% 74% 13 1 2 - - 1 - 6 23 Fall 2025
+CTEC-203 Selph, Jack ECC 87% 91% 9 5 6 - 1 - - 2 23 Fall 2025
+CTEC-210 Selph, Jack ECC 91% 91% 19 1 - - - - - 2 22 Fall 2025
+ECHT-11 Bhargave, Supriya ECC 79% 96% 7 10 2 - 2 2 - 1 24 Fall 2025
+ECHT-11 Runas, Arnulfo ECC 69% 96% 11 4 3 - 1 6 - 1 26 Fall 2025
+ECHT-110 Runas, Arnulfo ECC 88% 94% 11 3 - - 1 - - 1 16 Fall 2025
+ECHT-120 Runas, Arnulfo ECC 88% 96% 17 3 1 - 1 1 - 1 24 Fall 2025
+ECHT-124 Bhargave, Supriya ECC 88% 96% 7 13 3 - 2 - - 1 26 Fall 2025
+ECHT-130 Bhargave, Supriya ECC 83% 100% 5 4 1 - 2 - - - 12 Fall 2025
+ECHT-140 Akhigbe, Paul ECC 90% 100% 18 1 - - 1 1 - - 21 Fall 2025
+ECHT-146 Akhigbe, Paul ECC 73% 73% 8 - - - - - - 3 11 Fall 2025
+ETEC-10 Carlson, Eric ECC 47% 58% 5 3 1 - - 2 - 8 19 Fall 2025
+ETEC-12 Valladares, Daniel ECC 58% 92% 12 2 - - - 8 - 2 24 Fall 2025
+ETEC-15 Al Sheyab, Ahmed ECC 88% 88% 5 2 - - - - - 1 8 Fall 2025
+FASH-1 Griffin, Christopher ECC 50% 79% 9 5 - - 1 7 - 6 28 Fall 2025
+FASH-10 Ashley, Vera ECC 33% 67% 5 6 4 1 2 10 5 16 49 Fall 2025
+FASH-10 Ratcliff, Priscilla HSDUL 97% 100% 20 10 1 - 1 - - - 32 Fall 2025
+FASH-15 Baizer, Gayle ECC 78% 96% 17 1 - - - 4 - 1 23 Fall 2025
+FASH-18 Baizer, Gayle ECC 88% 88% 7 - - - - - - 1 8 Fall 2025
+FASH-20 Kim, Hyo ECC 85% 96% 11 9 2 - 1 2 - 1 26 Fall 2025
+FASH-23 Ratcliff, Priscilla ECC 75% 75% 5 1 - - - - - 2 8 Fall 2025
+FASH-26A Hoover, William ECC 90% 95% 14 3 1 - - 1 - 1 20 Fall 2025
+FASH-27 Warren, Shirley ECC 67% 95% 7 5 2 - - 6 - 1 21 Fall 2025
+FASH-31 Goodwin, Belinda ONLIN 62% 69% 4 7 5 - 1 1 - 8 26 Fall 2025
+FASH-35 Ashley, Vera LIVEO 32% 48% 2 2 3 1 - 1 3 13 25 Fall 2025
+FASH-4 Owens, Annette ECC 67% 94% 6 3 3 - - - 5 1 18 Fall 2025
+FASH-41 Ashley, Vera LIVEO 56% 67% 7 6 2 - - 1 2 9 27 Fall 2025
+FASH-95 Ashley, Vera ECC 100% 100% 1 - - 1 - - - - 2 Fall 2025
+MTT-101 Carlson, Eric ECC 87% 93% 4 6 3 - - 1 - 1 15 Fall 2025
+MTT-101 Salcedo, Luis ECC 73% 91% 4 3 1 - 1 1 - 1 11 Fall 2025
+MTT-105 Carlson, Eric ECC 88% 100% 2 5 - - 1 - - - 8 Fall 2025
+MTT-107 VanOverbeck, Michael ECC 78% 96% 12 3 3 - 1 3 - 1 23 Fall 2025
+MTT-10A DeLaTorre, Victor ECC 91% 100% 17 1 3 - - 2 - - 23 Fall 2025
+MTT-10K DeLaTorre, Victor ECC 90% 100% 7 2 - - - 1 - - 10 Fall 2025
+MTT-16 Hofmann, Harold ECC 79% 89% 7 5 3 - - 2 - 2 19 Fall 2025
+MTT-2 Monzello, Timothy ECC 74% 100% 6 6 2 - 1 4 - - 19 Fall 2025
+NUTR-110 Bremen, Myra ONLIN 72% 80% 48 22 11 - 4 5 - 23 113 Fall 2025
+NUTR-110 Dekofsky, Brooke ONLIN 81% 85% 22 9 7 - - 2 - 7 47 Fall 2025
+NUTR-110 Gray, Jill ONLIN 71% 84% 67 34 17 - 12 9 - 27 166 Fall 2025
+NUTR-110 Lyons, Mary ONLIN 94% 94% 74 9 5 - - - - 6 94 Fall 2025
+NUTR-110 Warren, Sue ONLIN 62% 85% 19 4 1 - 2 7 - 6 39 Fall 2025
+WELD-10A Grcevic, Sydney ECC 74% 89% 13 6 1 - - 4 - 3 27 Fall 2025
+WELD-10A Meek, Dylan ECC 100% 100% 14 5 2 1 - - - - 22 Fall 2025
+WELD-10B Meek, Dylan ECC 92% 100% 9 9 5 - 1 1 - - 25 Fall 2025
+WELD-15 Grcevic, Sydney ECC 95% 95% 13 4 3 - - - - 1 21 Fall 2025
+WELD-20A Meek, Dylan ECC 85% 100% 8 7 7 - 3 1 - - 26 Fall 2025
+WELD-23 Grcevic, Sydney ECC 100% 100% 27 - 3 - - - - - 30 Fall 2025
+WELD-29 Meek, Dylan ECC 73% 90% 14 8 - - - 5 - 3 30 Fall 2025
+WELD-40A Colin, Nicholas ECC 85% 92% 22 - - - - 2 - 2 26 Fall 2025
+WELD-40C Colin, Nicholas ECC 100% 100% 12 - - - - - - - 12 Fall 2025
+WELD-45 Sandoval Jaimes, Albert ECC 88% 96% 11 5 5 - - 2 - 1 24 Fall 2025
+WELD-45 Meek, Dylan ECC 100% 100% 4 - - - - - - - 4 Fall 2025
+LIBR-100 Bueno, Catherine HSDUL 85% 95% 23 9 3 - 2 2 - 2 41 Fall 2025
+LIBR-100 Cooks, Linda ECC 80% 100% 15 8 9 - 2 6 - - 40 Fall 2025
+LIBR-100 Jenkin, Camila ONLIN 44% 100% 4 - - - - 5 - - 9 Fall 2025
+LIBR-110 Bueno, Catherine ECC 79% 100% 7 3 1 - - 3 - - 14 Fall 2025
+CSCI-1 Diaz Valdovinos, Mathematical ECC 71% 75% 6 7 7 - 1 - - 7 28 Fall 2025
+CSCI-1 Janani, Saeid ECC 85% 90% 30 3 - - 1 1 - 4 39 Fall 2025
+CSCI-1 Matos, Victor ECC 50% 73% 10 5 5 - 1 8 - 11 40 Fall 2025
+CSCI-1 Middler, Mitchell ECC 60% 76% 10 5 - - - 4 - 6 25 Fall 2025
+CSCI-1 Nikjeh, Esmaail ECC 75% 83% 10 4 4 - - 2 - 4 24 Fall 2025
+CSCI-1 Peiravi, Mehdi ONLIN 70% 91% 15 1 - - - 5 - 2 23 Fall 2025
+CSCI-1 Tran, Vincent ECC 41% 79% 7 6 3 - 4 11 - 8 39 Fall 2025
+CSCI-12 Ambrosio, Edwin ONLIN 69% 100% 3 5 1 - 1 3 - - 13 Fall 2025
+CSCI-14 Tran, Vincent ECC 73% 95% 6 5 5 - 3 2 - 1 22 Fall 2025
+CSCI-16 Ambrosio, Edwin ONLIN 73% 88% 20 18 5 - 1 8 - 7 59 Fall 2025
+CSCI-17 Lackpour, Matin ECC 90% 90% 19 - - - - - - 2 21 Fall 2025
+CSCI-2 Rattanasook, Hathairat ONLIN 97% 100% 20 8 2 - - 1 - - 31 Fall 2025
+CSCI-2 Russell, Solomon ECC 31% 54% 11 8 8 1 1 17 2 41 89 Fall 2025
+CSCI-3 Kalisch, Nicolai ONLIN 93% 93% 13 10 5 - - - - 2 30 Fall 2025
+CSCI-3 Skorka, Evan ECC 87% 87% 6 3 4 - - - - 2 15 Fall 2025
+CSCI-30 Ambrosio, Edwin ECC 80% 96% 9 7 4 - - 4 - 1 25 Fall 2025
+CSCI-7 Wood, Julie ONLIN 36% 68% 5 3 1 - - 8 - 8 25 Fall 2025
+CSCI-8 Niu, Kun HYFLX 65% 78% 12 1 2 - 1 2 - 5 23 Fall 2025
+CSCI-99 Russell, Solomon ONLIN 100% 100% 1 - - - - - - - 1 Fall 2025
+ENGR-1 Lackpour, Matin ECC 91% 91% 27 - 2 - - - - 3 32 Fall 2025
+ENGR-1 Nagpal, Pavan ECC 66% 92% 36 24 13 - - 29 - 9 111 Fall 2025
+ENGR-11 Nagpal, Pavan ECC 100% 100% 8 3 - - - - - - 11 Fall 2025
+ENGR-12 Nagpal, Pavan ECC 100% 100% 11 - - - - - - - 11 Fall 2025
+ENGR-9 Nagpal, Pavan ECC 86% 90% 12 7 6 - - 1 - 3 29 Fall 2025
+MATH-110 Bucher, Susanne ECC 29% 62% 4 8 14 - 11 18 - 34 89 Fall 2025
+MATH-116 Tummers Stocum, Susan ECC 86% 86% 2 3 1 - - - - 1 7 Fall 2025
+MATH-120 Bucher, Susanne ECC 37% 74% 1 5 7 - 2 11 - 9 35 Fall 2025
+MATH-120 Forbes, Junko ECC 73% 91% 8 12 4 - - 6 - 3 33 Fall 2025
+MATH-120 Malouf, Terri ONLIN 53% 72% 8 6 3 - 2 4 - 9 32 Fall 2025
+MATH-120 Mata, Matthew ECC 47% 73% 5 5 4 - 1 7 - 8 30 Fall 2025
+MATH-120 Villalobos, Jose ECC 65% 68% 17 5 - - 1 - - 11 34 Fall 2025
+MATH-120 Xu, May ECC 64% 79% 5 8 8 - 2 3 - 7 33 Fall 2025
+MATH-140 Manikandan, Gayathri ONLIN 63% 70% 9 8 2 - 1 1 - 9 30 Fall 2025
+MATH-140 Minasian, Ashod ONLIN 79% 90% 7 11 5 - 1 2 - 3 29 Fall 2025
+MATH-150 Acuna-Acosta, Susana ONLIN 39% 88% 8 9 20 - 13 34 - 12 96 Fall 2025
+MATH-150 Avila, Adalinda ECC 32% 47% 3 3 5 - 1 4 - 18 34 Fall 2025
+MATH-150 Bayssa, Beyene ECC 38% 65% 5 3 5 - 1 8 - 12 34 Fall 2025
+MATH-150 Dean, Christopher ECC 71% 82% 6 14 4 - - 4 - 6 34 Fall 2025
+MATH-150 Eldanaf, Diaa ONLIN 55% 71% 9 18 31 - 15 2 - 31 106 Fall 2025
+MATH-150 Forbes, Junko ONLIN 32% 59% 6 8 10 - 6 15 - 31 76 Fall 2025
+MATH-150 Gui, Le ONLIN 54% 82% 13 22 14 - 8 17 - 16 90 Fall 2025
+MATH-150 Huang, Carrie ECC 85% 97% 13 8 7 - 1 3 - 1 33 Fall 2025
+MATH-150 Kjeseth, Lars ECC 70% 96% 6 4 30 - 13 2 - 2 57 Fall 2025
+MATH-150 Martinez, Alice ECC 16% 26% 4 1 - - - 3 - 23 31 Fall 2025
+MATH-150 Martinez, Arturo ECC 50% 69% 30 21 21 - 7 20 - 45 144 Fall 2025
+MATH-150 Martinez, Ronald ONLIN 74% 81% 5 12 6 - 1 1 - 6 31 Fall 2025
+MATH-150 Mitchell, Benjamin ONLIN 88% 94% 53 16 22 - 2 5 - 6 104 Fall 2025
+MATH-150 Morales, Eduardo ONLIN 61% 84% 10 13 24 - 6 12 - 12 77 Fall 2025
+MATH-150 Moreno, Kaysa ONLIN 34% 52% 8 8 6 - 3 8 1 31 65 Fall 2025
+MATH-150 Nagpal, Pavan ECC 69% 92% 10 7 8 - 1 7 - 3 36 Fall 2025
+MATH-150 Nguyen, Hang ECC 30% 64% 3 2 5 - 3 8 - 12 33 Fall 2025
+MATH-150 Nguyen, Hoang ECC 57% 89% 7 6 7 - 5 6 - 4 35 Fall 2025
+MATH-150 Numrich, Kristine HYBRD 45% 48% 5 6 4 - 1 - - 17 33 Fall 2025
+MATH-150 Roeun, Malinni ECC 60% 77% 10 6 5 - 2 4 - 8 35 Fall 2025
+MATH-150 Roque, Tatiana ECC 35% 82% 6 11 8 - 11 22 - 13 71 Fall 2025
+MATH-150 Schult Roman, Catherine HYBRD 68% 74% 10 7 4 - - 2 - 8 31 Fall 2025
+MATH-150 Song, Guoqiang ECC 64% 94% 9 8 4 - - 10 - 2 33 Fall 2025
+MATH-150 Tucker, Mark ECC 54% 82% 9 18 11 - 2 18 - 13 71 Fall 2025
+MATH-150H Marks, Zachary ECC 77% 80% 22 1 4 - - - 1 7 35 Fall 2025
+MATH-165 Acuna-Acosta, Susana ECC 46% 57% 3 4 9 - - 4 - 15 35 Fall 2025
+MATH-165 Mata, Matthew ECC 50% 63% 17 7 4 - 4 3 - 21 56 Fall 2025
+MATH-165 Nguyen, Hang ECC 54% 88% 4 3 6 - 2 6 - 3 24 Fall 2025
+MATH-170 Bateman, Michael ECC 30% 45% 2 3 5 - 1 4 - 18 33 Fall 2025
+MATH-170 Hamza, Hamza ECC 48% 64% 2 7 7 - - 5 - 12 33 Fall 2025
+MATH-170 Martinez, Jose HYBRD 57% 74% 19 11 10 - 3 9 - 18 70 Fall 2025
+MATH-170 Martinez, Ronald ONLIN 57% 67% 8 8 1 - - 3 - 10 30 Fall 2025
+MATH-170 Moreno, Kaysa ONLIN 44% 64% 5 6 5 - - 7 - 13 36 Fall 2025
+MATH-170 Numrich, Kristine ONLIN 76% 90% 5 7 4 - - 3 - 2 21 Fall 2025
+MATH-170 Pham, Ann ECC 15% 50% 4 4 2 - 1 21 1 33 66 Fall 2025
+MATH-170 Tummers Stocum, Susan ECC 35% 62% 6 1 5 - 5 4 - 13 34 Fall 2025
+MATH-170 Watson, Christina ECC 38% 51% 9 - 5 - 2 3 - 18 37 Fall 2025
+MATH-180 Ho, Linda ECC 54% 69% 10 4 5 - - 5 - 11 35 Fall 2025
+MATH-180 Martinez, Jose ECC 42% 64% 9 5 1 - 2 6 - 13 36 Fall 2025
+MATH-180 Martinez, Ronald ECC 50% 74% 4 5 8 - 2 6 - 9 34 Fall 2025
+MATH-180 Numrich, Kristine HYBRD 43% 71% 7 6 2 - 7 3 - 10 35 Fall 2025
+MATH-180 Sims, Jacquelyn ECC 63% 74% 21 21 25 - 5 7 - 28 107 Fall 2025
+MATH-180 Wang, Lijun ONLIN 72% 94% 19 18 9 - 2 12 - 4 64 Fall 2025
+MATH-180 Watson, Christina ECC 57% 71% 6 7 7 - 2 3 - 10 35 Fall 2025
+MATH-190 Barajas, Eduardo ECC 50% 64% 28 12 14 - 4 11 - 38 107 Fall 2025
+MATH-190 Bateman, Michael ECC 34% 59% 3 5 3 - 1 7 - 13 32 Fall 2025
+MATH-190 Cortez, Marilyn ECC 53% 77% 4 4 8 - 3 4 - 7 30 Fall 2025
+MATH-190 Eleuteri, Robert ECC 36% 47% 8 5 8 - 2 5 - 31 59 Fall 2025
+MATH-190 Gui, Le HYBRD 55% 85% 5 7 6 - 2 8 - 5 33 Fall 2025
+MATH-190 Hamza, Hamza HYBRD 38% 56% 1 6 5 - - 6 - 14 32 Fall 2025
+MATH-190 Ho, Linda ECC 63% 82% 4 12 8 - 3 4 - 7 38 Fall 2025
+MATH-190 Kondo, Kathleen HSDUL 100% 100% 38 25 4 - - - - - 67 Fall 2025
+MATH-190 Mata, Matthew ONLIN 42% 53% 1 6 1 - - 2 - 9 19 Fall 2025
+MATH-190 Moreno, Kaysa ECC 74% 85% 6 9 5 - 1 2 - 4 27 Fall 2025
+MATH-190 Ng, Jasmine HYBRD 19% 50% 4 1 1 - 1 9 - 16 32 Fall 2025
+MATH-190 Song, Guoqiang ONLIN 72% 86% 13 3 8 2 - 5 - 5 36 Fall 2025
+MATH-190 Tummers Stocum, Susan ECC 34% 52% 7 9 8 - 5 8 - 34 71 Fall 2025
+MATH-190 Villalobos, Jose HYBRD 70% 81% 13 8 5 - 4 - - 7 37 Fall 2025
+MATH-190 Villareal, Oscar ECC 83% 100% 5 7 7 - 2 2 - - 23 Fall 2025
+MATH-190 Wang, Lijun ECC 73% 88% 15 7 2 - 2 3 - 4 33 Fall 2025
+MATH-191 Eleuteri, Robert ECC 32% 41% 4 7 7 - 1 4 - 33 56 Fall 2025
+MATH-191 Fry, Gregory HYBRD 37% 50% 2 1 8 - 2 2 - 15 30 Fall 2025
+MATH-191 Ho, Linda ECC 57% 89% 9 7 5 - 6 6 - 4 37 Fall 2025
+MATH-191 Marks, Zachary ECC 85% 94% 12 12 5 - - 3 - 2 34 Fall 2025
+MATH-191 Morales, Eduardo ECC 73% 87% 10 7 5 - - 4 - 4 30 Fall 2025
+MATH-191 Ng, Jasmine ONLIN 71% 94% 10 20 17 - 8 7 - 4 66 Fall 2025
+MATH-191 Villareal, Oscar ONLIN 79% 91% 8 14 5 - 3 1 - 3 34 Fall 2025
+MATH-191 Yun, Paul ECC 41% 65% 3 8 4 - 4 5 - 13 37 Fall 2025
+MATH-210 Eldanaf, Diaa ECC 56% 72% 4 4 2 - 3 - - 5 18 Fall 2025
+MATH-210 Fry, Gregory ONLIN 50% 70% 5 4 6 - 2 4 - 9 30 Fall 2025
+MATH-210 Yun, Paul ECC 73% 86% 12 8 7 - 4 1 - 5 37 Fall 2025
+MATH-220 Fry, Gregory ECC 44% 74% 6 2 4 - 6 2 - 7 27 Fall 2025
+MATH-220 Marks, Zachary ECC 83% 94% 10 12 7 - - 3 1 2 35 Fall 2025
+MATH-220 Minasian, Ashod ECC 61% 82% 9 5 6 - - 7 - 6 33 Fall 2025
+MATH-220 Yun, Paul ECC 72% 90% 11 9 8 - 2 5 - 4 39 Fall 2025
+MATH-270 Kjeseth, Lars ECC 86% 90% 19 3 3 - 1 - - 3 29 Fall 2025
+MATH-270 Minasian, Ashod ONLIN 90% 95% 33 21 3 - - 3 - 3 63 Fall 2025
+MATH-270 Mitchell, Benjamin ECC 90% 93% 19 9 8 - 1 - - 3 40 Fall 2025
+ANAT-30 Dobbs, Mia ONLIN 92% 100% 21 8 4 - - 3 - - 36 Fall 2025
+ANAT-30 Janicki, Julie ECC 69% 87% 14 4 9 - 2 5 - 5 39 Fall 2025
+ANAT-30 Mubarak, Merium ONLIN 57% 87% 3 7 3 - 4 3 - 3 23 Fall 2025
+ANAT-30 Oswald, Sanda ONLIN 89% 97% 32 1 1 - - 3 - 1 38 Fall 2025
+ANAT-30 Pasala, Sumana ONLIN 67% 87% 6 12 2 - - 6 - 4 30 Fall 2025
+ANAT-32 Abbani, Cheryl ECC 86% 90% 9 9 7 - 1 - - 3 29 Fall 2025
+ANAT-32 Bui, Thanh-Thuy ECC 36% 51% 11 5 8 - 3 7 - 33 67 Fall 2025
+ANAT-32 Le, Octavian HYBRD 50% 56% 8 7 1 - 1 1 - 14 32 Fall 2025
+ANAT-32 Majewski, Adam ECC 59% 68% 5 8 9 - 2 1 - 12 37 Fall 2025
+ANAT-32 Nagaya, Marie HYBRD 82% 91% 10 16 10 - 4 - - 4 44 Fall 2025
+ANAT-32 Ramp, Travis ECC 59% 89% 6 7 9 - 2 9 - 4 37 Fall 2025
+ANAT-32 Reonisto, Peter ECC 95% 100% 24 10 2 - 2 - - - 38 Fall 2025
+ANAT-32 Valle, Anne ECC 56% 64% 7 7 8 - - 3 - 14 39 Fall 2025
+APHY-34A Huynhle, Marvin ECC 74% 87% 12 12 5 - 2 3 - 5 39 Fall 2025
+APHY-34A Ramp, Travis ECC 73% 85% 7 8 9 - 2 2 - 5 33 Fall 2025
+APHY-34B Dobbs, Mia ECC 84% 90% 38 15 6 - 4 - - 7 70 Fall 2025
+ASTR-12 Rodriguez, Azul ECC 54% 86% 10 4 17 - 17 1 - 8 57 Fall 2025
+ASTR-15 Coroneus, John ECC 57% 81% 4 4 4 - - 5 - 4 21 Fall 2025
+ASTR-20 Rodriguez, Azul ECC 56% 84% 9 17 24 - 5 21 - 14 90 Fall 2025
+ASTR-20 Vanden Heuvel, Andrew ONLIN 83% 99% 80 23 5 - 2 19 - 1 130 Fall 2025
+ASTR-25 Duitsman, Brooke ONLIN 81% 95% 33 7 10 - - 9 - 3 62 Fall 2025
+ASTR-25 Stolovy, Susan ECC 83% 90% 7 13 13 - 2 1 - 4 40 Fall 2025
+BIOL-10 Ahad, Sally HYBRD 48% 58% 4 7 4 - 2 1 - 13 31 Fall 2025
+BIOL-10 Ayala, Eduardo HYBRD 87% 90% 7 11 9 - - 1 - 3 31 Fall 2025
+BIOL-10 Kwok, Ernest ECC 97% 100% 20 11 4 - 1 - - - 36 Fall 2025
+BIOL-10 Lee, Samuel ECC 70% 91% 1 4 11 - - 5 - 2 23 Fall 2025
+BIOL-10 Len, Laurie ECC 90% 100% 8 13 7 - - 3 - - 31 Fall 2025
+BIOL-10 McClelland, Darcie HYBRD 92% 92% 26 4 3 - - - - 3 36 Fall 2025
+BIOL-10 McEachin, Shawn HYBRD 74% 90% 20 23 11 - 1 11 - 7 73 Fall 2025
+BIOL-10 Padilla, Jessica ONLIN 61% 71% 14 20 17 - 3 6 - 24 84 Fall 2025
+BIOL-10 Parks, Polly HYBRD 97% 100% 22 9 4 - - 1 - - 36 Fall 2025
+BIOL-10 Sharar, Erica ONLIN 66% 77% 14 4 5 - 4 - - 8 35 Fall 2025
+BIOL-10 Yi, Michael ECC 83% 91% 15 12 2 - 2 1 - 3 35 Fall 2025
+BIOL-10H McEachin, Shawn HYBRD 93% 93% 23 4 1 - - - - 2 30 Fall 2025
+BIOL-11 Amaya Munoz, Max ECC 66% 100% 7 6 8 - 2 9 - - 32 Fall 2025
+BIOL-110 McClelland, Darcie ECC 96% 96% 33 32 9 - - - - 3 77 Fall 2025
+BIOL-110H Palos, Teresa ECC 71% 76% 6 3 3 - 1 - - 4 17 Fall 2025
+BIOL-12 Carey, Bryan HYBRD 31% 69% 2 1 2 - - 6 - 5 16 Fall 2025
+BIOL-120 Carey, Bryan ECC 97% 97% 16 13 8 - - - - 1 38 Fall 2025
+BIOL-120 Villatoro, Karla ECC 79% 97% 11 7 9 - 3 3 - 1 34 Fall 2025
+BIOL-120H Villatoro, Karla ECC 94% 100% 9 5 3 - 1 - - - 18 Fall 2025
+BIOL-15 Carey, Bryan ONLIN 44% 67% 4 5 3 - - 6 - 9 27 Fall 2025
+BIOL-15 Villatoro, Karla ONLIN 41% 52% 6 3 3 - 1 2 - 14 29 Fall 2025
+CHEM-1A Hillman, Wesley ECC 63% 81% 8 3 6 - 1 4 - 5 27 Fall 2025
+CHEM-1A Shibao, Robert ECC 66% 81% 14 13 12 - 6 2 1 11 59 Fall 2025
+CHEM-1A Turner, Ryan ECC 55% 73% 6 9 13 - 2 7 - 14 51 Fall 2025
+CHEM-1A Wang, Chencai ECC 93% 93% 12 10 5 - - - - 2 29 Fall 2025
+CHEM-1B Altermatt, Robert ECC 97% 97% 12 14 8 - - - - 1 35 Fall 2025
+CHEM-1B Han, Steven ECC 76% 82% 3 5 5 - 1 - - 3 17 Fall 2025
+CHEM-1B Saldarriaga, Laura ECC 75% 87% 14 17 8 - 3 3 - 7 52 Fall 2025
+CHEM-20 Brown, Sandra ECC 63% 77% 7 6 6 - 2 2 - 7 30 Fall 2025
+CHEM-20 Jimenez, Miguel HYBRD 52% 72% 16 10 11 - 8 6 - 20 71 Fall 2025
+CHEM-20 Matar, Majeda ECC 33% 78% 3 1 5 - 6 6 - 6 27 Fall 2025
+CHEM-20 Sachdev, Vineeta ECC 63% 77% 5 7 7 - 2 2 - 7 30 Fall 2025
+CHEM-20 Sanchez, Daniel ECC 57% 75% 2 5 9 - 2 3 - 7 28 Fall 2025
+CHEM-20 Tontcheva, Ana HYBRD 36% 56% 2 2 5 - 4 1 - 11 25 Fall 2025
+CHEM-20 Vargas, Mario HYBRD 46% 75% 5 3 3 - 3 4 - 6 24 Fall 2025
+CHEM-21A Tontcheva, Ana ECC 48% 68% 3 3 6 - 3 2 - 8 25 Fall 2025
+CHEM-4 Abbani, Mohamad ECC 69% 88% 4 6 8 - 4 1 - 3 26 Fall 2025
+CHEM-4 Anguiano, Jaime ECC 76% 92% 6 10 3 - 3 1 - 2 25 Fall 2025
+CHEM-4 Ebrahimi, Hossein HYBRD 70% 85% 11 3 5 - 3 1 - 4 27 Fall 2025
+CHEM-4 Potter, Soshanna ECC 69% 81% 12 11 14 - 2 5 - 10 54 Fall 2025
+CHEM-4 Sasayama, Alissa ECC 54% 83% 10 8 7 - 9 4 - 8 46 Fall 2025
+CHEM-4H Abbani, Mohamad HYBRD 63% 78% 8 3 6 - 4 - - 6 27 Fall 2025
+CHEM-7A Moore, Troy ECC 69% 79% 14 14 5 - 2 3 - 10 48 Fall 2025
+CHEM-7B Doucette, Peter ECC 84% 89% 5 4 7 - - 1 - 2 19 Fall 2025
+GEOG-1 Diminutto, Jose ONLIN 79% 97% 16 26 10 - 2 10 - 2 66 Fall 2025
+GEOG-1 Gard, Julienne ECC 84% 98% 26 21 21 - 8 3 - 2 81 Fall 2025
+GEOG-5 Scott, Jason ONLIN 70% 100% 28 12 5 - 3 16 - - 64 Fall 2025
+GEOG-6 Gard, Julienne ONLIN 75% 83% 6 21 20 - 3 2 - 11 63 Fall 2025
+GEOG-9 Gard, Julienne ONLIN 71% 84% 10 8 9 - - 5 - 6 38 Fall 2025
+GEOL-1 Di Fiori, Sara ONLIN 84% 98% 47 15 6 - - 11 - 2 81 Fall 2025
+GEOL-1 Herzig, Charles ECC 78% 84% 8 13 14 - 2 1 - 7 45 Fall 2025
+GEOL-1 Wageman, Jwan ECC 80% 92% 15 21 16 - 4 4 - 5 65 Fall 2025
+GEOL-2 Herzig, Charles ECC 62% 85% 4 - 4 - 1 2 - 2 13 Fall 2025
+GEOL-3 Di Fiori, Sara ECC 97% 97% 25 25 11 - - - - 2 63 Fall 2025
+GEOL-7 Noyes, Thomas ONLIN 59% 76% 4 3 3 - - 3 - 4 17 Fall 2025
+MICR-33 Bui, Thanh-Thuy ECC 67% 70% 3 11 4 - - 1 - 8 27 Fall 2025
+MICR-33 Palos, Teresa ECC 35% 54% 4 4 5 - 2 5 - 17 37 Fall 2025
+MICR-33 Parks, Polly HYBRD 95% 95% 15 17 3 - - - - 2 37 Fall 2025
+OCEA-10 Herzig, Charles ECC 71% 88% 8 8 8 - 1 5 - 4 34 Fall 2025
+OCEA-10 Noyes, Thomas HYBRD 48% 79% 2 2 10 - 1 8 - 6 29 Fall 2025
+OCEA-10 Sedki, Ziad ONLIN 71% 86% 3 12 5 - 4 - - 4 28 Fall 2025
+OCEA-10 Wageman, Jwan ECC 91% 97% 11 16 5 - - 2 - 1 35 Fall 2025
+PHYO-31 Mubarak, Merium ECC 73% 89% 18 18 9 - 2 8 - 7 62 Fall 2025
+PHYO-31 Oswald, Sanda ECC 80% 82% 22 14 3 - 1 - - 9 49 Fall 2025
+PHYO-31 Reonisto, Timothy ECC 98% 100% 21 14 6 - - 1 - - 42 Fall 2025
+PHYO-31 Sanwo, Olusola ECC 65% 69% 7 6 4 - - 1 - 8 26 Fall 2025
+PHYS-11 Scott, Christopher ONLIN 76% 82% 32 11 8 - 3 1 - 12 67 Fall 2025
+PHYS-1A Haitkin, Paul ECC 53% 68% 13 8 10 1 2 7 - 19 60 Fall 2025
+PHYS-1A Shirvanian, Razmic ECC 38% 62% 1 3 7 - 1 6 - 11 29 Fall 2025
+PHYS-1A Stolovy, Susan ECC 72% 78% 16 15 12 - 3 1 - 13 60 Fall 2025
+PHYS-1B Goldmann, Eyal ECC 53% 63% 2 5 9 - 3 - - 11 30 Fall 2025
+PHYS-1B Murdock, Adam ECC 86% 94% 12 7 11 - - 3 - 2 35 Fall 2025
+PHYS-1C Coroneus, John ECC 50% 63% 5 7 3 - 2 2 - 11 30 Fall 2025
+PHYS-1C Murdock, Adam ECC 75% 82% 24 19 7 - - 5 - 12 67 Fall 2025
+PHYS-1D Coroneus, John ECC 62% 71% 6 4 3 - 2 - - 6 21 Fall 2025
+PHYS-2A Demir, Firuz ECC 62% 69% 10 6 8 - - 3 - 12 39 Fall 2025
+PHYS-2A Goldmann, Eyal HYBRD 67% 76% 6 11 5 - 1 2 - 8 33 Fall 2025
+PHYS-2A Haitkin, Paul ECC 56% 72% 6 8 6 - 1 5 - 10 36 Fall 2025
+PHYS-3A Van Biezen, Michel ECC 82% 92% 11 8 13 - 3 1 - 3 39 Fall 2025
+PSCI-25 Vargas, Alejandro ECC 84% 88% 4 13 4 - - 1 - 3 25 Fall 2025

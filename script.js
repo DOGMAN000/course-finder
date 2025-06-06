@@ -13,11 +13,9 @@ Promise.all(urls.map(url =>
       console.error('Error fetching data:', error);
     })
 )).then(() => {
-  console.log('All data loaded');
   // You could optionally trigger updateSuggestions here if needed
 });
 
-console.log(data)
 const courseInput = document.getElementById('courseCode');
 const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
@@ -42,16 +40,12 @@ function updateSuggestions() {
         years.push(checkbox.value)
       }
     }
-    console.log(years);
-    console.log(terms);
     let index = 0;
     for (let i = 0; i < urls.length; i++) {
         for (let j =0; j<years.length; j++){
           for (let k=0; k<terms.length; k++){
             if (urls[i].includes(years[j])&&urls[i].includes(terms[k])){
-              console.log(urls[i])
               filteredData[index] = data[urls[i]].filter(line => line.startsWith(input));
-              console.log(filteredData);
               index++
               }
           }

@@ -57,7 +57,6 @@ percentageFilter.addEventListener('input', updateSuggestions);
 onlineFilter.addEventListener('input', updateSuggestions);
 honorsFilter.addEventListener('input', updateSuggestions);
 
-
 for (const child of termsList.children) {
       const input = child.querySelector('input[type="checkbox"]');
       if (input)

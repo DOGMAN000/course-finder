@@ -125,7 +125,7 @@ input[type="checkbox"] {
 
 .results-table th,
 .results-table td {
-    padding: 4px 6px; /* tighter column spacing */
+    padding: 4px 6px;
     color: #e0e0ff;
     text-align: center;
     white-space: nowrap;

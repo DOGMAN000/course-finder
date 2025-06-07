@@ -34,7 +34,7 @@ const yearsList = document.getElementById("years");
 const percentageFilter = document.getElementById("percentage");
 const honorsFilter = document.getElementById("honors");
 const onlineFilter = document.getElementById("online");
-
+const rowCounter = document.getElementById("rows");
 function updateSuggestions() {
   let filteredData = [];
   let years = [];
@@ -81,6 +81,7 @@ instructorInput.addEventListener("input", debouncedUpdate);
 percentageFilter.addEventListener("input", debouncedUpdate);
 onlineFilter.addEventListener("input", debouncedUpdate);
 honorsFilter.addEventListener("input", debouncedUpdate);
+rowCounter.addEventListener("input", debouncedUpdate);
 
 termsList
   .querySelectorAll('input[type="checkbox"]')
@@ -135,7 +136,7 @@ function showSuggestions(suggestions) {
   let tbody = document.createElement("tbody");
   let fragment = document.createDocumentFragment();
   for (let x = 0; x < suggestions.length; x++) {
-    if(x>500){
+    if(x>rowCounter.value){
       break;
     }
     const suggestion = suggestions[x];

@@ -53,11 +53,24 @@ function updateSuggestions() {
     }
     showSuggestions(filteredData);
 }
-courseInput.addEventListener('input', updateSuggestions);
-instructorInput.addEventListener('input', updateSuggestions);
-percentageFilter.addEventListener('input', updateSuggestions);
-onlineFilter.addEventListener('input', updateSuggestions);
-honorsFilter.addEventListener('input', updateSuggestions);
+function debounce(func, delay) {
+  let timeout;
+  return function () {
+    clearTimeout(timeout);
+    timeout = setTimeout(func, delay);
+  };
+}
+const debouncedUpdate = debounce(updateSuggestions, 150);
+
+courseInput.addEventListener('input', debouncedUpdate);
+instructorInput.addEventListener('input', debouncedUpdate);
+percentageFilter.addEventListener('input', debouncedUpdate);
+onlineFilter.addEventListener('input', debouncedUpdate);
+honorsFilter.addEventListener('input', debouncedUpdate);
+
+termsList.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.addEventListener('change', debouncedUpdate));
+yearsList.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.addEventListener('change', debouncedUpdate));
+
 
 for (const child of termsList.children) {
       const input = child.querySelector('input[type="checkbox"]');

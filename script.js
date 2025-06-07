@@ -52,20 +52,20 @@ function updateSuggestions() {
       years.push(checkbox.value);
     }
   }
-  let index = 0;
+  let combinedData = [];
   for (let i = 0; i < urls.length; i++) {
     for (let j = 0; j < years.length; j++) {
       for (let k = 0; k < terms.length; k++) {
         if (urls[i].includes(years[j]) && urls[i].includes(terms[k])) {
-          filteredData[index] = data[urls[i]].filter((line) =>
+          const matches = data[urls[i]].filter((line) =>
             line.startsWith(input)
           );
-          index++;
+          combinedData.push(...matches); // ⬅ spread into flat array
         }
       }
     }
   }
-  showSuggestions(filteredData);
+  showSuggestions(combinedData);
 }
 function debounce(func, delay) {
   let timeout;
@@ -133,49 +133,45 @@ function showSuggestions(suggestions) {
   table.appendChild(thead);
 
   let tbody = document.createElement("tbody");
-
+  let fragment = document.createDocumentFragment();
   for (let x = 0; x < suggestions.length; x++) {
-    let fragment = document.createDocumentFragment();
-    if (suggestions[x].length > 0) {
-      for (let i = 0; i < suggestions[x].length; i++) {
-        const suggestion = suggestions[x][i];
-        const parts = suggestion.split(" ");
-        const percentageA = (
-          (parseInt(parts[parts.length - 11]) /
-            parseInt(parts[parts.length - 3])) *
-          100
-        ).toFixed(2);
-        const pInput = instructorInput.value.trim().toLowerCase();
+    if(x>500){
+      break;
+    }
+    const suggestion = suggestions[x];
+    const parts = suggestion.split(" ");
+    const percentageA = (
+      (parseInt(parts[parts.length - 11]) / parseInt(parts[parts.length - 3])) *
+      100
+    ).toFixed(2);
+    const pInput = instructorInput.value.trim().toLowerCase();
 
-        if (
-          !percentageFilter.value ||
-          percentageA > Number(percentageFilter.value)
-        ) {
-          const row = document.createElement("tr");
-          const color = getColorForPercentage(percentageA);
-          let name = parts[1] + " " + parts[2];
-          if (parts.length >= 18) {
-            name = parts[1] + " " + parts[2] + " " + parts[3];
-          }
+    if (
+      !percentageFilter.value ||
+      percentageA > Number(percentageFilter.value)
+    ) {
+      const row = document.createElement("tr");
+      const color = getColorForPercentage(percentageA);
+      let name = parts[1] + " " + parts[2];
+      if (parts.length >= 18) {
+        name = parts[1] + " " + parts[2] + " " + parts[3];
+      }
 
-          if (!parts[1]) {
-            // Skip if no instructor name
-          } else if (
-            onlineFilter.checked &&
-            parts[parts.length - 14] !== "ONLIN"
-          ) {
-            // Skip if online filter is checked and it's not online
-          } else if (
-            honorsFilter.checked &&
-            parts[0][parts[0].length - 1] !== "H"
-          ) {
-            // Skip if honors filter is checked and it's not honors
-          } else if (!name.toLowerCase().includes(pInput)) {
-            // Skip if name doesn't match search input
-          } else {
-            row.innerHTML = `<td>${
-              parts[parts.length - 2] + " " + parts[parts.length - 1]
-            }</td>
+      if (!parts[1]) {
+        // Skip if no instructor name
+      } else if (onlineFilter.checked && parts[parts.length - 14] !== "ONLIN") {
+        // Skip if online filter is checked and it's not online
+      } else if (
+        honorsFilter.checked &&
+        parts[0][parts[0].length - 1] !== "H"
+      ) {
+        // Skip if honors filter is checked and it's not honors
+      } else if (!name.toLowerCase().includes(pInput)) {
+        // Skip if name doesn't match search input
+      } else {
+        row.innerHTML = `<td>${
+          parts[parts.length - 2] + " " + parts[parts.length - 1]
+        }</td>
                 <td>${parts[0]}</td>
                 <td>${name}</td>
                 <td>${parts[parts.length - 14]}</td>
@@ -192,14 +188,11 @@ function showSuggestions(suggestions) {
                 <td>${parts[parts.length - 3]}</td>
                 <td style="color: ${color}; font-weight: bold;">${percentageA}%</td>`;
 
-            fragment.appendChild(row);
-          }
-        }
+        fragment.appendChild(row);
       }
-      tbody.appendChild(fragment);
     }
   }
-
+  tbody.appendChild(fragment);
   table.appendChild(tbody);
   const wrapper = document.createElement("div");
   wrapper.className = "table-wrapper";

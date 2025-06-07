@@ -105,6 +105,10 @@ input[type="checkbox"] {
     width: 60px;
     margin-top: 6px;
 }
+#row {
+    width: 60px;
+    margin-top: 6px;
+}
 
 /* Table wrapper */
 .table-wrapper {

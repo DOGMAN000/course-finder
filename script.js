@@ -126,7 +126,7 @@ function showSuggestions(suggestions) {
                     else if (honorsFilter.checked && parts[0][parts[0].length-1] != "H"){
                       
                     }
-                    else if () {
+                    else if (!name.toLowerCase().includes(pInput)) {
                       
                     }
                     else{

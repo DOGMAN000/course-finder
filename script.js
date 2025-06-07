@@ -76,8 +76,9 @@ function getColorForPercentage(percentage) {
 }
 
 function showSuggestions(suggestions) {
-    suggestionsContainer.innerHTML = '';
-
+    while (suggestionsContainer.firstChild) {
+      suggestionsContainer.removeChild(suggestionsContainer.firstChild);
+    }
     // Build table structure
     let table = document.createElement('table');
     table.className = 'results-table';

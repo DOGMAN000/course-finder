@@ -135,6 +135,7 @@ function showSuggestions(suggestions) {
   let tbody = document.createElement("tbody");
 
   for (let x = 0; x < suggestions.length; x++) {
+    let fragment = document.createDocumentFragment();
     if (suggestions[x].length > 0) {
       for (let i = 0; i < suggestions[x].length; i++) {
         const suggestion = suggestions[x][i];
@@ -191,10 +192,11 @@ function showSuggestions(suggestions) {
                 <td>${parts[parts.length - 3]}</td>
                 <td style="color: ${color}; font-weight: bold;">${percentageA}%</td>`;
 
-            tbody.appendChild(row);
+            fragment.appendChild(row);
           }
         }
       }
+      tbody.appendChild(fragment);
     }
   }
 

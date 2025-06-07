@@ -513,7 +513,7 @@ ART-110 Bronte, Andrea ECC 26% 70% 3 - 3 - 2 8 - 7 23 Fall 2025
 ART-110 Ceravolo, Talia ECC 65% 90% 9 7 4 - 1 7 - 3 31 Fall 2025
 ART-110 Cunningham, Krysten ECC 71% 96% 6 7 7 - 4 3 - 1 28 Fall 2025
 ART-110 Hardesty, Joseph ECC 70% 85% 11 2 6 - 1 2 1 4 27 Fall 2025
-ART-110 46% 63% 5 2 4 - - 3 1 9 24 Fall 2025
+ART-110 Hardesty, Joseph LIVEO 46% 63% 5 2 4 - - 3 1 9 24 Fall 2025
 ART-110 Kabriel, Joseph ECC 62% 90% 20 10 2 - 3 12 - 5 52 Fall 2025
 ART-110 Ngo, Binh ECC 48% 60% 6 4 2 - 3 - - 10 25 Fall 2025
 ART-110 Phelps, Jennifer ECC 68% 89% 19 11 6 - 3 6 2 6 53 Fall 2025

@@ -344,7 +344,7 @@ CSCI-1 Russell, Solomon ECC 58% 75% 16 3 4 - 3 3 1 10 40 Summer 2024
 CSCI-3 Ambrosio, Edwin ONLIN 57% 60% 12 1 4 - - 1 - 12 30 Summer 2024
 CSCI-7 Wood, Julie ONLIN 89% 89% 28 2 2 - - - - 4 36 Summer 2024
 ENGR-1 Nagpal, Pavan LIVEO 60% 93% 10 5 3 - - 7 3 2 30 Summer 2024
-ENGR-1 Nagpal, Pavan LIVEO 60% 93% 10 5 3 - - 7 3 2 30 ONLIN 82% 94% 24 3 - - - 4 - 2 33 Summer 2024
+ENGR-1 Nagpal, Pavan ONLIN 82% 94% 24 3 - - - 4 - 2 33 Summer 2024
 MATH-120 Bateman, Michael ONLIN 43% 61% 3 4 3 - 1 3 - 9 23 Summer 2024
 ENGR-1 Forbes, Junko ONLIN 48% 56% 6 5 1 - - 2 - 11 25 Summer 2024
 MATH-120 Huang, Carrie ECC 88% 88% 3 4 - - - - - 1 8 Summer 2024

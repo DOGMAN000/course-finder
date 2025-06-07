@@ -452,7 +452,7 @@ WELD-40A Russell, Solomon ECC 56% 67% 15 4 3 - 1 3 - 13 39 Summer 2023
 CSCI-3 Ambrosio, Edwin ONLIN 63% 71% 6 6 3 - - 2 - 7 24 Summer 2023
 CSCI-1 Diaz Valdovinos, Rafael ECC 89% 89% 6 2 - - - - - 1 9 Summer 2023
 ENGR-1 Nagpal, Pavan LIVEO 53% 87% 7 - 1 - - 5 - 2 15 Summer 2023
-ENGR-1 Nagpal, Pavan LIVEO 53% 87% 7 - 1 - - 5 - 2 15 ONLIN 84% 90% 20 4 2 - - 2 - 3 31 Summer 2023
+ENGR-1 Nagpal, Pavan ONLIN 84% 90% 20 4 2 - - 2 - 3 31 Summer 2023
 MATH-120 Mata, Matthew ECC 57% 71% 1 2 1 - - 1 - 2 7 Summer 2023
 ENGR-1 Minasian, Ashod ONLIN 67% 79% 10 11 1 - - 4 - 7 33 Summer 2023
 MATH-130 Manikandan, Gayathri ECC 41% 47% 3 3 1 - 1 - - 9 17 Summer 2023

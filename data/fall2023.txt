@@ -293,7 +293,7 @@ RE-26 DeLuca, Vincent ONLIN 60% 77% 7 8 13 - 1 7 - 11 47 Fall 2023
 RE-31 Yeressian, John ONLIN 86% 100% 48 2 1 - 2 6 - - 59 Fall 2023
 RE-40 Yeressian, John ONLIN 89% 96% 43 3 5 - 4 - - 2 57 Fall 2023
 ART-110 Hardesty, Joseph ECC 83% 97% 16 7 - 1 - 3 1 1 29 Fall 2023
-RE-40 46% 69% 5 4 2 1 - 5 1 8 26 Fall 2023
+ART-110 Hardesty, Joseph LIVEO 46% 69% 5 4 2 1 - 5 1 8 26 Fall 2023
 ART-110 Kabriel, Joseph ONLIN 88% 92% 11 7 5 - 1 - - 2 26 Fall 2023
 ART-110 Ngo, Binh ECC 79% 79% 8 6 5 - - - - 5 24 Fall 2023
 ART-110 Phelps, Jennifer ECC 93% 100% 18 5 3 - - 2 - - 28 Fall 2023
@@ -832,7 +832,7 @@ ENGL-1A Nagao, Christina ONLIN 39% 78% 14 13 7 - 5 29 - 19 87 Fall 2023
 ENGL-1A Ochoa, Shane ECC 37% 73% 2 6 3 - 2 9 - 8 30 Fall 2023
 ENGL-1A Ochoa, Shane ONLIN 53% 97% 7 5 4 - 1 12 - 1 30 Fall 2023
 ENGL-1A Otsuji, Sumino LIVEO 47% 80% 3 4 - - - 5 - 3 15 Fall 2023
-ENGL-1A Otsuji, Sumino LIVEO 47% 80% 3 4 - - - 5 - 3 15 ONLIN 47% 73% 5 6 3 - 1 7 - 8 30 Fall 2023
+ENGL-1A Otsuji, Sumino ONLIN 47% 73% 5 6 3 - 1 7 - 8 30 Fall 2023
 ENGL-1A Page, Christopher ECC 66% 92% 15 12 14 - - 16 - 5 62 Fall 2023
 ENGL-1A Panto, Danielle ONLIN 13% 32% 1 1 4 - 3 6 - 32 47 Fall 2023
 ENGL-1A Peluso, Stephen ONLIN 46% 70% 6 11 6 - - 12 - 15 50 Fall 2023

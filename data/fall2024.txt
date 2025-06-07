@@ -34,9 +34,9 @@ ANTH-11 Otero, Rodolfo ONLIN 67% 87% 10 9 1 - 3 3 - 4 30 Fall 2024
 ANTH-1H Waters, Marianne HYBRD 96% 96% 18 3 3 - - - - 1 25 Fall 2024
 ANTH-2 Mannen, Angela ECC 63% 76% 10 8 6 - 3 2 - 9 38 Fall 2024
 ANTH-2 Mannen, Angela HYBRD 83% 93% 5 13 6 - 2 1 - 2 29 Fall 2024
-ONLIN 83% 92% 20 6 4 - 1 2 - 3 36 Fall 2024
-ONLIN Otero, Rodolfo ECC 87% 100% 9 12 5 - 3 1 - - 30 Fall 2024
-ONLIN Otero, Rodolfo HYBRD 70% 87% 8 7 6 - 3 2 - 4 30 Fall 2024
+ANTH-2 Mannen, Angela ONLIN 83% 92% 20 6 4 - 1 2 - 3 36 Fall 2024
+ANTH-2 Otero, Rodolfo ECC 87% 100% 9 12 5 - 3 1 - - 30 Fall 2024
+ANTH-2 Otero, Rodolfo HYBRD 70% 87% 8 7 6 - 3 2 - 4 30 Fall 2024
 ANTH-3 Olson, Kirsten ONLIN 79% 84% 12 2 1 - - 1 - 3 19 Fall 2024
 ANTH-3 Stifter, Dianna ECC 83% 91% 17 1 1 - 1 1 - 2 23 Fall 2024
 ANTH-4 Waters, Marianne ONLIN 84% 91% 29 19 9 - 3 1 1 6 68 Fall 2024
@@ -413,7 +413,7 @@ BUS-151 Lau, Philip ECC 67% 81% 4 5 9 - 3 1 - 5 27 Fall 2024
 BUS-151 Margiotta, Adam ECC 81% 95% 6 5 6 - 3 - - 1 21 Fall 2024
 BUS-151 Milosevic Nguyen, Ana ECC 88% 96% 11 8 2 - 2 - - 1 24 Fall 2024
 BUS-151 Milosevic Nguyen, Ana HYBRD 91% 100% 13 3 4 - 1 1 - - 22 Fall 2024
-ONLIN 90% 98% 24 10 3 - 1 2 - 1 41 Fall 2024
+BUS-151 Milosevic Nguyen, Ana ONLIN 90% 98% 24 10 3 - 1 2 - 1 41 Fall 2024
 BUS-152 Porter, Sidney ECC 76% 91% 6 12 8 - - 5 - 3 34 Fall 2024
 BUS-153 Porter, Sidney ONLIN 100% 100% 2 2 1 - - - - - 5 Fall 2024
 BUS-159 Hull, Kurt ONLIN 69% 77% 4 2 3 - 1 - - 3 13 Fall 2024

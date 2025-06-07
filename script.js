@@ -1,4 +1,3 @@
-// script.js
 
 let data = {}
 let urls = ['data/summer2023.txt','data/fall2023.txt','data/winter2023.txt','data/spring2023.txt', 'data/summer2024.txt','data/fall2024.txt','data/winter2024.txt','data/spring2024.txt','data/fall2025.txt','data/summer2025.txt', 'data/winter2025.txt']

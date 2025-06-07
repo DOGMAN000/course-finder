@@ -15,6 +15,7 @@ Promise.all(urls.map(url =>
 ))
 
 const courseInput = document.getElementById('courseCode');
+const instructorInput = document.getElementById('instructorName');
 const suggestionsContainer = document.getElementById('suggestions');
 const termsList = document.getElementById("terms");
 const yearsList = document.getElementById("years");
@@ -53,6 +54,7 @@ function updateSuggestions() {
     showSuggestions(filteredData);
 }
 courseInput.addEventListener('input', updateSuggestions);
+instructorInput.addEventListener('input', updateSuggestions);
 percentageFilter.addEventListener('input', updateSuggestions);
 onlineFilter.addEventListener('input', updateSuggestions);
 honorsFilter.addEventListener('input', updateSuggestions);
@@ -68,10 +70,9 @@ for (const child of yearsList.children) {
       input.addEventListener('change', updateSuggestions);
 }
 function getColorForPercentage(percentage) {
-    // Calculate the RGB values based on the percentage
-    const red = Math.round((100 - percentage) * 2.55); // Red increases as percentage decreases
-    const green = Math.round(percentage * 2.55); // Green increases as percentage increases
-    return `rgb(${red}, ${green}, 0)`; // Return the RGB color
+    const red = Math.round((100 - percentage) * 2.55);
+    const green = Math.round(percentage * 2.55);
+    return `rgb(${red}, ${green}, 0)`;
 }
 
 function showSuggestions(suggestions) {
@@ -109,6 +110,7 @@ function showSuggestions(suggestions) {
             suggestions[x].forEach(suggestion => {
                 const parts = suggestion.split(' ');
                 const percentageA = ((parseInt(parts[parts.length - 11]) / parseInt(parts[parts.length - 3])) * 100).toFixed(2);
+                const pInput = instructorInput.value.trim().toLowerCase();
                 if (!percentageFilter.value || percentageA > Number(percentageFilter.value)) {
                     const row = document.createElement('tr');
                     const color = getColorForPercentage(percentageA);
@@ -122,6 +124,9 @@ function showSuggestions(suggestions) {
                       
                     }
                     else if (honorsFilter.checked && parts[0][parts[0].length-1] != "H"){
+                      
+                    }
+                    else if () {
                       
                     }
                     else{

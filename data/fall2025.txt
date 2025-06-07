@@ -1,5 +1,5 @@
-AHIS-101 Ahmadpour, Alireza HYBRD 52% 90% 11 3 8 - - 10 6 4 42 Fall 2025
-AHIS-101 Ahmadpour, Alireza ONLIN 39% 97% 22 9 - 3 - 40 10 3 87 Fall 2025
+AHIS-101 Ahmadpour, & HYBRD 52% 90% 11 3 8 - - 10 6 4 42 Fall 2025
+AHIS-101 Ahmadpour, & ONLIN 39% 97% 22 9 - 3 - 40 10 3 87 Fall 2025
 AHIS-101 Alamillo, Lucy HYBRD 49% 68% 15 5 3 - 1 8 - 15 47 Fall 2025
 AHIS-101 Alamillo, Lucy HYBRD 75% 86% 30 20 9 - 3 6 - 11 79 Fall 2025
 AHIS-101 Bronte, Andrea ONLIN 27% 94% 4 2 3 - 1 21 - 2 33 Fall 2025
@@ -8,13 +8,13 @@ AHIS-101 Potts, Gretchen ONLIN 61% 100% 10 6 1 - - 11 - - 28 Fall 2025
 AHIS-102A Alamillo, Lucy HYBRD 85% 88% 11 7 4 - - 1 - 3 26 Fall 2025
 AHIS-102A Alamillo, Lucy ONLIN 59% 71% 35 10 6 - 2 8 - 25 86 Fall 2025
 AHIS-102A Robertson, Carolyn ONLIN 68% 79% 4 5 4 - 1 1 - 4 19 Fall 2025
-AHIS-102B Beckstead Whitney, Karen HYBRD 51% 82% 9 6 4 1 3 9 - 7 39 Fall 2025
-AHIS-102B Beckstead Whitney, Karen ONLIN 76% 91% 17 8 1 - 1 4 - 3 34 Fall 2025
+AHIS-102B Beckstead HYBRD 51% 82% 9 6 4 1 3 9 - 7 39 Fall 2025
+AHIS-102B Beckstead ONLIN 76% 91% 17 8 1 - 1 4 - 3 34 Fall 2025
 AHIS-102B Russell, Elizabeth ONLIN 82% 95% 24 6 1 - 1 4 - 2 38 Fall 2025
 AHIS-102C Ahmadpour, Alireza ONLIN 91% 100% 19 11 2 - - 3 - - 35 Fall 2025
 AHIS-102C Robertson, Carolyn ONLIN 96% 96% 10 9 3 - - - - 1 23 Fall 2025
 AHIS-207 Ahmadpour, Alireza HYBRD 68% 94% 17 10 5 - 2 5 5 3 47 Fall 2025
-AHIS-208H Beckstead Whitney, Karen HYBRD 97% 100% 27 3 - - - - 1 - 31 Fall 2025
+AHIS-208H Beckstead Karen HYBRD 97% 100% 27 3 - - - - 1 - 31 Fall 2025
 AHIS-209 Meyer, Walter ONLIN 49% 98% 18 1 1 - 2 18 - 1 41 Fall 2025
 ANTH-1 Desetto, Vincent ONLIN 80% 100% 20 9 3 - 2 6 - - 40 Fall 2025
 ANTH-1 Olson, Kirsten ONLIN 100% 100% 29 8 3 - - - - - 40 Fall 2025
@@ -68,7 +68,7 @@ CDEV-110 Moen, Michelle ECC 83% 89% 13 6 10 - - 2 - 4 35 Fall 2025
 CDEV-110 Tharuvai, Shanthi ONLIN 44% 63% 3 3 1 - 2 1 - 6 16 Fall 2025
 CDEV-112 Cervantes, Cynthia HSDUL 82% 82% 7 2 - - - - - 2 11 Fall 2025
 CDEV-112 Cervantes, Cynthia HYBRD 65% 92% 10 2 5 - 2 4 1 2 26 Fall 2025
-ONLIN 76% 96% 22 8 2 2 - 4 5 2 45 Fall 2025
+CDEV-112 Cervantes, Cynthia ONLIN 76% 96% 22 8 2 2 - 4 5 2 45 Fall 2025
 CDEV-114 Cervantes, Cynthia ONLIN 77% 96% 18 10 9 - - 6 3 2 48 Fall 2025
 CDEV-114 Moutra, Reshon ECC 90% 93% 19 4 3 - - 1 - 2 29 Fall 2025
 CDEV-115 Baxter, Susan ONLIN 79% 81% 35 10 10 - 2 - - 13 70 Fall 2025
@@ -163,7 +163,7 @@ ESTU-1 Munguia, Ricardo ONLIN 47% 100% 17 - 4 - 1 23 - - 45 Fall 2025
 ESTU-1 Rodriguez, Jessica ONLIN 88% 98% 100 4 - - - 12 - 2 118 Fall 2025
 ESTU-1 Tanaka, Takahito ECC 91% 97% 32 - - - - 2 - 1 35 Fall 2025
 ESTU-1 Tanaka, Takahito HYBRD 89% 98% 36 1 4 - 1 3 - 1 46 Fall 2025
-ONLIN 80% 94% 134 2 12 - 7 19 - 11 185 Fall 2025
+ESTU-1 Tanaka, Takahito ONLIN 80% 94% 134 2 12 - 7 19 - 11 185 Fall 2025
 ESTU-3 Herrera, Xocoyotzin ONLIN 83% 98% 36 4 2 1 - 8 - 1 52 Fall 2025
 ESTU-5 Herrera, Xocoyotzin HYBRD 80% 95% 29 4 2 - 1 6 - 2 44 Fall 2025
 HDEV-1 Aguiar, Emmanuel ONLIN 93% 100% 11 1 1 - - 1 - - 14 Fall 2025
@@ -205,13 +205,13 @@ HIST-101 Chavez, Michelle HSDUL 96% 100% 14 8 3 - 1 - - - 26 Fall 2025
 HIST-101 Fraga, Michael ONLIN 64% 64% 3 3 1 - - - - 4 11 Fall 2025
 HIST-101 Herrera Thomas, Hong ECC 89% 100% 34 4 3 - 1 4 - - 46 Fall 2025
 HIST-101 Herrera Thomas, Hong HYBRD 76% 92% 49 7 8 - 1 12 - 7 84 Fall 2025
-ONLIN 94% 99% 68 4 2 - - 4 - 1 79 Fall 2025
-ONLIN Jaaska, Arne HSDUL 100% 100% 14 3 4 - - - - - 21 Fall 2025
-ONLIN Pacas, Edgar ONLIN 31% 96% 7 9 1 - 4 32 - 2 55 Fall 2025
-ONLIN Panski, Saul ONLIN 57% 70% 20 7 5 - 2 5 - 17 56 Fall 2025
-ONLIN Resnick, Kirsten ONLIN 44% 61% 16 11 12 - 2 13 - 35 89 Fall 2025
-ONLIN Uribe, Sandra ECC 51% 82% 6 6 11 - 2 12 - 8 45 Fall 2025
-ONLIN Uribe, Sandra ONLIN 59% 86% 13 9 13 - 4 12 - 8 59 Fall 2025
+HIST-101 Herrera Thomas, Hong ONLIN 94% 99% 68 4 2 - - 4 - 1 79 Fall 2025
+HIST-101 Jaaska, Arne HSDUL 100% 100% 14 3 4 - - - - - 21 Fall 2025
+HIST-101 Pacas, Edgar ONLIN 31% 96% 7 9 1 - 4 32 - 2 55 Fall 2025
+HIST-101 Panski, Saul ONLIN 57% 70% 20 7 5 - 2 5 - 17 56 Fall 2025
+HIST-101 Resnick, Kirsten ONLIN 44% 61% 16 11 12 - 2 13 - 35 89 Fall 2025
+HIST-101 Uribe, Sandra ECC 51% 82% 6 6 11 - 2 12 - 8 45 Fall 2025
+HIST-101 Uribe, Sandra ONLIN 59% 86% 13 9 13 - 4 12 - 8 59 Fall 2025
 HIST-101H Herrera Thomas, Hong ONLIN 97% 100% 30 - - - 1 - - - 31 Fall 2025
 HIST-102 Baranski, John HYBRD 54% 91% 12 16 9 - 6 20 - 6 69 Fall 2025
 HIST-102 Baranski, John ONLIN 25% 73% 2 8 8 - 3 32 - 20 73 Fall 2025
@@ -389,14 +389,14 @@ BUS-101 Chau, Yuen HYBRD 73% 91% 17 9 7 - 1 6 1 4 45 Fall 2025
 BUS-101 Chau, Yuen ONLIN 73% 84% 43 17 1 - 1 8 - 13 83 Fall 2025
 BUS-101 De Ruyter, Emily ECC 73% 85% 19 12 7 - 3 3 - 8 52 Fall 2025
 BUS-101 De Ruyter, Emily HYBRD 81% 90% 16 18 5 - 2 2 - 5 48 Fall 2025
-ONLIN 60% 75% 4 5 3 - 2 1 - 5 20 Fall 2025
-ONLIN Escalante Troesh, Joshua HYBRD 57% 86% 12 5 3 - 3 7 - 5 35 Fall 2025
-ONLIN Miranda, Xavier HSDUL 59% 62% 7 7 3 - 1 - - 11 29 Fall 2025
-ONLIN Miranda, Xavier HYBRD 56% 67% 8 12 4 1 3 2 - 15 45 Fall 2025
-ONLIN Mufich, John HYBRD 77% 93% 53 14 8 - 2 13 - 7 97 Fall 2025
-ONLIN Mufich, John ONLIN 83% 88% 30 4 1 - - 2 - 5 42 Fall 2025
-ONLIN Som de Cerff, Melissa HYBRD 89% 94% 29 15 11 - 1 2 - 4 62 Fall 2025
-ONLIN Som de Cerff, Melissa ONLIN 59% 68% 24 12 10 - 2 5 - 25 78 Fall 2025
+BUS-101 De Ruyter, Emily ONLIN 60% 75% 4 5 3 - 2 1 - 5 20 Fall 2025
+BUS-101 Escalante Troesh, Joshua HYBRD 57% 86% 12 5 3 - 3 7 - 5 35 Fall 2025
+BUS-101 Miranda, Xavier HSDUL 59% 62% 7 7 3 - 1 - - 11 29 Fall 2025
+BUS-101 Miranda, Xavier HYBRD 56% 67% 8 12 4 1 3 2 - 15 45 Fall 2025
+BUS-101 Mufich, John HYBRD 77% 93% 53 14 8 - 2 13 - 7 97 Fall 2025
+BUS-101 Mufich, John ONLIN 83% 88% 30 4 1 - - 2 - 5 42 Fall 2025
+BUS-101 Som de Cerff, Melissa HYBRD 89% 94% 29 15 11 - 1 2 - 4 62 Fall 2025
+BUS-101 Som de Cerff, Melissa ONLIN 59% 68% 24 12 10 - 2 5 - 25 78 Fall 2025
 BUS-107 Alford, Lovell ONLIN 47% 59% 6 5 4 - - 4 - 13 32 Fall 2025
 BUS-108 Pahl, David HYBRD 77% 95% 16 10 4 - 1 5 1 2 39 Fall 2025
 BUS-108 Pahl, David ONLIN 79% 96% 34 11 8 - 2 9 - 3 67 Fall 2025
@@ -438,7 +438,7 @@ BUS-151 Lau, Philip ECC 58% 75% 3 1 3 - - 2 - 3 12 Fall 2025
 BUS-151 Margiotta, Adam ECC 88% 96% 11 6 5 - - 2 - 1 25 Fall 2025
 BUS-151 Milosevic Nguyen, Ana ECC 92% 92% 15 7 2 - - - - 2 26 Fall 2025
 BUS-151 Milosevic Nguyen, Ana HYBRD 100% 100% 15 3 2 - - - - - 20 Fall 2025
-ONLIN 92% 95% 28 6 1 - - 1 - 2 38 Fall 2025
+BUS-151 Milosevic Nguyen, Ana ONLIN 92% 95% 28 6 1 - - 1 - 2 38 Fall 2025
 BUS-152 Porter, Sidney ECC 91% 94% 11 10 8 - - 1 - 2 32 Fall 2025
 BUS-159 Hull, Kurt ONLIN 52% 78% 4 5 3 - 4 2 - 5 23 Fall 2025
 BUS-160 Giles, Brizset ONLIN 73% 88% 13 8 3 - - 5 - 4 33 Fall 2025
@@ -488,7 +488,7 @@ LAW-17 Alexander, Steven ECC 92% 100% 19 11 4 - 3 - - - 37 Fall 2025
 LAW-19 Pham, Vi ONLIN 82% 89% 19 3 1 - - 1 1 3 28 Fall 2025
 LAW-4 McGrue, Nicholas ECC 60% 79% 6 16 4 - 2 6 - 9 43 Fall 2025
 LAW-4 McGrue, Nicholas HYBRD 81% 94% 9 16 1 - 2 2 - 2 32 Fall 2025
-ONLIN 91% 98% 16 18 6 - 2 1 - 1 44 Fall 2025
+LAW-4 McGrue, Nicholas ONLIN 91% 98% 16 18 6 - 2 1 - 1 44 Fall 2025
 LAW-5 Gastelum, Tracy HYBRD 62% 95% 9 7 10 - 1 13 - 2 42 Fall 2025
 LAW-5 Pham, Vi HYBRD 78% 98% 22 10 3 - 3 6 - 1 45 Fall 2025
 LAW-5 Pham, Vi ONLIN 81% 97% 54 57 14 - 3 21 - 5 154 Fall 2025
@@ -597,11 +597,11 @@ FILM-110 Beery, Brian ONLIN 83% 95% 29 5 1 - - 5 - 2 42 Fall 2025
 FILM-110 Bogdanski, James ONLIN 47% 87% 10 7 8 - 4 17 - 7 53 Fall 2025
 FILM-110 Keller, Max ECC 57% 91% 5 5 10 - - 12 - 3 35 Fall 2025
 FILM-110 Keller, Max HSDUL 65% 100% 5 5 7 - - 9 - - 26 Fall 2025
-ONLIN 68% 79% 8 7 8 - - 4 - 7 34 Fall 2025
-ONLIN Lau, Linus ECC 74% 100% 27 3 2 - - 11 - - 43 Fall 2025
-ONLIN Lau, Linus HSDUL 52% 67% 12 1 1 - - 4 - 9 27 Fall 2025
-ONLIN 43% 95% 6 2 1 - - 11 - 1 21 Fall 2025
-ONLIN Lewis, Tracie ECC 74% 93% 21 27 16 - 6 10 - 6 86 Fall 2025
+FILM-110 Keller, Max ONLIN 68% 79% 8 7 8 - - 4 - 7 34 Fall 2025
+FILM-110 Lau, Linus ECC 74% 100% 27 3 2 - - 11 - - 43 Fall 2025
+FILM-110 Lau, Linus HSDUL 52% 67% 12 1 1 - - 4 - 9 27 Fall 2025
+FILM-110 Lau, Linus ONLIN 43% 95% 6 2 1 - - 11 - 1 21 Fall 2025
+FILM-110 Lewis, Tracie ECC 74% 93% 21 27 16 - 6 10 - 6 86 Fall 2025
 FILM-113 O'Brien, Kevin ONLIN 69% 91% 12 12 6 1 4 6 - 4 45 Fall 2025
 FILM-121 Almo, Laura ONLIN 87% 91% 15 2 3 - - 1 - 2 23 Fall 2025
 FILM-121 Beery, Brian ECC 86% 90% 12 4 2 - - 1 - 2 21 Fall 2025
@@ -1061,46 +1061,46 @@ ENGL-1A Marcoux, Peter ECC 89% 96% 29 14 6 - 3 1 - 2 55 Fall 2025
 ENGL-1A Margrave, Clinton ONLIN 78% 95% 22 20 7 - 5 6 - 3 63 Fall 2025
 ENGL-1A Mattern, Mora ECC 85% 96% 20 2 - - - 3 - 1 26 Fall 2025
 ENGL-1A Mattern, Mora ONLIN 68% 89% 27 8 3 - 4 8 - 6 56 Fall 2025
-ONLIN 55% 76% 8 8 - - 3 3 - 7 29 Fall 2025
-ONLIN McDermit, Michael ONLIN 66% 84% 22 7 9 - 4 7 - 9 58 Fall 2025
-ONLIN McMahon, Jeffrey HYBRD 76% 92% 27 12 6 - - 9 - 5 59 Fall 2025
-ONLIN Merz, Stephanie HYBRD 65% 86% 6 13 18 - 5 7 - 8 57 Fall 2025
-ONLIN Merz, Stephanie ONLIN 64% 91% 1 19 15 - 8 7 - 5 55 Fall 2025
-ONLIN Millea, John ONLIN 67% 85% 19 10 8 - 1 9 - 8 55 Fall 2025
-ONLIN Moulton, Renee ECC 43% 63% 7 4 2 - - 6 - 11 30 Fall 2025
-ONLIN Nagao, Christina ECC 83% 90% 16 7 2 - - 2 - 3 30 Fall 2025
-ONLIN Nagao, Christina HYBRD 66% 86% 10 7 2 - - 6 - 4 29 Fall 2025
-ONLIN 76% 90% 10 6 6 - - 4 - 3 29 Fall 2025
-ONLIN Ochoa, Shane HYBRD 66% 89% 26 13 1 - 3 11 - 7 61 Fall 2025
-ONLIN Otsuji, Sumino HYBRD 54% 86% 1 7 7 - 1 8 - 4 28 Fall 2025
-ONLIN Page, Christopher ECC 58% 88% 12 4 3 - 3 6 1 4 33 Fall 2025
-ONLIN Panto, Danielle ONLIN 29% 52% 4 4 6 - 5 6 - 23 48 Fall 2025
-ONLIN Passman, Alan ONLIN 31% 94% 2 2 1 - 2 8 - 1 16 Fall 2025
-ONLIN Patel, Aachal ECC 45% 94% 1 5 8 - 2 13 - 2 31 Fall 2025
-ONLIN Patton, Katherine ONLIN 40% 67% 2 6 4 - 3 5 - 10 30 Fall 2025
-ONLIN Peluso, Stephen ECC 43% 70% 2 8 3 - 1 7 - 9 30 Fall 2025
-ONLIN Peppard, Bruce ECC 86% 90% 7 11 7 - 1 - - 3 29 Fall 2025
-ONLIN Peppard, Bruce HYBRD 48% 88% 5 2 5 - 2 8 - 3 25 Fall 2025
-ONLIN 44% 81% 2 6 4 - 3 7 - 5 27 Fall 2025
-ONLIN Phillips, Claire ONLIN 57% 86% 13 3 - - - 8 - 4 28 Fall 2025
-ONLIN Phillips, Lana ONLIN 66% 78% 16 10 7 - - 6 - 11 50 Fall 2025
-ONLIN Reyes, Michael ONLIN 90% 100% 18 5 3 - 2 1 - - 29 Fall 2025
-ONLIN Ritchie, Ryan ONLIN 50% 77% 4 6 1 - - 6 - 5 22 Fall 2025
-ONLIN Russo, Salvatore ONLIN 67% 100% 6 3 1 - 1 4 - - 15 Fall 2025
-ONLIN Sandor, Jane HYBRD 77% 96% 24 13 6 - - 11 - 2 56 Fall 2025
-ONLIN Sandowicz, Ryan ECC 14% 71% 1 - 2 - 4 7 1 6 21 Fall 2025
-ONLIN Schwartz, Stephanie ONLIN 53% 55% 27 2 3 - 1 - - 27 60 Fall 2025
-ONLIN Sharifi, Amir ECC 63% 94% 13 7 2 - - 11 - 2 35 Fall 2025
-ONLIN Sharp, Adrienne ONLIN 83% 87% 32 24 13 1 2 1 - 11 84 Fall 2025
-ONLIN Shaw, Jocelyn HYBRD 79% 97% 5 7 11 - 4 1 - 1 29 Fall 2025
-ONLIN Shaw, Jocelyn ONLIN 67% 80% 12 4 4 - 3 1 - 6 30 Fall 2025
-ONLIN Sullivan, Kamisha ONLIN 48% 64% 6 5 1 - - 4 - 9 25 Fall 2025
-ONLIN Takamine, Eric ECC 66% 81% 3 14 4 - - 2 3 6 32 Fall 2025
-ONLIN Takamine, Eric ONLIN 23% 38% 1 3 2 - - 2 2 16 26 Fall 2025
-ONLIN Thompson, Darrell ECC 71% 96% 5 8 7 - 1 6 - 1 28 Fall 2025
-ONLIN Tino-Sandoval, Cindy ECC 59% 86% 3 8 6 - 2 6 - 4 29 Fall 2025
-ONLIN Walker, Elizabeth ONLIN 59% 73% 14 7 3 - - 6 - 11 41 Fall 2025
-ONLIN Wright, Terry ECC 83% 87% 13 5 7 - - 1 - 4 30 Fall 2025
+ENGL-1A Mattern, Mora ONLIN 55% 76% 8 8 - - 3 3 - 7 29 Fall 2025
+ENGL-1A McDermit, Michael ONLIN 66% 84% 22 7 9 - 4 7 - 9 58 Fall 2025
+ENGL-1A McMahon, Jeffrey HYBRD 76% 92% 27 12 6 - - 9 - 5 59 Fall 2025
+ENGL-1A Merz, Stephanie HYBRD 65% 86% 6 13 18 - 5 7 - 8 57 Fall 2025
+ENGL-1A Merz, Stephanie ONLIN 64% 91% 1 19 15 - 8 7 - 5 55 Fall 2025
+ENGL-1A Millea, John ONLIN 67% 85% 19 10 8 - 1 9 - 8 55 Fall 2025
+ENGL-1A Moulton, Renee ECC 43% 63% 7 4 2 - - 6 - 11 30 Fall 2025
+ENGL-1A Nagao, Christina ECC 83% 90% 16 7 2 - - 2 - 3 30 Fall 2025
+ENGL-1A Nagao, Christina HYBRD 66% 86% 10 7 2 - - 6 - 4 29 Fall 2025
+ENGL-1A Nagao, Christina ONLIN 76% 90% 10 6 6 - - 4 - 3 29 Fall 2025
+ENGL-1A Ochoa, Shane HYBRD 66% 89% 26 13 1 - 3 11 - 7 61 Fall 2025
+ENGL-1A Otsuji, Sumino HYBRD 54% 86% 1 7 7 - 1 8 - 4 28 Fall 2025
+ENGL-1A Page, Christopher ECC 58% 88% 12 4 3 - 3 6 1 4 33 Fall 2025
+ENGL-1A Panto, Danielle ONLIN 29% 52% 4 4 6 - 5 6 - 23 48 Fall 2025
+ENGL-1A Passman, Alan ONLIN 31% 94% 2 2 1 - 2 8 - 1 16 Fall 2025
+ENGL-1A Patel, Aachal ECC 45% 94% 1 5 8 - 2 13 - 2 31 Fall 2025
+ENGL-1A Patton, Katherine ONLIN 40% 67% 2 6 4 - 3 5 - 10 30 Fall 2025
+ENGL-1A Peluso, Stephen ECC 43% 70% 2 8 3 - 1 7 - 9 30 Fall 2025
+ENGL-1A Peppard, Bruce ECC 86% 90% 7 11 7 - 1 - - 3 29 Fall 2025
+ENGL-1A Peppard, Bruce HYBRD 48% 88% 5 2 5 - 2 8 - 3 25 Fall 2025
+ENGL-1A Peppard, Bruce ONLIN 44% 81% 2 6 4 - 3 7 - 5 27 Fall 2025
+ENGL-1A Phillips, Claire ONLIN 57% 86% 13 3 - - - 8 - 4 28 Fall 2025
+ENGL-1A Phillips, Lana ONLIN 66% 78% 16 10 7 - - 6 - 11 50 Fall 2025
+ENGL-1A Reyes, Michael ONLIN 90% 100% 18 5 3 - 2 1 - - 29 Fall 2025
+ENGL-1A Ritchie, Ryan ONLIN 50% 77% 4 6 1 - - 6 - 5 22 Fall 2025
+ENGL-1A Russo, Salvatore ONLIN 67% 100% 6 3 1 - 1 4 - - 15 Fall 2025
+ENGL-1A Sandor, Jane HYBRD 77% 96% 24 13 6 - - 11 - 2 56 Fall 2025
+ENGL-1A Sandowicz, Ryan ECC 14% 71% 1 - 2 - 4 7 1 6 21 Fall 2025
+ENGL-1A Schwartz, Stephanie ONLIN 53% 55% 27 2 3 - 1 - - 27 60 Fall 2025
+ENGL-1A Sharifi, Amir ECC 63% 94% 13 7 2 - - 11 - 2 35 Fall 2025
+ENGL-1A Sharp, Adrienne ONLIN 83% 87% 32 24 13 1 2 1 - 11 84 Fall 2025
+ENGL-1A Shaw, Jocelyn HYBRD 79% 97% 5 7 11 - 4 1 - 1 29 Fall 2025
+ENGL-1A Shaw, Jocelyn ONLIN 67% 80% 12 4 4 - 3 1 - 6 30 Fall 2025
+ENGL-1A Sullivan, Kamisha ONLIN 48% 64% 6 5 1 - - 4 - 9 25 Fall 2025
+ENGL-1A Takamine, Eric ECC 66% 81% 3 14 4 - - 2 3 6 32 Fall 2025
+ENGL-1A Takamine, Eric ONLIN 23% 38% 1 3 2 - - 2 2 16 26 Fall 2025
+ENGL-1A Thompson, Darrell ECC 71% 96% 5 8 7 - 1 6 - 1 28 Fall 2025
+ENGL-1A Tino-Sandoval, Cindy ECC 59% 86% 3 8 6 - 2 6 - 4 29 Fall 2025
+ENGL-1A Walker, Elizabeth ONLIN 59% 73% 14 7 3 - - 6 - 11 41 Fall 2025
+ENGL-1A Wright, Terry ECC 83% 87% 13 5 7 - - 1 - 4 30 Fall 2025
 ENGL-1AH Burnham, Stephanie ONLIN 92% 96% 20 3 - - - 1 - 1 25 Fall 2025
 ENGL-1AH Davies, Agnes ECC 86% 91% 10 6 3 - - 1 - 2 22 Fall 2025
 ENGL-1AH Davies, Agnes HYBRD 69% 73% 11 5 2 - 1 - - 7 26 Fall 2025

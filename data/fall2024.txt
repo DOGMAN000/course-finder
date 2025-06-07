@@ -1,14 +1,19 @@
 AHIS-101 Ahmadpour, Alireza HYBRD 59% 81% 10 5 1 - - 2 4 5 27 Fall 2024
+AHIS-101 Ahmadpour, Alireza ONLIN 56% 84% 14 8 2 1 - 7 6 7 45 Fall 2024
 AHIS-101 Beckstead Whitney, Karen HYBRD 73% 93% 30 20 13 - 3 13 1 6 86 Fall 2024
 AHIS-101 Bronte, Andrea ONLIN 36% 85% 3 6 3 - 1 15 - 5 33 Fall 2024
 AHIS-101 Majstorovic, Mina HSDUL 67% 72% 9 3 - - - 1 - 5 18 Fall 2024
-AHIS-101 Potts, Gretchen ONLIN 37% 80% 5 5 1 - - 13 - 6 30 Fall 2024
-AHIS-101 Russell, Elizabeth ONLIN 75% 88% 25 2 3 - 1 3 1 5 40 Fall 2024
+ONLIN 54% 67% 22 3 - - - 6 - 15 46 Fall 2024
+ONLIN Potts, Gretchen ONLIN 37% 80% 5 5 1 - - 13 - 6 30 Fall 2024
+ONLIN Russell, Elizabeth ONLIN 75% 88% 25 2 3 - 1 3 1 5 40 Fall 2024
 AHIS-102A Alamillo, Lucy ECC 83% 87% 13 8 4 - - 1 - 4 30 Fall 2024
+AHIS-102A Alamillo, Lucy ONLIN 59% 74% 30 22 8 - 3 12 - 27 102 Fall 2024
 AHIS-102A Robertson, Carolyn ECC 83% 87% 13 8 4 - - 1 - 4 30 Fall 2024
-AHIS-102A Russell, Elizabeth ONLIN 48% 62% 6 7 1 - - 4 - 11 29 Fall 2024
-AHIS-102A Wolfgram, Juliann ONLIN 55% 71% 4 9 4 - 2 3 - 9 31 Fall 2024
+ONLIN 68% 89% 32 18 6 - 6 11 - 9 82 Fall 2024
+ONLIN Russell, Elizabeth ONLIN 48% 62% 6 7 1 - - 4 - 11 29 Fall 2024
+ONLIN Wolfgram, Juliann ONLIN 55% 71% 4 9 4 - 2 3 - 9 31 Fall 2024
 AHIS-102B Beckstead Whitney, Karen HYBRD 57% 84% 10 12 3 - - 12 - 7 44 Fall 2024
+AHIS-102B Beckstead Whitney, Karen ONLIN 82% 91% 20 9 8 - 2 2 - 4 45 Fall 2024
 AHIS-102B Russell, Elizabeth ONLIN 67% 87% 15 9 2 - - 8 - 5 39 Fall 2024
 AHIS-102C Ahmadpour, Alireza HYBRD 80% 97% 6 15 2 1 - 1 4 1 30 Fall 2024
 AHIS-205A Wolfgram, Juliann ONLIN 39% 61% 1 3 3 - 1 3 - 7 18 Fall 2024
@@ -19,14 +24,19 @@ ANTH-1 Desetto, Vincent ONLIN 65% 68% 32 14 5 - - 2 - 25 78 Fall 2024
 ANTH-1 Olson, Kirsten ONLIN 98% 100% 39 4 - - - 1 - - 44 Fall 2024
 ANTH-1 Otero, Rodolfo HYBRD 65% 81% 3 10 4 - 3 1 - 5 26 Fall 2024
 ANTH-1 Ramirez, Lawrence ECC 86% 98% 23 6 7 - - 5 - 1 42 Fall 2024
+ANTH-1 Desetto, Vincent ONLIN 71% 90% 34 9 6 - 4 9 - 7 69 Fall 2024
 ANTH-1 Vigil, Alberto ECC 87% 91% 16 4 20 - - 2 - 4 46 Fall 2024
-ANTH-1 Waters, Marianne ONLIN 66% 85% 15 21 3 - 3 8 - 9 59 Fall 2024
-ANTH-1 Wong, Billy ONLIN 46% 92% 4 2 5 - 2 9 - 2 24 Fall 2024
+ONLIN 92% 94% 41 17 15 - - 1 - 5 79 Fall 2024
+ONLIN Waters, Marianne ONLIN 66% 85% 15 21 3 - 3 8 - 9 59 Fall 2024
+ONLIN Wong, Billy ONLIN 46% 92% 4 2 5 - 2 9 - 2 24 Fall 2024
 ANTH-11 Mannen, Angela ONLIN 47% 63% 11 2 1 - 2 3 - 11 30 Fall 2024
 ANTH-11 Otero, Rodolfo ONLIN 67% 87% 10 9 1 - 3 3 - 4 30 Fall 2024
 ANTH-1H Waters, Marianne HYBRD 96% 96% 18 3 3 - - - - 1 25 Fall 2024
 ANTH-2 Mannen, Angela ECC 63% 76% 10 8 6 - 3 2 - 9 38 Fall 2024
-ANTH-2 Otero, Rodolfo ECC 87% 100% 9 12 5 - 3 1 - - 30 Fall 2024
+ANTH-2 Mannen, Angela HYBRD 83% 93% 5 13 6 - 2 1 - 2 29 Fall 2024
+ONLIN 83% 92% 20 6 4 - 1 2 - 3 36 Fall 2024
+ONLIN Otero, Rodolfo ECC 87% 100% 9 12 5 - 3 1 - - 30 Fall 2024
+HYBRD 70% 87% 8 7 6 - 3 2 - 4 30 Fall 2024
 ANTH-3 Olson, Kirsten ONLIN 79% 84% 12 2 1 - - 1 - 3 19 Fall 2024
 ANTH-3 Stifter, Dianna ECC 83% 91% 17 1 1 - 1 1 - 2 23 Fall 2024
 ANTH-4 Waters, Marianne ONLIN 84% 91% 29 19 9 - 3 1 1 6 68 Fall 2024
@@ -37,6 +47,7 @@ ANTH-6 Mannen, Angela HYBRD 71% 93% 4 12 4 - 3 3 - 2 28 Fall 2024
 ANTH-7 Otero, Rodolfo ECC 74% 96% 10 4 6 - 1 5 - 1 27 Fall 2024
 ASTU-7 Jaaska, Arne ONLIN 60% 87% 30 16 4 - 1 22 - 11 84 Fall 2024
 CDEV-103 Cervantes, Cynthia HSDUL 70% 88% 15 4 3 1 - - 6 4 33 Fall 2024
+CDEV-103 Cervantes, Cynthia HSDUL 70% 88% 15 4 3 1 - - 6 4 33 HYBRD 61% 85% 10 8 7 - 1 5 4 6 41 Fall 2024
 CDEV-103 Jefferis, Janice ONLIN 64% 93% 15 6 7 - 4 9 - 3 44 Fall 2024
 CDEV-103 Marano, Mark ONLIN 52% 84% 25 11 4 - 2 23 - 12 77 Fall 2024
 CDEV-103 Marquez, Valerie ECC 83% 92% 16 3 1 - 2 - - 2 24 Fall 2024
@@ -55,6 +66,7 @@ CDEV-108 Cervantes, Cynthia ONLIN 78% 98% 43 17 9 - 4 10 3 2 88 Fall 2024
 CDEV-108 Moen, Michelle ECC 100% 100% 10 2 3 - - - - - 15 Fall 2024
 CDEV-110 Moen, Michelle ECC 79% 92% 11 11 9 - 3 2 - 3 39 Fall 2024
 CDEV-112 Cervantes, Cynthia HYBRD 71% 95% 10 4 1 - - - 5 1 21 Fall 2024
+CDEV-112 Cervantes, Cynthia ONLIN 80% 91% 22 11 2 1 - 4 1 4 45 Fall 2024
 CDEV-114 Cervantes, Cynthia ONLIN 75% 100% 24 10 5 1 3 6 4 - 53 Fall 2024
 CDEV-114 Moutra, Reshon ECC 100% 100% 7 6 2 - - - - - 15 Fall 2024
 CDEV-115 Baxter, Susan ONLIN 75% 82% 17 15 11 - 2 2 - 10 57 Fall 2024
@@ -68,21 +80,25 @@ CDEV-150 Young, Janet ONLIN 81% 89% 20 5 5 - - 2 1 4 37 Fall 2024
 CDEV-165 Toyoda-Smart, Kumi ONLIN 77% 82% 31 14 5 - 1 2 - 12 65 Fall 2024
 COMS-100 Alonso, Lizette ONLIN 26% 77% 3 3 2 - 1 15 - 7 31 Fall 2024
 COMS-100 Anderson, Julia ECC 79% 92% 27 13 10 - 2 6 - 5 63 Fall 2024
+COMS-100 Alonso, Lizette HYBRD 48% 68% 4 7 4 - 2 4 - 10 31 Fall 2024
 COMS-100 Brodaksilva, Trisha HSDUL 100% 100% 3 12 3 - - - - - 18 Fall 2024
 COMS-100 Crossman, Diana ECC 73% 90% 10 9 3 - 3 2 - 3 30 Fall 2024
-COMS-100 Crossman, Mark ONLIN 66% 76% 62 20 11 - 3 11 - 34 141 Fall 2024
-COMS-100 Evans, Joseph ONLIN 67% 93% 57 - 4 - - 24 - 6 91 Fall 2024
-COMS-100 Hubble, Brittany ONLIN 45% 71% 10 3 1 - - 7 1 9 31 Fall 2024
-COMS-100 Johnson, Lilly ONLIN 34% 90% 17 3 - - - 32 - 6 58 Fall 2024
-COMS-100 Jones, Casey ONLIN 60% 84% 27 6 2 - - 14 - 9 58 Fall 2024
-COMS-100 Leach, Larry ECC 56% 69% 6 8 4 - 1 3 - 10 32 Fall 2024
-COMS-100 Lopez, Rodolfo HSDUL 54% 70% 8 6 6 - - 6 - 11 37 Fall 2024
-COMS-100 Matos, Julie ONLIN 68% 78% 31 8 4 - 1 5 - 14 63 Fall 2024
-COMS-100 Ortega, Valerie ECC 38% 44% 10 2 3 - - 2 - 22 39 Fall 2024
-COMS-100 Peterson, Elyse ONLIN 58% 86% 8 11 10 - 1 13 - 7 50 Fall 2024
-COMS-100 Solomon, Chantel ONLIN 42% 90% 6 10 5 - 5 19 - 5 50 Fall 2024
-COMS-100 Taylor, Warren ECC 82% 97% 17 6 4 - 1 4 - 1 33 Fall 2024
-COMS-100 Wells, Rex ECC 71% 93% 56 49 25 8 - 9 34 14 195 Fall 2024
+ONLIN 53% 68% 13 3 5 - 2 4 - 13 40 Fall 2024
+ONLIN Crossman, Mark ONLIN 66% 76% 62 20 11 - 3 11 - 34 141 Fall 2024
+ONLIN Evans, Joseph ONLIN 67% 93% 57 - 4 - - 24 - 6 91 Fall 2024
+ONLIN Hubble, Brittany ONLIN 45% 71% 10 3 1 - - 7 1 9 31 Fall 2024
+ONLIN Johnson, Lilly ONLIN 34% 90% 17 3 - - - 32 - 6 58 Fall 2024
+ONLIN Jones, Casey ONLIN 60% 84% 27 6 2 - - 14 - 9 58 Fall 2024
+ONLIN Leach, Larry ECC 56% 69% 6 8 4 - 1 3 - 10 32 Fall 2024
+ONLIN Lopez, Rodolfo HSDUL 54% 70% 8 6 6 - - 6 - 11 37 Fall 2024
+ONLIN Matos, Julie ONLIN 68% 78% 31 8 4 - 1 5 - 14 63 Fall 2024
+ONLIN Ortega, Valerie ECC 38% 44% 10 2 3 - - 2 - 22 39 Fall 2024
+ONLIN Peterson, Elyse ONLIN 58% 86% 8 11 10 - 1 13 - 7 50 Fall 2024
+ONLIN Sadeghi-Tabrizi, Fariba ECC 75% 91% 5 9 10 - - 5 - 3 32 Fall 2024
+ONLIN Solomon, Chantel ONLIN 42% 90% 6 10 5 - 5 19 - 5 50 Fall 2024
+ONLIN Taylor, Warren ECC 82% 97% 17 6 4 - 1 4 - 1 33 Fall 2024
+ONLIN 70% 90% 7 - - - - 2 - 1 10 Fall 2024
+ONLIN Wells, Rex ECC 71% 93% 56 49 25 8 - 9 34 14 195 Fall 2024
 COMS-120 Bishop, Francesca ECC 72% 84% 11 2 5 - - 3 - 4 25 Fall 2024
 COMS-120 Crossman, Mark ECC 87% 87% 12 8 7 - - - - 4 31 Fall 2024
 COMS-120 Evans, Joseph ECC 86% 96% 23 - 1 - - 3 - 1 28 Fall 2024
@@ -90,11 +106,15 @@ COMS-120 Hubble, Brittany ECC 75% 78% 16 5 3 - - 1 - 7 32 Fall 2024
 COMS-130 Crossman, Diana ONLIN 80% 95% 28 12 8 - 3 6 - 3 60 Fall 2024
 COMS-130 Davidson, Jason ECC 69% 84% 51 54 23 - 9 18 1 30 186 Fall 2024
 COMS-130 Leach, Larry HYBRD 77% 95% 16 9 5 - 4 3 - 2 39 Fall 2024
+COMS-130 Crossman, Diana ONLIN 83% 95% 19 17 14 - 4 3 - 3 60 Fall 2024
 COMS-140 Janke, Kelly ECC 95% 100% 20 26 14 - 2 1 - - 63 Fall 2024
+COMS-140 Janke, Kelly ONLIN 86% 96% 19 3 2 - 1 2 - 1 28 Fall 2024
 COMS-140 Matthews, Julia ONLIN 58% 67% 5 6 3 - 1 1 - 8 24 Fall 2024
 COMS-140 Nagano, Daryle ONLIN 89% 89% 13 9 3 - - - - 3 28 Fall 2024
 COMS-140 Wagner, Helene ECC 70% 93% 5 11 5 - 2 5 - 2 30 Fall 2024
+ONLIN 74% 83% 9 7 1 - 1 1 - 4 23 Fall 2024
 COMS-180 Hubble, Brittany ONLIN 44% 68% 9 - 2 - 2 4 - 8 25 Fall 2024
+COMS-180 Kaimikaua, Charmaine ONLIN 53% 74% 4 3 3 - 2 2 - 5 19 Fall 2024
 COMS-250 Crossman, Diana ONLIN 88% 92% 7 8 6 - - 1 - 2 24 Fall 2024
 COMS-260 Sadeghi-Tabrizi, Fariba ONLIN 60% 78% 12 6 6 - 2 5 - 9 40 Fall 2024
 COMS-265 Bishop, Francesca ONLIN 75% 85% 21 13 2 - 2 3 - 7 48 Fall 2024
@@ -104,16 +124,20 @@ COMS-292ABCD Bishop, Francesca ECC 89% 89% 16 - - - - - - 2 18 Fall 2024
 COMS-293ABCD Evans, Joseph ECC 82% 82% 9 - - - - - - 2 11 Fall 2024
 COMS-294ABCD Hubble, Brittany ECC 83% 83% 15 - - - - - - 3 18 Fall 2024
 ECON-1 Nebbia, Gerardo ECC 74% 90% 12 15 2 - 5 1 - 4 39 Fall 2024
+ECON-1 76% 94% 5 8 - - 2 1 - 1 17 Fall 2024
 ECON-101 Carter, Tanja HYBRD 80% 98% 27 27 14 1 4 11 - 2 86 Fall 2024
+ECON-101 Carter, Tanja ONLIN 91% 97% 97 40 19 - 2 8 - 6 172 Fall 2024
 ECON-101 Fradkin, Michael ONLIN 68% 91% 6 3 6 - 3 2 - 2 22 Fall 2024
 ECON-101 Inouye, Minehiro ECC 61% 85% 5 11 12 - 2 9 - 7 46 Fall 2024
-ECON-101 Keskinel, Meric ONLIN 88% 90% 15 19 2 - - 1 - 4 41 Fall 2024
-ECON-101 Marschall, Brett ONLIN 81% 90% 19 13 2 - 1 3 - 4 42 Fall 2024
-ECON-101 Nebbia, Gerardo ECC 74% 95% 25 7 - - 6 3 - 2 43 Fall 2024
-ECON-101 Tahernia, Farshid ECC 44% 80% 10 3 5 - - 10 5 8 41 Fall 2024
+ONLIN 46% 65% 8 15 15 - 9 7 - 29 83 Fall 2024
+ONLIN Keskinel, Meric ONLIN 88% 90% 15 19 2 - - 1 - 4 41 Fall 2024
+ONLIN Marschall, Brett ONLIN 81% 90% 19 13 2 - 1 3 - 4 42 Fall 2024
+ONLIN Nebbia, Gerardo ECC 74% 95% 25 7 - - 6 3 - 2 43 Fall 2024
+ONLIN Tahernia, Farshid ECC 44% 80% 10 3 5 - - 10 5 8 41 Fall 2024
 ECON-101H Fradkin, Michael ONLIN 83% 92% 12 6 2 - 1 1 - 2 24 Fall 2024
 ECON-102 Fradkin, Michael ONLIN 59% 89% 10 6 6 - 6 5 - 4 37 Fall 2024
 ECON-102 Inouye, Minehiro ECC 77% 85% 2 1 7 - - 1 - 2 13 Fall 2024
+ECON-102 Fradkin, Michael HYBRD 67% 100% 1 2 3 - 1 2 - - 9 Fall 2024
 ECON-102 Keskinel, Meric ONLIN 88% 91% 34 32 11 - - 2 1 8 88 Fall 2024
 ECON-102 Marschall, Brett ONLIN 96% 96% 50 22 9 - - - - 3 84 Fall 2024
 EDUC-101 Garvin, Jamie ONLIN 74% 96% 16 13 6 - 2 8 - 2 47 Fall 2024
@@ -123,10 +147,12 @@ ESTU-1 Gonzalez, Omar HSDUL 71% 86% 5 - - - - 1 - 1 7 Fall 2024
 ESTU-1 Herrera, Raul ONLIN 85% 91% 75 19 6 - 1 6 - 11 118 Fall 2024
 ESTU-1 Herrera, Xocoyotzin HYBRD 100% 100% 44 4 2 - - - - - 50 Fall 2024
 ESTU-1 Humphrey, Amina ECC 53% 81% 36 26 14 - 9 31 - 28 144 Fall 2024
+ESTU-1 Arrieta, Jose ONLIN 51% 77% 26 11 13 - 6 20 - 23 99 Fall 2024
 ESTU-1 Lopez, Nathan ONLIN 65% 81% 9 11 4 - 2 4 - 7 37 Fall 2024
 ESTU-1 Rodriguez, Jessica ONLIN 88% 95% 70 5 1 - 1 5 - 4 86 Fall 2024
 ESTU-1 Sankofa, Jub HSDUL 84% 98% 19 6 7 5 2 4 - 1 44 Fall 2024
 ESTU-1 Tanaka, Takahito ECC 88% 92% 72 - 9 - 2 2 - 7 92 Fall 2024
+ONLIN 80% 93% 62 2 4 - 6 5 - 6 85 Fall 2024
 ESTU-3 Herrera, Xocoyotzin ONLIN 84% 96% 36 4 2 - 3 3 - 2 50 Fall 2024
 ESTU-5 Herrera, Xocoyotzin HYBRD 72% 91% 21 - 2 - 1 5 - 3 32 Fall 2024
 HDEV-1 Castro, Griselda ECC 91% 100% 9 21 1 - - 3 - - 34 Fall 2024
@@ -142,12 +168,16 @@ HDEV-105 Takahashi, Lauren ONLIN 75% 92% 16 9 11 - - 8 - 4 48 Fall 2024
 HDEV-105 Torres, Selene ONLIN 81% 93% 16 4 2 - 1 2 - 2 27 Fall 2024
 HDEV-107 Giourdjian, Paitzar ECC 92% 100% 11 - 1 - - 1 - - 13 Fall 2024
 HDEV-1 Barber, Nikki ONLIN 71% 86% 5 2 3 - 1 1 - 2 14 Fall 2024
+HDEV-1 Daniel-DiGregorio, Kristie HYBRD 72% 81% 26 10 5 - 3 2 - 11 57 Fall 2024
+HDEV-1 Barber, Nikki ONLIN 69% 76% 30 14 13 - 4 2 - 20 83 Fall 2024
+HDEV-1 Delahoussaye-Turner, Cameron ECC 52% 89% 6 5 3 - 3 7 - 3 27 Fall 2024
 HDEV-1 La Coe, Amy ECC 53% 77% 4 6 6 - 2 5 - 7 30 Fall 2024
 HDEV-1 Leinen, Sarah ONLIN 36% 52% 7 1 1 - - 4 - 12 25 Fall 2024
 HDEV-1 Nguyen, Hatien ONLIN 62% 71% 6 6 1 - 2 - - 6 21 Fall 2024
 HDEV-1 Soden, Juli ECC 75% 88% 12 4 2 - 1 2 - 3 24 Fall 2024
-HDEV-1 Takahashi, Lauren ONLIN 47% 98% 10 8 6 - - 26 - 1 51 Fall 2024
-HDEV-1 Wami, Chanae' ONLIN 43% 73% 8 4 1 - - 9 - 8 30 Fall 2024
+ONLIN 66% 73% 28 18 6 - 4 2 - 21 79 Fall 2024
+ONLIN Takahashi, Lauren ONLIN 47% 98% 10 8 6 - - 26 - 1 51 Fall 2024
+ONLIN Wami, Chanae' ONLIN 43% 73% 8 4 1 - - 9 - 8 30 Fall 2024
 HDEV-110H Soden, Juli ONLIN 100% 100% 27 2 - - - - - - 29 Fall 2024
 HDEV-115 Aguiar, Emmanuel ECC 75% 91% 17 2 5 - 2 3 - 3 32 Fall 2024
 HDEV-115 Colbeck, Amanda ONLIN 57% 69% 20 6 3 - 1 5 - 16 51 Fall 2024
@@ -156,30 +186,37 @@ HDEV-115 Shedeed, Viviane ECC 72% 90% 11 3 7 - 1 4 - 3 29 Fall 2024
 HDEV-115 Torres, Selene ONLIN 70% 89% 12 2 5 - 1 4 - 3 27 Fall 2024
 HIST-101 Black, Dustin ONLIN 78% 84% 33 18 8 - 2 3 - 12 76 Fall 2024
 HIST-101 Chavez, Michelle ECC 49% 88% 17 13 12 - 5 29 - 10 86 Fall 2024
+HIST-101 100% 100% 6 8 3 - - - - - 17 Fall 2024
 HIST-101 Jaaska, Arne HSDUL 90% 100% 25 5 5 - 1 3 - - 39 Fall 2024
 HIST-101 Pacas, Edgar ONLIN 43% 86% 7 7 2 - 2 14 - 5 37 Fall 2024
 HIST-101 Panski, Saul ONLIN 76% 84% 38 12 2 - 1 4 - 11 68 Fall 2024
 HIST-101 Rafi, Muhammad ONLIN 63% 95% 39 32 10 - 3 38 - 6 128 Fall 2024
 HIST-101 Resnick, Kirsten ECC 65% 89% 8 13 9 - 4 7 - 5 46 Fall 2024
+HIST-101 Black, Dustin ONLIN 56% 71% 16 9 6 - 6 2 - 16 55 Fall 2024
 HIST-101 Swendson, Paul ONLIN 58% 74% 3 6 9 - 1 4 - 8 31 Fall 2024
 HIST-101 Uribe, Sandra ECC 59% 84% 22 16 13 - 8 13 - 14 86 Fall 2024
-HIST-101 Wishon, Mark ONLIN 54% 89% 6 7 2 - 1 9 - 3 28 Fall 2024
+ONLIN 63% 87% 12 9 3 - 3 5 1 5 38 Fall 2024
+ONLIN Wishon, Mark ONLIN 54% 89% 6 7 2 - 1 9 - 3 28 Fall 2024
 HIST-101H Fraga, Michael ONLIN 92% 92% 22 2 - - - - - 2 26 Fall 2024
 HIST-102 Baranski, John HYBRD 75% 100% 6 11 4 - 1 6 - - 28 Fall 2024
+HIST-102 Baranski, John ONLIN 43% 83% 14 20 12 - 8 35 - 18 107 Fall 2024
 HIST-102 Black, Dustin ONLIN 95% 98% 30 4 5 - 1 - - 1 41 Fall 2024
 HIST-102 Fraga, Michael ONLIN 45% 73% 4 1 - - 2 1 - 3 11 Fall 2024
 HIST-102 Swendson, Paul ONLIN 74% 86% 8 19 21 - 3 5 - 9 65 Fall 2024
 HIST-102 Teal, Orion HYBRD 58% 91% 11 10 4 - 2 10 2 4 43 Fall 2024
-HIST-102 Verge, Arthur ECC 72% 91% 27 26 42 - 16 9 - 12 132 Fall 2024
-HIST-102 Wishon, Mark ONLIN 44% 85% 9 2 1 - - 11 - 4 27 Fall 2024
+ONLIN 70% 100% 16 10 4 - 3 9 1 - 43 Fall 2024
+ONLIN Verge, Arthur ECC 72% 91% 27 26 42 - 16 9 - 12 132 Fall 2024
+ONLIN Wishon, Mark ONLIN 44% 85% 9 2 1 - - 11 - 4 27 Fall 2024
 HIST-102H Verge, Arthur ECC 96% 96% 19 5 1 - - - - 1 26 Fall 2024
 HIST-105 Uribe, Sandra ONLIN 64% 74% 12 7 8 - 1 3 - 11 42 Fall 2024
 HIST-108 Fraga, Michael ONLIN 63% 78% 8 6 3 - - 4 - 6 27 Fall 2024
 HIST-110 Melton, Jamahl ECC 72% 78% 6 3 4 - - 1 - 4 18 Fall 2024
+HIST-110 Melton, Jamahl ONLIN 44% 56% 20 13 8 - 4 7 - 41 93 Fall 2024
 HIST-111 Melton, Jamahl ONLIN 42% 57% 18 13 7 - 4 8 1 39 90 Fall 2024
 HIST-111 Sankofa, Jub ECC 65% 91% 25 2 - 1 - 11 - 4 43 Fall 2024
 HIST-112 De La O, Ismael ONLIN 90% 100% 30 2 3 - 2 2 - - 39 Fall 2024
 HIST-112 Herrera, Xocoyotzin ECC 84% 96% 27 5 6 - - 5 - 2 45 Fall 2024
+HIST-112 De La O, Ismael HYBRD 93% 100% 24 2 1 - 2 - - - 29 Fall 2024
 HIST-112 Lopez, Nathan ONLIN 48% 68% 25 5 - - 2 11 - 20 63 Fall 2024
 HIST-122H Arrieta, Jose HYBRD 90% 95% 15 3 1 - - 1 - 1 21 Fall 2024
 HIST-128 Verge, Arthur ECC 52% 80% 8 7 9 - 8 5 - 9 46 Fall 2024
@@ -192,8 +229,10 @@ HIST-154 Suarez, Jason ONLIN 49% 79% 13 4 4 - 1 12 - 9 43 Fall 2024
 PHIL-101 Critelli, Michael ECC 65% 81% 5 9 6 - 1 4 - 6 31 Fall 2024
 PHIL-101 Firestone, Randall ECC 43% 70% 7 5 5 - 7 4 - 12 40 Fall 2024
 PHIL-101 Garcia, Roberto ECC 98% 98% 18 9 17 - - - - 1 45 Fall 2024
+PHIL-101 Critelli, Michael ONLIN 61% 91% 9 17 8 - 6 11 - 5 56 Fall 2024
 PHIL-101 Leon, Felipe HYBRD 76% 95% 17 7 4 - - 7 - 2 37 Fall 2024
-PHIL-101 Ramirez, Melissa ONLIN 74% 92% 41 14 3 - 3 10 1 6 78 Fall 2024
+ONLIN 84% 95% 29 5 2 - 1 4 - 2 43 Fall 2024
+ONLIN Ramirez, Melissa ONLIN 74% 92% 41 14 3 - 3 10 1 6 78 Fall 2024
 PHIL-101H Firestone, Randall ECC 96% 96% 15 6 3 - - - - 1 25 Fall 2024
 PHIL-103 Garcia, Roberto LIVEO 69% 94% 2 5 4 - 1 3 - 1 16 Fall 2024
 PHIL-103 Shever, David ONLIN 63% 74% 12 5 5 - - 4 - 9 35 Fall 2024
@@ -205,43 +244,58 @@ PHIL-107 Firestone, Randall ONLIN 67% 76% 4 6 4 - 1 1 - 5 21 Fall 2024
 PHIL-111 Leon, Felipe ONLIN 60% 74% 25 2 1 - 1 5 1 12 47 Fall 2024
 PHIL-115 Firestone, Randall ECC 73% 82% 5 4 7 - - 2 - 4 22 Fall 2024
 POLI-1 Casper, Joshua ECC 95% 97% 33 17 5 - - 1 - 2 58 Fall 2024
+POLI-1 Casper, Joshua ONLIN 89% 90% 59 22 1 - 1 - - 9 92 Fall 2024
 POLI-1 Chaney, Van HYBRD 47% 84% 12 5 4 - - 16 1 7 45 Fall 2024
 POLI-1 Coleman, Ellen ONLIN 56% 65% 16 15 11 - 1 5 1 26 75 Fall 2024
-POLI-1 Flor, Paul ONLIN 75% 84% 23 13 7 - 4 1 - 9 57 Fall 2024
-POLI-1 Gonzales, Steven HSDUL 100% 100% 14 11 5 - - - - - 30 Fall 2024
-POLI-1 Houske, Laurie ECC 74% 86% 25 24 19 - 4 7 - 13 92 Fall 2024
-POLI-1 Jun, Christine ECC 35% 84% 8 4 3 - 2 19 - 7 43 Fall 2024
-POLI-1 Klein, Thomas ONLIN 81% 99% 64 30 11 - 5 19 - 1 130 Fall 2024
-POLI-1 Munoz, Eduardo ECC 69% 88% 14 20 17 - 3 11 - 9 74 Fall 2024
-POLI-1 Reed, David HYBRD 74% 96% 27 21 19 - 7 12 - 4 90 Fall 2024
+POLI-1 Cranon-Charles, Angela ECC 68% 96% 7 8 4 - 3 5 - 1 28 Fall 2024
+ONLIN 40% 69% 8 6 3 - 3 9 - 13 42 Fall 2024
+ONLIN Flor, Paul ONLIN 75% 84% 23 13 7 - 4 1 - 9 57 Fall 2024
+ONLIN Gonzales, Steven HSDUL 100% 100% 14 11 5 - - - - - 30 Fall 2024
+ONLIN 82% 82% 21 10 6 - - - - 8 45 Fall 2024
+ONLIN Houske, Laurie ECC 74% 86% 25 24 19 - 4 7 - 13 92 Fall 2024
+ONLIN 74% 89% 43 36 14 - 3 15 - 14 125 Fall 2024
+ONLIN Jun, Christine ECC 35% 84% 8 4 3 - 2 19 - 7 43 Fall 2024
+ONLIN 71% 93% 13 12 5 - 2 7 - 3 42 Fall 2024
+ONLIN Klein, Thomas ONLIN 81% 99% 64 30 11 - 5 19 - 1 130 Fall 2024
+ONLIN Munoz, Eduardo ECC 69% 88% 14 20 17 - 3 11 - 9 74 Fall 2024
+ONLIN 57% 92% 22 37 17 - 7 40 - 10 133 Fall 2024
+ONLIN Reed, David HYBRD 74% 96% 27 21 19 - 7 12 - 4 90 Fall 2024
+ONLIN 71% 96% 8 16 8 - 2 9 - 2 45 Fall 2024
 POLI-10 Chaney, Van ONLIN 44% 58% 13 3 2 1 1 4 1 18 43 Fall 2024
 POLI-10 Striepe, Karl ONLIN 72% 95% 24 5 2 - 2 8 - 2 43 Fall 2024
 POLI-10H Striepe, Karl ONLIN 97% 97% 32 2 - - - - - 1 35 Fall 2024
 POLI-1H Munoz, Eduardo ONLIN 97% 100% 22 6 1 - - - 1 - 30 Fall 2024
 POLI-2 Casper, Joshua ECC 87% 91% 14 5 1 - - 1 - 2 23 Fall 2024
+POLI-2 Casper, Joshua ONLIN 56% 68% 11 8 4 - 1 4 - 13 41 Fall 2024
 POLI-3 Houske, Laurie ONLIN 51% 67% 13 3 6 - 2 5 - 14 43 Fall 2024
 POLI-5 Chaney, Van ONLIN 36% 53% 7 3 3 - - 6 - 17 36 Fall 2024
 POLI-7 Reed, David HYBRD 70% 93% 13 4 3 1 3 4 - 2 30 Fall 2024
+POLI-7 Reed, David ONLIN 61% 82% 15 4 4 - - 7 1 7 38 Fall 2024
 PSYC-101 Atkins, Sharona ONLIN 76% 87% 15 9 5 - - 4 - 5 38 Fall 2024
 PSYC-101 Chu, Yun ECC 79% 88% 8 7 4 - 1 1 - 3 24 Fall 2024
+PSYC-101 Atkins, Sharona HYBRD 96% 96% 37 15 1 - - - - 2 55 Fall 2024
 PSYC-101 Dooley, Kevin ONLIN 77% 89% 21 8 7 - 2 4 - 5 47 Fall 2024
 PSYC-101 Duarte, Jennifer HSDUL 65% 77% 11 5 1 - 2 1 - 6 26 Fall 2024
-PSYC-101 Farah, Yara ONLIN 57% 87% 20 12 18 - 4 22 - 11 87 Fall 2024
-PSYC-101 Farias, Julio ECC 88% 90% 15 19 12 - - 1 - 5 52 Fall 2024
-PSYC-101 Galbavy, Renee ONLIN 73% 86% 25 23 13 - 5 5 - 12 83 Fall 2024
-PSYC-101 Gordon, LaFaune ONLIN 73% 100% 7 6 3 - 1 5 - - 22 Fall 2024
-PSYC-101 Green, Donte ECC 94% 100% 36 6 4 - - 3 - - 49 Fall 2024
-PSYC-101 Hall, Angel ECC 65% 90% 39 17 7 - 11 13 - 10 97 Fall 2024
-PSYC-101 Huemer, Sabine ONLIN 83% 95% 14 16 3 - 1 4 - 2 40 Fall 2024
-PSYC-101 Kato, Lorrie ONLIN 81% 91% 42 27 8 - 2 6 1 9 95 Fall 2024
-PSYC-101 Montes, Roberto ONLIN 40% 93% 6 5 1 - 3 13 - 2 30 Fall 2024
-PSYC-101 Moshrefi, Farshid ONLIN 83% 97% 53 50 25 - - 22 - 4 154 Fall 2024
-PSYC-101 Nguyen, Kim-Lien HSDUL 57% 60% 7 6 4 - 1 - - 12 30 Fall 2024
-PSYC-101 O'Leary, Bernadette ONLIN 65% 79% 17 22 7 - 1 9 - 15 71 Fall 2024
-PSYC-101 Robinson, Jennifer ONLIN 33% 93% 6 2 1 - 1 15 - 2 27 Fall 2024
-PSYC-101 Simon, Angela ONLIN 51% 90% 23 34 21 - 8 50 1 15 152 Fall 2024
-PSYC-101 Wynne, Michael ECC 37% 72% 12 25 30 - 32 32 1 51 183 Fall 2024
-PSYC-101 Yates, Arianna HSDUL 100% 100% 15 12 1 - - - - - 28 Fall 2024
+ONLIN 45% 94% 16 17 5 - 14 27 - 5 84 Fall 2024
+ONLIN Farah, Yara ONLIN 57% 87% 20 12 18 - 4 22 - 11 87 Fall 2024
+ONLIN Farias, Julio ECC 88% 90% 15 19 12 - - 1 - 5 52 Fall 2024
+ONLIN 68% 94% 10 42 12 - 2 22 - 6 94 Fall 2024
+ONLIN Galbavy, Renee ONLIN 73% 86% 25 23 13 - 5 5 - 12 83 Fall 2024
+ONLIN Gordon, LaFaune ONLIN 73% 100% 7 6 3 - 1 5 - - 22 Fall 2024
+ONLIN Green, Donte ECC 94% 100% 36 6 4 - - 3 - - 49 Fall 2024
+ONLIN 64% 86% 6 2 1 - - 3 - 2 14 Fall 2024
+ONLIN Hall, Angel ECC 65% 90% 39 17 7 - 11 13 - 10 97 Fall 2024
+ONLIN Huemer, Sabine ONLIN 83% 95% 14 16 3 - 1 4 - 2 40 Fall 2024
+ONLIN Kato, Lorrie ONLIN 81% 91% 42 27 8 - 2 6 1 9 95 Fall 2024
+ONLIN Montes, Roberto ONLIN 40% 93% 6 5 1 - 3 13 - 2 30 Fall 2024
+ONLIN Moshrefi, Farshid ONLIN 83% 97% 53 50 25 - - 22 - 4 154 Fall 2024
+ONLIN Nguyen, Kim-Lien HSDUL 57% 60% 7 6 4 - 1 - - 12 30 Fall 2024
+ONLIN O'Leary, Bernadette ONLIN 65% 79% 17 22 7 - 1 9 - 15 71 Fall 2024
+ONLIN Robinson, Jennifer ONLIN 33% 93% 6 2 1 - 1 15 - 2 27 Fall 2024
+ONLIN Simon, Angela ONLIN 51% 90% 23 34 21 - 8 50 1 15 152 Fall 2024
+ONLIN Wynne, Michael ECC 37% 72% 12 25 30 - 32 32 1 51 183 Fall 2024
+ONLIN Yates, Arianna HSDUL 100% 100% 15 12 1 - - - - - 28 Fall 2024
+ONLIN 54% 86% 23 11 7 - 4 20 - 11 76 Fall 2024
 PSYC-101H Himsel, Amy HYBRD 87% 90% 20 5 1 - - - 1 3 30 Fall 2024
 PSYC-102 Farias, Julio ECC 84% 91% 28 35 8 - 3 3 - 8 85 Fall 2024
 PSYC-103 Abdelhamid, Mohammed HYBRD 77% 100% 6 5 9 - 3 3 - - 26 Fall 2024
@@ -252,6 +306,7 @@ PSYC-103 Stelter, Mary ONLIN 69% 100% 24 - - - - 11 - - 35 Fall 2024
 PSYC-103H Himsel, Amy HYBRD 74% 89% 10 3 1 - 1 2 - 2 19 Fall 2024
 PSYC-107 Galvan, Eddie HYBRD 84% 95% 13 13 10 - - 5 - 2 43 Fall 2024
 PSYC-107 Nguyen, Kim-Lien ONLIN 89% 90% 33 33 16 - 1 - - 9 92 Fall 2024
+PSYC-107 Rodriguez-Cintron, Laris ONLIN 89% 97% 23 5 6 - 1 2 - 1 38 Fall 2024
 PSYC-108 Farias, Julio ECC 79% 93% 4 6 1 - - 2 - 1 14 Fall 2024
 PSYC-108 Simon, Angela ECC 90% 100% 11 15 19 - 1 3 1 - 50 Fall 2024
 PSYC-109A Abdelhamid, Mohammed ONLIN 55% 64% 7 4 1 - - 2 - 8 22 Fall 2024
@@ -263,15 +318,21 @@ PSYC-109B Dooley, Kevin ONLIN 79% 86% 16 6 1 - - 2 - 4 29 Fall 2024
 PSYC-109B Huemer, Sabine ONLIN 86% 97% 11 10 4 - - 3 - 1 29 Fall 2024
 PSYC-109B Huff, Micheal ONLIN 85% 100% 10 9 4 - 2 2 - - 27 Fall 2024
 PSYC-109B Montes, Roberto ONLIN 44% 88% 1 2 8 - 1 10 - 3 25 Fall 2024
+PSYC-109B Rodriguez-Cintron, Laris ONLIN 78% 89% 10 8 3 - 1 2 - 3 27 Fall 2024
 PSYC-110 Wynne, Michael ECC 25% 58% 1 2 - - 1 2 1 5 12 Fall 2024
 PSYC-112 Stelter, Mary ONLIN 77% 95% 51 7 6 - 1 14 - 4 83 Fall 2024
 PSYC-115 Galbavy, Renee ECC 90% 93% 32 6 - - 1 - - 3 42 Fall 2024
+PSYC-115 Galbavy, Renee ONLIN 87% 92% 42 16 7 - 3 1 - 6 75 Fall 2024
 PSYC-116 Conn, Bradfield ECC 87% 96% 14 12 15 - - 4 - 2 47 Fall 2024
+PSYC-116 Conn, Bradfield ONLIN 87% 97% 60 11 7 - 6 3 - 3 90 Fall 2024
 PSYC-116 Himsel, Amy HYBRD 65% 85% 7 7 3 - 1 4 - 4 26 Fall 2024
-PSYC-116 Huff, Micheal ONLIN 83% 96% 17 11 10 - 3 3 - 2 46 Fall 2024
+ONLIN 76% 91% 32 25 14 - 3 12 - 8 94 Fall 2024
+ONLIN Huff, Micheal ONLIN 83% 96% 17 11 10 - 3 3 - 2 46 Fall 2024
 PSYC-117 Green, Donte ONLIN 90% 100% 20 6 2 - - 3 - - 31 Fall 2024
 PSYC-119 Simon, Angela ECC 48% 74% 8 4 3 - 2 6 - 8 31 Fall 2024
 SOCI-101 Allen, Stacey HYBRD 86% 100% 19 5 1 - 2 2 - - 29 Fall 2024
+SOCI-101 Allen, Stacey ONLIN 72% 83% 56 27 20 - 7 8 - 25 143 Fall 2024
+SOCI-101 Bell-Blossom, Michelle ONLIN 80% 87% 6 11 7 - - 2 - 4 30 Fall 2024
 SOCI-101 Din, Mediha ONLIN 61% 85% 30 14 13 - 1 22 - 14 94 Fall 2024
 SOCI-101 Dowden, Frieda ONLIN 72% 95% 14 8 6 - - 9 - 2 39 Fall 2024
 SOCI-101 Eaves, Stephanie ONLIN 79% 88% 25 12 4 - 1 4 - 6 52 Fall 2024
@@ -288,6 +349,7 @@ SOCI-104 Bell-Blossom, Michelle ONLIN 87% 87% 12 11 3 - - - - 4 30 Fall 2024
 SOCI-104 Leyva, Juan ECC 88% 94% 22 5 2 - 1 1 - 2 33 Fall 2024
 SOCI-104 Stone, Akello ONLIN 83% 86% 19 10 1 - 1 - - 5 36 Fall 2024
 SOCI-107 Fujiwara, Melissa ECC 83% 97% 13 8 4 - 1 3 - 1 30 Fall 2024
+SOCI-107 Fujiwara, Melissa ONLIN 92% 97% 24 5 4 - 1 1 - 1 36 Fall 2024
 SOCI-109A Aguilera, Peter ONLIN 48% 57% 5 3 2 - - 2 - 9 21 Fall 2024
 SOCI-112 Aguilera, Peter ONLIN 69% 80% 10 8 6 - 1 3 - 7 35 Fall 2024
 SOCI-112 Johnson, Christopher ONLIN 21% 26% 2 5 3 - 1 1 - 35 47 Fall 2024
@@ -301,14 +363,18 @@ SSCI-103 Teal, Orion HYBRD 54% 92% 7 3 3 - 1 8 - 2 24 Fall 2024
 WSTU-1 Allen, Stacey HYBRD 67% 82% 12 6 4 - 2 3 - 6 33 Fall 2024
 WSTU-1 Baker, Allison ONLIN 74% 98% 54 19 15 - 2 27 - 2 119 Fall 2024
 BUS-101 Chau, Yuen HYBRD 78% 87% 10 9 16 - 1 3 - 6 45 Fall 2024
+BUS-101 Chau, Yuen ONLIN 75% 85% 33 16 10 - 4 4 - 12 79 Fall 2024
 BUS-101 Escalante Troesh, Joshua HYBRD 41% 79% 3 5 2 2 1 10 - 6 29 Fall 2024
 BUS-101 Miranda, Xavier ECC 51% 71% 7 11 5 - 1 8 - 13 45 Fall 2024
 BUS-101 Moncada, Mirna HYBRD 82% 82% 27 - 4 - - - - 7 38 Fall 2024
 BUS-101 Mufich, John HYBRD 80% 89% 44 16 12 - - 8 - 10 90 Fall 2024
-BUS-101 Nickl, Tracy HYBRD 80% 89% 17 17 2 - - 4 - 5 45 Fall 2024
-BUS-101 Som de Cerff, Melissa HYBRD 75% 88% 35 26 14 - 5 8 - 12 100 Fall 2024
+ONLIN 100% 100% 40 4 2 - - - - - 46 Fall 2024
+ONLIN Nickl, Tracy HYBRD 80% 89% 17 17 2 - - 4 - 5 45 Fall 2024
+ONLIN Som de Cerff, Melissa HYBRD 75% 88% 35 26 14 - 5 8 - 12 100 Fall 2024
+ONLIN 64% 80% 21 15 8 - 5 6 - 14 69 Fall 2024
 BUS-107 Alford, Lovell HYBRD 44% 81% 2 2 3 - 1 5 - 3 16 Fall 2024
 BUS-108 Pahl, David HYBRD 71% 88% 9 10 5 - 1 5 - 4 34 Fall 2024
+BUS-108 Pahl, David ONLIN 83% 92% 21 27 11 - 3 3 - 6 71 Fall 2024
 BUS-108 Som de Cerff, Melissa ONLIN 90% 97% 10 15 3 - 1 1 - 1 31 Fall 2024
 BUS-109 Alford, Lovell ONLIN 73% 88% 3 11 5 - - 4 - 3 26 Fall 2024
 BUS-109 Pahl, David HYBRD 52% 68% 6 4 3 - 1 1 2 8 25 Fall 2024
@@ -318,6 +384,7 @@ BUS-111 Escalante Troesh, Joshua HYBRD 53% 67% 6 6 4 - - 4 - 10 30 Fall 2024
 BUS-115 Green, Karen ONLIN 64% 85% 10 7 4 - 2 5 - 5 33 Fall 2024
 BUS-117 Escalante Troesh, Joshua HYBRD 25% 75% 2 11 4 - 6 27 - 17 67 Fall 2024
 BUS-117 Senko, Erik HYBRD 55% 91% 10 11 5 - 5 12 - 4 47 Fall 2024
+BUS-117 Escalante Troesh, Joshua ONLIN 89% 98% 14 19 9 - 1 3 - 1 47 Fall 2024
 BUS-118 Senko, Erik HYBRD 43% 83% 4 6 3 - 1 11 - 5 30 Fall 2024
 BUS-120 Mufich, John ONLIN 84% 91% 38 11 5 2 1 4 - 6 67 Fall 2024
 BUS-121 Alford, Lovell HYBRD 70% 90% 11 5 5 - 2 - 4 3 30 Fall 2024
@@ -327,24 +394,32 @@ BUS-124 Chau, Yuen HYBRD 59% 71% 6 4 - - - 1 1 5 17 Fall 2024
 BUS-124 Som de Cerff, Melissa ONLIN 58% 85% 7 8 4 - 2 7 - 5 33 Fall 2024
 BUS-126 Andersen, Scott ONLIN 26% 76% 7 3 - - - 19 - 9 38 Fall 2024
 BUS-126 Pahl, David HYBRD 73% 82% 5 3 - - 1 - - 2 11 Fall 2024
+BUS-126 Andersen, Scott ONLIN 52% 71% 8 2 1 - 2 2 - 6 21 Fall 2024
 BUS-150 Giles, Brizset ECC 59% 67% 22 12 7 - 2 4 - 23 70 Fall 2024
 BUS-150 Hull, Kurt ECC 69% 79% 12 11 4 - - 4 - 8 39 Fall 2024
+BUS-150 Giles, Brizset ONLIN 53% 71% 6 6 6 - - 6 - 10 34 Fall 2024
 BUS-150 Kim, Julie ECC 80% 86% 13 13 9 - 3 - - 6 44 Fall 2024
-BUS-150 Knight, Ridgway ONLIN 31% 49% 5 2 7 - 4 4 - 23 45 Fall 2024
-BUS-150 Lau, Philip ECC 45% 75% 14 11 5 - 7 13 - 17 67 Fall 2024
-BUS-150 Margiotta, Adam ECC 59% 79% 11 8 4 - 5 3 - 8 39 Fall 2024
-BUS-150 Porter, Sidney HYBRD 68% 80% 9 12 7 - 1 4 - 8 41 Fall 2024
+ONLIN 90% 95% 22 9 5 - - 2 - 2 40 Fall 2024
+ONLIN Knight, Ridgway ONLIN 31% 49% 5 2 7 - 4 4 - 23 45 Fall 2024
+ONLIN Lau, Philip ECC 45% 75% 14 11 5 - 7 13 - 17 67 Fall 2024
+ONLIN Margiotta, Adam ECC 59% 79% 11 8 4 - 5 3 - 8 39 Fall 2024
+ONLIN 70% 77% 29 6 13 - 2 3 - 16 69 Fall 2024
+ONLIN Porter, Sidney HYBRD 68% 80% 9 12 7 - 1 4 - 8 41 Fall 2024
+ONLIN 61% 78% 6 11 5 - 3 3 - 8 36 Fall 2024
 BUS-151 Giles, Brizset HYBRD 91% 91% 12 6 3 - - - - 2 23 Fall 2024
 BUS-151 Hull, Kurt ONLIN 75% 86% 12 9 6 - 1 3 - 5 36 Fall 2024
 BUS-151 Kim, Julie HYBRD 100% 100% 25 6 5 - - - - - 36 Fall 2024
 BUS-151 Lau, Philip ECC 67% 81% 4 5 9 - 3 1 - 5 27 Fall 2024
 BUS-151 Margiotta, Adam ECC 81% 95% 6 5 6 - 3 - - 1 21 Fall 2024
 BUS-151 Milosevic Nguyen, Ana ECC 88% 96% 11 8 2 - 2 - - 1 24 Fall 2024
+BUS-151 Giles, Brizset HYBRD 91% 100% 13 3 4 - 1 1 - - 22 Fall 2024
+ONLIN 90% 98% 24 10 3 - 1 2 - 1 41 Fall 2024
 BUS-152 Porter, Sidney ECC 76% 91% 6 12 8 - - 5 - 3 34 Fall 2024
 BUS-153 Porter, Sidney ONLIN 100% 100% 2 2 1 - - - - - 5 Fall 2024
 BUS-159 Hull, Kurt ONLIN 69% 77% 4 2 3 - 1 - - 3 13 Fall 2024
 BUS-160 Giles, Brizset ONLIN 76% 85% 15 8 3 - 2 1 - 5 34 Fall 2024
 BUS-165A Porter, Sidney ECC 38% 56% 2 2 2 - 2 1 - 7 16 Fall 2024
+BUS-165A Porter, Sidney ONLIN 73% 91% 10 2 4 - 1 3 - 2 22 Fall 2024
 BUS-169 Kim, Julie ONLIN 85% 90% 7 8 2 - - 1 - 2 20 Fall 2024
 CIS-11 Siddiqui, Junaid HYBRD 63% 94% 5 2 3 - 2 3 - 1 16 Fall 2024
 CIS-119 Dellaca, Roger ONLIN 70% 80% 10 - 4 - 1 1 - 4 20 Fall 2024
@@ -358,8 +433,11 @@ CIS-13 Kane, Dennis HYBRD 71% 88% 2 6 4 - 2 1 - 2 17 Fall 2024
 CIS-13 Kol, Koda HYBRD 50% 70% 6 1 3 - 2 2 - 6 20 Fall 2024
 CIS-13 Le, Hac ONLIN 55% 68% 9 5 8 - - 5 - 13 40 Fall 2024
 CIS-13 Lu, Khai HYBRD 61% 75% 18 4 9 - 2 5 - 13 51 Fall 2024
+CIS-13 Allen, Roni ONLIN 45% 75% 4 4 1 - 1 5 - 5 20 Fall 2024
 CIS-13 Perkins, Richard HYBRD 63% 70% 15 10 15 - 1 3 - 19 63 Fall 2024
-CIS-13 Siddiqui, Junaid HYBRD 87% 91% 23 25 10 - - 3 - 6 67 Fall 2024
+ONLIN 53% 59% 5 1 3 - - 1 - 7 17 Fall 2024
+ONLIN Siddiqui, Junaid HYBRD 87% 91% 23 25 10 - - 3 - 6 67 Fall 2024
+ONLIN 59% 95% 5 4 4 - 3 5 - 1 22 Fall 2024
 CIS-132 Allen, Roni ONLIN 48% 70% 8 2 1 - 1 4 - 7 23 Fall 2024
 CIS-133 Anaya, Martin HYBRD 64% 93% 2 5 2 - - 4 - 1 14 Fall 2024
 CIS-136 Rubio, Jesus HYBRD 85% 100% 9 2 - - - 1 1 - 13 Fall 2024
@@ -393,13 +471,17 @@ RE-40 Yeressian, John ONLIN 84% 91% 36 8 3 - 3 1 - 5 56 Fall 2024
 SUPV-109 Alford, Lovell ONLIN 80% 80% 1 3 - - - - - 1 5 Fall 2024
 ART-110 Bronte, Andrea ECC 54% 82% 3 11 1 - - 8 - 5 28 Fall 2024
 ART-110 Hardesty, Joseph ECC 71% 93% 14 3 2 1 1 4 1 2 28 Fall 2024
+ART-110 50% 82% 11 3 - - 1 8 - 5 28 Fall 2024
 ART-110 Kabriel, Joseph ECC 84% 97% 22 1 3 - - 1 3 1 31 Fall 2024
+ART-110 Bronte, Andrea ONLIN 66% 86% 9 5 5 - 1 5 - 4 29 Fall 2024
 ART-110 Madrid, Vanessa ECC 52% 70% 4 7 3 - 2 3 - 8 27 Fall 2024
 ART-110 Ngo, Binh ECC 84% 88% 14 8 5 - 1 - - 4 32 Fall 2024
 ART-110 Phelps, Jennifer ECC 84% 97% 22 1 3 - - 1 3 1 31 Fall 2024
-ART-110 Trepasso, Sandra ECC 79% 86% 16 7 - - 2 - - 4 29 Fall 2024
+ONLIN 52% 81% 8 2 4 - 1 5 2 5 27 Fall 2024
+ONLIN Trepasso, Sandra ECC 79% 86% 16 7 - - 2 - - 4 29 Fall 2024
 ART-129 Ewing, Richard ECC 77% 88% 9 5 6 - - 3 - 3 26 Fall 2024
 ART-130 Micallef, Andrea ECC 74% 93% 18 15 7 - 1 9 - 4 54 Fall 2024
+ART-130 Micallef, Andrea ONLIN 71% 79% 14 3 - - - 2 - 5 24 Fall 2024
 ART-131 Bella, Nicole ECC 67% 93% 7 1 2 - 1 3 - 1 15 Fall 2024
 ART-131 Speth, Mary ONLIN 75% 81% 8 4 - - 1 - - 3 16 Fall 2024
 ART-132 Stenton, William ECC 67% 100% 5 3 - - - 4 - - 12 Fall 2024
@@ -438,6 +520,7 @@ ART-275 Mori, Irene ECC 100% 100% 9 11 - - - - - - 20 Fall 2024
 ART-275 Thompson, Jillian ECC 100% 100% 2 - - - - - - - 2 Fall 2024
 DANC-101 Adamis, Elizabeth ONLIN 97% 97% 40 3 9 6 - - - 2 60 Fall 2024
 DANC-101 Berney, Daniel ECC 90% 93% 16 6 5 - - - 1 2 30 Fall 2024
+DANC-101 Adamis, Elizabeth ONLIN 60% 80% 10 7 10 - 1 8 - 9 45 Fall 2024
 DANC-101 Bryant, Jonathan ONLIN 71% 95% 48 8 1 2 2 16 2 4 83 Fall 2024
 DANC-103 Berney, Daniel ONLIN 48% 53% 16 9 17 - 2 3 - 41 88 Fall 2024
 DANC-110 Bryant, Jonathan HYBRD 73% 95% 15 - 1 - - 5 - 1 22 Fall 2024
@@ -463,16 +546,20 @@ DANC-289AB Bryant, Jonathan ECC 100% 100% 8 - - - - - - - 8 Fall 2024
 FILM-105 Vafaeisefat, Elyusha ONLIN 80% 92% 63 12 7 - 2 10 - 8 102 Fall 2024
 FILM-109 O'Brien, Kevin ONLIN 77% 87% 9 7 7 - 1 2 - 4 30 Fall 2024
 FILM-110 Agan, Alicia HSDUL 82% 88% 6 5 3 - - 1 - 2 17 Fall 2024
+FILM-110 Agan, Alicia HSDUL 82% 88% 6 5 3 - - 1 - 2 17 ONLIN 89% 93% 40 32 8 - 2 2 - 6 90 Fall 2024
 FILM-110 Beery, Brian ECC 69% 100% 21 10 3 - 2 13 - - 49 Fall 2024
-FILM-110 Bogdanski, James ONLIN 49% 75% 4 15 14 - 5 13 - 17 68 Fall 2024
-FILM-110 Keller, Max HSDUL 33% 38% 1 4 2 - - 1 - 13 21 Fall 2024
-FILM-110 Lewis, Tracie ECC 79% 91% 33 33 40 - 8 9 - 12 135 Fall 2024
+ONLIN 63% 97% 20 3 1 - - 13 - 1 38 Fall 2024
+ONLIN Bogdanski, James ONLIN 49% 75% 4 15 14 - 5 13 - 17 68 Fall 2024
+ONLIN Keller, Max HSDUL 33% 38% 1 4 2 - - 1 - 13 21 Fall 2024
+ONLIN 61% 88% 13 16 13 - - 19 - 8 69 Fall 2024
+ONLIN Lewis, Tracie ECC 79% 91% 33 33 40 - 8 9 - 12 135 Fall 2024
 FILM-113 O'Brien, Kevin ONLIN 81% 94% 17 15 6 - 3 3 - 3 47 Fall 2024
 FILM-121 Almo, Laura ONLIN 64% 64% 7 5 2 - - - - 8 22 Fall 2024
 FILM-122 Burnett, Jonathan ECC 100% 100% 18 3 2 - - - - - 23 Fall 2024
 FILM-122 O'Brien, Kevin ONLIN 72% 84% 13 4 1 - 1 2 - 4 25 Fall 2024
 FILM-124 Beery, Brian ONLIN 83% 92% 17 2 1 - 1 1 - 2 24 Fall 2024
 FILM-153 Almo, Laura ECC 90% 95% 20 8 8 - 2 - - 2 40 Fall 2024
+FILM-153 Almo, Laura ONLIN 95% 95% 33 4 4 - - - - 2 43 Fall 2024
 FILM-154 Vafaeisefat, Elyusha ONLIN 86% 92% 24 7 12 - - 3 - 4 50 Fall 2024
 FILM-232 Corbin, Neil ECC 95% 100% 21 - - - - 1 - - 22 Fall 2024
 FILM-236 Almo, Laura ECC 96% 100% 15 6 1 - 1 - - - 23 Fall 2024
@@ -485,12 +572,14 @@ MUSI-103B Schulz, Patrick HYBRD 79% 95% 6 2 7 - 2 1 - 1 19 Fall 2024
 MUSI-105 Moyer, David HYBRD 42% 75% 4 - 1 - 2 2 - 3 12 Fall 2024
 MUSI-111 Doyle, William ONLIN 70% 84% 10 16 9 - 6 1 - 8 50 Fall 2024
 MUSI-111 Hurd, James ECC 35% 65% 3 8 4 - 6 7 - 15 43 Fall 2024
+MUSI-111 Doyle, William ONLIN 55% 80% 15 11 12 - 3 14 - 14 69 Fall 2024
 MUSI-112H Doyle, William HYBRD 79% 89% 12 2 1 - - 2 - 2 19 Fall 2024
 MUSI-113 Moyer, David ONLIN 75% 91% 23 4 6 - - 7 - 4 44 Fall 2024
 MUSI-116 Doyle, William ONLIN 80% 82% 25 8 2 - - 1 - 8 44 Fall 2024
 MUSI-116 Moyer, David ONLIN 63% 85% 18 5 3 - 2 7 - 6 41 Fall 2024
 MUSI-117 Doyle, William ONLIN 79% 85% 43 24 6 - - 5 - 14 92 Fall 2024
 MUSI-120 Blickfeldt, Kevin ECC 79% 79% 14 1 - - - - - 4 19 Fall 2024
+MUSI-120 Blickfeldt, Kevin ONLIN 69% 84% 23 6 4 1 3 4 - 8 49 Fall 2024
 MUSI-131A Chambers-Salazar, Polli ONLIN 60% 60% 9 2 4 - - - - 10 25 Fall 2024
 MUSI-131A Hurd, James ECC 49% 81% 12 5 4 - 6 8 - 8 43 Fall 2024
 MUSI-131A Liebich, Rafael ECC 65% 71% 9 1 1 - - 1 - 5 17 Fall 2024
@@ -498,6 +587,7 @@ MUSI-131B Chambers-Salazar, Polli ONLIN 73% 91% 5 1 2 - - 2 - 1 11 Fall 2024
 MUSI-131B Hurd, James ECC 100% 100% 3 - - - - - - - 3 Fall 2024
 MUSI-143 Sills, David ECC 71% 71% 4 - 1 - - - - 2 7 Fall 2024
 MUSI-147A Minei, Ryota ECC 87% 87% 15 4 8 - - - - 4 31 Fall 2024
+MUSI-147A Minei, Ryota ONLIN 55% 62% 11 3 2 - 1 1 - 11 29 Fall 2024
 MUSI-147B Minei, Ryota HYBRD 63% 63% 5 - - - - - - 3 8 Fall 2024
 MUSI-152ABCD Nachef, Joanna ECC 97% 100% 27 - 1 - - 1 - - 29 Fall 2024
 MUSI-181A Katznelson, Marci ONLIN 62% 76% 8 3 2 - - 3 - 5 21 Fall 2024
@@ -517,6 +607,7 @@ MUSI-190D Minei, Ryota ECC 100% 100% 1 - - - - - - - 1 Fall 2024
 MUSI-190D Moyer, David ECC 100% 100% 3 1 - - - - - - 4 Fall 2024
 MUSI-203 Schulz, Patrick HYBRD 80% 80% 3 1 4 - - - - 2 10 Fall 2024
 MUSI-215A Doyle, William ECC 79% 86% 9 7 7 - 1 1 - 4 29 Fall 2024
+MUSI-215A Doyle, William ONLIN 75% 88% 5 1 - - 1 - - 1 8 Fall 2024
 MUSI-222ABCD Blickfeldt, Kevin ECC 91% 91% 10 - - - - - - 1 11 Fall 2024
 MUSI-231A Chambers-Salazar, Polli ECC 71% 100% 4 - 1 - - 1 1 - 7 Fall 2024
 MUSI-231B Chambers-Salazar, Polli ECC 80% 80% 3 - 1 - - - - 1 5 Fall 2024
@@ -543,6 +634,8 @@ PHOT-102 Sit, Weng San ECC 85% 89% 16 4 3 - - 1 - 3 27 Fall 2024
 PHOT-106 Thomas, Quang ECC 64% 82% 2 2 3 - - 2 - 2 11 Fall 2024
 PHOT-150 Naumann, Sonya ONLIN 79% 90% 80 13 7 - 1 13 - 13 127 Fall 2024
 PHOT-150 Nelson, Mark ECC 74% 92% 40 20 7 - 3 14 - 7 91 Fall 2024
+PHOT-150 Naumann, Sonya ONLIN 72% 91% 20 12 1 - 1 8 - 4 46 Fall 2024
+PHOT-150 Schwenkmeyer, Karen ONLIN 61% 78% 22 19 13 - 8 7 - 19 88 Fall 2024
 PHOT-202 Cho, Joshua ECC 80% 100% 2 1 1 - - 1 - - 5 Fall 2024
 PHOT-203 Cho, Joshua ECC 100% 100% 1 - - - - - - - 1 Fall 2024
 PHOT-223A Sit, Weng San ECC 90% 90% 8 - 1 - - - - 1 10 Fall 2024
@@ -578,6 +671,7 @@ AJ-107 Plair, Vincent ONLIN 71% 87% 10 3 9 - 2 3 - 4 31 Fall 2024
 AJ-109 Martinez, Alfred ONLIN 55% 91% 3 1 2 - - 4 - 1 11 Fall 2024
 AJ-111 Fields, Mark ONLIN 68% 84% 12 4 1 - - 4 - 4 25 Fall 2024
 AJ-111 Mauger, Dina ECC 53% 83% 5 3 8 - - 9 - 5 30 Fall 2024
+AJ-111 Fields, Mark ONLIN 70% 85% 5 7 2 - 1 2 - 3 20 Fall 2024
 AJ-115 Meredith, Donald ECC 85% 92% 11 - - - 1 - - 1 13 Fall 2024
 AJ-12 Gulcher, Andrew ONLIN 39% 98% 10 6 - - - 24 - 1 41 Fall 2024
 AJ-126 Acquarelli, James ECC 100% 100% 4 - - - - - - - 4 Fall 2024
@@ -598,6 +692,7 @@ AJ-150 Kim, Sterling ECC 89% 100% 3 5 - - - 1 - - 9 Fall 2024
 AJ-150 Mason, Donald ECC 89% 100% 3 5 - - - 1 - - 9 Fall 2024
 AJ-150 Rosales, Jose ECC 89% 100% 3 5 - - - 1 - - 9 Fall 2024
 AJ-150 Serrano, Oscar ECC 89% 100% 3 5 - - - 1 - - 9 Fall 2024
+AJ-150 Valentekovich, Vladimir ECC 89% 100% 3 5 - - - 1 - - 9 Fall 2024
 AJ-170 Roth, Matthew ONLIN 58% 100% 3 4 - - 2 3 - - 12 Fall 2024
 AJ-190 Juckett, Brian ECC 96% 96% 23 - - - - - - 1 24 Fall 2024
 AJ-190 Jackson, Deryl HSDUL 100% 100% 9 - - - - - - - 9 Fall 2024
@@ -615,15 +710,19 @@ CH-1 Calderon, Karla ONLIN 73% 93% 8 13 1 - 1 5 - 2 30 Fall 2024
 CH-1 Dunn, Darin ECC 85% 95% 13 19 18 - 3 3 - 3 59 Fall 2024
 CH-1 Hazell, Thomas ONLIN 82% 94% 23 3 1 - - 4 - 2 33 Fall 2024
 CH-1 Hicks, Thomas ECC 74% 81% 21 18 13 - 3 2 - 13 70 Fall 2024
+CH-1 Alvillar, Andrew ONLIN 62% 75% 29 22 14 - 5 9 - 26 105 Fall 2024
 CH-1 Lofgren, Dean ECC 73% 83% 16 4 2 - 3 - - 5 30 Fall 2024
-CH-1 Mintz, Stan ECC 64% 92% 14 5 4 - 1 9 - 3 36 Fall 2024
-CH-1 Pattison, Levalley ONLIN 78% 95% 20 6 3 - 1 5 - 2 37 Fall 2024
+ONLIN 72% 84% 44 4 1 - - 8 - 11 68 Fall 2024
+ONLIN Mintz, Stan ECC 64% 92% 14 5 4 - 1 9 - 3 36 Fall 2024
+ONLIN Pattison, Levalley ONLIN 78% 95% 20 6 3 - 1 5 - 2 37 Fall 2024
 FAID-1 Calderon, Karla HYBRD 89% 89% 22 2 1 - - - - 3 28 Fall 2024
+FAID-1 Delzeit-Mcintrye, Linda ECC 91% 96% 52 11 1 - 2 1 - 3 70 Fall 2024
 FAID-1 Diaz, Juan HSDUL 88% 94% 12 2 - - 1 - - 1 16 Fall 2024
 FAID-1 Jacobson, Michael HYBRD 93% 98% 53 4 - - - 3 - 1 61 Fall 2024
 FAID-1 Komai, Stacy HSDUL 43% 74% 6 3 1 - 4 3 - 6 23 Fall 2024
 FAID-1 Peters, Kurt ECC 83% 83% 16 9 - - - - - 5 30 Fall 2024
 FTEC-1 Coffelt, Kevin ECC 68% 91% 11 6 6 - 2 6 - 3 34 Fall 2024
+FTEC-1 Coffelt, Kevin ONLIN 79% 89% 11 9 2 - 2 1 - 3 28 Fall 2024
 FTEC-1 Fisher, Timothy ECC 73% 94% 10 9 5 - 3 4 - 2 33 Fall 2024
 FTEC-1 Hallock, Matthew HSDUL 79% 85% 15 10 1 - 2 - - 5 33 Fall 2024
 FTEC-1 Valdez, Edward ONLIN 71% 81% 13 4 5 - 1 2 - 6 31 Fall 2024
@@ -633,6 +732,7 @@ FTEC-10 Rickman, Tracy ONLIN 97% 100% 27 7 1 - - 1 - - 36 Fall 2024
 FTEC-120 Garcia, Leonard ONLIN 68% 97% 16 6 1 - 3 7 - 1 34 Fall 2024
 FTEC-120 Iqueda, Angel ONLIN 43% 81% 3 4 2 - 1 7 - 4 21 Fall 2024
 FTEC-120 Rodrigues, Alex ECC 80% 100% 3 5 - - - 2 - - 10 Fall 2024
+FTEC-120 90% 100% 14 9 3 - - 3 - - 29 Fall 2024
 FTEC-130 Huben, Kevin OFFST 100% 100% 18 5 1 - - - - - 24 Fall 2024
 FTEC-131 Huben, Kevin OFFST 100% 100% 21 3 - - - - - - 24 Fall 2024
 FTEC-132 Huben, Kevin OFFST 100% 100% 17 6 1 - - - - - 24 Fall 2024
@@ -668,6 +768,7 @@ FTEC-6 Tuzzolino, Terry ONLIN 72% 88% 12 10 1 - 1 4 - 4 32 Fall 2024
 MEDT-1 Green, Michele ONLIN 62% 76% 25 29 15 - 11 5 - 27 112 Fall 2024
 MEDT-1 Jenkins, Ian ONLIN 64% 91% 30 16 10 - 2 21 - 8 87 Fall 2024
 MEDT-1 Moore, Josephine ECC 78% 82% 24 9 2 - 2 - - 8 45 Fall 2024
+MEDT-1 Green, Michele ONLIN 90% 92% 62 11 2 - - 1 - 7 83 Fall 2024
 MEDT-1 Wade, Randy ONLIN 73% 93% 74 16 9 - 6 22 - 9 136 Fall 2024
 NURS-143 Calib, Farah ECC 94% 97% 12 17 4 - - 1 - 1 35 Fall 2024
 NURS-143 Kidwell Udin, Margaret ECC 60% 68% 34 7 - - 1 1 3 22 68 Fall 2024
@@ -676,6 +777,7 @@ NURS-144 Guta, Michelle ECC 53% 59% 6 2 1 - 1 - - 7 17 Fall 2024
 NURS-144 White, Maria ECC 72% 89% 18 3 5 - 3 3 - 4 36 Fall 2024
 NURS-220 Salo, Christina ECC 97% 97% 1 23 14 - - - - 1 39 Fall 2024
 NURS-222 Flores, Gerardo ECC 100% 100% 20 18 - - - - - - 38 Fall 2024
+NURS-222 100% 100% 1 6 - - - - - - 7 Fall 2024
 NURS-224 Wilson, Rashida ECC 95% 95% 2 30 9 - - - - 2 43 Fall 2024
 NURS-226 Johnson, Shiny ECC 100% 100% 19 - - - - - - - 19 Fall 2024
 NURS-226 Nunez, Raymond ECC 100% 100% 15 - - - - - - - 15 Fall 2024
@@ -701,6 +803,7 @@ PE-105ABC Shaw, Stephen ECC 93% 93% 14 - - - - - - 1 15 Fall 2024
 PE-10A Barragan, Rolando ECC 92% 96% 24 - - - - 1 - 1 26 Fall 2024
 PE-10A Hazell, Elizabeth ONLIN 58% 75% 9 4 1 - - 4 - 6 24 Fall 2024
 PE-10A Hazell, Thomas ECC 73% 79% 44 1 1 - 1 3 - 13 63 Fall 2024
+PE-10A Barragan, Rolando ONLIN 92% 92% 23 - - - - - - 2 25 Fall 2024
 PE-10A Kirk, Matthew ECC 100% 100% 23 - - - - - - - 23 Fall 2024
 PE-10A Lindheim, Gifford ECC 88% 96% 19 3 - - - 2 - 1 25 Fall 2024
 PE-10A Uphoff, Robert ONLIN 69% 100% 4 2 3 - - 4 - - 13 Fall 2024
@@ -708,6 +811,7 @@ PE-10A Wood, Casey ECC 78% 78% 25 - - - - - - 7 32 Fall 2024
 PE-10B Barragan, Rolando ECC 100% 100% 8 - - - - - - - 8 Fall 2024
 PE-10B Hazell, Elizabeth ONLIN 100% 100% 6 - - - - - - - 6 Fall 2024
 PE-10B Hazell, Thomas ECC 82% 91% 7 1 1 - 1 - - 1 11 Fall 2024
+PE-10B Barragan, Rolando ONLIN 100% 100% 4 - - - - - - - 4 Fall 2024
 PE-10B Kirk, Matthew ECC 100% 100% 8 - - - - - - - 8 Fall 2024
 PE-10B Lindheim, Gifford ECC 92% 92% 10 2 - - - - - 1 13 Fall 2024
 PE-110ABC Hazell, Elizabeth ECC 93% 93% 14 - - - - - - 1 15 Fall 2024
@@ -839,6 +943,7 @@ RTEC-255 Villa, Eric ECC 100% 100% 13 4 - - - - - - 17 Fall 2024
 RTEC-91 Perez, Michele ECC 100% 100% 14 3 - - - - - - 17 Fall 2024
 RTEC-93 Villa, Eric ECC 100% 100% 22 1 - - - - - - 23 Fall 2024
 RTEC-A Perez, Michele ECC 68% 82% 20 18 10 - 3 7 - 13 71 Fall 2024
+RTEC-A Perez, Michele ONLIN 42% 61% 4 8 3 - 3 4 - 14 36 Fall 2024
 RTEC-A Villa, Eric ONLIN 52% 76% 8 6 3 - 5 3 - 8 33 Fall 2024
 CHIN-1 Wu, Xiaowen HYBRD 43% 70% 8 1 1 - 2 4 - 7 23 Fall 2024
 CHIN-1 Zhao, Hailiang HSDUL 92% 92% 8 1 2 - - - - 1 12 Fall 2024
@@ -846,90 +951,106 @@ CHIN-3 Zhao, Hailiang HSDUL 100% 100% 7 1 - - - - - - 8 Fall 2024
 ENGL-15A Henson, Chelsea HYBRD 81% 88% 4 6 3 - 1 - - 2 16 Fall 2024
 ENGL-15A Hong, Lyman ECC 86% 95% 9 10 - - 2 - - 1 22 Fall 2024
 ENGL-1A Ali, Jawad HYBRD 46% 83% 9 1 1 - 2 7 - 4 24 Fall 2024
+ENGL-1A Ali, Jawad ONLIN 48% 86% 8 5 1 - - 11 - 4 29 Fall 2024
 ENGL-1A Annick, Jennifer HYBRD 92% 96% 25 14 9 - 1 1 - 2 52 Fall 2024
 ENGL-1A Arehart, Robin ECC 68% 82% 6 8 5 - 2 2 - 5 28 Fall 2024
-ENGL-1A Bostick, Jason ECC 48% 82% 4 17 8 - 20 - - 11 60 Fall 2024
-ENGL-1A Brenes, Erica ECC 59% 88% 6 6 7 - 2 7 - 4 32 Fall 2024
-ENGL-1A Burnham, Stephanie HYBRD 80% 97% 12 8 4 - - 5 - 1 30 Fall 2024
-ENGL-1A Cerofeci, Rose ECC 64% 90% 7 10 20 - 1 14 - 6 58 Fall 2024
-ENGL-1A Cheung, Matthew ECC 86% 90% 10 19 14 - 1 1 - 5 50 Fall 2024
-ENGL-1A Cliett, Victoria ONLIN 32% 61% 1 1 7 - - 8 - 11 28 Fall 2024
-ENGL-1A Cody, Thomas HYBRD 51% 58% 7 8 14 - 1 3 - 24 57 Fall 2024
-ENGL-1A Corbin, Susan ONLIN 39% 54% 13 8 10 - 1 11 - 36 79 Fall 2024
-ENGL-1A Crotwell, Dana HYBRD 80% 84% 30 10 4 - 1 1 - 9 55 Fall 2024
-ENGL-1A Degnan, Kevin ECC 47% 94% 3 9 3 - 2 13 - 2 32 Fall 2024
-ENGL-1A Diaz, David ONLIN 36% 86% 4 4 2 - - 14 - 4 28 Fall 2024
-ENGL-1A Donnell, Sean ECC 53% 93% 14 10 8 - 5 19 - 4 60 Fall 2024
-ENGL-1A Douglas, Jeffrey ECC 68% 84% 14 4 3 - 1 4 - 5 31 Fall 2024
-ENGL-1A Findlay, Alexa ECC 64% 93% 4 8 6 - - 8 - 2 28 Fall 2024
-ENGL-1A Gallagher, Jennifer HYBRD 79% 86% 24 13 7 - 1 2 1 8 56 Fall 2024
-ENGL-1A Gates, Suzanne ONLIN 48% 89% 5 4 4 - 2 9 - 3 27 Fall 2024
-ENGL-1A Glover, Christopher ECC 47% 87% 4 4 6 - 1 10 1 4 30 Fall 2024
-ENGL-1A Gray, Sarah ONLIN 36% 84% 4 10 6 - 2 24 - 9 55 Fall 2024
-ENGL-1A Greuel, Jamie ECC 37% 78% 1 3 6 - 4 7 - 6 27 Fall 2024
-ENGL-1A Grimshaw, Tucker ONLIN 59% 73% 4 5 4 - 1 2 - 6 22 Fall 2024
-ENGL-1A Hall, Joanne ONLIN 72% 97% 17 3 1 - - 7 - 1 29 Fall 2024
-ENGL-1A Harmon, Alika HYBRD 82% 93% 34 11 2 - 2 4 - 4 57 Fall 2024
-ENGL-1A Harris, Cassondra HSDUL 100% 100% 41 20 1 - - - - - 62 Fall 2024
-ENGL-1A Harrison, Mickey ONLIN 66% 83% 27 4 - - 4 4 - 8 47 Fall 2024
-ENGL-1A Hawley, Yvette ECC 52% 70% 6 4 4 - 2 3 - 8 27 Fall 2024
-ENGL-1A Hennessee, Elice ONLIN 24% 71% 2 6 4 - 1 22 - 14 49 Fall 2024
-ENGL-1A Henson, Chelsea HYBRD 41% 59% 2 6 4 - 2 3 - 12 29 Fall 2024
-ENGL-1A Holt-Molina, Jennifer ONLIN 62% 83% 26 7 4 - 1 12 - 10 60 Fall 2024
-ENGL-1A Hong, Lyman ECC 69% 97% 14 17 9 - 7 9 - 2 58 Fall 2024
-ENGL-1A Husain, Nida ECC 38% 65% 2 3 5 - 2 5 - 9 26 Fall 2024
-ENGL-1A Huynh, Tiffany ONLIN 48% 61% 2 5 4 - 1 2 - 9 23 Fall 2024
-ENGL-1A Isaacs, Brent ONLIN 28% 68% 1 5 8 - 3 17 - 16 50 Fall 2024
-ENGL-1A Jalloh, Katrina HYBRD 67% 89% 5 8 5 - - 6 - 3 27 Fall 2024
-ENGL-1A Kelley, Elayne HYBRD 81% 93% 30 14 4 - 2 5 - 4 59 Fall 2024
-ENGL-1A Kirk, Angie ONLIN 34% 50% 3 7 3 - 3 3 - 19 38 Fall 2024
-ENGL-1A Krizan, Kim ECC 64% 86% 3 9 6 - 6 - - 4 28 Fall 2024
-ENGL-1A Leiby, Mary ONLIN 29% 74% 1 8 8 - - 25 1 15 58 Fall 2024
-ENGL-1A Leinen, Sarah ONLIN 66% 78% 12 5 4 - - 4 - 7 32 Fall 2024
-ENGL-1A Magnesi, Miles ECC 41% 83% 2 8 2 - 3 9 - 5 29 Fall 2024
-ENGL-1A Marcoux, Peter HYBRD 78% 95% 24 13 9 - 3 7 - 3 59 Fall 2024
-ENGL-1A Margrave, Clinton ONLIN 76% 98% 15 21 8 - 2 11 - 1 58 Fall 2024
-ENGL-1A Mattern, Mora ECC 90% 93% 23 1 2 - - 1 - 2 29 Fall 2024
-ENGL-1A Mavromati Duncan, Anna ONLIN 71% 91% 2 12 10 - 3 4 - 3 34 Fall 2024
-ENGL-1A McDermit, Michael ECC 89% 93% 15 8 2 - - 1 - 2 28 Fall 2024
-ENGL-1A McMahon, Jeffrey HYBRD 66% 77% 27 15 4 - - 8 - 16 70 Fall 2024
-ENGL-1A Millea, John ECC 62% 72% 6 4 8 - - 3 - 8 29 Fall 2024
-ENGL-1A Moreno, Joshua ECC 52% 70% 6 4 4 - 2 3 - 8 27 Fall 2024
-ENGL-1A Moulton, Renee ECC 55% 86% 3 8 5 - 5 4 - 4 29 Fall 2024
-ENGL-1A Nagao, Christina ECC 77% 93% 13 7 3 - 1 4 - 2 30 Fall 2024
-ENGL-1A Ochoa, Shane ECC 62% 91% 13 7 1 - 2 8 - 3 34 Fall 2024
-ENGL-1A Otsuji, Sumino ONLIN 54% 75% 8 10 8 - - 8 2 12 48 Fall 2024
-ENGL-1A Page, Christopher ECC 68% 94% 11 7 3 - - 7 1 2 31 Fall 2024
-ENGL-1A Patton, Katherine HYBRD 83% 100% 9 12 4 - - 5 - - 30 Fall 2024
-ENGL-1A Peluso, Stephen HSDUL 66% 72% 10 3 6 - - 2 - 8 29 Fall 2024
-ENGL-1A Peppard, Bruce ECC 68% 91% 10 21 8 - 6 7 - 5 57 Fall 2024
-ENGL-1A Phillips, Claire ONLIN 53% 76% 19 7 1 - - 11 1 12 51 Fall 2024
-ENGL-1A Phillips, Lana ONLIN 62% 69% 9 11 12 - - 4 - 16 52 Fall 2024
-ENGL-1A Reyes, Michael ECC 67% 88% 15 4 3 - 4 3 - 4 33 Fall 2024
-ENGL-1A Ritchie, Ryan ONLIN 67% 89% 4 3 5 - - 4 - 2 18 Fall 2024
-ENGL-1A Rivers, Jeffrey ONLIN 54% 88% 12 2 - - - 9 - 3 26 Fall 2024
-ENGL-1A Russo, Salvatore ONLIN 24% 59% 4 1 2 - 2 8 - 12 29 Fall 2024
-ENGL-1A Sandor, Jane HYBRD 64% 85% 17 16 6 - 1 12 - 9 61 Fall 2024
-ENGL-1A Sandowicz, Ryan ONLIN 38% 82% 1 8 4 - 2 13 - 6 34 Fall 2024
-ENGL-1A Saucedo, Rebecca ONLIN 35% 85% 2 3 2 - 1 9 - 3 20 Fall 2024
-ENGL-1A Schwartz, Stephanie ONLIN 77% 81% 26 7 8 - 2 - - 10 53 Fall 2024
-ENGL-1A Sharifi, Amir ECC 59% 93% 12 1 4 - - 10 - 2 29 Fall 2024
-ENGL-1A Sharp, Adrienne ONLIN 70% 81% 28 20 12 - 5 5 - 16 86 Fall 2024
-ENGL-1A Shaw, Jocelyn HYBRD 70% 88% 28 25 13 - 2 15 - 11 94 Fall 2024
-ENGL-1A Sperling, Jonathan HSDUL 97% 97% 19 99 2 - - - - 4 124 Fall 2024
-ENGL-1A Stover, Mitzi HYBRD 58% 77% 7 5 6 - 3 3 - 7 31 Fall 2024
-ENGL-1A Sullivan, Kamisha ECC 63% 91% 11 7 2 - - 9 - 3 32 Fall 2024
-ENGL-1A Takamine, Eric ECC 42% 82% 3 9 12 - 4 6 13 10 57 Fall 2024
-ENGL-1A Thompson, Darrell ECC 75% 86% 5 10 6 - 2 1 - 4 28 Fall 2024
-ENGL-1A Tino-Sandoval, Cindy ECC 51% 79% 8 12 9 - 5 11 - 12 57 Fall 2024
-ENGL-1A Walker, Elizabeth ECC 57% 87% 8 3 6 - 1 8 - 4 30 Fall 2024
-ENGL-1A Williams, Rachel HYBRD 31% 69% 3 3 2 - 2 8 - 8 26 Fall 2024
-ENGL-1A Zucker, Alfred ECC 56% 56% 4 10 - - - - - 11 25 Fall 2024
+HYBRD 67% 95% 3 6 5 - 3 3 - 1 21 Fall 2024
+HYBRD Bostick, Jason ECC 48% 82% 4 17 8 - 20 - - 11 60 Fall 2024
+HYBRD Brenes, Erica ECC 59% 88% 6 6 7 - 2 7 - 4 32 Fall 2024
+ONLIN 61% 74% 2 10 7 - 2 2 - 8 31 Fall 2024
+ONLIN Burnham, Stephanie HYBRD 80% 97% 12 8 4 - - 5 - 1 30 Fall 2024
+ONLIN Cerofeci, Rose ECC 64% 90% 7 10 20 - 1 14 - 6 58 Fall 2024
+ONLIN Cheung, Matthew ECC 86% 90% 10 19 14 - 1 1 - 5 50 Fall 2024
+ONLIN Cliett, Victoria ONLIN 32% 61% 1 1 7 - - 8 - 11 28 Fall 2024
+ONLIN Cody, Thomas HYBRD 51% 58% 7 8 14 - 1 3 - 24 57 Fall 2024
+ONLIN Corbin, Susan ONLIN 39% 54% 13 8 10 - 1 11 - 36 79 Fall 2024
+ONLIN Crotwell, Dana HYBRD 80% 84% 30 10 4 - 1 1 - 9 55 Fall 2024
+ONLIN Degnan, Kevin ECC 47% 94% 3 9 3 - 2 13 - 2 32 Fall 2024
+ONLIN 21% 96% 1 3 2 - 2 19 - 1 28 Fall 2024
+ONLIN Diaz, David ONLIN 36% 86% 4 4 2 - - 14 - 4 28 Fall 2024
+ONLIN Donnell, Sean ECC 53% 93% 14 10 8 - 5 19 - 4 60 Fall 2024
+ONLIN Douglas, Jeffrey ECC 68% 84% 14 4 3 - 1 4 - 5 31 Fall 2024
+ONLIN 52% 93% 13 - 2 - - 12 - 2 29 Fall 2024
+ONLIN Findlay, Alexa ECC 64% 93% 4 8 6 - - 8 - 2 28 Fall 2024
+ONLIN Gallagher, Jennifer HYBRD 79% 86% 24 13 7 - 1 2 1 8 56 Fall 2024
+ONLIN Gates, Suzanne ONLIN 48% 89% 5 4 4 - 2 9 - 3 27 Fall 2024
+ONLIN Glover, Christopher ECC 47% 87% 4 4 6 - 1 10 1 4 30 Fall 2024
+ONLIN Gray, Sarah ONLIN 36% 84% 4 10 6 - 2 24 - 9 55 Fall 2024
+ONLIN Greuel, Jamie ECC 37% 78% 1 3 6 - 4 7 - 6 27 Fall 2024
+ONLIN Grimshaw, Tucker ONLIN 59% 73% 4 5 4 - 1 2 - 6 22 Fall 2024
+ONLIN Hall, Joanne ONLIN 72% 97% 17 3 1 - - 7 - 1 29 Fall 2024
+ONLIN Harmon, Alika HYBRD 82% 93% 34 11 2 - 2 4 - 4 57 Fall 2024
+ONLIN Harris, Cassondra HSDUL 100% 100% 41 20 1 - - - - - 62 Fall 2024
+ONLIN Harrison, Mickey ONLIN 66% 83% 27 4 - - 4 4 - 8 47 Fall 2024
+ONLIN Hawley, Yvette ECC 52% 70% 6 4 4 - 2 3 - 8 27 Fall 2024
+ONLIN Hennessee, Elice ONLIN 24% 71% 2 6 4 - 1 22 - 14 49 Fall 2024
+ONLIN Henson, Chelsea HYBRD 41% 59% 2 6 4 - 2 3 - 12 29 Fall 2024
+ONLIN Holt-Molina, Jennifer ONLIN 62% 83% 26 7 4 - 1 12 - 10 60 Fall 2024
+ONLIN Hong, Lyman ECC 69% 97% 14 17 9 - 7 9 - 2 58 Fall 2024
+ONLIN Husain, Nida ECC 38% 65% 2 3 5 - 2 5 - 9 26 Fall 2024
+ONLIN Huynh, Tiffany ONLIN 48% 61% 2 5 4 - 1 2 - 9 23 Fall 2024
+ONLIN Isaacs, Brent ONLIN 28% 68% 1 5 8 - 3 17 - 16 50 Fall 2024
+ONLIN Jalloh, Katrina HYBRD 67% 89% 5 8 5 - - 6 - 3 27 Fall 2024
+ONLIN 48% 68% 2 5 5 - - 5 - 8 25 Fall 2024
+ONLIN Kelley, Elayne HYBRD 81% 93% 30 14 4 - 2 5 - 4 59 Fall 2024
+ONLIN Kirk, Angie ONLIN 34% 50% 3 7 3 - 3 3 - 19 38 Fall 2024
+ONLIN Krizan, Kim ECC 64% 86% 3 9 6 - 6 - - 4 28 Fall 2024
+ONLIN Leiby, Mary ONLIN 29% 74% 1 8 8 - - 25 1 15 58 Fall 2024
+ONLIN Leinen, Sarah ONLIN 66% 78% 12 5 4 - - 4 - 7 32 Fall 2024
+ONLIN Magnesi, Miles ECC 41% 83% 2 8 2 - 3 9 - 5 29 Fall 2024
+ONLIN Marcoux, Peter HYBRD 78% 95% 24 13 9 - 3 7 - 3 59 Fall 2024
+ONLIN Margrave, Clinton ONLIN 76% 98% 15 21 8 - 2 11 - 1 58 Fall 2024
+ONLIN Mattern, Mora ECC 90% 93% 23 1 2 - - 1 - 2 29 Fall 2024
+ONLIN Mavromati Duncan, Anna ONLIN 71% 91% 2 12 10 - 3 4 - 3 34 Fall 2024
+ONLIN McDermit, Michael ECC 89% 93% 15 8 2 - - 1 - 2 28 Fall 2024
+ONLIN 60% 71% 20 5 4 - 1 4 - 14 48 Fall 2024
+ONLIN McMahon, Jeffrey HYBRD 66% 77% 27 15 4 - - 8 - 16 70 Fall 2024
+ONLIN Millea, John ECC 62% 72% 6 4 8 - - 3 - 8 29 Fall 2024
+ONLIN 56% 64% 7 3 4 - 1 1 - 9 25 Fall 2024
+ONLIN Moreno, Joshua ECC 52% 70% 6 4 4 - 2 3 - 8 27 Fall 2024
+ONLIN Moulton, Renee ECC 55% 86% 3 8 5 - 5 4 - 4 29 Fall 2024
+ONLIN Nagao, Christina ECC 77% 93% 13 7 3 - 1 4 - 2 30 Fall 2024
+ONLIN 53% 82% 16 9 5 - 4 13 - 10 57 Fall 2024
+ONLIN Ochoa, Shane ECC 62% 91% 13 7 1 - 2 8 - 3 34 Fall 2024
+ONLIN 17% 70% 2 2 1 - 2 14 - 9 30 Fall 2024
+ONLIN Otsuji, Sumino ONLIN 54% 75% 8 10 8 - - 8 2 12 48 Fall 2024
+ONLIN Page, Christopher ECC 68% 94% 11 7 3 - - 7 1 2 31 Fall 2024
+ONLIN Patton, Katherine HYBRD 83% 100% 9 12 4 - - 5 - - 30 Fall 2024
+ONLIN Peluso, Stephen HSDUL 66% 72% 10 3 6 - - 2 - 8 29 Fall 2024
+ONLIN 37% 78% 4 2 4 - 2 9 - 6 27 Fall 2024
+ONLIN Peppard, Bruce ECC 68% 91% 10 21 8 - 6 7 - 5 57 Fall 2024
+ONLIN Phillips, Claire ONLIN 53% 76% 19 7 1 - - 11 1 12 51 Fall 2024
+ONLIN Phillips, Lana ONLIN 62% 69% 9 11 12 - - 4 - 16 52 Fall 2024
+ONLIN Reyes, Michael ECC 67% 88% 15 4 3 - 4 3 - 4 33 Fall 2024
+ONLIN 71% 97% 14 6 2 - 1 7 - 1 31 Fall 2024
+ONLIN Ritchie, Ryan ONLIN 67% 89% 4 3 5 - - 4 - 2 18 Fall 2024
+ONLIN Rivers, Jeffrey ONLIN 54% 88% 12 2 - - - 9 - 3 26 Fall 2024
+ONLIN Russo, Salvatore ONLIN 24% 59% 4 1 2 - 2 8 - 12 29 Fall 2024
+ONLIN Sandor, Jane HYBRD 64% 85% 17 16 6 - 1 12 - 9 61 Fall 2024
+ONLIN Sandowicz, Ryan ONLIN 38% 82% 1 8 4 - 2 13 - 6 34 Fall 2024
+ONLIN Saucedo, Rebecca ONLIN 35% 85% 2 3 2 - 1 9 - 3 20 Fall 2024
+ONLIN Schwartz, Stephanie ONLIN 77% 81% 26 7 8 - 2 - - 10 53 Fall 2024
+ONLIN Sharifi, Amir ECC 59% 93% 12 1 4 - - 10 - 2 29 Fall 2024
+ONLIN Sharp, Adrienne ONLIN 70% 81% 28 20 12 - 5 5 - 16 86 Fall 2024
+ONLIN Shaw, Jocelyn HYBRD 70% 88% 28 25 13 - 2 15 - 11 94 Fall 2024
+ONLIN Sperling, Jonathan HSDUL 97% 97% 19 99 2 - - - - 4 124 Fall 2024
+ONLIN Stover, Mitzi HYBRD 58% 77% 7 5 6 - 3 3 - 7 31 Fall 2024
+ONLIN Sullivan, Kamisha ECC 63% 91% 11 7 2 - - 9 - 3 32 Fall 2024
+ONLIN 48% 97% 2 5 7 - - 14 - 1 29 Fall 2024
+ONLIN Takamine, Eric ECC 42% 82% 3 9 12 - 4 6 13 10 57 Fall 2024
+ONLIN Thompson, Darrell ECC 75% 86% 5 10 6 - 2 1 - 4 28 Fall 2024
+ONLIN Tino-Sandoval, Cindy ECC 51% 79% 8 12 9 - 5 11 - 12 57 Fall 2024
+ONLIN Walker, Elizabeth ECC 57% 87% 8 3 6 - 1 8 - 4 30 Fall 2024
+ONLIN 59% 90% 4 8 5 - - 9 - 3 29 Fall 2024
+ONLIN Williams, Rachel HYBRD 31% 69% 3 3 2 - 2 8 - 8 26 Fall 2024
+ONLIN Zucker, Alfred ECC 56% 56% 4 10 - - - - - 11 25 Fall 2024
 ENGL-1AH Burnham, Stephanie ONLIN 92% 96% 19 5 - - - 1 - 1 26 Fall 2024
 ENGL-1AH Davies, Agnes ECC 91% 91% 8 10 3 - - - - 2 23 Fall 2024
+ENGL-1AH Burnham, Stephanie ONLIN 60% 64% 5 8 2 - - 1 - 9 25 Fall 2024
 ENGL-1AH Lamborn, Sanam ECC 77% 88% 16 3 1 - - 3 - 3 26 Fall 2024
 ENGL-1AH Mattern, Mora HYBRD 84% 100% 21 - - - - 3 1 - 25 Fall 2024
-ENGL-1AH Williams, Rachel HYBRD 88% 96% 12 6 3 - 1 1 - 1 24 Fall 2024
+ONLIN 96% 100% 24 - - - - 1 - - 25 Fall 2024
+ONLIN Williams, Rachel HYBRD 88% 96% 12 6 3 - 1 1 - 1 24 Fall 2024
 ENGL-1B Crotwell, Dana HYBRD 52% 56% 3 6 4 - - 1 - 11 25 Fall 2024
 ENGL-1B Gallagher, Jennifer ONLIN 83% 85% 28 11 4 - - 1 - 8 52 Fall 2024
 ENGL-1B Hall, Joanne ONLIN 83% 87% 12 5 2 - - 1 - 3 23 Fall 2024
@@ -940,24 +1061,28 @@ ENGL-1BH Leiby, Mary HYBRD 77% 91% 12 5 - - - 3 - 2 22 Fall 2024
 ENGL-1C Annick, Jennifer ONLIN 52% 63% 16 9 3 - 1 5 - 20 54 Fall 2024
 ENGL-1C Cerofeci, Rose ONLIN 85% 96% 7 10 6 - - 3 - 1 27 Fall 2024
 ENGL-1C Cheung, Matthew HYBRD 61% 81% 2 7 10 - 2 4 - 6 31 Fall 2024
+ENGL-1C Annick, Jennifer ONLIN 66% 83% 5 7 7 - 3 2 - 5 29 Fall 2024
 ENGL-1C Cliett, Victoria HYBRD 32% 64% 5 3 1 - 1 8 - 10 28 Fall 2024
 ENGL-1C Daniel, Cathleen ECC 90% 90% 7 18 3 - - - - 3 31 Fall 2024
-ENGL-1C Donnell, Sean ECC 83% 90% 18 5 2 - - 2 - 3 30 Fall 2024
-ENGL-1C Gates, Suzanne ONLIN 76% 89% 18 18 12 - 3 5 - 7 63 Fall 2024
-ENGL-1C Geraghty, Elise ECC 65% 73% 6 3 8 - 2 - - 7 26 Fall 2024
-ENGL-1C Hector, Jeremy ONLIN 41% 48% 8 2 1 - - 1 1 14 27 Fall 2024
-ENGL-1C Henson, Chelsea ECC 62% 87% 8 20 9 - 5 10 - 8 60 Fall 2024
-ENGL-1C Herdzina, Susan ONLIN 44% 82% 10 8 6 - 2 19 - 10 55 Fall 2024
-ENGL-1C Husain, Nida ONLIN 51% 75% 8 12 10 - 4 10 - 15 59 Fall 2024
-ENGL-1C Imbarus, Aura ECC 84% 87% 11 9 6 - 1 - - 4 31 Fall 2024
-ENGL-1C Jensen, Zachary ONLIN 52% 65% 7 3 2 - - 3 - 8 23 Fall 2024
-ENGL-1C Kelley, Elayne HYBRD 84% 90% 19 5 2 - 1 1 - 3 31 Fall 2024
-ENGL-1C Marcoux, Peter HYBRD 62% 83% 18 12 6 - 3 9 - 10 58 Fall 2024
-ENGL-1C McMahon, Jeffrey ONLIN 81% 87% 39 8 3 - - 4 - 8 62 Fall 2024
-ENGL-1C Peppard, Bruce HYBRD 85% 96% 7 12 4 - 3 - - 1 27 Fall 2024
-ENGL-1C Runkle, Kim ONLIN 63% 70% 7 6 6 - 2 - - 9 30 Fall 2024
-ENGL-1C Sandor, Jane HYBRD 70% 94% 13 9 1 - 2 6 - 2 33 Fall 2024
-ENGL-1C Stover, Mitzi ONLIN 80% 92% 13 3 4 - 1 2 - 2 25 Fall 2024
+ONLIN 59% 85% 3 5 8 - - 7 - 4 27 Fall 2024
+ONLIN Donnell, Sean ECC 83% 90% 18 5 2 - - 2 - 3 30 Fall 2024
+ONLIN Gates, Suzanne ONLIN 76% 89% 18 18 12 - 3 5 - 7 63 Fall 2024
+ONLIN Geraghty, Elise ECC 65% 73% 6 3 8 - 2 - - 7 26 Fall 2024
+ONLIN Hector, Jeremy ONLIN 41% 48% 8 2 1 - - 1 1 14 27 Fall 2024
+ONLIN Henson, Chelsea ECC 62% 87% 8 20 9 - 5 10 - 8 60 Fall 2024
+ONLIN Herdzina, Susan ONLIN 44% 82% 10 8 6 - 2 19 - 10 55 Fall 2024
+ONLIN Husain, Nida ONLIN 51% 75% 8 12 10 - 4 10 - 15 59 Fall 2024
+ONLIN Imbarus, Aura ECC 84% 87% 11 9 6 - 1 - - 4 31 Fall 2024
+ONLIN Jensen, Zachary ONLIN 52% 65% 7 3 2 - - 3 - 8 23 Fall 2024
+ONLIN Kelley, Elayne HYBRD 84% 90% 19 5 2 - 1 1 - 3 31 Fall 2024
+ONLIN 73% 83% 16 5 1 - 1 2 - 5 30 Fall 2024
+ONLIN Marcoux, Peter HYBRD 62% 83% 18 12 6 - 3 9 - 10 58 Fall 2024
+ONLIN McMahon, Jeffrey ONLIN 81% 87% 39 8 3 - - 4 - 8 62 Fall 2024
+ONLIN Peppard, Bruce HYBRD 85% 96% 7 12 4 - 3 - - 1 27 Fall 2024
+ONLIN Runkle, Kim ONLIN 63% 70% 7 6 6 - 2 - - 9 30 Fall 2024
+ONLIN Sandor, Jane HYBRD 70% 94% 13 9 1 - 2 6 - 2 33 Fall 2024
+ONLIN 73% 83% 13 4 5 - 2 1 - 5 30 Fall 2024
+ONLIN Stover, Mitzi ONLIN 80% 92% 13 3 4 - 1 2 - 2 25 Fall 2024
 ENGL-1CH Burnham, Stephanie HYBRD 93% 100% 22 4 - - - 2 - - 28 Fall 2024
 ENGL-1CH Cody, Thomas HYBRD 96% 96% 16 6 1 - - - - 1 24 Fall 2024
 ENGL-23A Ritchie, Ryan ONLIN 74% 83% 11 3 3 - - 2 - 4 23 Fall 2024
@@ -977,6 +1102,7 @@ ESL-52A Lernihan, Valerie ECC 54% 85% 5 - 2 - 2 2 - 2 13 Fall 2024
 ESL-52A Mochidome, Debra ECC 54% 85% 3 1 3 - 2 2 - 2 13 Fall 2024
 ESL-52B Mochidome, Debra ECC 73% 100% 8 7 4 - 4 3 - - 26 Fall 2024
 ESL-52B Simon, Jenny HYBRD 69% 86% 10 9 1 - 1 4 - 4 29 Fall 2024
+ESL-52B Mochidome, Debra ONLIN 29% 50% 2 2 - - - 3 - 7 14 Fall 2024
 ESL-52C Hendricks, Greta HYBRD 75% 96% 8 2 7 1 1 4 - 1 24 Fall 2024
 ESL-53A Loya, Rebecca ONLIN 69% 77% 4 4 1 - 1 - - 3 13 Fall 2024
 ESL-53A Uyemura, Evelyn HYBRD 63% 100% 6 2 2 - - 6 - - 16 Fall 2024
@@ -996,6 +1122,7 @@ GERM-1 Hooper, Lawrence ONLIN 64% 85% 20 4 1 - - 8 - 6 39 Fall 2024
 HUMA-1 Mavromati Duncan, Anna ONLIN 59% 76% 9 6 7 - 4 2 - 9 37 Fall 2024
 HUMA-1 Thompson, Darrell HYBRD 70% 93% 6 6 9 - 3 4 - 2 30 Fall 2024
 HUMA-1 Wright, Terry ECC 97% 97% 13 9 7 - - - - 1 30 Fall 2024
+HUMA-1 Mavromati Duncan, Anna ONLIN 67% 82% 23 25 9 - 2 11 - 15 85 Fall 2024
 ITAL-1 Kemitch, Francesca ONLIN 58% 73% 13 3 3 - 1 4 - 9 33 Fall 2024
 ITAL-1 Pescatori, Rossella ONLIN 76% 82% 19 4 2 - - 2 - 6 33 Fall 2024
 JAPA-1 Minekawa, Yuki HSDUL 90% 95% 12 4 2 - - 1 - 1 20 Fall 2024
@@ -1007,8 +1134,10 @@ JAPA-2 Yoshida, Nina ECC 78% 78% 14 9 - 2 - - - 7 32 Fall 2024
 JAPA-21 Ahn, Rebecca ECC 100% 100% 9 3 - - - - - - 12 Fall 2024
 JAPA-3 Lopez, Mari HYBRD 79% 79% 7 3 1 - - - - 3 14 Fall 2024
 JOUR-1 McLaughlin, Kate ECC 52% 86% 5 5 1 - 2 4 1 3 21 Fall 2024
+JOUR-1 McLaughlin, Kate ONLIN 32% 57% 2 6 1 - - 7 - 12 28 Fall 2024
 JOUR-11ABCD Frith, Stefanie ECC 100% 100% 6 8 2 - - - - - 16 Fall 2024
 JOUR-12 McLaughlin, Kate HYBRD 71% 100% 8 8 4 - 2 6 - - 28 Fall 2024
+JOUR-12 McLaughlin, Kate ONLIN 75% 91% 9 10 5 - 1 3 1 3 32 Fall 2024
 JOUR-6 Hiller, Sean HSDUL 100% 100% 11 9 2 - - - - - 22 Fall 2024
 JOUR-6 Thomas, Quang ECC 63% 88% 3 2 - - - 2 - 1 8 Fall 2024
 JOUR-8 Frith, Stefanie ONLIN 42% 58% 2 3 - - - 2 - 5 12 Fall 2024
@@ -1019,16 +1148,21 @@ SLAN-111 Gough, Timothy ONLIN 57% 75% 21 5 10 - - 11 - 16 63 Fall 2024
 SLAN-111 Green, Tiffany HSDUL 47% 67% 5 4 5 - - 6 - 10 30 Fall 2024
 SLAN-111 Khorsandi, Shmuel ECC 71% 94% 19 4 2 - 5 3 - 2 35 Fall 2024
 SLAN-111 Marquez, Ruby ECC 61% 94% 9 7 3 - 4 6 - 2 31 Fall 2024
+SLAN-111 14% 81% 1 1 1 - 3 11 - 4 21 Fall 2024
 SLAN-112 Gough, Timothy ONLIN 75% 88% 7 4 1 - - 2 - 2 16 Fall 2024
 SLAN-112 Khorsandi, Shmuel ECC 100% 100% 5 - - - - - - - 5 Fall 2024
 SLAN-113 Gough, Timothy ONLIN 60% 87% 5 3 1 - - 4 - 2 15 Fall 2024
 SLAN-234 Bartiromo, Sandra ECC 81% 81% 12 1 - - - - - 3 16 Fall 2024
 SPAN-1 Barrio de Mendoza, Maria HYBRD 42% 54% 5 6 - - - 3 - 12 26 Fall 2024
+SPAN-1 Barrio de Mendoza, Maria ONLIN 64% 76% 11 8 8 - 2 3 - 10 42 Fall 2024
 SPAN-1 Class, Alicia HYBRD 58% 68% 11 10 1 - - 4 - 12 38 Fall 2024
-SPAN-1 Factor, Donna HYBRD 64% 79% 12 4 5 - 1 4 - 7 33 Fall 2024
-SPAN-1 Moina, Andres ECC 42% 58% 9 5 6 - 3 5 - 20 48 Fall 2024
-SPAN-1 Prada, Claudia ONLIN 83% 95% 19 10 5 - - 5 - 2 41 Fall 2024
-SPAN-1 Valle, Kennya HSDUL 98% 100% 36 19 5 - - - 1 - 61 Fall 2024
+ONLIN 52% 56% 7 5 1 - - 1 - 11 25 Fall 2024
+ONLIN Factor, Donna HYBRD 64% 79% 12 4 5 - 1 4 - 7 33 Fall 2024
+ONLIN 32% 64% 4 5 - - 5 4 - 10 28 Fall 2024
+ONLIN Moina, Andres ECC 42% 58% 9 5 6 - 3 5 - 20 48 Fall 2024
+ONLIN 35% 61% 3 2 3 - 3 3 - 9 23 Fall 2024
+ONLIN Prada, Claudia ONLIN 83% 95% 19 10 5 - - 5 - 2 41 Fall 2024
+ONLIN Valle, Kennya HSDUL 98% 100% 36 19 5 - - - 1 - 61 Fall 2024
 SPAN-2 Andrade, Argelia HYBRD 86% 86% 24 4 2 - - - - 5 35 Fall 2024
 SPAN-21 Moina, Andres ECC 62% 62% 8 - - - - - - 5 13 Fall 2024
 SPAN-21 Trujillo, Hethy HSDUL 95% 95% 8 8 2 - - - - 1 19 Fall 2024
@@ -1063,6 +1197,7 @@ ARCH-171 Echerri, Olga ECC 26% 95% 4 - 1 - 1 12 - 1 19 Fall 2024
 ARCH-251 Richardson, Daniel ECC 77% 77% 14 5 1 - - - - 6 26 Fall 2024
 ARCH-258 Segovia, Felipe ECC 56% 89% 9 1 - - 1 - 5 2 18 Fall 2024
 ATEC-1 Duque, Jeremy ECC 57% 70% 2 7 4 - 1 2 - 7 23 Fall 2024
+ATEC-1 38% 81% 2 4 - - 1 6 - 3 16 Fall 2024
 ATEC-14 Duque, Jeremy ECC 96% 96% 8 14 3 - - - - 1 26 Fall 2024
 ATEC-16 Duque, Jeremy ECC 100% 100% 14 7 4 - - - - - 25 Fall 2024
 ATEC-22A Anderson, Michael ECC 78% 83% 1 11 6 - 1 - - 4 23 Fall 2024
@@ -1169,9 +1304,11 @@ MTT-10A DeLaTorre, Victor ECC 83% 92% 7 7 6 - - 2 - 2 24 Fall 2024
 MTT-10K DeLaTorre, Victor ECC 94% 94% 10 4 1 - - - - 1 16 Fall 2024
 MTT-16 Hofmann, Harold ECC 56% 78% 3 4 3 - - 4 - 4 18 Fall 2024
 NUTR-110 Bremen, Myra HSDUL 40% 40% 1 1 - - - - - 3 5 Fall 2024
+NUTR-110 Bremen, Myra HSDUL 40% 40% 1 1 - - - - - 3 5 ONLIN 77% 80% 48 23 10 - 2 1 - 21 105 Fall 2024
 NUTR-110 Gray, Jill HSDUL 50% 60% 1 2 2 - 1 - - 4 10 Fall 2024
-NUTR-110 Lyons, Mary ONLIN 89% 90% 55 26 3 - - 1 - 9 94 Fall 2024
-NUTR-110 Warren, Sue ONLIN 55% 88% 10 8 5 - 3 11 - 5 42 Fall 2024
+ONLIN 61% 79% 30 33 14 - 16 6 - 27 126 Fall 2024
+ONLIN Lyons, Mary ONLIN 89% 90% 55 26 3 - - 1 - 9 94 Fall 2024
+ONLIN Warren, Sue ONLIN 55% 88% 10 8 5 - 3 11 - 5 42 Fall 2024
 WELD-10A Meek, Dylan ECC 92% 92% 12 8 4 - - - - 2 26 Fall 2024
 WELD-10B Grcevic, Sydney ECC 70% 80% 9 4 1 - 1 1 - 4 20 Fall 2024
 WELD-10B Meek, Dylan ECC 77% 96% 2 13 5 - 3 2 - 1 26 Fall 2024
@@ -1190,8 +1327,10 @@ LIBR-100 Jenkin, Camila ONLIN 43% 87% 8 1 1 - 1 9 - 3 23 Fall 2024
 CSCI-1 Ambrosio, Edwin ECC 67% 83% 8 4 8 - 1 4 - 5 30 Fall 2024
 CSCI-1 Kalisch, Nicolai ONLIN 90% 90% 14 4 - - - - - 2 20 Fall 2024
 CSCI-1 Middler, Mitchell ECC 70% 96% 12 2 2 - 2 4 - 1 23 Fall 2024
+CSCI-1 Ambrosio, Edwin ONLIN 52% 57% 5 4 2 - - 1 - 9 21 Fall 2024
 CSCI-1 Nikjeh, Esmaail ECC 84% 84% 13 5 3 - - - - 4 25 Fall 2024
 CSCI-1 Peiravi, Mehdi ECC 68% 77% 12 3 - - 2 - - 5 22 Fall 2024
+CSCI-1 Rattanasook, Hathairat ONLIN 79% 84% 11 3 1 - - 1 - 3 19 Fall 2024
 CSCI-1 Singhal, Satish ECC 76% 92% 26 22 10 - 2 10 - 6 76 Fall 2024
 CSCI-12 Ambrosio, Edwin ONLIN 52% 71% 7 2 2 - 2 2 - 6 21 Fall 2024
 CSCI-14 Macias, Jose ECC 64% 86% 6 3 - - - 3 - 2 14 Fall 2024
@@ -1199,6 +1338,7 @@ CSCI-16 Ambrosio, Edwin ONLIN 66% 88% 13 7 7 - 8 1 - 5 41 Fall 2024
 CSCI-17 Lackpour, Matin ECC 95% 95% 19 - - - - - - 1 20 Fall 2024
 CSCI-2 Diaz Valdovinos, Rafael ECC 77% 91% 10 9 8 - 4 1 - 3 35 Fall 2024
 CSCI-2 Matos, Victor ECC 94% 94% 9 6 1 - - - - 1 17 Fall 2024
+CSCI-2 Diaz Valdovinos, Rafael ONLIN 64% 64% 10 6 - - - - - 9 25 Fall 2024
 CSCI-2 Middler, Mitchell ECC 50% 73% 4 5 2 - 3 2 - 6 22 Fall 2024
 CSCI-2 Russell, Solomon ECC 60% 76% 8 5 2 - - 3 1 6 25 Fall 2024
 CSCI-3 Dehkhoda, Abbas ECC 90% 95% 11 7 1 - 1 - - 1 21 Fall 2024
@@ -1217,43 +1357,51 @@ MATH-116 Tummers Stocum, Susan ECC 100% 100% 4 3 1 - - - - - 8 Fall 2024
 MATH-120 Forbes, Junko ONLIN 35% 70% 7 9 8 - 4 20 - 21 69 Fall 2024
 MATH-120 Hinckley, Laura ONLIN 58% 69% 11 6 4 - 1 3 - 11 36 Fall 2024
 MATH-120 Huang, Carrie ECC 77% 94% 15 8 4 - 3 3 - 2 35 Fall 2024
+MATH-120 Forbes, Junko ONLIN 66% 86% 5 9 5 - 3 3 - 4 29 Fall 2024
 MATH-120 Mata, Matthew ECC 37% 66% 7 3 3 - 3 7 - 12 35 Fall 2024
 MATH-120 Watson, Christina ECC 72% 94% 4 6 13 - 3 4 - 2 32 Fall 2024
 MATH-130 Bayssa, Beyene ECC 41% 63% 5 4 4 - 1 6 - 12 32 Fall 2024
 MATH-130 Bucher, Susanne ECC 11% 46% 3 - 1 - 6 6 - 19 35 Fall 2024
 MATH-130 Coleman, Tatangla ECC 63% 79% 6 4 5 - 1 3 - 5 24 Fall 2024
 MATH-130 Granich, Megan ECC 15% 38% 1 - 3 - 1 5 - 16 26 Fall 2024
+MATH-130 Bayssa, Beyene ONLIN 18% 40% 2 6 3 - 3 10 - 36 60 Fall 2024
 MATH-130 Lackpour, Matin ECC 68% 68% 3 5 11 - - - - 9 28 Fall 2024
 MATH-130 Nguyen, Hang ECC 69% 86% 7 10 7 - 3 3 - 5 35 Fall 2024
+ONLIN 83% 86% 12 8 9 - 1 - - 5 35 Fall 2024
 MATH-140 Minasian, Ashod ONLIN 71% 84% 5 14 3 - 1 3 - 5 31 Fall 2024
 MATH-150 Acuna-Acosta, Susana ECC 49% 86% 6 6 5 - 4 9 - 5 35 Fall 2024
+MATH-150 Acuna-Acosta, Susana ONLIN 27% 74% 4 6 16 - 8 39 - 25 98 Fall 2024
 MATH-150 Dean, Christopher ECC 60% 91% 4 10 7 - 2 9 - 3 35 Fall 2024
 MATH-150 Eldanaf, Diaa ONLIN 41% 64% 7 11 10 - 3 13 - 25 69 Fall 2024
 MATH-150 Forbes, Junko ECC 65% 91% 17 8 3 - 1 10 - 4 43 Fall 2024
-MATH-150 Gizaw, Astatke ECC 18% 46% 3 2 6 - 8 9 - 33 61 Fall 2024
-MATH-150 Gui, Le ECC 52% 90% 4 4 7 - 1 10 - 3 29 Fall 2024
-MATH-150 Hinckley, Laura ONLIN 42% 64% 5 3 6 - 2 5 - 12 33 Fall 2024
-MATH-150 Kjeseth, Lars ECC 76% 98% 14 8 22 1 10 1 2 1 59 Fall 2024
-MATH-150 Martinez, Alice ONLIN 34% 47% 8 8 4 - - 7 - 31 58 Fall 2024
-MATH-150 Martinez, Arturo ECC 37% 69% 14 11 15 - 11 24 - 34 109 Fall 2024
-MATH-150 Martinez, Jose ECC 66% 71% 11 10 4 - - 2 - 11 38 Fall 2024
-MATH-150 Mitchell, Benjamin ONLIN 77% 84% 18 3 3 - 1 1 - 5 31 Fall 2024
-MATH-150 Morales, Eduardo ECC 73% 90% 9 7 6 - 1 4 - 3 30 Fall 2024
-MATH-150 Moreno, Kaysa ONLIN 32% 60% 11 5 3 - 3 14 - 24 60 Fall 2024
-MATH-150 Nagpal, Pavan ECC 56% 72% 11 7 2 - - 6 - 10 36 Fall 2024
-MATH-150 Ng, Jasmine ONLIN 11% 48% 2 3 4 - 6 23 - 42 80 Fall 2024
-MATH-150 Nguyen, Hang ECC 41% 62% 3 4 5 - 3 3 - 11 29 Fall 2024
-MATH-150 Nguyen, Hoang ECC 63% 87% 15 2 7 - 1 8 - 5 38 Fall 2024
-MATH-150 Numrich, Kristine ECC 58% 61% 8 6 4 - - 1 - 12 31 Fall 2024
-MATH-150 Ortiz, Juan ECC 69% 92% 7 11 7 - 7 1 - 3 36 Fall 2024
-MATH-150 Roeun, Malinni ONLIN 51% 59% 29 3 4 - 3 2 - 29 70 Fall 2024
-MATH-150 Schult Roman, Catherine HYBRD 54% 75% 3 8 4 - 1 5 - 7 28 Fall 2024
-MATH-150 Schwartz, Elizabeth HYBRD 29% 38% 10 3 3 - 2 3 - 34 55 Fall 2024
-MATH-150 Shihabi, Azzam ONLIN 28% 82% 2 5 7 - 5 22 - 9 50 Fall 2024
-MATH-150 Song, Guoqiang ONLIN 66% 84% 8 7 6 - 3 3 - 5 32 Fall 2024
-MATH-150 Tucker, Mark ECC 50% 82% 1 7 9 - 1 10 - 6 34 Fall 2024
-MATH-150 Villalobos, Jose ONLIN 65% 84% 6 11 3 - 6 - - 5 31 Fall 2024
-MATH-150 Yun, Paul ONLIN 50% 62% 9 7 13 - 2 5 - 22 58 Fall 2024
+ONLIN 47% 65% 13 9 6 - 3 8 - 21 60 Fall 2024
+ONLIN Gizaw, Astatke ECC 18% 46% 3 2 6 - 8 9 - 33 61 Fall 2024
+ONLIN Gui, Le ECC 52% 90% 4 4 7 - 1 10 - 3 29 Fall 2024
+ONLIN 30% 67% 2 5 2 - 4 7 - 10 30 Fall 2024
+ONLIN Hinckley, Laura ONLIN 42% 64% 5 3 6 - 2 5 - 12 33 Fall 2024
+ONLIN Kjeseth, Lars ECC 76% 98% 14 8 22 1 10 1 2 1 59 Fall 2024
+ONLIN Martinez, Alice ONLIN 34% 47% 8 8 4 - - 7 - 31 58 Fall 2024
+ONLIN Martinez, Arturo ECC 37% 69% 14 11 15 - 11 24 - 34 109 Fall 2024
+ONLIN Martinez, Jose ECC 66% 71% 11 10 4 - - 2 - 11 38 Fall 2024
+ONLIN Mitchell, Benjamin ONLIN 77% 84% 18 3 3 - 1 1 - 5 31 Fall 2024
+ONLIN Morales, Eduardo ECC 73% 90% 9 7 6 - 1 4 - 3 30 Fall 2024
+ONLIN Moreno, Kaysa ONLIN 32% 60% 11 5 3 - 3 14 - 24 60 Fall 2024
+ONLIN Nagpal, Pavan ECC 56% 72% 11 7 2 - - 6 - 10 36 Fall 2024
+ONLIN Ng, Jasmine ONLIN 11% 48% 2 3 4 - 6 23 - 42 80 Fall 2024
+ONLIN Nguyen, Hang ECC 41% 62% 3 4 5 - 3 3 - 11 29 Fall 2024
+ONLIN Nguyen, Hoang ECC 63% 87% 15 2 7 - 1 8 - 5 38 Fall 2024
+ONLIN Numrich, Kristine ECC 58% 61% 8 6 4 - - 1 - 12 31 Fall 2024
+ONLIN Ortiz, Juan ECC 69% 92% 7 11 7 - 7 1 - 3 36 Fall 2024
+ONLIN Ramirez-Ortega, David ECC 51% 66% 11 5 2 - - 5 - 12 35 Fall 2024
+ONLIN Roeun, Malinni ONLIN 51% 59% 29 3 4 - 3 2 - 29 70 Fall 2024
+ONLIN Schult Roman, Catherine HYBRD 54% 75% 3 8 4 - 1 5 - 7 28 Fall 2024
+ONLIN 51% 59% 17 15 14 - - 7 - 37 90 Fall 2024
+ONLIN Schwartz, Elizabeth HYBRD 29% 38% 10 3 3 - 2 3 - 34 55 Fall 2024
+ONLIN Shihabi, Azzam ONLIN 28% 82% 2 5 7 - 5 22 - 9 50 Fall 2024
+ONLIN Song, Guoqiang ONLIN 66% 84% 8 7 6 - 3 3 - 5 32 Fall 2024
+ONLIN Tucker, Mark ECC 50% 82% 1 7 9 - 1 10 - 6 34 Fall 2024
+ONLIN Villalobos, Jose ONLIN 65% 84% 6 11 3 - 6 - - 5 31 Fall 2024
+ONLIN Yun, Paul ONLIN 50% 62% 9 7 13 - 2 5 - 22 58 Fall 2024
 MATH-150H Marks, Zachary ECC 91% 91% 25 5 - - - - - 3 33 Fall 2024
 MATH-165 Granich, Megan ONLIN 20% 36% 2 - 3 - 2 2 - 16 25 Fall 2024
 MATH-165 Gui, Le ONLIN 70% 80% 7 3 4 - - 2 - 4 20 Fall 2024
@@ -1262,11 +1410,13 @@ MATH-165 Ndoumna, Emmanuel ECC 71% 76% 2 6 4 - - 1 - 4 17 Fall 2024
 MATH-165 Nguyen, Hoang ECC 77% 92% 4 2 4 - - 2 - 1 13 Fall 2024
 MATH-170 Avila, Adalinda ONLIN 32% 58% 1 6 3 - 2 6 - 13 31 Fall 2024
 MATH-170 Bateman, Michael ONLIN 54% 65% 4 6 4 - 1 2 - 9 26 Fall 2024
+MATH-170 Bhattacharyay, Dhruba ECC 61% 61% 8 3 3 - - - - 9 23 Fall 2024
 MATH-170 Cortez, Marilyn ONLIN 47% 67% 11 13 11 - 4 11 - 25 75 Fall 2024
 MATH-170 Dammena, Zekarias ECC 35% 54% 3 1 5 - - 5 - 12 26 Fall 2024
 MATH-170 Eleuteri, Robert ECC 13% 68% 1 - 3 - 2 15 - 10 31 Fall 2024
 MATH-170 Hamza, Hamza ECC 31% 72% 1 2 7 - 3 10 - 9 32 Fall 2024
 MATH-170 Ho, Linda ECC 51% 63% 4 11 3 - 2 2 - 13 35 Fall 2024
+MATH-170 Manikandan, Gayathri ONLIN 60% 67% 6 8 4 - - 2 - 10 30 Fall 2024
 MATH-170 Martinez, Jose ONLIN 53% 62% 8 5 5 - - 2 1 13 34 Fall 2024
 MATH-170 Ornelas, Miguel ONLIN 62% 71% 13 4 4 - 1 2 - 10 34 Fall 2024
 MATH-170 Ortiz, Juan ECC 55% 74% 5 11 1 - 4 2 - 8 31 Fall 2024
@@ -1278,25 +1428,28 @@ MATH-170 Watson, Christina ECC 43% 70% 11 10 5 - 1 16 - 18 61 Fall 2024
 MATH-180 Bateman, Michael ONLIN 45% 58% 1 3 10 - 1 3 - 13 31 Fall 2024
 MATH-180 Ho, Linda ECC 50% 68% 5 5 7 - - 6 - 11 34 Fall 2024
 MATH-180 Martinez, Ronald ECC 56% 88% 3 3 3 - 2 3 - 2 16 Fall 2024
+MATH-180 Bateman, Michael ONLIN 67% 81% 8 17 11 - 2 6 - 10 54 Fall 2024
 MATH-180 Moreno, Kaysa ECC 41% 76% 4 4 7 - 5 8 - 9 37 Fall 2024
 MATH-180 Numrich, Kristine ONLIN 40% 56% 6 10 5 - 4 4 - 23 52 Fall 2024
 MATH-180 Ornelas, Miguel ECC 77% 95% 10 3 4 - 3 1 - 1 22 Fall 2024
 MATH-180 Sims, Jacquelyn ECC 64% 83% 23 25 20 - 10 10 - 18 106 Fall 2024
 MATH-180 Villareal, Oscar ECC 64% 91% 6 6 2 - 3 3 - 2 22 Fall 2024
 MATH-190 Barajas, Eduardo ECC 49% 65% 21 13 15 - 3 13 - 35 100 Fall 2024
+MATH-190 Barajas, Eduardo ONLIN 23% 47% 2 4 1 - 4 3 - 16 30 Fall 2024
 MATH-190 Bateman, Michael ECC 55% 64% 6 9 3 - 2 1 - 12 33 Fall 2024
-MATH-190 Eldanaf, Diaa ECC 38% 62% 6 4 3 - 4 3 1 13 34 Fall 2024
-MATH-190 Eleuteri, Robert ECC 38% 44% 5 3 4 - - 2 - 18 32 Fall 2024
-MATH-190 Hamza, Hamza ONLIN 37% 49% 3 4 14 - 2 5 - 29 57 Fall 2024
-MATH-190 Marks, Zachary ECC 81% 86% 13 10 6 - - 2 - 5 36 Fall 2024
-MATH-190 Martinez, Jose ONLIN 89% 98% 37 2 - - - 4 - 1 44 Fall 2024
-MATH-190 Mata, Matthew ONLIN 18% 18% 1 - 3 - - - - 18 22 Fall 2024
-MATH-190 Morales, Eduardo ONLIN 82% 88% 12 9 7 - - 2 - 4 34 Fall 2024
-MATH-190 Moreno, Kaysa ECC 58% 83% 6 6 2 - 1 5 - 4 24 Fall 2024
-MATH-190 Ng, Jasmine ECC 23% 57% 5 1 1 - 1 9 - 13 30 Fall 2024
-MATH-190 Niu, Kun ECC 60% 89% 6 8 7 - 8 2 - 4 35 Fall 2024
-MATH-190 Tesfom, Mokonen ECC 60% 80% 5 4 6 - - 5 - 5 25 Fall 2024
-MATH-190 Tummers Stocum, Susan ECC 51% 68% 11 7 15 - 5 6 - 21 65 Fall 2024
+ONLIN 45% 45% 1 8 5 - - - - 17 31 Fall 2024
+ONLIN Eldanaf, Diaa ECC 38% 62% 6 4 3 - 4 3 1 13 34 Fall 2024
+ONLIN Eleuteri, Robert ECC 38% 44% 5 3 4 - - 2 - 18 32 Fall 2024
+ONLIN Hamza, Hamza ONLIN 37% 49% 3 4 14 - 2 5 - 29 57 Fall 2024
+ONLIN Marks, Zachary ECC 81% 86% 13 10 6 - - 2 - 5 36 Fall 2024
+ONLIN Martinez, Jose ONLIN 89% 98% 37 2 - - - 4 - 1 44 Fall 2024
+ONLIN Mata, Matthew ONLIN 18% 18% 1 - 3 - - - - 18 22 Fall 2024
+ONLIN Morales, Eduardo ONLIN 82% 88% 12 9 7 - - 2 - 4 34 Fall 2024
+ONLIN Moreno, Kaysa ECC 58% 83% 6 6 2 - 1 5 - 4 24 Fall 2024
+ONLIN Ng, Jasmine ECC 23% 57% 5 1 1 - 1 9 - 13 30 Fall 2024
+ONLIN Niu, Kun ECC 60% 89% 6 8 7 - 8 2 - 4 35 Fall 2024
+ONLIN Tesfom, Mokonen ECC 60% 80% 5 4 6 - - 5 - 5 25 Fall 2024
+ONLIN Tummers Stocum, Susan ECC 51% 68% 11 7 15 - 5 6 - 21 65 Fall 2024
 MATH-191 Eleuteri, Robert ECC 38% 59% 3 4 4 - 2 4 - 12 29 Fall 2024
 MATH-191 Ho, Linda ECC 62% 79% 5 7 9 - 5 1 - 7 34 Fall 2024
 MATH-191 Kjeseth, Lars ECC 89% 97% 28 2 4 - 1 2 - 1 38 Fall 2024
@@ -1309,10 +1462,12 @@ MATH-210 Song, Guoqiang ECC 82% 91% 7 - 2 - - 1 - 1 11 Fall 2024
 MATH-210 Villareal, Oscar ONLIN 77% 81% 4 15 - 1 1 - - 5 26 Fall 2024
 MATH-210 Yun, Paul ECC 75% 85% 8 4 3 - 2 - - 3 20 Fall 2024
 MATH-220 Fry, Gregory ECC 32% 51% 4 3 5 - 1 6 - 18 37 Fall 2024
+MATH-220 Fry, Gregory ONLIN 48% 54% 14 9 8 - - 4 - 30 65 Fall 2024
 MATH-220 Marks, Zachary ECC 71% 77% 14 7 4 - - 2 - 8 35 Fall 2024
 MATH-220 Martinez, Jose ECC 93% 98% 26 12 2 - - 2 - 1 43 Fall 2024
 MATH-220 Ng, Jasmine ONLIN 33% 79% 4 2 2 - 2 9 - 5 24 Fall 2024
 MATH-270 Minasian, Ashod ECC 100% 100% 3 6 1 - - - - - 10 Fall 2024
+MATH-270 Minasian, Ashod ONLIN 91% 91% 16 12 1 - - - - 3 32 Fall 2024
 MATH-270 Mitchell, Benjamin ECC 91% 91% 17 9 5 - - - - 3 34 Fall 2024
 MATH-191 Eleuteri, Robert ECC 38% 59% 3 4 4 - 2 4 - 12 29 Fall 2024
 MATH-191 Ho, Linda ECC 62% 79% 5 7 9 - 5 1 - 7 34 Fall 2024
@@ -1326,10 +1481,12 @@ MATH-210 Song, Guoqiang ECC 82% 91% 7 - 2 - - 1 - 1 11 Fall 2024
 MATH-210 Villareal, Oscar ONLIN 77% 81% 4 15 - 1 1 - - 5 26 Fall 2024
 MATH-210 Yun, Paul ECC 75% 85% 8 4 3 - 2 - - 3 20 Fall 2024
 MATH-220 Fry, Gregory ECC 32% 51% 4 3 5 - 1 6 - 18 37 Fall 2024
+MATH-220 Fry, Gregory ONLIN 48% 54% 14 9 8 - - 4 - 30 65 Fall 2024
 MATH-220 Marks, Zachary ECC 71% 77% 14 7 4 - - 2 - 8 35 Fall 2024
 MATH-220 Martinez, Jose ECC 93% 98% 26 12 2 - - 2 - 1 43 Fall 2024
 MATH-220 Ng, Jasmine ONLIN 33% 79% 4 2 2 - 2 9 - 5 24 Fall 2024
 MATH-270 Minasian, Ashod ECC 100% 100% 3 6 1 - - - - - 10 Fall 2024
+MATH-270 Minasian, Ashod ONLIN 91% 91% 16 12 1 - - - - 3 32 Fall 2024
 MATH-270 Mitchell, Benjamin ECC 91% 91% 17 9 5 - - - - 3 34 Fall 2024
 MATH-270 Villareal, Oscar ONLIN 77% 81% 4 15 - 1 1 - - 5 26 Fall 2024
 MATH-270 Yun, Paul ECC 75% 85% 8 4 3 - 2 - - 3 20 Fall 2024
@@ -1338,6 +1495,7 @@ MATH-220 Marks, Zachary ECC 71% 77% 14 7 4 - - 2 - 8 35 Fall 2024
 MATH-220 Martinez, Jose ECC 93% 98% 26 12 2 - - 2 - 1 43 Fall 2024
 MATH-220 Ng, Jasmine ONLIN 33% 79% 4 2 2 - 2 9 - 5 24 Fall 2024
 MATH-270 Minasian, Ashod ECC 100% 100% 3 6 1 - - - - - 10 Fall 2024
+MATH-270 Minasian, Ashod ONLIN 91% 91% 16 12 1 - - - - 3 32 Fall 2024
 MATH-270 Mitchell, Benjamin ECC 91% 91% 17 9 5 - - - - 3 34 Fall 2024
 MATH-270 Kjeseth, Lars ECC 89% 97% 28 2 4 - 1 2 - 1 38 Fall 2024
 MATH-270 Mitchell, Benjamin ECC 83% 89% 21 5 3 - 1 1 - 4 35 Fall 2024
@@ -1395,6 +1553,7 @@ CHEM-1B Saldarriaga, Laura ECC 67% 81% 2 9 3 - 2 1 - 4 21 Fall 2024
 CHEM-1B Shibao, Robert ECC 52% 65% 5 3 4 - 3 - - 8 23 Fall 2024
 CHEM-20 Alvarenga, Jose ECC 96% 100% 9 12 6 - - 1 - - 28 Fall 2024
 CHEM-20 Jimenez, Miguel ECC 52% 74% 6 6 2 - 6 - - 7 27 Fall 2024
+CHEM-20 Alvarenga, Jose HYBRD 62% 78% 11 15 5 - 4 4 - 11 50 Fall 2024
 CHEM-20 Matar, Majeda ECC 55% 81% 2 6 9 - 5 3 - 6 31 Fall 2024
 CHEM-20 Sachdev, Vineeta ECC 73% 77% 5 8 9 - 1 - - 7 30 Fall 2024
 CHEM-20 Tontcheva, Ana HYBRD 20% 27% 2 2 2 - - 2 - 22 30 Fall 2024
@@ -1402,6 +1561,7 @@ CHEM-20 Vargas, Mario HYBRD 48% 77% 4 4 7 - 4 5 - 7 31 Fall 2024
 CHEM-21A Sachdev, Vineeta ECC 63% 73% 5 6 8 - 2 1 - 8 30 Fall 2024
 CHEM-21B Tontcheva, Ana ECC 100% 100% 1 2 1 - - - - - 4 Fall 2024
 CHEM-4 Abbani, Mohamad ECC 63% 80% 4 4 11 - 3 2 - 6 30 Fall 2024
+CHEM-4 Abbani, Mohamad HYBRD 35% 56% 3 6 11 - 10 2 - 25 57 Fall 2024
 CHEM-4 Ebrahimi, Hossein HYBRD 94% 94% 6 10 13 - - - - 2 31 Fall 2024
 CHEM-4 Han, Steven ECC 65% 77% 3 12 5 - - 4 - 7 31 Fall 2024
 CHEM-4 Saldarriaga, Laura ECC 65% 68% 5 11 4 - 1 - - 10 31 Fall 2024
